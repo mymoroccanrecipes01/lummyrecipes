@@ -1,12 +1,12 @@
 // Recipe Website JavaScript - Compatible avec le système de routage
 
 document.addEventListener('DOMContentLoaded', function() {
-   // console.log('Main.js chargé - Le routeur gère l\'initialisation des pages');
+   // // console.log('Main.js chargé - Le routeur gère l\'initialisation des pages');
 });
 
 // Fonctionnalités spécifiques à la page des recettes
 window.initRecipesPageFeatures = function() {
-   // console.log('Initialisation des fonctionnalités de la page Recipes');
+   // // console.log('Initialisation des fonctionnalités de la page Recipes');
     
     // Filtres de recettes
     const filterBtns = document.querySelectorAll('.filter-btn');
@@ -63,7 +63,7 @@ function filterRecipes(category, cards) {
 
 // Fonctionnalités spécifiques à la page de contact
 window.initContactPageFeatures = function() {
-   // console.log('Initialisation des fonctionnalités de la page Contact');
+   // // console.log('Initialisation des fonctionnalités de la page Contact');
     
     // Validation du formulaire de contact
     const form = document.querySelector('.contact-form');
@@ -204,7 +204,7 @@ window.submitContactForm = function() {
 
 // Fonctionnalités spécifiques à la page À propos
 window.initAboutPageFeatures = function() {
-   // console.log('Initialisation des fonctionnalités de la page About');
+   // // console.log('Initialisation des fonctionnalités de la page About');
     
     // Animation des membres de l'équipe
     const teamMembers = document.querySelectorAll('.team-member');
@@ -222,7 +222,7 @@ window.initAboutPageFeatures = function() {
 
 // Fonctionnalités spécifiques à la page d'accueil
 window.initHomePageFeatures = function() {
-   // console.log('Initialisation des fonctionnalités de la page Home');
+   // // console.log('Initialisation des fonctionnalités de la page Home');
     
     // Animation du hero
     const hero = document.querySelector('.hero');
@@ -354,5 +354,5 @@ window.utils = {
     }
 };
 
-console.log('Main.js complètement chargé - Toutes les fonctionnalités sont disponibles');
+// console.log('Main.js complètement chargé - Toutes les fonctionnalités sont disponibles');
 

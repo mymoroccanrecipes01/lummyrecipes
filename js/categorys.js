@@ -5,7 +5,7 @@ let toutesLesCategories = [];
 
 // Fonction pour charger la liste des dossiers depuis index.json
 async function chargerIndexJson() {
-   // console.log('Chargement de index.json...');
+   // // console.log('Chargement de index.json...');
     
     try {
         const response = await fetch('./categories/index.json');
@@ -14,7 +14,7 @@ async function chargerIndexJson() {
         }
         
         const indexData = await response.json();
-       // console.log('Index.json chargé:', indexData);
+       // // console.log('Index.json chargé:', indexData);
         
         // MODIFIÉ: Adapter pour la nouvelle structure objet
         if (indexData.folders && typeof indexData.folders === 'object') {
@@ -27,7 +27,7 @@ async function chargerIndexJson() {
         
         return [];
     } catch (error) {
-        console.error('Erreur chargement index.json:', error);
+       // console.error('Erreur chargement index.json:', error);
         return await decovrirDossiersFallback();
     }
 }
@@ -40,7 +40,7 @@ async function decovrirDossiersFallback() {
         'breakfast', 'lunch', 'dinner', 'snacks'
     ];
     
-   // console.log('Test de fallback sur noms communs...');
+   // // console.log('Test de fallback sur noms communs...');
     const dossiersExistants = [];
     
     for (const nom of nomsCommuns) {
@@ -56,7 +56,7 @@ async function decovrirDossiersFallback() {
         }
     }
     
-   // console.log(`Fallback: ${dossiersExistants.length} dossiers trouvés:`, dossiersExistants);
+   // // console.log(`Fallback: ${dossiersExistants.length} dossiers trouvés:`, dossiersExistants);
     return dossiersExistants;
 }
 
@@ -108,14 +108,14 @@ async function chargerUneCategorie(dossierInfo) {
         };
         
     } catch (error) {
-        console.error(`Erreur chargement ${nomDossier}:`, error);
+       // console.error(`Erreur chargement ${nomDossier}:`, error);
         return null;
     }
 }
 
 // Fonction principale pour charger toutes les catégories
 async function chargerToutesLesCategories() {
-   // console.log('Chargement de toutes les catégories depuis index.json...');
+   // // console.log('Chargement de toutes les catégories depuis index.json...');
     
     // 1. Charger la liste des dossiers depuis index.json
     const dossiersInfo = await chargerIndexJson();
@@ -125,7 +125,7 @@ async function chargerToutesLesCategories() {
         return;
     }
     
-   // console.log(`${dossiersInfo.length} dossiers à charger:`, dossiersInfo);
+   // // console.log(`${dossiersInfo.length} dossiers à charger:`, dossiersInfo);
     
     // 2. Charger toutes les catégories en parallèle
     const promesses = dossiersInfo.map(dossierInfo => chargerUneCategorie(dossierInfo));
@@ -134,7 +134,7 @@ async function chargerToutesLesCategories() {
     // 3. Filtrer les résultats valides
     toutesLesCategories = resultats.filter(categorie => categorie !== null && categorie.isValid);
     
-   // console.log(`${toutesLesCategories.length} catégories chargées avec succès`);
+   // // console.log(`${toutesLesCategories.length} catégories chargées avec succès`);
     
     // 4. Générer le HTML
     genererHTMLCategories();
@@ -144,7 +144,7 @@ async function chargerToutesLesCategories() {
 function genererHTMLCategories() {
     const container = document.querySelector('.categories-grid');
     if (!container) {
-        console.error('Container .categories-grid non trouvé');
+       // console.error('Container .categories-grid non trouvé');
         return;
     }
     
@@ -199,29 +199,29 @@ function genererHTMLCategories() {
         container.appendChild(card);
     });
     
-   // console.log(`${toutesLesCategories.length} catégories affichées`);
+   // // console.log(`${toutesLesCategories.length} catégories affichées`);
 }
 
 // Fonction pour gérer le clic sur une catégorie
 // Fonction pour gérer le clic sur une catégorie
 function ouvrirCategorie(categorie) {
-   // console.log('Ouverture de la catégorie:', categorie);
+   // // console.log('Ouverture de la catégorie:', categorie);
     
     // NOUVEAU: Utiliser le nom du dossier comme slug au lieu de l'ID
     const categorySlug = categorie.nom; // "box-dessert" au lieu de "cat_1757766010_988"
     
-   // console.log('Slug de catégorie utilisé:', categorySlug);
+   // // console.log('Slug de catégorie utilisé:', categorySlug);
     
     // NOUVEAU FORMAT: recipes-category/slug
     const baseUrl = window.location.origin + window.location.pathname.split('?')[0];
     const newUrl = `${baseUrl}?page=recipes-category/${categorySlug}`;
     
-   // console.log('Redirection vers:', newUrl);
+   // // console.log('Redirection vers:', newUrl);
     window.location.href = newUrl;
 }
 // Fonction pour rafraîchir les catégories
 async function rafraichirCategories() {
-   // console.log('Rafraîchissement des catégories...');
+   // // console.log('Rafraîchissement des catégories...');
     toutesLesCategories = [];
     await chargerToutesLesCategories();
 }
@@ -229,22 +229,22 @@ async function rafraichirCategories() {
 // Fonction pour forcer la régénération de l'index.json
 async function regenererIndex() {
     try {
-       // console.log('Régénération de index.json...');
+       // // console.log('Régénération de index.json...');
         const response = await fetch('./generate-categoryJson.php');
         
         if (response.ok) {
             const message = await response.text();
-           // console.log('Index régénéré:', message);
+           // // console.log('Index régénéré:', message);
             
             // Recharger les catégories
             await rafraichirCategories();
             return true;
         } else {
-            console.error('Erreur régénération index');
+           // console.error('Erreur régénération index');
             return false;
         }
     } catch (error) {
-        console.error('Erreur lors de la régénération:', error);
+       // console.error('Erreur lors de la régénération:', error);
         return false;
     }
 }
@@ -262,4 +262,4 @@ window.CategoriesManager = {
 };
 
 // Debug: afficher les infos dans la console
-console.log('Categories Manager chargé. API disponible via window.CategoriesManager');
+// console.log('Categories Manager chargé. API disponible via window.CategoriesManager');

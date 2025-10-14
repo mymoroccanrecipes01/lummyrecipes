@@ -696,4 +696,4 @@ window.router = {
     createRecipeUrl: window.createRecipeUrl
 };
 
-console.log('Router.js adapté chargé avec support du format recipes-category/slug');
+// console.log('Router.js adapté chargé avec support du format recipes-category/slug');

@@ -29,7 +29,7 @@ class RecipeDetailLoader {
             await this.waitForContainer();
             
             if (!this.contentContainer) {
-                console.error('Container #recipe-content not found');
+               // console.error('Container #recipe-content not found');
                 return;
             }
 
@@ -43,7 +43,7 @@ class RecipeDetailLoader {
                 return;
             }
 
-           // console.log('Loading recipe:', recipeSlug);
+           // // console.log('Loading recipe:', recipeSlug);
             
             const recipe = await this.loadRecipeData(recipeSlug);
             
@@ -59,7 +59,7 @@ class RecipeDetailLoader {
             this.initialized = true;
 
         } catch (error) {
-            console.error('Error loading recipe:', error);
+           // console.error('Error loading recipe:', error);
             this.showError('Error loading recipe');
         }
     }
@@ -133,8 +133,7 @@ class RecipeDetailLoader {
                 align-items: center;
                 gap: 4px;
                 box-shadow: 0 2px 8px rgba(230, 0, 35, 0.3);
-                transition: all 0.2s ease;
-                opacity: 0;
+                transition: all 0.2s ease;                
                 transform: translateY(-5px);
                 z-index: 10;
             }
@@ -151,7 +150,7 @@ class RecipeDetailLoader {
             }
 
             .image-container:hover .pinterest-pin-btn {
-                opacity: 1;
+                opacity: ;
                 transform: translateY(0);
             }
 
@@ -228,7 +227,7 @@ class RecipeDetailLoader {
     // Nouvelle méthode pour générer et intégrer le feed RSS automatiquement
     async generateAndIntegrateRSS() {
         try {
-           // console.log('Integrating RSS feed for Pinterest auto-discovery...');
+           // // console.log('Integrating RSS feed for Pinterest auto-discovery...');
 
             // Charger toutes les recettes disponibles
             const recipeFolders = await this.getRecipeFolders();
@@ -258,7 +257,7 @@ class RecipeDetailLoader {
             return rssXml;
             
         } catch (error) {
-            console.error('Error integrating RSS feed:', error);
+           // console.error('Error integrating RSS feed:', error);
             return null;
         }
     }
@@ -283,7 +282,7 @@ class RecipeDetailLoader {
         // Créer un endpoint virtuel que Pinterest peut appeler
         this.createVirtualRSSEndpoint(rssXml);
         
-    //    // console.log('RSS feed integrated successfully!', {
+    //    // // console.log('RSS feed integrated successfully!', {
     //         recipesCount: recipes.length,
     //         rssUrl: window.rssFeedData.url,
     //         virtualUrl: window.rssUrl
@@ -343,9 +342,9 @@ class RecipeDetailLoader {
             const swUrl = URL.createObjectURL(blob);
             
             navigator.serviceWorker.register(swUrl).then(() => {
-               // console.log('RSS Service Worker registered successfully');
+               // // console.log('RSS Service Worker registered successfully');
             }).catch(error => {
-               // console.log('RSS Service Worker registration failed:', error);
+               // // console.log('RSS Service Worker registration failed:', error);
             });
         }
         
@@ -515,7 +514,7 @@ class RecipeDetailLoader {
             }
         }
         
-       // console.log('RSS Endpoints Test Results:', results);
+       // // console.log('RSS Endpoints Test Results:', results);
         
         // Afficher les résultats dans une alerte
         const resultText = results.map(r => 
@@ -577,7 +576,7 @@ class RecipeDetailLoader {
             };
             
         } catch (error) {
-            console.error(`Erreur lors du chargement RSS de la recette ${folderName}:`, error);
+           // console.error(`Erreur lors du chargement RSS de la recette ${folderName}:`, error);
             return null;
         }
     }
@@ -804,44 +803,12 @@ class RecipeDetailLoader {
             .replace(/'/g, '&#39;');
     }
 
-    // Méthode pour générer et afficher le widget RSS intégré
-    createIntegratedRSSWidget() {
-        const statusHTML = this.createRSSStatus();
-        const testButtonHTML = this.createRSSTestButton();
-        
-        return `
-            <div class="side-widget rss-integration-widget">
-                <h5>🤖 Pinterest RSS Integration</h5>
-                ${statusHTML}
-                <div class="rss-actions">
-                    ${testButtonHTML}
-                    <button class="rss-refresh-btn" 
-                            onclick="window.recipeDetailLoader.refreshRSSIntegration()"
-                            title="Refresh RSS integration">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M12 4V1L8 5L12 9V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8L19.14 16.64c.86-1.46 1.36-3.16 1.36-4.97 0-5.52-4.48-10-10-10zM12 18c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L4.86 7.36C4 8.82 3.5 10.52 3.5 12.27c0 5.52 4.48 10 10 10v3l4-4-4-4V18z"/>
-                        </svg>
-                        Refresh
-                    </button>
-                </div>
-                <div class="rss-info">
-                    <small>🔄 RSS automatically updates when recipes change</small>
-                    <small>📍 Pinterest robots will discover new content automatically</small>
-                </div>
-            </div>
-        `;
-    }
+
 
     // Méthode pour rafraîchir l'intégration RSS
     async refreshRSSIntegration() {
-       // console.log('Refreshing RSS integration...');
+       // // console.log('Refreshing RSS integration...');
         await this.generateAndIntegrateRSS();
-        
-        // Mettre à jour le widget RSS dans l'interface
-        const rssWidget = document.querySelector('.rss-integration-widget');
-        if (rssWidget) {
-            rssWidget.innerHTML = this.createIntegratedRSSWidget().match(/<div class="side-widget rss-integration-widget">(.*)<\/div>/s)[1];
-        }
         
         // Notification de succès
         this.showRSSNotification('RSS integration refreshed successfully!');
@@ -1069,7 +1036,7 @@ class RecipeDetailLoader {
     }
     async loadRecentRecipes(categoryId = null) {
         try {
-           // console.log('Loading recent recipes...', categoryId ? `filtered by category: ${categoryId}` : '');
+           // // console.log('Loading recent recipes...', categoryId ? `filtered by category: ${categoryId}` : '');
             
             // Utiliser la même logique que RecipeLoader pour scanner les dossiers
             const recipeFolders = await this.getRecipeFolders();
@@ -1090,7 +1057,7 @@ class RecipeDetailLoader {
             // Filtrer par catégorie si spécifié
             if (categoryId) {
                 validRecipes = this.filterRecipesByCategory(validRecipes, categoryId);
-               // console.log(`Filtered recipes by category ${categoryId}:`, validRecipes.length);
+               // // console.log(`Filtered recipes by category ${categoryId}:`, validRecipes.length);
             }
             
             if (validRecipes.length === 0) {
@@ -1115,10 +1082,10 @@ class RecipeDetailLoader {
                 category: recipe.category
             }));
 
-           // console.log('Recent recipes loaded:', this.recentRecipes.length);
+           // // console.log('Recent recipes loaded:', this.recentRecipes.length);
             
         } catch (error) {
-            console.error('Error loading recent recipes:', error);
+           // console.error('Error loading recent recipes:', error);
             await this.setDefaultRecentRecipes();
         }
     }
@@ -1175,7 +1142,7 @@ class RecipeDetailLoader {
             return Array.from(categories.values()).sort((a, b) => b.count - a.count);
             
         } catch (error) {
-            console.error('Error loading categories:', error);
+           // console.error('Error loading categories:', error);
             return [];
         }
     }
@@ -1189,7 +1156,7 @@ class RecipeDetailLoader {
                 return indexData.folders || indexData;
             }
         } catch (error) {
-           // console.log('Fichier index.json non trouvé, scan automatique...');
+           // // console.log('Fichier index.json non trouvé, scan automatique...');
         }
 
         return await this.scanRecipeFolders();
@@ -1256,7 +1223,7 @@ class RecipeDetailLoader {
             };
             
         } catch (error) {
-            console.error(`Erreur lors du chargement de la recette ${folderName}:`, error);
+           // console.error(`Erreur lors du chargement de la recette ${folderName}:`, error);
             return null;
         }
     }
@@ -1291,7 +1258,7 @@ class RecipeDetailLoader {
                         if (defaultRecipes.length >= 5) break;
                     }
                 } catch (error) {
-                   // console.log(`Recette ${folder} non trouvée, passage à la suivante...`);
+                   // // console.log(`Recette ${folder} non trouvée, passage à la suivante...`);
                     continue;
                 }
             }
@@ -1299,7 +1266,7 @@ class RecipeDetailLoader {
             // Si on a trouvé des recettes réelles, les utiliser
             if (defaultRecipes.length > 0) {
                 this.recentRecipes = defaultRecipes;
-               // console.log(`Utilisation de ${defaultRecipes.length} recettes réelles comme fallback`);
+               // // console.log(`Utilisation de ${defaultRecipes.length} recettes réelles comme fallback`);
                 return;
             }
 
@@ -1337,10 +1304,10 @@ class RecipeDetailLoader {
                 }
             ];
 
-           // console.log('Utilisation des recettes par défaut basées sur les dossiers existants');
+           // // console.log('Utilisation des recettes par défaut basées sur les dossiers existants');
 
         } catch (error) {
-            console.error('Erreur lors du chargement des recettes par défaut:', error);
+           // console.error('Erreur lors du chargement des recettes par défaut:', error);
             
             // Dernier recours : recettes génériques
             this.recentRecipes = [
@@ -1370,13 +1337,12 @@ class RecipeDetailLoader {
         const recipesHTML = this.recentRecipes.map(recipe => `
             <div class="mini-recipe" onclick="loadRecipe('${recipe.slug}')" style="cursor: pointer;">
                 ${this.wrapImageWithPinterestButton(
-                    `<img src="${recipe.image}" alt="${recipe.title}" 
-                         onerror="this.src='https://via.placeholder.com/80x60?text=Recipe'">`,
+                    `<img src="${recipe.image}" alt="${recipe.title}">`,
                     recipe.title,
                     recipe.description,
                     recipe.image
                 )}
-                <div class="recipe-info">
+                <div class="recent-recipe-info">
                     <div class="recipe-title">${recipe.title}</div>
                     <div class="recipe-title">${recipe.description || 'Delicious recipe'}</div>
                 </div>
@@ -1395,7 +1361,7 @@ class RecipeDetailLoader {
 
     async loadActiveAuthor() {
         try {
-           // console.log('Loading authors from:', this.authorsPath);
+           // // console.log('Loading authors from:', this.authorsPath);
             
             const response = await fetch(this.authorsPath);
             
@@ -1412,14 +1378,14 @@ class RecipeDetailLoader {
             
             if (activeAuthor) {
                 this.activeAuthor = activeAuthor;
-               // console.log('Active author found:', activeAuthor.name);
+               // // console.log('Active author found:', activeAuthor.name);
             } else {
                 console.warn('No active author found, using default author');
                 this.activeAuthor = { name: 'House Chef', bio: 'Specialist in traditional and family dishes.' };
             }
             
         } catch (error) {
-            console.error('Error loading authors:', error);
+           // console.error('Error loading authors:', error);
             this.activeAuthor = { name: 'House Chef', bio: 'Specialist in traditional and family dishes.' };
         }
     }
@@ -1431,7 +1397,7 @@ class RecipeDetailLoader {
         for (let i = 0; i < maxAttempts; i++) {
             this.contentContainer = document.getElementById('recipe-content');
             if (this.contentContainer) {
-               // console.log(`Container #recipe-content found after ${i + 1} attempt(s)`);
+               // // console.log(`Container #recipe-content found after ${i + 1} attempt(s)`);
                 return;
             }
             
@@ -1463,10 +1429,10 @@ class RecipeDetailLoader {
     async loadRecipeData(recipeSlug) {
         try {
             const jsonUrl = `${this.recipesPath}${recipeSlug}/recipe.json`;
-           // console.log('📡 Fetching recipe from:', jsonUrl);
+           // // console.log('📡 Fetching recipe from:', jsonUrl);
             
             const response = await fetch(jsonUrl);
-           // console.log('📡 Response status:', response.status, response.statusText);
+           // // console.log('📡 Response status:', response.status, response.statusText);
             
             if (!response.ok) {
                 console.warn(`❌ HTTP ${response.status}: Unable to load ${jsonUrl}`);
@@ -1479,18 +1445,18 @@ class RecipeDetailLoader {
                 ];
                 
                 for (const altUrl of alternatives) {
-                   // console.log('🔄 Trying alternative:', altUrl);
+                   // // console.log('🔄 Trying alternative:', altUrl);
                     try {
                         const altResponse = await fetch(altUrl);
                         if (altResponse.ok) {
-                           // console.log('✅ Found alternative recipe file:', altUrl);
+                           // // console.log('✅ Found alternative recipe file:', altUrl);
                             const altData = await altResponse.json();
                             altData.folderName = recipeSlug;
                             altData.mainImage = this.getMainImage(altData, recipeSlug);
                             return altData;
                         }
                     } catch (altError) {
-                       // console.log('❌ Alternative failed:', altUrl, altError.message);
+                       // // console.log('❌ Alternative failed:', altUrl, altError.message);
                     }
                 }
                 
@@ -1498,7 +1464,7 @@ class RecipeDetailLoader {
             }
             
             const recipeData = await response.json();
-           // console.log('✅ Recipe data parsed successfully:', recipeData.title || 'Untitled');
+           // // console.log('✅ Recipe data parsed successfully:', recipeData.title || 'Untitled');
             
             // Validation des données essentielles
             if (!recipeData.title) {
@@ -1524,7 +1490,7 @@ class RecipeDetailLoader {
             recipeData.folderName = recipeSlug;
             recipeData.mainImage = this.getMainImage(recipeData, recipeSlug);
             
-        //    // console.log('🎯 Recipe processed:', {
+        //    // // console.log('🎯 Recipe processed:', {
         //         title: recipeData.title,
         //         ingredients: recipeData.ingredients?.length || 0,
         //         instructions: recipeData.instructions?.length || 0,
@@ -1534,13 +1500,13 @@ class RecipeDetailLoader {
             return recipeData;
             
         } catch (error) {
-            console.error(`💥 Error loading recipe ${recipeSlug}:`, error);
+           // console.error(`💥 Error loading recipe ${recipeSlug}:`, error);
             
             // Retourner une recette de fallback si possible
             if (error.name === 'SyntaxError') {
-                console.error('❌ JSON parsing failed - invalid JSON format');
+               // console.error('❌ JSON parsing failed - invalid JSON format');
             } else if (error.name === 'TypeError') {
-                console.error('❌ Network error - check file paths and server');
+               // console.error('❌ Network error - check file paths and server');
             }
             
             return this.createFallbackRecipe(recipeSlug);
@@ -1549,7 +1515,7 @@ class RecipeDetailLoader {
 
     // Créer une recette de fallback en cas d'erreur
     createFallbackRecipe(recipeSlug) {
-       // console.log('🆘 Creating fallback recipe for:', recipeSlug);
+       // // console.log('🆘 Creating fallback recipe for:', recipeSlug);
         
         return {
             title: recipeSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
@@ -1813,7 +1779,7 @@ class RecipeDetailLoader {
 
     displayRecipe(recipe) {
         if (!this.contentContainer) {
-            console.error('Container not available to display recipe');
+           // console.error('Container not available to display recipe');
             return;
         }
 
@@ -1850,8 +1816,7 @@ class RecipeDetailLoader {
         // Generate recent recipes HTML
         const recentRecipesHTML = this.generateRecentRecipesHTML();
 
-        // Create RSS button
-        const rssWidgetHTML = this.createIntegratedRSSWidget();
+   
 
         const recipeHTML = `
             <div class="wrap">
@@ -1931,9 +1896,6 @@ class RecipeDetailLoader {
                         </div>
                     </div>
 
-                    <!-- Widget RSS Feed Integration -->
-                    ${rssWidgetHTML}
-
                     ${recentRecipesHTML}
                 </aside>
             </div>
@@ -1960,7 +1922,7 @@ class RecipeDetailLoader {
             });
         });
 
-       // console.log('Recipe card displayed for:', recipe.title);
+       // // console.log('Recipe card displayed for:', recipe.title);
     }
 
 }
@@ -1988,22 +1950,22 @@ const maxInitAttempts = 20;
 function initRecipeDetail() {
     initAttempts++;
     
-   // console.log(`🔄 InitRecipeDetail attempt ${initAttempts}/${maxInitAttempts}`);
+   // // console.log(`🔄 InitRecipeDetail attempt ${initAttempts}/${maxInitAttempts}`);
     
     if (recipeDetailLoader && recipeDetailLoader.initialized) {
-       // console.log('✅ RecipeDetailLoader already initialized');
+       // // console.log('✅ RecipeDetailLoader already initialized');
         return;
     }
 
     const container = document.getElementById('recipe-content');
     
     if (container) {
-       // console.log('✅ Container found, initializing RecipeDetailLoader...');
+       // // console.log('✅ Container found, initializing RecipeDetailLoader...');
         recipeDetailLoader = new RecipeDetailLoader();
         window.recipeDetailLoader = recipeDetailLoader; // Rendre accessible globalement
         
         // Ajouter des informations de debug
-    //    // console.log('🔧 Debug info:', {
+    //    // // console.log('🔧 Debug info:', {
     //         containerFound: !!container,
     //         currentURL: window.location.href,
     //         recipePath: recipeDetailLoader.recipesPath,
@@ -2011,19 +1973,19 @@ function initRecipeDetail() {
     //     });
         
         recipeDetailLoader.init().catch(error => {
-            console.error('💥 Initialization failed:', error);            
+           // console.error('💥 Initialization failed:', error);            
         });
         
     } else if (initAttempts < maxInitAttempts) {
-       // console.log(`⏳ Container not found, retrying... (${initAttempts}/${maxInitAttempts})`);
+       // // console.log(`⏳ Container not found, retrying... (${initAttempts}/${maxInitAttempts})`);
         setTimeout(initRecipeDetail, 200);
     } else {
-        console.error('❌ Container not found after', maxInitAttempts, 'attempts');
-        console.error('🔍 Available containers:', Array.from(document.querySelectorAll('[id]')).map(el => el.id));
+       // console.error('❌ Container not found after', maxInitAttempts, 'attempts');
+       // console.error('🔍 Available containers:', Array.from(document.querySelectorAll('[id]')).map(el => el.id));
         
         // Essayer de créer le container si le body existe
         if (document.body) {
-           // console.log('🆘 Creating fallback container...');
+           // // console.log('🆘 Creating fallback container...');
             const fallbackContainer = document.createElement('div');
             fallbackContainer.id = 'recipe-content';
            
@@ -2072,7 +2034,7 @@ if (typeof MutationObserver !== 'undefined') {
 }
 
 window.forceInitRecipeDetail = function() {
-   // console.log('Force initialization...');
+   // // console.log('Force initialization...');
     recipeDetailLoader = null;
     initAttempts = 0;
     initRecipeDetail();

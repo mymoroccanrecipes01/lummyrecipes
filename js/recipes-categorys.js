@@ -22,7 +22,7 @@ class RecipeLoader {
         this.waitForContainer();
         
         if (!this.recipesContainer) {
-            console.error(`Container avec l'ID '${this.containerId}' non trouvé`);
+            // console.error(`Container avec l'ID '${this.containerId}' non trouvé`);
             return false;
         }
 
@@ -48,7 +48,7 @@ class RecipeLoader {
         window.addEventListener('pageLoaded', (event) => {
             if (event.detail && event.detail.params && event.detail.params.categorySlug) {
                 const categorySlug = event.detail.params.categorySlug;
-                console.log('RecipeLoader: Catégorie reçue du router:', categorySlug);
+                // console.log('RecipeLoader: Catégorie reçue du router:', categorySlug);
                 this.filterByCategory(categorySlug);
             }
         });
@@ -59,11 +59,11 @@ class RecipeLoader {
 
     async loadCategoryMapping() {
         try {
-            console.log('Chargement du mapping des catégories...');
+            // console.log('Chargement du mapping des catégories...');
             const response = await fetch(`${this.categoriesPath}index.json`);
             
             if (!response.ok) {
-                console.warn('Fichier categories/index.json non trouvé, utilisation du mapping par défaut');
+                // console.warn('Fichier categories/index.json non trouvé, utilisation du mapping par défaut');
                 this.categoryMapping = {};
                 return;
             }
@@ -72,14 +72,14 @@ class RecipeLoader {
             
             if (data.folders && typeof data.folders === 'object') {
                 this.categoryMapping = data.folders;
-                console.log('Mapping des catégories chargé:', this.categoryMapping);
+                // console.log('Mapping des catégories chargé:', this.categoryMapping);
             } else {
-                console.warn('Format invalide dans categories/index.json');
+                // console.warn('Format invalide dans categories/index.json');
                 this.categoryMapping = {};
             }
             
         } catch (error) {
-            console.error('Erreur lors du chargement du mapping des catégories:', error);
+            // console.error('Erreur lors du chargement du mapping des catégories:', error);
             this.categoryMapping = {};
         }
     }
@@ -91,16 +91,16 @@ class RecipeLoader {
         for (let i = 0; i < maxAttempts; i++) {
             this.recipesContainer = document.getElementById(this.containerId);
             if (this.recipesContainer) {
-                console.log(`Container '${this.containerId}' trouvé après ${i + 1} tentative(s)`);
+                // console.log(`Container '${this.containerId}' trouvé après ${i + 1} tentative(s)`);
                 return;
             }
             
             const delay = baseDelay * (i < 10 ? 1 : 2);
             if (i % 10 === 0) {
-                console.log(`Tentative ${i + 1}/${maxAttempts} - Container '${this.containerId}' non trouvé, attente...`);
+                // console.log(`Tentative ${i + 1}/${maxAttempts} - Container '${this.containerId}' non trouvé, attente...`);
             }
         }
-        console.error(`Container '${this.containerId}' non trouvé après ${maxAttempts} tentatives`);
+        // console.error(`Container '${this.containerId}' non trouvé après ${maxAttempts} tentatives`);
     }
 
      getIdFromSlug(categorySlug) {
@@ -108,76 +108,76 @@ class RecipeLoader {
         const mappedId = this.categoryMapping[categorySlug];
         
         if (mappedId) {
-            console.log(`Mapping trouvé: "${categorySlug}" -> "${mappedId}"`);
+            // console.log(`Mapping trouvé: "${categorySlug}" -> "${mappedId}"`);
             return mappedId;
         }
         
-        console.log(`Aucun mapping trouvé pour "${categorySlug}", utilisation du slug comme ID`);
+        // console.log(`Aucun mapping trouvé pour "${categorySlug}", utilisation du slug comme ID`);
         return categorySlug;
     }
 
     // NOUVEAU: Méthode pour filtrer par slug de catégorie
  filterByCategory(categorySlug) {
-        console.log('=== FILTRAGE PAR CATÉGORIE ===');
-        console.log('Slug de catégorie:', categorySlug);
-        console.log('Mapping disponible:', this.categoryMapping);
+        // console.log('=== FILTRAGE PAR CATÉGORIE ===');
+        // console.log('Slug de catégorie:', categorySlug);
+        // console.log('Mapping disponible:', this.categoryMapping);
         
         this.currentCategorySlug = categorySlug;
         
         // Convertir le slug en ID en utilisant le mapping chargé
         const categoryId = this.getIdFromSlug(categorySlug);
-        console.log(`Conversion finale: "${categorySlug}" -> "${categoryId}"`);
+        // console.log(`Conversion finale: "${categorySlug}" -> "${categoryId}"`);
         
         this.resetPagination();
         
         this.filteredRecipes = this.allRecipes.filter(recipe => {
             if (!recipe.category_id && !recipe.category) {
-                console.log(`✗ Recette "${recipe.title}" - pas de catégorie définie`);
+                // console.log(`✗ Recette "${recipe.title}" - pas de catégorie définie`);
                 return false;
             }
             
-            console.log(`Vérification recette "${recipe.title}":`, {
-                category_id: recipe.category_id,
-                category: recipe.category,
-                targetSlug: categorySlug,
-                targetId: categoryId
-            });
+            // console.log(`Vérification recette "${recipe.title}":`, {
+            //     category_id: recipe.category_id,
+            //     category: recipe.category,
+            //     targetSlug: categorySlug,
+            //     targetId: categoryId
+            // });
             
             // 1. Correspondance exacte avec l'ID mappé
             if (recipe.category_id === categoryId) {
-                console.log(`✓ Correspondance ID mappé: "${recipe.title}"`);
+                // console.log(`✓ Correspondance ID mappé: "${recipe.title}"`);
                 return true;
             }
             
             // 2. Correspondance directe avec le slug (fallback)
             if (recipe.category_id === categorySlug) {
-                console.log(`✓ Correspondance slug direct: "${recipe.title}"`);
+                // console.log(`✓ Correspondance slug direct: "${recipe.title}"`);
                 return true;
             }
             
             // 3. Correspondance avec le nom de catégorie slugifié
             if (recipe.category && this.slugify(recipe.category) === categorySlug) {
-                console.log(`✓ Correspondance nom slugifié: "${recipe.title}"`);
+                // console.log(`✓ Correspondance nom slugifié: "${recipe.title}"`);
                 return true;
             }
             
             // 4. Correspondance partielle (fallback pour compatibilité)
             if (recipe.category_id && recipe.category_id.toLowerCase().includes(categorySlug.toLowerCase())) {
-                console.log(`✓ Correspondance partielle ID: "${recipe.title}"`);
+                // console.log(`✓ Correspondance partielle ID: "${recipe.title}"`);
                 return true;
             }
             
             if (recipe.category && recipe.category.toLowerCase().includes(categorySlug.toLowerCase())) {
-                console.log(`✓ Correspondance partielle nom: "${recipe.title}"`);
+                // console.log(`✓ Correspondance partielle nom: "${recipe.title}"`);
                 return true;
             }
             
-            console.log(`✗ Aucune correspondance: "${recipe.title}"`);
+            // console.log(`✗ Aucune correspondance: "${recipe.title}"`);
             return false;
         });
         
-        console.log(`Filtrage terminé: ${this.filteredRecipes.length} recettes trouvées pour "${categorySlug}"`);
-        console.log('==============================');
+        // console.log(`Filtrage terminé: ${this.filteredRecipes.length} recettes trouvées pour "${categorySlug}"`);
+        // console.log('==============================');
         
         this.hasMoreRecipes = this.filteredRecipes.length > 0;
         this.displayInitialRecipes();
@@ -185,9 +185,9 @@ class RecipeLoader {
     }
 
     debugCategories() {
-        console.log('=== DEBUG CATEGORIES & MAPPING ===');
-        console.log('Mapping chargé:', this.categoryMapping);
-        console.log('Nombre total de recettes:', this.allRecipes.length);
+        // console.log('=== DEBUG CATEGORIES & MAPPING ===');
+        // console.log('Mapping chargé:', this.categoryMapping);
+        // console.log('Nombre total de recettes:', this.allRecipes.length);
         
         const categories = new Set();
         const categoryDetails = [];
@@ -204,20 +204,20 @@ class RecipeLoader {
             });
         });
         
-        console.log('Catégories uniques dans les recettes:', [...categories]);
-        console.log('Slugs disponibles dans le mapping:', Object.keys(this.categoryMapping));
-        console.log('IDs dans le mapping:', Object.values(this.categoryMapping));
-        console.log('Détails par recette:', categoryDetails);
+        // console.log('Catégories uniques dans les recettes:', [...categories]);
+        // console.log('Slugs disponibles dans le mapping:', Object.keys(this.categoryMapping));
+        // console.log('IDs dans le mapping:', Object.values(this.categoryMapping));
+        // console.log('Détails par recette:', categoryDetails);
         
         // Vérifier les correspondances
-        console.log('=== VÉRIFICATION CORRESPONDANCES ===');
+        // console.log('=== VÉRIFICATION CORRESPONDANCES ===');
         Object.keys(this.categoryMapping).forEach(slug => {
             const id = this.categoryMapping[slug];
             const matchingRecipes = this.allRecipes.filter(r => r.category_id === id);
-            console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingRecipes.length} recettes`);
+            // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingRecipes.length} recettes`);
         });
         
-        console.log('==================================');
+        // console.log('==================================');
         
         return { 
             mapping: this.categoryMapping,
@@ -313,22 +313,22 @@ class RecipeLoader {
         let filteredRecipes = [...this.allRecipes];
         if (!params.category)
             params.category = '';      
-        // console.log('Slugs disponibles dans le mapping:', params.category);
-        // console.log('IDs dans le mapping:', Object.values(params.category));
-        // console.log('keys dans le mapping:', this.getValueByKey(this.categoryMapping, params.category));
+        // // console.log('Slugs disponibles dans le mapping:', params.category);
+        // // console.log('IDs dans le mapping:', Object.values(params.category));
+        // // console.log('keys dans le mapping:', this.getValueByKey(this.categoryMapping, params.category));
         
         // Vérifier les correspondances
-        // console.log('=== VÉRIFICATION CORRESPONDANCES ===');
+        // // console.log('=== VÉRIFICATION CORRESPONDANCES ===');
         // Object.keys(this.categoryMapping).forEach(slug => {
         //     const id = this.categoryMapping[slug];
         //     const matchingRecipes = this.allRecipes.filter(r => r.category_id === id);
-        //     console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingRecipes.length} recettes`);
+        //     // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingRecipes.length} recettes`);
         // });
 
 
 
-        console.log('=== APPLICATION DES FILTRES URL ===');
-        console.log('Paramètres détectés:', params.category);
+        // console.log('=== APPLICATION DES FILTRES URL ===');
+        // console.log('Paramètres détectés:', params.category);
         // MODIFIÉ: Filtrer par catégorie (nouveau format prioritaire)
         if (params.categorySlug || params.category) {
             const categoryToFilter = this.getValueByKey(this.categoryMapping, params.category);
@@ -359,7 +359,7 @@ class RecipeLoader {
                 return false;
             });
             
-            console.log(`Filtrage par catégorie "${categoryToFilter}": ${filteredRecipes.length} recettes trouvées`);
+            // console.log(`Filtrage par catégorie "${categoryToFilter}": ${filteredRecipes.length} recettes trouvées`);
         }
 
         // Filtrer par recherche
@@ -442,10 +442,10 @@ class RecipeLoader {
             this.currentPage++;
             this.hasMoreRecipes = endIndex < this.filteredRecipes.length;
 
-            console.log(`Page ${this.currentPage} chargée: ${newRecipes.length} recettes (${this.displayedRecipes.length}/${this.filteredRecipes.length} total)`);
+            // console.log(`Page ${this.currentPage} chargée: ${newRecipes.length} recettes (${this.displayedRecipes.length}/${this.filteredRecipes.length} total)`);
             
         } catch (error) {
-            console.error('Erreur lors du chargement de plus de recettes:', error);
+            // console.error('Erreur lors du chargement de plus de recettes:', error);
             this.showError('Erreur lors du chargement des recettes supplémentaires');
         } finally {
             this.hideLoadingIndicator();
@@ -456,7 +456,7 @@ class RecipeLoader {
     // Ajouter les recettes au DOM
     appendRecipesToDOM(recipes) {
         if (!this.recipesContainer) {
-            console.error('Container des recettes non disponible');
+            // console.error('Container des recettes non disponible');
             return;
         }
 
@@ -483,8 +483,10 @@ class RecipeLoader {
             return;
         }
 
-        const recipesHTML = recipes.map(recipe => this.createRecipeHTML(recipe)).join('');
+       
+        const recipesHTML = recipes.map(recipe => this.createRecipeHTML(recipe)).join('');             
         this.recipesContainer.insertAdjacentHTML('beforeend', recipesHTML);
+          
     }
 
     // Afficher l'indicateur de chargement
@@ -543,48 +545,55 @@ class RecipeLoader {
         const activeFilters = [];
         if (params.categorySlug || params.category) {
             const categoryName = params.categorySlug || params.category;
-            activeFilters.push(`Catégorie: ${categoryName}`);
+            activeFilters.push(`${categoryName}`);
         }
         if (params.search) activeFilters.push(`Recherche: "${params.search}"`);
         if (params.difficulty) activeFilters.push(`Difficulté: ${params.difficulty}`);
 
         if (activeFilters.length > 0 || resultCount !== this.allRecipes.length) {
-            const filterInfo = document.createElement('div');
-            filterInfo.className = 'filter-info';
+            const filterInfo = document.createElement('section');
+            filterInfo.className = 'category-hero';
             filterInfo.innerHTML = `
-                <div class="filter-tags" style="
-                    background: #f8f9fa;
-                    padding: 15px;
-                    margin-bottom: 20px;
-                    border-radius: 8px;
-                    border-left: 4px solid #007bff;
-                ">
-                    <span class="filter-count" style="font-weight: 600; margin-right: 15px;">
-                        ${resultCount} recette(s) trouvée(s) 
-                    </span>
-                    ${activeFilters.map(filter => `
-                        <span class="filter-tag" style="
-                            background: #007bff;
-                            color: white;
-                            padding: 4px 8px;
-                            border-radius: 12px;
-                            font-size: 0.9em;
-                            margin-right: 8px;
-                        ">${filter}</span>
-                    `).join('')}
-                    ${activeFilters.length > 0 ? `
-                        <button class="clear-filters" onclick="recipeLoader.clearFilters()" style="
-                            background: #dc3545;
-                            color: white;
-                            border: none;
-                            padding: 4px 12px;
-                            border-radius: 4px;
-                            cursor: pointer;
-                            font-size: 0.9em;
-                        ">Effacer les filtres</button>
-                    ` : ''}
-                </div>
-            `;
+                
+                    <div class="container" bis_skin_checked="1">
+                        <h1 style="text-transform: uppercase;">${activeFilters.map(filter => `${filter}`).join('')}
+                        </h1>                              
+                    </div>
+                `;
+            // filterInfo.innerHTML = `
+            //     <div class="filter-tags" style="
+            //         background: #f8f9fa;
+            //         padding: 15px;
+            //         margin-bottom: 20px;
+            //         border-radius: 8px;
+            //         border-left: 4px solid #007bff;
+            //     ">
+            //         <span class="filter-count" style="font-weight: 600; margin-right: 15px;">
+            //             ${resultCount} recette(s) trouvée(s) 
+            //         </span>
+            //         ${activeFilters.map(filter => `
+            //             <span class="filter-tag" style="
+            //                 background: #007bff;
+            //                 color: white;
+            //                 padding: 4px 8px;
+            //                 border-radius: 12px;
+            //                 font-size: 0.9em;
+            //                 margin-right: 8px;
+            //             ">${filter}</span>
+            //         `).join('')}
+            //         ${activeFilters.length > 0 ? `
+            //             <button class="clear-filters" onclick="recipeLoader.clearFilters()" style="
+            //                 background: #dc3545;
+            //                 color: white;
+            //                 border: none;
+            //                 padding: 4px 12px;
+            //                 border-radius: 4px;
+            //                 cursor: pointer;
+            //                 font-size: 0.9em;
+            //             ">Effacer les filtres</button>
+            //         ` : ''}
+            //     </div>
+            // `;
             
             // Insérer avant le container de recettes
             if (this.recipesContainer && this.recipesContainer.parentNode) {
@@ -629,7 +638,7 @@ class RecipeLoader {
             }
         } catch (error) {
 
-            console.log('Fichier index.json non trouvé, scan automatique...');
+            // console.log('Fichier index.json non trouvé, scan automatique...');
         }
 
         return await this.scanRecipeFolders();
@@ -686,14 +695,15 @@ class RecipeLoader {
                 return;
             }
 
-            console.log(`${recipeFolders.length} dossiers de recettes trouvés pour la page "${currentPage}":`, recipeFolders);
+            // console.log(`${recipeFolders.length} dossiers de recettes trouvés pour la page "${currentPage}":`, recipeFolders);
 
             const recipePromises = recipeFolders.map(folder => 
                 this.loadRecipeData(folder)
             );
             
             const recipes = await Promise.all(recipePromises);
-            const validRecipes = recipes.filter(recipe => recipe !== null);
+            const validRecipes = recipes.filter(recipe => recipe !== null && recipe.isOnline === true);
+            
             
             if (validRecipes.length === 0) {
                 this.showError('Aucune recette valide trouvée dans les dossiers spécifiés');
@@ -710,15 +720,15 @@ class RecipeLoader {
             // Sur la page home, prendre seulement les 6 premières après tri par date
             if (currentPage === "home") {
                 this.allRecipes = validRecipes.slice(0, 6);
-                console.log(`Page home: ${this.allRecipes.length} recettes les plus récentes affichées`);
+                // console.log(`Page home: ${this.allRecipes.length} recettes les plus récentes affichées`);
             } else {
                 this.allRecipes = validRecipes;
             }
             
-            console.log(`Recettes triées par date de création (${this.allRecipes.length} recettes)`);
+            // console.log(`Recettes triées par date de création (${this.allRecipes.length} recettes)`);
 
         } catch (error) {
-            console.error('Erreur lors du chargement des recettes:', error);
+            // console.error('Erreur lors du chargement des recettes:', error);
             this.showError('Erreur lors du chargement des recettes');
         }
     }
@@ -742,7 +752,7 @@ class RecipeLoader {
             this.displayedRecipes = [...this.filteredRecipes];
             this.appendRecipesToDOM(this.displayedRecipes);
             this.hasMoreRecipes = false; // Pas de load more sur home
-            console.log(`Page home: ${this.displayedRecipes.length} recettes affichées (pas de pagination)`);
+            // console.log(`Page home: ${this.displayedRecipes.length} recettes affichées (pas de pagination)`);
         } else {
             // Sur les autres pages, utiliser la pagination normale
             this.loadMoreRecipes();
@@ -755,14 +765,14 @@ class RecipeLoader {
             const jsonResponse = await fetch(jsonUrl);
             
             if (!jsonResponse.ok) {
-                console.warn(`Impossible de charger ${folderName}/recipe.json`);
+                // console.warn(`Impossible de charger ${folderName}/recipe.json`);
                 return null;
             }
             
             const recipeData = await jsonResponse.json();
             
             if (!recipeData.title) {
-                console.warn(`Recette ${folderName}: titre manquant`);
+                // console.warn(`Recette ${folderName}: titre manquant`);
                 return null;
             }
             
@@ -796,7 +806,7 @@ class RecipeLoader {
             };
             
         } catch (error) {
-            console.error(`Erreur lors du chargement de la recette ${folderName}:`, error);
+            // console.error(`Erreur lors du chargement de la recette ${folderName}:`, error);
             return null;
         }
     }
@@ -871,7 +881,7 @@ createRecipeHTML(recipe) {
 
     const recipeUrl = window.createRecipeUrl ? window.createRecipeUrl(slug) : 
                      `base.html?page=recipe-detail&recipe=${slug}`;
-
+    
     return `
         <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${difficulty.toLowerCase()}">
             <a class="entry__img" href="${recipeUrl}" title="${title}">
@@ -957,7 +967,7 @@ class PageLoadWatcher {
     startWatching() {
         if (this.initialized) return;
 
-        console.log('Début de surveillance du chargement de page...');
+        // console.log('Début de surveillance du chargement de page...');
         
         this.watchInterval = setInterval(() => {
             this.attempts++;
@@ -968,7 +978,7 @@ class PageLoadWatcher {
             if (container && !hasContent) {
                 this.initializeRecipeLoader();
             } else if (this.attempts >= this.maxAttempts) {
-                console.warn('Arrêt de la surveillance après', this.maxAttempts, 'tentatives');
+                // console.warn('Arrêt de la surveillance après', this.maxAttempts, 'tentatives');
                 this.stopWatching();
             }
         }, this.baseInterval);
@@ -981,7 +991,7 @@ class PageLoadWatcher {
         this.initialized = true;
         
         try {
-            console.log('Initialisation du RecipeLoader avec support des catégories slug...');
+            // console.log('Initialisation du RecipeLoader avec support des catégories slug...');
             recipeLoader = new RecipeLoader('items');
             
             // Rendre accessible globalement
@@ -990,12 +1000,12 @@ class PageLoadWatcher {
             const success = await recipeLoader.init();
             
             if (success) {
-                console.log('RecipeLoader initialisé avec succès - Support des catégories slug activé');
+                // console.log('RecipeLoader initialisé avec succès - Support des catégories slug activé');
             } else {
-                console.error('Échec de l\'initialisation du RecipeLoader');
+                // console.error('Échec de l\'initialisation du RecipeLoader');
             }
         } catch (error) {
-            console.error('Erreur lors de l\'initialisation:', error);
+            // console.error('Erreur lors de l\'initialisation:', error);
         }
     }
 
@@ -1015,19 +1025,19 @@ class PageLoadWatcher {
 
 // NOUVEAU: Fonction d'initialisation pour les pages de catégorie
 function initRecipesCategoryPageFeatures(categorySlug) {
-    console.log('=== INIT CATEGORY FEATURES ===');
-    console.log('Category slug reçu:', categorySlug);
-    console.log('RecipeLoader exists:', !!recipeLoader);
-    console.log('RecipeLoader initialized:', recipeLoader?.initialized);
-    console.log('Nombre de recettes totales:', recipeLoader?.allRecipes?.length);
+    // console.log('=== INIT CATEGORY FEATURES ===');
+    // console.log('Category slug reçu:', categorySlug);
+    // console.log('RecipeLoader exists:', !!recipeLoader);
+    // console.log('RecipeLoader initialized:', recipeLoader?.initialized);
+    // console.log('Nombre de recettes totales:', recipeLoader?.allRecipes?.length);
     
     if (recipeLoader && recipeLoader.initialized) {
         setTimeout(() => {
-            console.log('Applying filter...');
+            // console.log('Applying filter...');
             recipeLoader.filterByCategory(categorySlug);
         }, 100);
     } else {
-        console.log('RecipeLoader pas prêt, attente...');
+        // console.log('RecipeLoader pas prêt, attente...');
         // Reste du code...
     }
 }
@@ -1076,7 +1086,7 @@ if (typeof MutationObserver !== 'undefined') {
 // Fallback d'urgence
 setTimeout(() => {
     if (!recipeLoader) {
-        console.log('Fallback: Tentative d\'initialisation après 3 secondes');
+        // console.log('Fallback: Tentative d\'initialisation après 3 secondes');
         initRecipeSystem();
     }
 }, 3000);
@@ -1084,7 +1094,7 @@ setTimeout(() => {
 // Fonction de recherche
 function searchRecipes() {
     if (!recipeLoader || !recipeLoader.initialized) {
-        console.warn('RecipeLoader pas encore initialisé');
+        // console.warn('RecipeLoader pas encore initialisé');
         initRecipeSystem();
         return;
     }
@@ -1143,7 +1153,7 @@ function searchRecipes() {
 
 // Fonction de force init
 function forceInitRecipeLoader() {
-    console.log('Force l\'initialisation du RecipeLoader...');
+    // console.log('Force l\'initialisation du RecipeLoader...');
     
     if (pageLoadWatcher) {
         pageLoadWatcher.reset();
@@ -1193,11 +1203,11 @@ window.navigateToCategory = navigateToCategory;
 window.getRecipeStats = getRecipeStats;
 
 // Debug: Log de l'état du système
-console.log('RecipeLoader system loaded with category slug support');
-console.log('Available functions:', {
-    searchRecipes: typeof searchRecipes,
-    forceInitRecipeLoader: typeof forceInitRecipeLoader,
-    navigateToCategory: typeof navigateToCategory,
-    getRecipeStats: typeof getRecipeStats,
-    initRecipesCategoryPageFeatures: typeof initRecipesCategoryPageFeatures
-});
+// console.log('RecipeLoader system loaded with category slug support');
+// console.log('Available functions:', {
+//     searchRecipes: typeof searchRecipes,
+//     forceInitRecipeLoader: typeof forceInitRecipeLoader,
+//     navigateToCategory: typeof navigateToCategory,
+//     getRecipeStats: typeof getRecipeStats,
+//     initRecipesCategoryPageFeatures: typeof initRecipesCategoryPageFeatures
+// });

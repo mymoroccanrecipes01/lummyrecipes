@@ -5,85 +5,31 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DInner Recipes - RSS Feed</title>
+    <title>dinner Recipes - RSS Feed</title>
     <link>http://www.topchefsrecipe.com/base.html</link>
     <description>Fresh dinner recipes and cooking inspiration</description>
     <language>en-US</language>
-    <copyright></copyright>
-    <managingEditor></managingEditor>
-    <webMaster></webMaster>
-    <pubDate>Sun, 05 Oct 2025 03:18:50 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2025 03:18:50 +0200</lastBuildDate>
-    <category>DInner</category>
-    <generator></generator>
-    <ttl></ttl>
+    <copyright>© 2025 www.topchefsrecipe.com</copyright>
+    <managingEditor>info@topchefsrecipe.com</managingEditor>
+    <webMaster>webmaster@topchefsrecipe.com</webMaster>
+    <pubDate>Tue, 14 Oct 2025 21:09:49 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2025 21:09:49 +0200</lastBuildDate>
+    <category>dinner</category>
+    <generator>Recipes - RSS Feed www.topchefsrecipe.com</generator>
+    <ttl>60</ttl>
     <atom:link href="http://www.topchefsrecipe.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>http://www.topchefsrecipe.com/base.html/images/logo.png</url>
-      <title>DInner Recipes - RSS Feed</title>
+      <title>dinner Recipes - RSS Feed</title>
       <link>http://www.topchefsrecipe.com/base.html</link>
       <width>144</width>
       <height>144</height>
     </image>
     <item>
-      <title>Fried Cabbage and Egg Noodles</title>
-      <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=fried-cabbage-and-egg-noodles</link>
-      <description>This traditional German dish combines tender egg noodles with buttery, lightly browned cabbage for a hearty and comforting meal. Quick to prepare and full of nostalgic flavors, it’s perfect for a satisfying weeknight dinner that feels like a warm hug from grandma.</description>
-      <pubDate>Sun, 05 Oct 2025 02:42:06 +0200</pubDate>
-      <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=fried-cabbage-and-egg-noodles</guid>
-      <category>cat_1758062039_737</category>
-      <dc:creator>author_003</dc:creator>
-      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.topchefsrecipe.com/recipes/fried-cabbage-and-egg-noodles/images/fried-cabbage-and-egg-noodles_image_4.webp" alt="Fried Cabbage and Egg Noodles" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 5 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 20 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 4</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>1 (16 ounce) package egg noodles</li><li>1 stick butter</li><li>1 medium head green cabbage, chopped</li><li>salt and pepper to taste</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Bring a large pot of lightly salted water to a boil.</li><li>Add egg noodles and cook until tender yet firm to the bite, about 5 minutes; drain well.</li><li>Meanwhile, melt butter in a large skillet over low heat.</li><li>Add chopped cabbage and season with salt and pepper.</li><li>Cover and cook until the cabbage begins to brown, about 5 to 7 minutes.</li><li>Add the cooked noodles to the skillet; cook and stir until the noodles begin to brown, about 5 minutes.</li><li>Adjust seasoning with salt and pepper if needed and serve warm.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1758062039737 #easyrecipe #quickrecipe #30minutemeals #recipe #cooking #foodie #homemade #delicious #ounce #stick #medium</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
-      <media:content url="http://www.topchefsrecipe.com/recipes/fried-cabbage-and-egg-noodles/images/fried-cabbage-and-egg-noodles_image_4.webp" medium="image" type="image/webp">
-        <media:title>Fried Cabbage and Egg Noodles</media:title>
-        <media:description>This traditional German dish combines tender egg noodles with buttery, lightly browned cabbage for a hearty and comforting meal. Quick to prepare and full of nostalgic flavors, it’s perfect for a satisfying weeknight dinner that feels like a warm hug from grandma.</media:description>
-      </media:content>
-      <media:group>
-        <media:category>recipe</media:category>
-        <media:keywords>cat1758062039737, easyrecipe, quickrecipe, 30minutemeals, recipe, cooking, foodie, homemade, delicious, ounce, stick, medium</media:keywords>
-      </media:group>
-    </item>
-    <item>
-      <title>Vodka Pan Pizza</title>
-      <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=vodka-pan-pizza</link>
-      <description>Experience a delightful twist on classic margherita pizza with this Vodka Pan Pizza, featuring rich vodka sauce, fresh mozzarella, and vibrant grape tomatoes. Ready in just over half an hour, this homemade pizza offers restaurant-quality flavors faster than delivery, perfect for a cozy dinner at home.</description>
-      <pubDate>Sat, 04 Oct 2025 03:10:41 +0200</pubDate>
-      <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=vodka-pan-pizza</guid>
-      <category>cat_1758062039_737</category>
-      <dc:creator>author_003</dc:creator>
-      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.topchefsrecipe.com/recipes/vodka-pan-pizza/images/vodka-pan-pizza_image_3.webp" alt="Vodka Pan Pizza" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 10 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 25 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 35 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 4</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>1 pound prepared pizza dough</li><li>1/3 cup vodka sauce</li><li>1 (8 ounce) ball fresh mozzarella, sliced</li><li>1 ounce shredded Parmesan cheese</li><li>6 grape tomatoes, halved</li><li>3 basil leaves, sliced into thin ribbons</li><li>1/2 teaspoon garlic granules (optional)</li><li>2 teaspoons olive oil (optional)</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Preheat the oven to 425 degrees F (220 degrees C). Lightly grease a 12-inch cake pan.</li><li>Stretch and roll out the pizza dough and place it in the prepared pan. Prick the dough with a fork.</li><li>Bake the pizza dough in the preheated oven for 5 minutes.</li><li>Remove the pizza from the oven and spread vodka sauce evenly over the dough, leaving a 1/2 inch border around the edges.</li><li>Arrange mozzarella slices evenly over the sauce and sprinkle with shredded Parmesan cheese.</li><li>Bake for 15 minutes more.</li><li>Remove the pizza and scatter the halved grape tomatoes on top.</li><li>Bake until the crust is golden and the tomatoes are slightly softened, about 5 more minutes.</li><li>Remove from oven and garnish with sliced basil leaves.</li><li>If desired, mix garlic granules into olive oil and brush along the exposed crust edges.</li><li>Cut into 8 to 10 slices and serve immediately.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1758062039737 #easyrecipe #1hourmeals #recipe #cooking #foodie #homemade #delicious #pound #vodka #ounce</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
-      <media:content url="http://www.topchefsrecipe.com/recipes/vodka-pan-pizza/images/vodka-pan-pizza_image_3.webp" medium="image" type="image/webp">
-        <media:title>Vodka Pan Pizza</media:title>
-        <media:description>Experience a delightful twist on classic margherita pizza with this Vodka Pan Pizza, featuring rich vodka sauce, fresh mozzarella, and vibrant grape tomatoes. Ready in just over half an hour, this homemade pizza offers restaurant-quality flavors faster than delivery, perfect for a cozy dinner at home.</media:description>
-      </media:content>
-      <media:group>
-        <media:category>recipe</media:category>
-        <media:keywords>cat1758062039737, easyrecipe, 1hourmeals, recipe, cooking, foodie, homemade, delicious, pound, vodka, ounce</media:keywords>
-      </media:group>
-    </item>
-    <item>
-      <title>Pasta alla Norma</title>
-      <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=pasta-alla-norma</link>
-      <description>Experience the vibrant flavors of Sicily with this classic Pasta alla Norma. Tender pasta tossed in a rich tomato-basil sauce is crowned with golden fried eggplant, salty ricotta salata, and a kick of fresh cayenne pepper, creating a dish that’s both comforting and exciting.</description>
-      <pubDate>Sat, 04 Oct 2025 02:41:06 +0200</pubDate>
-      <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=pasta-alla-norma</guid>
-      <category>cat_1758062039_737</category>
-      <dc:creator>author_003</dc:creator>
-      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.topchefsrecipe.com/recipes/pasta-alla-norma/images/pasta-alla-norma_image_4.webp" alt="Pasta alla Norma" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 10 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 27 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 37 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 4</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Medium</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>1 eggplant, sliced into 1-inch rounds</li><li>2 tablespoons rock salt</li><li>1 (14.25 ounce) can tomato puree</li><li>1 teaspoon rock salt</li><li>1 clove garlic, lightly smashed</li><li>5 large basil leaves</li><li>2 tablespoons olive oil</li><li>1 (8 ounce) package penne pasta</li><li>3 ½ tablespoons ricotta salata</li><li>1 tablespoon diced fresh cayenne pepper, or to taste</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Combine eggplant and 2 tablespoons salt in a large bowl with water to cover. Place a plate on top to weigh down and keep eggplant submerged for about 30 minutes.</li><li>Drain and rinse eggplant in cool water. Pat dry and cut into cubes.</li><li>In a saucepan over medium-low heat, combine tomato puree, 1 teaspoon rock salt, garlic, and basil. Simmer, stirring occasionally, for 5 to 10 minutes until flavors meld.</li><li>Heat olive oil in a skillet over medium-high heat. Sauté eggplant cubes until golden brown, about 5 to 10 minutes. Drain on paper towels.</li><li>Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain.</li><li>Toss pasta with the tomato-basil sauce and divide into 4 serving bowls.</li><li>Top each bowl with fried eggplant, sprinkle with ricotta salata and diced cayenne pepper to taste.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1758062039737 #mediumrecipe #1hourmeals #recipe #cooking #foodie #homemade #delicious #eggplant #ounce</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
-      <media:content url="http://www.topchefsrecipe.com/recipes/pasta-alla-norma/images/pasta-alla-norma_image_4.webp" medium="image" type="image/webp">
-        <media:title>Pasta alla Norma</media:title>
-        <media:description>Experience the vibrant flavors of Sicily with this classic Pasta alla Norma. Tender pasta tossed in a rich tomato-basil sauce is crowned with golden fried eggplant, salty ricotta salata, and a kick of fresh cayenne pepper, creating a dish that’s both comforting and exciting.</media:description>
-      </media:content>
-      <media:group>
-        <media:category>recipe</media:category>
-        <media:keywords>cat1758062039737, mediumrecipe, 1hourmeals, recipe, cooking, foodie, homemade, delicious, eggplant, ounce</media:keywords>
-      </media:group>
-    </item>
-    <item>
       <title>Cattle Ranch Casserole</title>
       <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=cattle-ranch-casserole</link>
       <description>This cattle ranch casserole is a beefy, cheesy, tomato and chile-rich casserole with a biscuit base. It's perfectly suitable for a family or for a group of hungry ranch hands.</description>
-      <pubDate>Sat, 27 Sep 2025 12:51:07 +0200</pubDate>
+      <pubDate>Tue, 14 Oct 2025 21:03:02 +0200</pubDate>
       <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=cattle-ranch-casserole</guid>
       <category>cat_1758062039_737</category>
       <dc:creator>author_004</dc:creator>
@@ -95,24 +41,6 @@
       <media:group>
         <media:category>recipe</media:category>
         <media:keywords>cat1758062039737, moyenrecipe, recipe, cooking, foodie, homemade, delicious, baking, whole, vegetable</media:keywords>
-      </media:group>
-    </item>
-    <item>
-      <title>Slow Cooker Cowboy Casserole</title>
-      <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=slow-cooker-cowboy-casserole</link>
-      <description>This slow cooker cowboy casserole is a family-friendly, budget-friendly layered casserole of ground beef, sliced potatoes, and Cheddar cheese. It's easy to put together and let the slow cooker do the rest.</description>
-      <pubDate>Sat, 27 Sep 2025 12:50:16 +0200</pubDate>
-      <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=slow-cooker-cowboy-casserole</guid>
-      <category>cat_1758062039_737</category>
-      <dc:creator>author_003</dc:creator>
-      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.topchefsrecipe.com/recipes/slow-cooker-cowboy-casserole/images/slow-cooker-cowboy-casserole_image_3.webp" alt="Slow Cooker Cowboy Casserole" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 190 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 205 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 4</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Facile</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>1 pound lean ground beef</li><li>1/2 cup chopped onion</li><li>2 garlic cloves, pressed</li><li>1 can condensed cream of mushroom soup</li><li>1 cup milk</li><li>4 cups sliced peeled potatoes</li><li>2 cups shredded Cheddar cheese</li><li>salt and freshly ground black pepper to taste</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Cook lean ground beef and onion over medium heat until beef is browned and onion is soft and translucent, 6 to 7 minutes. Add garlic and cook until fragrant, about 1 minute. Season with salt and pepper.</li><li>Stir soup and milk together in a bowl.</li><li>Line a slow cooker with a slow cooker bag. Place a layer of potatoes, overlapping as needed, at the bottom of slow cooker. Season with salt and pepper. Top with a layer of ground beef, a layer of soup mixture and 1 cup cheese. Repeat layers with remaining ingredients.</li><li>Cook on High until potatoes are fork tender, 3 to 4 hours.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1758062039737 #facilerecipe #recipe #cooking #foodie #homemade #delicious #pound #chopped #garlic</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
-      <media:content url="http://www.topchefsrecipe.com/recipes/slow-cooker-cowboy-casserole/images/slow-cooker-cowboy-casserole_image_3.webp" medium="image" type="image/webp">
-        <media:title>Slow Cooker Cowboy Casserole</media:title>
-        <media:description>This slow cooker cowboy casserole is a family-friendly, budget-friendly layered casserole of ground beef, sliced potatoes, and Cheddar cheese. It's easy to put together and let the slow cooker do the rest.</media:description>
-      </media:content>
-      <media:group>
-        <media:category>recipe</media:category>
-        <media:keywords>cat1758062039737, facilerecipe, recipe, cooking, foodie, homemade, delicious, pound, chopped, garlic</media:keywords>
       </media:group>
     </item>
   </channel>

@@ -1,0 +1,156 @@
+{
+    "id": "text_recipe_1760309961_877",
+    "isOnline": false,
+    "slug": "baked-oatmeal",
+    "title": "Baked Oatmeal",
+    "description": "This wholesome baked oatmeal combines hearty oats, warm cinnamon, and sweet dried cranberries for a comforting breakfast treat that feels like a warm hug. Perfectly golden and tender, it’s easy to prepare and loved by all who try it.",
+    "category_id": "cat_1758833396_281",
+    "author_id": "author_003",
+    "ingredients": [
+        "3 cups rolled oats",
+        "1 cup brown sugar, or to taste",
+        "2 teaspoons ground cinnamon",
+        "2 teaspoons baking powder",
+        "1 teaspoon salt, or to taste",
+        "2 large eggs",
+        "1 cup milk",
+        "½ cup melted butter",
+        "2 teaspoons vanilla extract",
+        "¾ cup dried cranberries"
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a large bowl, mix together oats, brown sugar, cinnamon, baking powder, and salt.",
+        "Beat in eggs, milk, melted butter, and vanilla extract until well combined.",
+        "Stir in dried cranberries.",
+        "Spread the mixture evenly into a 9x13-inch baking dish.",
+        "Bake in the preheated oven until the top is golden and set, about 40 minutes.",
+        "Remove from oven and let cool for a few minutes before serving.",
+        "Serve warm, topped with milk if desired."
+    ],
+    "prep_time": 10,
+    "cook_time": 40,
+    "total_time": 50,
+    "servings": 8,
+    "difficulty": "easy",
+    "tips": "For best results, use rolled oats rather than instant or steel-cut for the perfect texture. Avoid overbaking to keep the oatmeal moist and tender. Feel free to swap dried cranberries with other dried fruits or fresh seasonal fruits for variety.",
+    "structured_content": [
+        {
+            "content": "<p>This baked oatmeal recipe is a cozy, wholesome breakfast that fills your kitchen with the inviting aroma of cinnamon and vanilla. Its golden crust and tender interior make it a comforting start to any day, perfect for sharing with family or enjoying on a quiet morning.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 50 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight breakfasts, brunches, or holiday mornings<\/li><li>Uses simple pantry staples you likely have on hand<\/li><li>Customizable with your favorite dried or fresh fruits<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This recipe comes from Pennsylvania Amish country, where baked oatmeal is a beloved tradition. Every time I make it, I’m reminded of cozy mornings and the joy of sharing simple, hearty food with loved ones.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Rolled oats provide the perfect chewy texture and absorb the flavors beautifully; avoid instant oats for best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Ground cinnamon adds warmth and depth, while vanilla extract enhances sweetness and aroma.<\/li><li><strong>Supporting ingredients:<\/strong> Brown sugar balances tartness from dried cranberries, and melted butter adds richness and moisture.<\/li><li><strong>Equipment needed:<\/strong> A 9x13-inch baking dish, mixing bowls, and a whisk or spoon for combining ingredients.<\/li><\/ul>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven to 350°F (175°C). Gather and measure all ingredients to streamline the process.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Mix dry ingredients thoroughly, then beat in wet ingredients until smooth. Fold in dried cranberries and spread evenly in the baking dish. Bake until the top turns golden and the center is set, about 40 minutes.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Allow the baked oatmeal to cool slightly before serving. For extra comfort, pour a splash of milk over each serving or add a dollop of yogurt or fresh fruit.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Beautiful finished dish with vibrant colors and appetizing presentation",
+                "url": "baked-oatmeal\/images\/baked-oatmeal_image_1.webp",
+                "fileName": "baked-oatmeal_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Bake at 350°F for even cooking and a golden crust.<\/li><li>Do not overbake to avoid dryness; the center should be set but moist.<\/li><li>Look for a golden top and a firm texture to know it’s ready.<\/li><li>Store leftovers covered in the refrigerator for up to 3 days; reheat gently with a splash of milk.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this baked oatmeal with family always brings smiles and warmth. It’s a dish that feels like home, perfect for slow weekend mornings or special holiday breakfasts.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Enhance this baked oatmeal by adding chopped nuts for crunch, a pinch of nutmeg for extra spice, or swapping vanilla extract for almond extract. Fresh fruit toppings like sliced bananas or berries add brightness and freshness.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve warm with a splash of milk or yogurt. Pair with fresh fruit salad, a hot cup of coffee or tea, and crusty toast for a complete breakfast. This dish also shines at brunch gatherings or holiday mornings.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For gluten-free options, use certified gluten-free oats. Vegan adaptations can be made by substituting eggs with flax eggs and using plant-based milk and butter alternatives. Try adding diced apples or pears for a seasonal twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Close-up detail showing texture, layers, or key visual elements that make the dish appealing",
+                "url": "baked-oatmeal\/images\/baked-oatmeal_image_2.webp",
+                "fileName": "baked-oatmeal_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use room temperature eggs and milk to help the mixture blend smoothly.<\/li><li>Let the melted butter cool slightly before mixing to avoid cooking the eggs prematurely.<\/li><li>Check doneness by inserting a toothpick in the center; it should come out clean or with moist crumbs.<\/li><li>Serve directly from the baking dish for a rustic, inviting presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>With just a few simple steps, you can create a warm, nourishing breakfast that delights the senses and comforts the soul. Enjoy the process and the delicious results—this baked oatmeal is sure to become a cherished favorite.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "baked-oatmeal_image_1.webp",
+            "filePath": "recipes\/baked-oatmeal\/images\/baked-oatmeal_image_1.webp",
+            "relativePath": "baked-oatmeal\/images\/baked-oatmeal_image_1.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9\/0_0.png",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-oatmeal_image_2.webp",
+            "filePath": "recipes\/baked-oatmeal\/images\/baked-oatmeal_image_2.webp",
+            "relativePath": "baked-oatmeal\/images\/baked-oatmeal_image_2.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9\/0_1.png",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "baked-oatmeal_image_3.webp",
+            "filePath": "recipes\/baked-oatmeal\/images\/baked-oatmeal_image_3.webp",
+            "relativePath": "baked-oatmeal\/images\/baked-oatmeal_image_3.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9\/0_3.png",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "baked-oatmeal_image_4.webp",
+            "filePath": "recipes\/baked-oatmeal\/images\/baked-oatmeal_image_4.webp",
+            "relativePath": "baked-oatmeal\/images\/baked-oatmeal_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/lummyrecipes-main\/recipes\/baked-oatmeal\/images\/baked-oatmeal_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "baked-oatmeal_image_1.webp",
+    "image_path": "recipes\/baked-oatmeal\/images\/baked-oatmeal_image_1.webp",
+    "image_dir": "baked-oatmeal\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-13T00:59:21+02:00",
+    "updatedAt": "2025-10-13T00:59:21+02:00"
+}

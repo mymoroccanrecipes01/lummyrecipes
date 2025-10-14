@@ -1,5 +1,6 @@
 {
     "title": "Absolutely Ultimate Potato Soup",
+    "isOnline": false,
     "slug": "absolutely-ultimate-potato-soup-2",
     "description": "This creamy and comforting potato soup is the perfect treat for chilly days, boasting rich flavors from crispy bacon, fresh herbs, and a velvety cream base. Easy to prepare and deeply satisfying, it’s a heartwarming dish that invites you to cozy up with every spoonful.",
     "difficulty": "medium",
@@ -25,7 +26,7 @@
     ],
     "instructions": [
         "Place bacon in a Dutch oven and cook over medium-high heat, turning occasionally, until evenly browned, 5 to 10 minutes.",
-        "Drain bacon pieces on paper towels and reserve 1/4 cup of the bacon grease in the pan; discard the rest.",
+        "Drain bacon pieces on paper towels and reserve 1\/4 cup of the bacon grease in the pan; discard the rest.",
         "Cook celery and onion in the reserved bacon drippings until onion is soft and translucent, about 5 minutes.",
         "Stir in garlic and continue cooking for 1 to 2 minutes.",
         "Add cubed potatoes and toss to coat; sauté for 3 to 4 minutes.",
@@ -40,7 +41,7 @@
         "Return puréed soup to the Dutch oven and adjust seasonings with salt and pepper to taste.",
         "Serve hot and enjoy!"
     ],
-    "tips": "For a vegetarian version, substitute the bacon and bacon grease with 1/4 cup melted butter. Use a sturdy blender to purée the soup safely in batches. Keep an eye on the cream mixture to avoid scorching and stir constantly for a smooth texture.",
+    "tips": "For a vegetarian version, substitute the bacon and bacon grease with 1\/4 cup melted butter. Use a sturdy blender to purée the soup safely in batches. Keep an eye on the cream mixture to avoid scorching and stir constantly for a smooth texture.",
     "image_keywords": [
         "appetizing",
         "delicious",
@@ -51,32 +52,32 @@
     "images": [
         {
             "fileName": "absolutely-ultimate-potato-soup-2_image_1.webp",
-            "filePath": "recipes/absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_1.webp",
-            "relativePath": "absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_1.webp",
-            "originalUrl": "https://cdn.midjourney.com/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9/0_0.png",
+            "filePath": "recipes\/absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_1.webp",
+            "relativePath": "absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_1.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9\/0_0.png",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "absolutely-ultimate-potato-soup-2_image_2.webp",
-            "filePath": "recipes/absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_2.webp",
-            "relativePath": "absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_2.webp",
-            "originalUrl": "https://cdn.midjourney.com/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9/0_1.png",
+            "filePath": "recipes\/absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_2.webp",
+            "relativePath": "absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_2.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9\/0_1.png",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "absolutely-ultimate-potato-soup-2_image_3.webp",
-            "filePath": "recipes/absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_3.webp",
-            "relativePath": "absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_3.webp",
-            "originalUrl": "https://cdn.midjourney.com/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9/0_3.png",
+            "filePath": "recipes\/absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_3.webp",
+            "relativePath": "absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_3.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/cbb2fd5e-9db3-49bc-966d-23df07ecd0f9\/0_3.png",
             "order": 3,
             "type": "final"
         },
         {
             "fileName": "absolutely-ultimate-potato-soup-2_image_4.webp",
-            "filePath": "recipes/absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_4.webp",
-            "relativePath": "absolutely-ultimate-potato-soup-2/images/absolutely-ultimate-potato-soup-2_image_4.webp",
+            "filePath": "recipes\/absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_4.webp",
+            "relativePath": "absolutely-ultimate-potato-soup-2\/images\/absolutely-ultimate-potato-soup-2_image_4.webp",
             "originalUrl": "(Bulk 1) (Bulk 1) (Bulk 1) (Bulk 1) (Bulk 1) (Bulk 1) (Bulk 1) (Bulk 1) (Bulk 1) Template ads recipes (1080 x 1350 px) (6).png",
             "order": 4,
             "type": "final"
@@ -84,28 +85,28 @@
     ],
     "structured_content": [
         {
-            "content": "<p>This potato soup is a luscious blend of creamy textures and smoky bacon flavors that warm you from the inside out. The tender potatoes and fresh herbs create a comforting bowl that feels like a hug on a cold day, making it a beloved classic for family and friends.</p>"
+            "content": "<p>This potato soup is a luscious blend of creamy textures and smoky bacon flavors that warm you from the inside out. The tender potatoes and fresh herbs create a comforting bowl that feels like a hug on a cold day, making it a beloved classic for family and friends.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 45 minutes</li><li>Restaurant-quality flavors at home</li><li>Perfect for cold winter days, casual dinners, or comforting gatherings</li><li>Uses simple, pantry-friendly ingredients you likely have on hand</li><li>Rich, creamy texture balanced with fresh herbs and smoky bacon</li></ul>"
+                "content": "<ul><li>Quick and easy to make in under 45 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cold winter days, casual dinners, or comforting gatherings<\/li><li>Uses simple, pantry-friendly ingredients you likely have on hand<\/li><li>Rich, creamy texture balanced with fresh herbs and smoky bacon<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I’ve made this soup countless times for friends and family, and it never fails to impress. The aroma of bacon sizzling and fresh herbs fills the kitchen, making it a memorable dish that brings everyone together around the table.</p>"
+            "content": "<p>I’ve made this soup countless times for friends and family, and it never fails to impress. The aroma of bacon sizzling and fresh herbs fills the kitchen, making it a memorable dish that brings everyone together around the table.<\/p>"
         },
         {
             "headline": "Gather Your Ingredients"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:</strong> Yukon Gold or Russet potatoes work best for their creamy texture and ability to hold shape when cooked; peel and cube evenly for uniform cooking.</li><li><strong>Key seasonings/flavoring agents:</strong> Dried tarragon adds a subtle anise-like flavor while fresh cilantro brightens the soup; choose fresh herbs for the best aroma and taste.</li><li><strong>Supporting ingredients:</strong> Bacon provides smoky depth and crispy texture, celery and onion add aromatic sweetness, and heavy cream creates a rich, velvety finish.</li><li><strong>Equipment needed:</strong> A Dutch oven or heavy pot for even cooking, a skillet for the roux, and a blender for puréeing the soup smoothly.</li></ul>"
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Yukon Gold or Russet potatoes work best for their creamy texture and ability to hold shape when cooked; peel and cube evenly for uniform cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Dried tarragon adds a subtle anise-like flavor while fresh cilantro brightens the soup; choose fresh herbs for the best aroma and taste.<\/li><li><strong>Supporting ingredients:<\/strong> Bacon provides smoky depth and crispy texture, celery and onion add aromatic sweetness, and heavy cream creates a rich, velvety finish.<\/li><li><strong>Equipment needed:<\/strong> A Dutch oven or heavy pot for even cooking, a skillet for the roux, and a blender for puréeing the soup smoothly.<\/li><\/ul>"
         },
         {
             "headline": "How to Make It"
         },
         {
-            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Chop bacon, dice celery and onion, mince garlic, peel and cube potatoes. Reserve bacon grease after cooking bacon for flavor base.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Cook bacon until crisp, then sauté celery, onion, and garlic in bacon drippings. Add potatoes and bacon, cover with chicken stock, and simmer until tender. Prepare a roux with butter and flour, whisk in cream and herbs, then thicken. Combine cream mixture with potatoes, purée half for creamy texture, and season to taste.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Blend half the soup for smoothness while leaving some chunky for texture. Adjust seasoning with salt and pepper. Serve hot, optionally topped with crumbled bacon, shredded cheddar, or green onions for extra flavor and color.</dd></dl>"
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop bacon, dice celery and onion, mince garlic, peel and cube potatoes. Reserve bacon grease after cooking bacon for flavor base.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook bacon until crisp, then sauté celery, onion, and garlic in bacon drippings. Add potatoes and bacon, cover with chicken stock, and simmer until tender. Prepare a roux with butter and flour, whisk in cream and herbs, then thicken. Combine cream mixture with potatoes, purée half for creamy texture, and season to taste.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Blend half the soup for smoothness while leaving some chunky for texture. Adjust seasoning with salt and pepper. Serve hot, optionally topped with crumbled bacon, shredded cheddar, or green onions for extra flavor and color.<\/dd><\/dl>"
         },
         {
             "upload": {
@@ -116,29 +117,29 @@
         {
             "note": {
                 "label": "You Must Know",
-                "content": "<ul><li>Maintain medium heat when cooking bacon and vegetables to avoid burning.</li><li>Don’t discard all bacon grease; it adds essential smoky flavor to the base.</li><li>The soup is ready when potatoes are tender and the cream mixture has thickened to coat the back of a spoon.</li><li>Store leftovers in an airtight container in the fridge for up to 3 days; reheat gently on the stove to prevent curdling.</li></ul>"
+                "content": "<ul><li>Maintain medium heat when cooking bacon and vegetables to avoid burning.<\/li><li>Don’t discard all bacon grease; it adds essential smoky flavor to the base.<\/li><li>The soup is ready when potatoes are tender and the cream mixture has thickened to coat the back of a spoon.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days; reheat gently on the stove to prevent curdling.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this soup with loved ones on cold evenings has become a cherished tradition. Its warmth and flavor create a cozy atmosphere that turns simple meals into special moments.</p>"
+            "content": "<p>Sharing this soup with loved ones on cold evenings has become a cherished tradition. Its warmth and flavor create a cozy atmosphere that turns simple meals into special moments.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Enhance the soup by adding a pinch of smoked paprika for extra depth or a splash of white wine to the cream mixture. Fresh chives or crispy fried shallots make excellent garnishes, while a dollop of sour cream adds tangy richness.</p>"
+            "content": "<p>Enhance the soup by adding a pinch of smoked paprika for extra depth or a splash of white wine to the cream mixture. Fresh chives or crispy fried shallots make excellent garnishes, while a dollop of sour cream adds tangy richness.<\/p>"
         },
         {
             "headline": "Serving Suggestions"
         },
         {
-            "content": "<p>Serve with crusty bread or garlic toast for dipping, alongside a crisp green salad. Pair with a light white wine or a warm spiced cider for a comforting meal perfect for winter nights or casual entertaining.</p>"
+            "content": "<p>Serve with crusty bread or garlic toast for dipping, alongside a crisp green salad. Pair with a light white wine or a warm spiced cider for a comforting meal perfect for winter nights or casual entertaining.<\/p>"
         },
         {
             "headline": "Creative Variations"
         },
         {
-            "content": "<p>For a vegetarian version, replace bacon and bacon grease with extra butter or olive oil. Use vegetable stock instead of chicken stock. To make it vegan, substitute heavy cream with coconut cream or cashew cream and omit bacon entirely, adding smoked paprika for smoky flavor.</p>"
+            "content": "<p>For a vegetarian version, replace bacon and bacon grease with extra butter or olive oil. Use vegetable stock instead of chicken stock. To make it vegan, substitute heavy cream with coconut cream or cashew cream and omit bacon entirely, adding smoked paprika for smoky flavor.<\/p>"
         },
         {
             "upload": {
@@ -149,11 +150,11 @@
         {
             "note": {
                 "label": "Pro Tips",
-                "content": "<ul><li>Cook bacon slowly to render fat and achieve perfect crispness without burning.</li><li>Whisk flour into melted butter off heat first to avoid lumps before adding cream.</li><li>Simmer soup gently after adding cream to prevent curdling and maintain smooth texture.</li><li>Serve in warm bowls to keep soup hot longer and enhance presentation.</li></ul>"
+                "content": "<ul><li>Cook bacon slowly to render fat and achieve perfect crispness without burning.<\/li><li>Whisk flour into melted butter off heat first to avoid lumps before adding cream.<\/li><li>Simmer soup gently after adding cream to prevent curdling and maintain smooth texture.<\/li><li>Serve in warm bowls to keep soup hot longer and enhance presentation.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>With just a little effort, you can create a soul-satisfying soup that feels like a warm embrace. Enjoy the process and the delicious results, knowing you’ve made a dish that comforts and delights every time.</p>"
+            "content": "<p>With just a little effort, you can create a soul-satisfying soup that feels like a warm embrace. Enjoy the process and the delicious results, knowing you’ve made a dish that comforts and delights every time.<\/p>"
         }
     ],
     "created_at": "2025-10-03 18:38:07",

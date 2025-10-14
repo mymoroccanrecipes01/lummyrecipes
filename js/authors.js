@@ -12,11 +12,11 @@ class AuthorsLoader {
             await this.waitForContainer();
             
             if (!this.teamContainer) {
-                console.error('Team container not found');
+               // console.error('Team container not found');
                 return;
             }
 
-           // console.log('Loading authors from:', this.authorsPath);
+           // // console.log('Loading authors from:', this.authorsPath);
             
             const authors = await this.loadAuthorsData();
             
@@ -29,7 +29,7 @@ class AuthorsLoader {
             this.initialized = true;
 
         } catch (error) {
-            console.error('Error loading authors:', error);
+           // console.error('Error loading authors:', error);
             this.showError('Error loading team members');
         }
     }
@@ -45,7 +45,7 @@ class AuthorsLoader {
                                 document.querySelector('[data-team-container]');
             
             if (this.teamContainer) {
-               // console.log(`Team container found after ${i + 1} attempt(s)`);
+               // // console.log(`Team container found after ${i + 1} attempt(s)`);
                 return;
             }
             
@@ -77,14 +77,14 @@ class AuthorsLoader {
                 });
             
         } catch (error) {
-            console.error('Error fetching authors:', error);
+           // console.error('Error fetching authors:', error);
             return null;
         }
     }
 
     displayTeamMembers(authors) {
         if (!this.teamContainer) {
-            console.error('Team container not available');
+           // console.error('Team container not available');
             return;
         }
 
@@ -92,7 +92,7 @@ class AuthorsLoader {
         
         this.teamContainer.innerHTML = teamHTML;
         
-       // console.log(`Displayed ${authors.length} team members`);
+       // // console.log(`Displayed ${authors.length} team members`);
     }
 
     createTeamMemberCard(author) {
@@ -212,7 +212,7 @@ function initAuthorsLoader() {
     authorsInitAttempts++;
     
     if (authorsLoader && authorsLoader.initialized) {
-       // console.log('AuthorsLoader already initialized');
+       // // console.log('AuthorsLoader already initialized');
         return;
     }
 
@@ -221,14 +221,14 @@ function initAuthorsLoader() {
                      document.querySelector('[data-team-container]');
     
     if (container) {
-       // console.log('Team container found, initializing authors loader...');
+       // // console.log('Team container found, initializing authors loader...');
         authorsLoader = new AuthorsLoader();
         authorsLoader.init();
     } else if (authorsInitAttempts < maxAuthorsInitAttempts) {
-       // console.log(`Team container not found, attempt ${authorsInitAttempts}/${maxAuthorsInitAttempts}`);
+       // // console.log(`Team container not found, attempt ${authorsInitAttempts}/${maxAuthorsInitAttempts}`);
         setTimeout(initAuthorsLoader, 200);
     } else {
-        console.error('Team container not found after', maxAuthorsInitAttempts, 'attempts');
+       // console.error('Team container not found after', maxAuthorsInitAttempts, 'attempts');
     }
 }
 
@@ -270,7 +270,7 @@ if (typeof MutationObserver !== 'undefined') {
 
 // Force initialization function (for debugging)
 window.forceInitAuthorsLoader = function() {
-   // console.log('Force authors initialization...');
+   // // console.log('Force authors initialization...');
     authorsLoader = null;
     authorsInitAttempts = 0;
     initAuthorsLoader();
