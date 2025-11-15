@@ -1,131 +1,119 @@
 {
-    "id": "text_recipe_1762205296_616",
-    "slug": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting",
-    "title": "Moist Strawberry Shortcake Cake with Whipped Cream Frosting",
-    "promptIMG": "Moist Strawberry Shortcake Cake, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "Indulge in this delightful moist strawberry shortcake cake, layered with fluffy vanilla cake, juicy macerated strawberries, and topped with airy whipped cream frosting. Perfect for warm-weather celebrations, it’s a refreshing dessert that will impress your guests and satisfy your sweet tooth.",
-    "category_id": "cat_1761230294_638",
-    "author_id": "author_001",
+    "title": "Moist Strawberry Shortcake for Celebrations",
+    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"strawberry shortcake, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Enjoy a moist strawberry shortcake layered with fluffy vanilla cake and juicy strawberries. This refreshing dessert is perfect for warm-weather celebrations and will impress your guests.",
+    "difficulty": "easy",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 8,
     "ingredients": [
-        "2 cups all-purpose flour",
-        "1 ½ cups granulated sugar",
-        "½ cup unsalted butter, softened",
-        "1 cup milk",
-        "3 ½ teaspoons baking powder",
-        "1 teaspoon vanilla extract",
-        "½ teaspoon salt",
-        "4 cups fresh strawberries, sliced",
-        "2 cups heavy whipping cream",
-        "¼ cup powdered sugar"
+        "fluffy vanilla cake",
+        "juicy macerated strawberries",
+        "airy whipped cream frosting"
     ],
     "instructions": [
-        "Preheat the oven to 350°F (175°C) and grease two 9-inch round cake pans.",
-        "In a large mixing bowl, cream together the butter and granulated sugar until light and fluffy.",
-        "Add the eggs, milk, vanilla extract, and mix until well combined.",
-        "In another bowl, whisk together the flour, baking powder, and salt.",
-        "Gradually add the dry ingredients to the wet mixture, mixing until just combined.",
-        "Divide the batter evenly between the prepared cake pans and smooth the tops.",
-        "Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
-        "Allow the cakes to cool in the pans for 10 minutes before transferring to wire racks to cool completely.",
-        "While the cakes are cooling, macerate the strawberries by mixing them with a tablespoon of sugar and letting them sit for 15 minutes.",
-        "In a separate bowl, whip the heavy cream and powdered sugar until stiff peaks form.",
-        "Once the cakes are cool, place one layer on a serving plate, spread a layer of whipped cream, and top with macerated strawberries.",
-        "Place the second cake layer on top and frost the top and sides with the remaining whipped cream.",
-        "Garnish with additional strawberries and serve."
+        "Prepare the vanilla cake according to your favorite recipe or box mix.",
+        "Macerate strawberries by mixing them with sugar and letting them sit until they release their juices.",
+        "Once the cake is baked and cooled, slice it into layers.",
+        "Layer the cake with macerated strawberries and whipped cream frosting.",
+        "Top with additional whipped cream and strawberries for decoration."
     ],
-    "prep_time": 15,
-    "cook_time": 35,
-    "total_time": 50,
-    "servings": 12,
-    "difficulty": "medium",
-    "tips": "For the best results, use fresh, ripe strawberries and ensure your whipped cream is whipped to stiff peaks for a perfect frosting consistency.",
+    "tips": "For the best flavor, use fresh, ripe strawberries. Ensure the cake is completely cooled before layering to prevent melting the frosting. Chill the whipped cream for better stability.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This moist strawberry shortcake cake is a delightful blend of fluffy vanilla cake and juicy strawberries, topped with a light whipped cream frosting. It's perfect for any warm-weather celebration, bringing a touch of elegance to your dessert table.<\/p>"
+            "content": "<p>Picture this: a moist strawberry shortcake, layers of fluffy vanilla cake interspersed with juicy strawberries and topped with airy whipped cream. This dessert is not only a feast for the eyes but also a delightful treat that brings joy to any gathering.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 50 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for summer gatherings and celebrations<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Visually stunning with its layered presentation<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 20 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for warm-weather celebrations<\/li><li>Common pantry staples required<\/li><li>Perfect for impressing guests<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I remember making this cake for my family’s summer barbecue, and it was a hit! The combination of fresh strawberries and whipped cream always brings back fond memories of warm sunny days.<\/p>"
+            "content": "<p>I discovered this strawberry shortcake recipe during a summer picnic. It quickly became a family favorite, with everyone asking for seconds and thirds!<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh strawberries are key for sweetness and flavor; choose ripe ones for the best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Vanilla extract enhances the cake's flavor; opt for pure extract for the best taste.<\/li><li><strong>Supporting ingredients:<\/strong> Heavy cream is essential for the frosting, providing a rich and airy texture.<\/li><li><strong>Equipment needed:<\/strong> Two 9-inch round cake pans, mixing bowls, and a hand mixer or stand mixer for whipping cream.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> fluffy vanilla cake - provides a light and airy base<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> juicy macerated strawberries - add sweetness and freshness<\/li><li><strong>Complementary components:<\/strong> airy whipped cream frosting - enhances the dessert's lightness<\/li><li><strong>Required tools:<\/strong> mixing bowls, cake pans, spatula, and a knife<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "Preparation of the ingredients for the strawberry shortcake cake, showcasing the fresh strawberries and cake batter.",
+                "context": "Fresh strawberries with whipped cream and vanilla cake layers arranged on a wooden table ready for serving.",
                 "url": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_1.webp",
-                "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_1.webp",
-                "type": "main"
+                "type": "main",
+                "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and preparing your cake pans. Cream the butter and sugar until fluffy, then add the wet ingredients.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Mix the dry ingredients separately, then combine with the wet mixture. Bake until golden and a toothpick comes out clean.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Layer the cakes with whipped cream and strawberries, and frost the top and sides for a beautiful presentation.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Prepare the vanilla cake according to your favorite recipe or box mix.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Bake the cake until golden brown and a toothpick inserted comes out clean, about 30 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Layer the cooled cake with macerated strawberries and whipped cream frosting, finishing with a decorative topping.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Cooking process of the strawberry shortcake cake, highlighting the baking and layering steps.",
+                "context": "Strawberry shortcake being layered with whipped cream and strawberries in a baking dish with visible cake layers.",
                 "url": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_2.webp",
-                "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_2.webp",
-                "type": "process"
+                "type": "process",
+                "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Ensure your butter is at room temperature for easy creaming.<\/li><li>A common mistake is overmixing the batter; mix just until combined.<\/li><li>Check for doneness by inserting a toothpick into the center of the cake.<\/li><li>Store leftovers in the refrigerator for up to 3 days.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use fresh strawberries for the best flavor<\/li><li>Avoid overmixing the cake batter to keep it fluffy<\/li><li>Check for doneness by inserting a toothpick into the cake<\/li><li>Store leftovers in the refrigerator for up to 2 days<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This cake is a family favorite, often made for birthdays and special occasions. Sharing it with loved ones makes it even more special.<\/p>"
+            "content": "<p>Every time I serve this strawberry shortcake, it brings smiles and satisfaction. It's a reminder that simple ingredients can create unforgettable moments with loved ones.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a splash of lemon juice to the strawberries for a zesty twist or infusing the whipped cream with a hint of almond extract for extra depth.<\/p>"
+            "content": "<p>Add a splash of vanilla extract to the whipped cream for extra flavor, or incorporate lemon zest into the strawberries for a citrusy twist. A drizzle of chocolate sauce can also elevate the dessert.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>This cake pairs beautifully with a scoop of vanilla ice cream or a glass of chilled lemonade, making it perfect for summer gatherings.<\/p>"
+            "content": "<p>Serve with a scoop of vanilla ice cream or alongside a fresh fruit salad for a refreshing contrast. Pair with iced tea or lemonade for a perfect summer meal.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free version, substitute all-purpose flour with a gluten-free blend. You can also swap strawberries for other berries like blueberries or raspberries.<\/p>"
+            "content": "<p>Substitute the vanilla cake with a gluten-free option for dietary needs, or replace strawberries with other berries like blueberries or raspberries for a different flavor profile.<\/p>"
         },
         {
             "upload": {
-                "context": "Final plated dish of the moist strawberry shortcake cake, beautifully garnished and ready to serve.",
+                "context": "Perfectly layered strawberry shortcake plated on a white dish with fresh strawberries and mint leaves visible.",
                 "url": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_3.webp",
-                "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_3.webp",
-                "type": "final"
+                "type": "final",
+                "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Chill your mixing bowl before whipping cream for better volume.<\/li><li>Use a serrated knife to slice the cake layers evenly.<\/li><li>Assemble the cake just before serving to keep the layers fresh.<\/li><li>Decorate with mint leaves for an elegant touch.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>Use a serrated knife for clean cake layers<\/li><li>Chill the whipped cream before whipping for better volume<\/li><li>Layer the cake just before serving to maintain freshness<\/li><li>Garnish with mint for a pop of color<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to try this recipe! The joy of creating and sharing this beautiful cake will surely bring smiles to your table.<\/p>"
+            "content": "<p>Don't miss out on this delightful strawberry shortcake recipe. With a total time of just 50 minutes, you can create a dessert that feels special yet is easy to make. Your family will love this refreshing treat!<\/p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_1.webp",
@@ -155,16 +143,19 @@
             "fileName": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp",
             "filePath": "recipes\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp",
             "relativePath": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting",
+    "id": "text_recipe_1762205296_616",
+    "author_id": "author_001",
     "image": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_1.webp",
     "image_path": "recipes\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images\/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_1.webp",
     "image_dir": "moist-strawberry-shortcake-cake-with-whipped-cream-frosting\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-03T22:28:16+01:00",
-    "updatedAt": "2025-11-03T22:28:16+01:00"
+    "createdAt": "2025-11-15T19:14:14+01:00",
+    "updatedAt": "2025-11-15T19:14:14+01:00"
 }
