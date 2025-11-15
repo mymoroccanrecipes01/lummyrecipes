@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dinner-inspiration Recipes - RSS Feed</title>
+    <link>http://www.lummyrecipes.com/base.html</link>
+    <description>Fresh dinner-inspiration recipes and cooking inspiration</description>
+    <language>en-US</language>
+    <copyright>© 2025 www.lummyrecipes.com</copyright>
+    <managingEditor>info@lummyrecipes.com</managingEditor>
+    <webMaster>webmaster@lummyrecipes.com</webMaster>
+    <pubDate>Sat, 15 Nov 2025 21:00:48 +0100</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2025 21:00:48 +0100</lastBuildDate>
+    <category>dinner-inspiration</category>
+    <generator>Recipes - RSS Feed www.lummyrecipes.com</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://www.lummyrecipes.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.lummyrecipes.com/base.html/images/logo.png</url>
+      <title>dinner-inspiration Recipes - RSS Feed</title>
+      <link>http://www.lummyrecipes.com/base.html</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Homemade Matzo Ball Soup for Family Gatherings</title>
+      <link>http://www.lummyrecipes.com/base.html?page=recipe-detail&amp;recipe=matzo-ball-soup</link>
+      <description>Enjoy the comforting flavors of homemade Matzo Ball Soup, featuring fluffy matzo balls in savory chicken broth with fresh vegetables. A perfect dish for family gatherings!</description>
+      <pubDate>Sat, 15 Nov 2025 19:14:17 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lummyrecipes.com/base.html?page=recipe-detail&amp;recipe=matzo-ball-soup</guid>
+      <category>cat_1761230383_494</category>
+      <dc:creator>author_001</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.lummyrecipes.com/recipes/matzo-ball-soup/images/matzo-ball-soup_image_4.webp" alt="Homemade Matzo Ball Soup for Family Gatherings" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 30 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 60 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> N/A minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 6</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>4 large eggs</li><li>1 cup matzo meal</li><li>1/4 cup vegetable oil</li><li>1/4 cup water</li><li>1 teaspoon salt</li><li>1/4 teaspoon black pepper</li><li>8 cups chicken broth</li><li>2 carrots, diced</li><li>2 celery stalks, diced</li><li>1 onion, diced</li><li>Fresh dill for garnish</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>In a bowl, beat the eggs and mix in the matzo meal, vegetable oil, water, salt, and pepper. Refrigerate for 30 minutes.</li><li>In a large pot, bring the chicken broth to a boil. Add the carrots, celery, and onion.</li><li>Wet your hands and form the matzo mixture into balls. Drop them into the boiling broth.</li><li>Reduce heat and simmer for 30 minutes until the matzo balls are cooked through.</li><li>Serve hot, garnished with fresh dill.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230383494 #easyrecipe #recipe #cooking #foodie #homemade #delicious #large #matzo #vegetable</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.lummyrecipes.com/recipes/matzo-ball-soup/images/matzo-ball-soup_image_4.webp" medium="image" type="image/webp">
+        <media:title>Homemade Matzo Ball Soup for Family Gatherings</media:title>
+        <media:description>Enjoy the comforting flavors of homemade Matzo Ball Soup, featuring fluffy matzo balls in savory chicken broth with fresh vegetables. A perfect dish for family gatherings!</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230383494, easyrecipe, recipe, cooking, foodie, homemade, delicious, large, matzo, vegetable</media:keywords>
+      </media:group>
+    </item>
+    <item>
+      <title>Moist Pumpkin Bread for Cozy Gatherings</title>
+      <link>http://www.lummyrecipes.com/base.html?page=recipe-detail&amp;recipe=moist-pumpkin-bread</link>
+      <description>This moist pumpkin bread is infused with cozy spices, making it perfect for gatherings or a comforting treat at home. Experience delightful aromas and flavors that warm the soul.</description>
+      <pubDate>Sat, 15 Nov 2025 19:14:14 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lummyrecipes.com/base.html?page=recipe-detail&amp;recipe=moist-pumpkin-bread</guid>
+      <category>cat_1761230383_494</category>
+      <dc:creator>author_001</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.lummyrecipes.com/recipes/moist-pumpkin-bread/images/moist-pumpkin-bread_image_4.webp" alt="Moist Pumpkin Bread for Cozy Gatherings" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 60 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> N/A minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 8</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>1 3/4 cups all-purpose flour</li><li>1 teaspoon baking soda</li><li>1/2 teaspoon baking powder</li><li>1/2 teaspoon salt</li><li>1 teaspoon ground cinnamon</li><li>1/2 teaspoon ground nutmeg</li><li>1/4 teaspoon ground cloves</li><li>1/2 cup vegetable oil</li><li>1 cup granulated sugar</li><li>1/2 cup brown sugar</li><li>2 large eggs</li><li>1 cup canned pumpkin puree</li><li>1/4 cup water</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Preheat the oven to 350°F (175°C). Grease a 9x5 inch loaf pan.</li><li>In a medium bowl, whisk together the flour, baking soda, baking powder, salt, cinnamon, nutmeg, and cloves.</li><li>In a large bowl, mix the vegetable oil, granulated sugar, and brown sugar until well combined.</li><li>Add the eggs one at a time, mixing well after each addition. Stir in the pumpkin puree and water.</li><li>Gradually add the dry ingredients to the wet ingredients, mixing until just combined.</li><li>Pour the batter into the prepared loaf pan and smooth the top.</li><li>Bake for 60 minutes, or until a toothpick inserted into the center comes out clean.</li><li>Allow the bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230383494 #easyrecipe #recipe #cooking #foodie #homemade #delicious #allpurpose #teaspoon</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.lummyrecipes.com/recipes/moist-pumpkin-bread/images/moist-pumpkin-bread_image_4.webp" medium="image" type="image/webp">
+        <media:title>Moist Pumpkin Bread for Cozy Gatherings</media:title>
+        <media:description>This moist pumpkin bread is infused with cozy spices, making it perfect for gatherings or a comforting treat at home. Experience delightful aromas and flavors that warm the soul.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230383494, easyrecipe, recipe, cooking, foodie, homemade, delicious, allpurpose, teaspoon</media:keywords>
+      </media:group>
+    </item>
+    <item>
+      <title>Moist Strawberry Shortcake for Celebrations</title>
+      <link>http://www.lummyrecipes.com/base.html?page=recipe-detail&amp;recipe=moist-strawberry-shortcake-cake-with-whipped-cream-frosting</link>
+      <description>Enjoy a moist strawberry shortcake layered with fluffy vanilla cake and juicy strawberries. This refreshing dessert is perfect for warm-weather celebrations and will impress your guests.</description>
+      <pubDate>Sat, 15 Nov 2025 19:14:14 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lummyrecipes.com/base.html?page=recipe-detail&amp;recipe=moist-strawberry-shortcake-cake-with-whipped-cream-frosting</guid>
+      <category>cat_1761230383_494</category>
+      <dc:creator>author_001</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.lummyrecipes.com/recipes/moist-strawberry-shortcake-cake-with-whipped-cream-frosting/images/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp" alt="Moist Strawberry Shortcake for Celebrations" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 20 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 30 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> N/A minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 8</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>fluffy vanilla cake</li><li>juicy macerated strawberries</li><li>airy whipped cream frosting</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Prepare the vanilla cake according to your favorite recipe or box mix.</li><li>Macerate strawberries by mixing them with sugar and letting them sit until they release their juices.</li><li>Once the cake is baked and cooled, slice it into layers.</li><li>Layer the cake with macerated strawberries and whipped cream frosting.</li><li>Top with additional whipped cream and strawberries for decoration.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230383494 #easyrecipe #1hourmeals #recipe #cooking #foodie #homemade #delicious #fluffy #juicy #whipped</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.lummyrecipes.com/recipes/moist-strawberry-shortcake-cake-with-whipped-cream-frosting/images/moist-strawberry-shortcake-cake-with-whipped-cream-frosting_image_4.webp" medium="image" type="image/webp">
+        <media:title>Moist Strawberry Shortcake for Celebrations</media:title>
+        <media:description>Enjoy a moist strawberry shortcake layered with fluffy vanilla cake and juicy strawberries. This refreshing dessert is perfect for warm-weather celebrations and will impress your guests.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230383494, easyrecipe, 1hourmeals, recipe, cooking, foodie, homemade, delicious, fluffy, juicy, whipped</media:keywords>
+      </media:group>
+    </item>
+  </channel>
+</rss>
