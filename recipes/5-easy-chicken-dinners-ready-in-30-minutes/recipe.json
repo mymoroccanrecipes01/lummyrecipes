@@ -1,0 +1,166 @@
+{
+    "title": "Quick Chicken Dinners for Busy Nights",
+    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"quick chicken dinners, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Discover quick chicken dinners that transform your weeknight meals. Ready in just 30 minutes, these flavorful dishes will impress your family and save you time!",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "1 teaspoon paprika",
+        "Salt and pepper to taste",
+        "1 cup chicken broth",
+        "1 cup broccoli florets",
+        "1 cup cherry tomatoes"
+    ],
+    "instructions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Season chicken breasts with garlic powder, paprika, salt, and pepper.",
+        "Add chicken to the skillet and cook for 5-7 minutes on each side until golden brown.",
+        "Pour in chicken broth and bring to a simmer.",
+        "Add broccoli and cherry tomatoes, cover, and cook for an additional 5-7 minutes until chicken is cooked through and vegetables are tender."
+    ],
+    "tips": "For juicy chicken, avoid overcooking; it should reach an internal temperature of 165°F. Let the chicken rest for a few minutes before slicing to retain juices. Use fresh vegetables for the best flavor and texture.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
+    "structured_content": [
+        {
+            "content": "<p>Picture this: tender chicken breasts seared to perfection, surrounded by vibrant broccoli and juicy cherry tomatoes. This quick dinner not only delights the palate but also fits seamlessly into your busy schedule.<\/p>"
+        },
+        {
+            "note": {
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 10 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for busy evenings<\/li><li>Common pantry staples required<\/li><li>Perfect for family dinners<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I stumbled upon this recipe during a hectic week when I needed a quick yet satisfying meal. My family loved it so much that it quickly became a staple in our dinner rotation.<\/p>"
+        },
+        {
+            "headline": "Ingredient Assembly"
+        },
+        {
+            "content": "<ul><li><strong>Primary component:<\/strong> Chicken breasts - they cook quickly and absorb flavors well.<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Garlic powder and paprika - they add depth and warmth.<\/li><li><strong>Complementary components:<\/strong> Broccoli and cherry tomatoes - they provide color and nutrition.<\/li><li><strong>Required tools:<\/strong> Large skillet, measuring spoons, and a spatula.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Fresh chicken breasts with garlic powder, paprika, broccoli, and cherry tomatoes arranged on a cutting board ready for cooking.",
+                "url": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+                "type": "main",
+                "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp"
+            }
+        },
+        {
+            "headline": "Preparation Method"
+        },
+        {
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Season chicken breasts with garlic powder, paprika, salt, and pepper.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Heat olive oil in a large skillet over medium heat, add chicken, and cook for 5-7 minutes on each side until golden brown.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Pour in chicken broth, add vegetables, cover, and cook for an additional 5-7 minutes until everything is cooked through.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Chicken breasts simmering in skillet with broth, broccoli, and cherry tomatoes, bubbling gently as they cook.",
+                "url": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+                "type": "process",
+                "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp"
+            }
+        },
+        {
+            "note": {
+                "label": "Essential Knowledge",
+                "content": "<ul><li>For best results, use a meat thermometer to check doneness.<\/li><li>Avoid overcrowding the skillet to ensure even cooking.<\/li><li>Chicken is done when it reaches an internal temperature of 165°F.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every time I serve this dish, I'm reminded of how simple ingredients can create a memorable meal. Watching my family enjoy it makes the effort worthwhile.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a splash of lemon juice for brightness, or sprinkle with fresh herbs like parsley or basil for added freshness. A dash of red pepper flakes can bring a nice kick.<\/p>"
+        },
+        {
+            "headline": "Accompaniment Ideas"
+        },
+        {
+            "content": "<p>Serve with fluffy rice or quinoa to soak up the flavorful broth, or alongside a crisp green salad for a refreshing contrast.<\/p>"
+        },
+        {
+            "headline": "Recipe Adaptations"
+        },
+        {
+            "content": "<p>Substitute chicken with firm tofu for a vegetarian option, adjusting cook time. For a low-carb meal, serve over cauliflower rice instead of regular rice.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Perfectly cooked chicken dinner plated on a white dish with vibrant broccoli and cherry tomatoes visible.",
+                "url": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+                "type": "final",
+                "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp"
+            }
+        },
+        {
+            "note": {
+                "label": "Expert Insights",
+                "content": "<ul><li>For a richer flavor, marinate the chicken in spices for an hour before cooking.<\/li><li>Deglaze the skillet with white wine after cooking the chicken for a delicious sauce.<\/li><li>Timing is key; have all ingredients prepped before starting to cook.<\/li><li>Garnish with fresh herbs for an appealing presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 30 minutes away. Your family deserves this simplicity.<\/p>"
+        }
+    ],
+    "category_id": "cat_1761230383_494",
+    "images": [
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_4.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_4.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "slug": "5-easy-chicken-dinners-ready-in-30-minutes",
+    "id": "text_recipe_1762462146_109",
+    "author_id": "author_001",
+    "image": "5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+    "image_path": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+    "image_dir": "5-easy-chicken-dinners-ready-in-30-minutes\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-15T18:45:02+01:00",
+    "updatedAt": "2025-11-15T18:45:02+01:00"
+}

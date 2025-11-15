@@ -1,0 +1,9 @@
+globalThis.facebookURL = "#";
+globalThis.PinterestURL = "https://www.pinterest.com/lummyrecipes/";
+globalThis.twitterURL = "#";
+globalThis.redditURL = "#";
+globalThis.siteUrl = 'https://www.lummyrecipes.com';
+globalThis.homepageTitle = 'LUMMY RECIPES';
+globalThis.homepageTagline = 'LUMMY RECIPES - Simple Recipes for Every day';
+globalThis.email = 'contact@lummyrecipes.com';
+globalThis.copyright = '2023 - 2024 LUMMY RECIPES. All rights reserved.';
