@@ -1,153 +1,157 @@
 {
-    "id": "recipe_1763052030_362",
-    "slug": "melt-in-your-mouth-chicken-for-busy-families",
-    "title": "Melt-In-Your-Mouth Chicken for Busy Families",
-    "promptIMG": "Melt-In-Your-Mouth Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "title": "Melt-in-Your-Mouth Chicken for Family Dinners",
+    "promptIMG": "\"Melt-in-your-mouth chicken, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
     "isOnline": false,
-    "description": "This melt-in-your-mouth chicken is a weeknight lifesaver! Juicy, tender, and bursting with flavor, it's a dish the whole family will adore. Try it tonight for a quick and delicious dinner!",
-    "category_id": "cat_1761229889_885",
-    "author_id": "author_001",
+    "description": "Enjoy melt-in-your-mouth chicken that's juicy and tender, perfect for busy weeknights. Quick to prepare and bursting with flavor, it's a family favorite!",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
     "ingredients": [
         "4 chicken breasts",
-        "2 tablespoons olive oil",
-        "3 cloves garlic, minced",
-        "1 teaspoon dried thyme",
-        "1 teaspoon dried rosemary",
+        "1 tablespoon olive oil",
+        "2 teaspoons garlic powder",
+        "1 teaspoon onion powder",
         "Salt and pepper to taste"
     ],
     "instructions": [
-        "Heat olive oil in a large skillet over medium heat.",
-        "Season chicken breasts with salt, pepper, garlic, thyme, and rosemary.",
-        "Add chicken to the skillet and cook for 5-7 minutes on each side until golden brown and cooked through."
+        "Preheat the oven to 375°F (190°C).",
+        "In a large bowl, combine olive oil, garlic powder, onion powder, salt, and pepper.",
+        "Add the chicken breasts to the bowl and coat them evenly with the mixture.",
+        "Place the chicken breasts in a baking dish and bake for 25-30 minutes, or until the chicken is cooked through.",
+        "Let the chicken rest for 5 minutes before slicing and serving."
     ],
-    "prep_time": 15,
-    "cook_time": 25,
-    "total_time": 40,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For the juiciest chicken, let it rest for a few minutes before slicing.",
+    "tips": "For the juiciest chicken, ensure not to overcook it - it should reach an internal temperature of 165°F. Letting it rest allows the juices to redistribute for better flavor.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This Melt-In-Your-Mouth Chicken is the epitome of comfort food, perfect for busy weeknights. The combination of garlic and herbs creates a mouthwatering aroma that fills your kitchen, making it irresistible!<\/p>"
+            "content": "<p>Picture this: juicy chicken breasts baked to perfection, infused with aromatic garlic and onion flavors. This dish transforms simple ingredients into a delightful meal ready in no time, perfect for busy weeknights.</p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Gluten-free and healthy!<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes</li><li>Professional-level taste from your home kitchen</li><li>Ideal for busy evenings</li><li>Common pantry staples required</li><li>Perfect for family dinners</li></ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made this dish for my family; the smiles on their faces as they took their first bites were priceless. It quickly became a weekly staple in our household!<\/p>"
+            "content": "<p>I discovered this recipe on a hectic weeknight when I needed something quick yet delicious. My family loved it so much, it quickly became a staple in our dinner rotation.</p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breasts are best for this recipe because they remain juicy and tender when cooked properly.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic, thyme, and rosemary add depth and aroma to the chicken.<\/li><li><strong>Supporting ingredients:<\/strong> Olive oil helps to achieve a golden crust while keeping the chicken moist.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:</strong> Chicken breasts - they provide a juicy and tender base for the dish.</li><li><strong>Essential aromatics/flavor elements:</strong> Garlic powder and onion powder - they enhance the chicken's flavor profile.</li><li><strong>Complementary components:</strong> Olive oil - it helps to keep the chicken moist during baking.</li><li><strong>Required tools:</strong> Baking dish, mixing bowl, and measuring spoons.</li></ul>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the ingredients preparation.",
-                "url": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-                "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+                "context": "Fresh chicken breasts coated in olive oil, garlic powder, and onion powder arranged in a baking dish ready for the oven.",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by patting the chicken breasts dry and seasoning them generously with salt, pepper, garlic, thyme, and rosemary. Let them sit for 5 minutes to absorb the flavors.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the olive oil in a skillet over medium heat. Once hot, add the chicken breasts and cook for 5-7 minutes on each side until they are golden brown and the internal temperature reaches 165°F.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Remove the chicken from the skillet and let it rest for a few minutes before slicing. This helps retain the juices.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Preheat the oven to 375°F (190°C) and prepare a baking dish.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Combine olive oil, garlic powder, onion powder, salt, and pepper in a bowl. Coat the chicken breasts and place them in the baking dish. Bake for 25-30 minutes.</dd><dt><strong>Final Assembly:</strong></dt><dd>Let the chicken rest for 5 minutes before slicing and serving.</dd></dl>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the cooking process.",
-                "url": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-                "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-                "type": "main"
+                "context": "Melt-in-your-mouth chicken baking in the oven with juices bubbling and a golden crust forming.",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook the chicken over medium heat to avoid burning while ensuring it cooks through.<\/li><li>A common mistake is to overcrowd the skillet; cook in batches if necessary.<\/li><li>Chicken is ready when it reaches an internal temperature of 165°F.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use a meat thermometer to ensure the chicken reaches 165°F for perfect doneness.</li><li>Avoid overcooking to prevent dryness.</li><li>Letting the chicken rest allows juices to redistribute, enhancing flavor.</li><li>Store leftovers in an airtight container in the refrigerator for up to 3 days.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing this dish with my loved ones brings me joy; it's a simple yet elegant meal that sparks conversation and laughter around the table.<\/p>"
+            "content": "<p>Every time I serve this chicken, I'm reminded that simple meals can be incredibly satisfying. Watching my family enjoy it makes it a cherished recipe in our home.</p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Enhance the dish by adding a splash of lemon juice or a sprinkle of fresh herbs just before serving for an extra burst of flavor.<\/p>"
+            "content": "<p>Add a splash of lemon juice before serving for brightness, or sprinkle fresh herbs like parsley for a pop of color and flavor. A dash of paprika can also add a nice smoky depth.</p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Pair this chicken with a fresh salad, roasted vegetables, or creamy mashed potatoes for a complete meal.<\/p>"
+            "content": "<p>Serve with roasted vegetables or a fresh salad for a complete meal. Pairing with rice or quinoa can also soak up the delicious juices.</p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free option, ensure all seasonings are certified gluten-free. You can also swap chicken for turkey or tofu for a vegetarian twist.<\/p>"
+            "content": "<p>Substitute chicken breasts with thighs for a richer flavor, or use tofu for a vegetarian option, adjusting the cooking time accordingly.</p>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the final plated dish or variation.",
-                "url": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-                "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-                "type": "main"
+                "context": "Perfectly cooked melt-in-your-mouth chicken plated on a white dish with fresh herbs and a side of roasted vegetables.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use a meat thermometer for perfect doneness every time.<\/li><li>Marinate the chicken for an hour for even more flavor.<\/li><li>Let the chicken rest before slicing to keep it juicy.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>Brining the chicken for a few hours can enhance juiciness.</li><li>Marinating overnight can deepen the flavor.</li><li>Letting the chicken rest before slicing ensures maximum juiciness.</li><li>Garnish with fresh herbs for an appealing presentation.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to make this dish your own! Cooking should be a joyful experience, and I hope this recipe inspires you to create delicious memories.<\/p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 45 minutes away. Your family deserves this simplicity.</p>"
         }
     ],
+    "category_id": "cat_1761229889_885",
     "images": [
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
-            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
+            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "melt-in-your-mouth-chicken-for-busy-families",
+    "id": "recipe_1763052030_362",
+    "author_id": "author_001",
     "image": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-    "image_path": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-    "image_dir": "melt-in-your-mouth-chicken-for-busy-families\/images",
+    "image_path": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+    "image_dir": "melt-in-your-mouth-chicken-for-busy-families/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-13T17:52:08+01:00",
-    "updatedAt": "2025-11-13T17:52:08+01:00"
+    "createdAt": "2025-11-15T21:05:50+01:00",
+    "updatedAt": "2025-11-16T15:31:45+01:00"
 }

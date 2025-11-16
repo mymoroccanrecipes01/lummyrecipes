@@ -1,112 +1,124 @@
 {
-    "id": "text_recipe_1762477232_398",
-    "slug": "make-ahead-freezer-shrimp-dinners",
-    "title": "Make-Ahead Freezer Shrimp Dinners",
-    "promptIMG": "Shrimp dinner, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "These make-ahead shrimp dinners are not only quick and easy to prepare, but they also deliver restaurant-quality flavors right in your home. Perfect for busy weeknights, these meals will satisfy your cravings without the hassle.",
-    "category_id": "cat_1761230072_178",
-    "author_id": "author_001",
+    "title": "Quick and Easy Shrimp Dinners for Busy Weeknights",
+    "promptIMG": "\"Shrimp dinner, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Enjoy quick and easy shrimp dinners that bring restaurant-quality flavors to your home. Perfect for busy weeknights, these meals satisfy cravings without hassle.",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 4,
     "ingredients": [
-        "1 pound shrimp peeled and deveined",
-        "2 tablespoons olive oil"
+        "1 pound shrimp, peeled and deveined",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1 teaspoon paprika",
+        "Salt and pepper to taste",
+        "1 lemon, juiced",
+        "Fresh parsley for garnish"
     ],
     "instructions": [
-        "Heat olive oil in large skillet over medium heat.",
-        "Add shrimp and cook 2-3 minutes per side until pink."
+        "Heat olive oil in a large skillet over medium heat.",
+        "Add minced garlic and sauté until fragrant, about 1 minute.",
+        "Stir in paprika, salt, and pepper.",
+        "Add shrimp and cook until pink and opaque, about 3-4 minutes.",
+        "Remove from heat and stir in lemon juice.",
+        "Garnish with fresh parsley before serving."
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect results, ensure your shrimp are fresh and not overcooked. A dash of lemon juice at the end can elevate the flavors beautifully.",
+    "tips": "For the juiciest shrimp, avoid overcooking - they're done when pink and opaque. Pat shrimp dry before cooking for better browning. Use fresh lemon juice for a brighter flavor.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>These make-ahead shrimp dinners are a lifesaver for anyone looking to enjoy a delicious meal without spending hours in the kitchen. With their vibrant colors and mouthwatering flavors, they are sure to impress your family and friends.<\/p>"
+            "content": "<p>Picture this: succulent shrimp sizzling in fragrant garlic oil, filling your kitchen with an irresistible aroma. This quick dinner transforms simple ingredients into a show-stopping meal ready faster than delivery.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Freezer-friendly for meal prep convenience<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for busy evenings<\/li><li>Common pantry staples required<\/li><li>Perfect for satisfying shrimp cravings<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, my family often enjoyed shrimp dinners on special occasions. This recipe brings back those cherished memories while allowing me to create new ones with my loved ones.<\/p>"
+            "content": "<p>I discovered this on a Tuesday when soccer practice ran late. The kids declared it restaurant food and now it's our weekly favorite.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp are key for the best flavor and texture; make sure they are peeled and deveined before cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Olive oil adds richness; consider adding garlic or herbs for extra flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Lemon juice brightens the dish and enhances the shrimp's natural sweetness.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> shrimp - tender and flavorful, perfect for quick cooking<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> garlic and paprika - add depth and warmth<\/li><li><strong>Complementary components:<\/strong> olive oil and lemon juice - enhance the dish's richness and brightness<\/li><li><strong>Required tools:<\/strong> large skillet, spatula, measuring spoons<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh shrimp and olive oil ready for cooking.",
+                "context": "Fresh peeled shrimp with minced garlic, paprika, and lemon arranged on kitchen counter ready for cooking.",
                 "url": "make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_1.webp",
-                "fileName": "make-ahead-freezer-shrimp-dinners_image_1.webp",
-                "type": "main"
+                "type": "main",
+                "fileName": "make-ahead-freezer-shrimp-dinners_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by thawing your shrimp if frozen. Pat them dry with a paper towel to ensure they sear nicely.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat olive oil in a skillet over medium heat. Add shrimp and cook for 2-3 minutes on each side until they turn pink and opaque.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Remove from heat and drizzle with fresh lemon juice before serving for a zesty kick.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Peel and devein shrimp, mince garlic, and measure out spices.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Heat olive oil in a large skillet over medium heat. Add minced garlic and sauté until fragrant, about 1 minute. Stir in paprika, salt, and pepper. Add shrimp and cook until pink and opaque, about 3-4 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Remove from heat and stir in lemon juice. Garnish with fresh parsley before serving.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "The shrimp sizzling in the skillet, showcasing the cooking process.",
+                "context": "Garlic shrimp sizzling in hot skillet with pink shrimp turning opaque, steam rising from bubbling oil.",
                 "url": "make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_2.webp",
-                "fileName": "make-ahead-freezer-shrimp-dinners_image_2.webp",
-                "type": "process"
+                "type": "process",
+                "fileName": "make-ahead-freezer-shrimp-dinners_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook shrimp just until they turn pink to avoid rubbery texture.<\/li><li>A common mistake is overcooking; watch them closely!<\/li><li>They are ready when they are opaque and firm to the touch.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>For the best flavor, use fresh garlic.<\/li><li>A common mistake is overcooking the shrimp, which can make them tough.<\/li><li>Shrimp are done when they turn pink and opaque.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this dish with friends over a casual dinner brings joy and laughter, reminding me of the importance of good food and great company.<\/p>"
+            "content": "<p>Every time I serve this, I'm reminded that great meals don't need complexity. Watching my family reach for seconds confirms this earned its permanent spot in our rotation.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Customize your shrimp by adding spices like paprika or cayenne for heat, or toss in fresh herbs like parsley or cilantro for a fresh twist.<\/p>"
+            "content": "<p>Add a splash of white wine during cooking for elegance, or sprinkle red pepper flakes for heat. A pat of butter at the end creates a luxurious sauce.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Pair your shrimp with a side of rice or a fresh salad, and serve with a chilled white wine for a delightful meal.<\/p>"
+            "content": "<p>Serve over fluffy rice or angel hair pasta to catch the garlicky sauce, or alongside Caesar salad and crusty bread for a Mediterranean feast.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free option, serve the shrimp over quinoa or zucchini noodles. You can also swap shrimp for chicken or tofu for different dietary needs.<\/p>"
+            "content": "<p>Substitute shrimp with cubed chicken or firm tofu, adjusting cook time. For low-carb, serve over zucchini noodles instead of pasta.<\/p>"
         },
         {
             "upload": {
-                "context": "The final plated shrimp dinner, beautifully garnished and ready to enjoy.",
+                "context": "Perfectly cooked garlic shrimp on white plate with fresh parsley garnish, lemon wedges and rice pilaf.",
                 "url": "make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_3.webp",
-                "fileName": "make-ahead-freezer-shrimp-dinners_image_3.webp",
-                "type": "final"
+                "type": "final",
+                "fileName": "make-ahead-freezer-shrimp-dinners_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use high heat to get a nice sear on the shrimp.<\/li><li>Marinate shrimp in olive oil and spices for 15 minutes before cooking for extra flavor.<\/li><li>Timing is key; have everything ready to go before you start cooking.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For a deeper flavor, marinate shrimp in lemon juice and garlic for 30 minutes before cooking.<\/li><li>Adding a touch of smoked paprika can enhance the dish's complexity.<\/li><li>Cook shrimp in batches if your skillet is small to avoid steaming.<\/li><li>Plate with a sprinkle of fresh herbs for a vibrant finish.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to try this recipe! It's simple, satisfying, and will surely become a favorite in your home.<\/p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 25 minutes away. Your family deserves this simplicity.<\/p>"
         }
     ],
+    "category_id": "cat_1761229889_885",
     "images": [
         {
             "fileName": "make-ahead-freezer-shrimp-dinners_image_1.webp",
@@ -136,16 +148,19 @@
             "fileName": "make-ahead-freezer-shrimp-dinners_image_4.webp",
             "filePath": "recipes\/make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_4.webp",
             "relativePath": "make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "make-ahead-freezer-shrimp-dinners",
+    "id": "text_recipe_1762477232_398",
+    "author_id": "author_001",
     "image": "make-ahead-freezer-shrimp-dinners_image_1.webp",
     "image_path": "recipes\/make-ahead-freezer-shrimp-dinners\/images\/make-ahead-freezer-shrimp-dinners_image_1.webp",
     "image_dir": "make-ahead-freezer-shrimp-dinners\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-07T02:00:32+01:00",
-    "updatedAt": "2025-11-07T02:00:32+01:00"
+    "createdAt": "2025-11-16T15:41:46+01:00",
+    "updatedAt": "2025-11-16T15:41:46+01:00"
 }

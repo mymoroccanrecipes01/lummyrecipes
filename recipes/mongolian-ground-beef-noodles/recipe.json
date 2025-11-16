@@ -1,124 +1,127 @@
 {
-    "id": "text_recipe_1761266526_131",
-    "slug": "mongolian-ground-beef-noodles",
-    "title": "Mongolian Ground Beef Noodles",
-    "promptIMG": "Mongolian Ground Beef Noodles, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "Discover the bold flavors of Mongolian cuisine with these savory ground beef noodles. Combining tender beef, flavorful sauce, and perfectly cooked noodles, this dish is quick to prepare and packed with rich, aromatic spices.",
-    "category_id": "cat_1761230383_494",
-    "author_id": "author_001",
+    "title": "Savory Mongolian Ground Beef Noodles for Quick Meals",
+    "promptIMG": "\"Mongolian ground beef noodles, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Experience the bold flavors of Mongolian cuisine with this quick and savory ground beef noodle dish. Perfect for busy nights, it's a family favorite packed with rich spices.",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
     "ingredients": [
         "1 pound ground beef",
         "8 ounces noodles",
         "2 tablespoons soy sauce",
-        "1 tablespoon oyster sauce",
         "1 tablespoon sesame oil",
-        "2 cloves garlic, minced",
-        "1 teaspoon ginger, minced",
+        "1 tablespoon ginger, minced",
+        "3 cloves garlic, minced",
         "1 bell pepper, sliced",
+        "1 onion, sliced",
         "2 green onions, chopped",
         "Salt and pepper to taste"
     ],
     "instructions": [
         "Cook the noodles according to package instructions, then drain and set aside.",
-        "In a large skillet, heat sesame oil over medium heat and add garlic and ginger, sautéing until fragrant.",
-        "Add ground beef to the skillet, cooking until browned and fully cooked.",
-        "Stir in soy sauce, oyster sauce, bell pepper, and cooked noodles, mixing well to combine.",
-        "Cook for an additional 5 minutes, allowing flavors to meld, then season with salt and pepper to taste.",
-        "Garnish with chopped green onions before serving."
+        "In a large skillet, heat sesame oil over medium heat.",
+        "Add ground beef, ginger, and garlic; cook until the beef is browned.",
+        "Stir in bell pepper and onion; cook until vegetables are tender.",
+        "Add soy sauce, salt, and pepper; mix well.",
+        "Toss in the cooked noodles and green onions; stir until heated through."
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect results, ensure the beef is well-browned for maximum flavor. Avoid overcooking the noodles to maintain their texture.",
+    "tips": "For the best flavor, use fresh ginger and garlic. Don't overcook the vegetables; they should be tender but still crisp. Adjust soy sauce to taste for desired saltiness.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>Experience the rich and savory flavors of Mongolian cuisine with this quick and easy ground beef noodles recipe. The combination of tender beef, aromatic spices, and perfectly cooked noodles creates a satisfying dish that will transport your taste buds to Mongolia.<\/p>"
+            "content": "<p>Imagine the aroma of savory ground beef mingling with fragrant ginger and garlic, creating a dish that's both comforting and satisfying. This quick meal transforms simple ingredients into a delightful experience, perfect for busy weeknights.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or lunch<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Rich, aromatic spices elevate the dish<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Rich, aromatic flavors that impress<\/li><li>Ideal for busy evenings<\/li><li>Common pantry staples required<\/li><li>Perfect for family dinners<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This recipe reminds me of a family gathering where we all enjoyed a hearty meal together, sharing stories and laughter over bowls of delicious noodles.<\/p>"
+            "content": "<p>I stumbled upon this recipe during a hectic week when I needed something quick yet delicious. My family loved it so much that it quickly became a staple in our dinner rotation.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground beef works best for its rich flavor and quick cooking time.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Soy sauce and oyster sauce add depth and umami to the dish.<\/li><li><strong>Supporting ingredients:<\/strong> Bell pepper adds color and crunch, while green onions provide a fresh finish.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a pot for boiling noodles are essential for this recipe.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Ground beef - provides a hearty base for the dish<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Ginger and garlic - add depth and warmth<\/li><li><strong>Complementary components:<\/strong> Noodles and vegetables - create a balanced meal<\/li><li><strong>Required tools:<\/strong> Large skillet, pot for boiling noodles, and a spatula<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh ingredients ready for preparation, including ground beef, noodles, and vegetables.",
+                "context": "Fresh ground beef with minced garlic, ginger, sliced bell pepper, and onion arranged on kitchen counter ready for cooking",
                 "url": "mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_1.webp",
-                "fileName": "mongolian-ground-beef-noodles_image_1.webp",
-                "type": "main"
+                "type": "main",
+                "fileName": "mongolian-ground-beef-noodles_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by cooking the noodles according to package instructions. Drain and set aside.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>In a skillet, heat sesame oil, sauté garlic and ginger, then add ground beef until browned. Mix in sauces and noodles, cooking for an additional 5 minutes.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with green onions for a fresh touch before serving.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Cook the noodles according to package instructions, then drain and set aside.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>In a large skillet, heat sesame oil over medium heat. Add ground beef, ginger, and garlic; cook until the beef is browned. Stir in bell pepper and onion; cook until vegetables are tender.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Add soy sauce, salt, and pepper; mix well. Toss in the cooked noodles and green onions; stir until heated through.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "The cooking process showcasing the sizzling ground beef and vibrant vegetables in the skillet.",
+                "context": "Mongolian ground beef noodles cooking in large skillet with colorful vegetables and steam rising",
                 "url": "mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_2.webp",
-                "fileName": "mongolian-ground-beef-noodles_image_2.webp",
-                "type": "process"
+                "type": "process",
+                "fileName": "mongolian-ground-beef-noodles_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook the beef until fully browned for the best flavor.<\/li><li>Avoid overcooking the noodles to keep them al dente.<\/li><li>Look for a fragrant aroma as a cue that the dish is ready.<\/li><li>Store leftovers in an airtight container for up to 3 days.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use high-quality ground beef for the best flavor<\/li><li>Avoid overcooking the beef to keep it tender<\/li><li>Beef is done when no longer pink<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This dish holds a special place in my heart as it brings family together, reminding us of the joy of sharing a meal.<\/p>"
+            "content": "<p>Sharing this dish with my family always brings smiles to the table. The combination of flavors and textures makes it a hit, and I love seeing everyone enjoy a hearty meal together.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Customize your noodles by adding vegetables like broccoli or snap peas for extra nutrition, or spice it up with red pepper flakes for heat.<\/p>"
+            "content": "<p>For added depth, consider incorporating a splash of oyster sauce or a sprinkle of red pepper flakes for heat. A squeeze of lime juice before serving can brighten the flavors.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve with a side of steamed vegetables or a fresh salad for a balanced meal. Pair with a light beverage like iced tea.<\/p>"
+            "content": "<p>Serve with a side of steamed broccoli or a fresh cucumber salad to balance the richness of the noodles. Pair with crispy spring rolls for a complete meal.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free option, substitute noodles with rice or gluten-free noodles. You can also use ground turkey or chicken for a lighter version.<\/p>"
+            "content": "<p>Substitute ground beef with ground turkey or chicken for a lighter option. For a vegetarian version, use tofu or tempeh instead of meat, adjusting cooking times accordingly.<\/p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated dish of Mongolian Ground Beef Noodles, garnished with green onions and ready to serve.",
+                "context": "Savory Mongolian ground beef noodles plated on white dish with green onions and bell pepper garnish",
                 "url": "mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_3.webp",
-                "fileName": "mongolian-ground-beef-noodles_image_3.webp",
-                "type": "final"
+                "type": "final",
+                "fileName": "mongolian-ground-beef-noodles_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Ensure your skillet is hot before adding the beef for a good sear.<\/li><li>Prep all ingredients before starting to streamline the cooking process.<\/li><li>Timing is key; keep an eye on the noodles to prevent overcooking.<\/li><li>Present the dish in a bowl for a cozy, inviting look.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For extra flavor, marinate the beef in soy sauce for 30 minutes before cooking<\/li><li>Add vegetables like bok choy or snap peas for more nutrition<\/li><li>Cook noodles just until al dente for the best texture<\/li><li>Garnish with sesame seeds for a nice finish<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Enjoy the satisfaction of creating this delicious dish at home, and feel confident in your cooking skills as you share it with loved ones.<\/p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 35 minutes away. Your family deserves this simplicity.<\/p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "mongolian-ground-beef-noodles_image_1.webp",
@@ -148,16 +151,19 @@
             "fileName": "mongolian-ground-beef-noodles_image_4.webp",
             "filePath": "recipes\/mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_4.webp",
             "relativePath": "mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "mongolian-ground-beef-noodles",
+    "id": "text_recipe_1761266526_131",
+    "author_id": "author_001",
     "image": "mongolian-ground-beef-noodles_image_1.webp",
     "image_path": "recipes\/mongolian-ground-beef-noodles\/images\/mongolian-ground-beef-noodles_image_1.webp",
     "image_dir": "mongolian-ground-beef-noodles\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-10-24T02:42:06+02:00",
-    "updatedAt": "2025-10-24T02:42:06+02:00"
+    "createdAt": "2025-11-16T15:41:47+01:00",
+    "updatedAt": "2025-11-16T15:41:47+01:00"
 }
