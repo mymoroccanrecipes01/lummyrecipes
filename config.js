@@ -1,5 +1,5 @@
 globalThis.facebookURL = "#";
-globalThis.PinterestURL = "https://www.pinterest.com/lummyrecipes/";
+globalThis.PinterestURL = "https://www.pinterest.com/hayeslummy";
 globalThis.twitterURL = "#";
 globalThis.redditURL = "#";
 globalThis.siteUrl = 'https://www.lummyrecipes.com';
