@@ -1,7 +1,7 @@
 {
     "title": "Decadent Chocolate Pecan Pie for Gatherings",
     "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"Chocolate pecan pie, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Savor the rich flavors of this chocolate pecan pie with a buttery crust. It's an impressive dessert that will delight your guests and elevate any occasion.",
     "difficulty": "medium",
     "prep_time": 30,
@@ -11,8 +11,8 @@
         "1 pie crust",
         "1 cup corn syrup",
         "1 cup brown sugar",
-        "1/2 cup granulated sugar",
-        "1/2 cup butter, melted",
+        "1\/2 cup granulated sugar",
+        "1\/2 cup butter, melted",
         "4 large eggs",
         "1 teaspoon vanilla extract",
         "1 cup chocolate chips",
@@ -37,22 +37,22 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Imagine a slice of chocolate pecan pie, rich and decadent, with a buttery crust that crumbles at the touch. The aroma of chocolate mingles with the nutty scent of pecans, creating an irresistible invitation to indulge. This dessert is a showstopper, perfect for gatherings where you want to impress.</p>"
+            "content": "<p>Imagine a slice of chocolate pecan pie, rich and decadent, with a buttery crust that crumbles at the touch. The aroma of chocolate mingles with the nutty scent of pecans, creating an irresistible invitation to indulge. This dessert is a showstopper, perfect for gatherings where you want to impress.<\/p>"
         },
         {
             "note": {
                 "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 30 minutes</li><li>Professional-level taste from your home kitchen</li><li>Ideal for impressing guests</li><li>Common pantry staples required</li><li>Perfect for holiday celebrations</li></ul>"
+                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for impressing guests<\/li><li>Common pantry staples required<\/li><li>Perfect for holiday celebrations<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I first made this chocolate pecan pie for a family gathering, and it quickly became a favorite. The combination of chocolate and pecans was a hit, and now it's a must-have for every holiday dinner.</p>"
+            "content": "<p>I first made this chocolate pecan pie for a family gathering, and it quickly became a favorite. The combination of chocolate and pecans was a hit, and now it's a must-have for every holiday dinner.<\/p>"
         },
         {
             "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Primary component:</strong> Pie crust - provides a buttery, flaky base that complements the filling</li><li><strong>Essential aromatics/flavor elements:</strong> Vanilla extract - enhances the sweetness and depth of flavor</li><li><strong>Complementary components:</strong> Chocolate chips and pecans - add richness and crunch</li><li><strong>Required tools:</strong> Mixing bowl, whisk, pie dish</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Pie crust - provides a buttery, flaky base that complements the filling<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Vanilla extract - enhances the sweetness and depth of flavor<\/li><li><strong>Complementary components:<\/strong> Chocolate chips and pecans - add richness and crunch<\/li><li><strong>Required tools:<\/strong> Mixing bowl, whisk, pie dish<\/li><\/ul>"
         },
         {
             "upload": {
@@ -65,7 +65,7 @@
             "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Preheat the oven to 350°F (175°C) and prepare the pie crust in a pie dish.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>In a bowl, mix corn syrup, sugars, and melted butter. Add eggs and vanilla, then stir in chocolate chips and pecans. Pour into the crust and bake for 60 minutes.</dd><dt><strong>Final Assembly:</strong></dt><dd>Allow the pie to cool completely before slicing and serving.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Preheat the oven to 350°F (175°C) and prepare the pie crust in a pie dish.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>In a bowl, mix corn syrup, sugars, and melted butter. Add eggs and vanilla, then stir in chocolate chips and pecans. Pour into the crust and bake for 60 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Allow the pie to cool completely before slicing and serving.<\/dd><\/dl>"
         },
         {
             "upload": {
@@ -77,29 +77,29 @@
         {
             "note": {
                 "label": "Essential Knowledge",
-                "content": "<ul><li>For the best texture, let the pie cool completely before slicing.</li><li>A common mistake is not allowing the filling to set properly; ensure it bakes until firm.</li><li>The filling is done when it no longer jiggles in the center.</li><li>Store leftovers in the refrigerator for up to 3 days.</li></ul>"
+                "content": "<ul><li>For the best texture, let the pie cool completely before slicing.<\/li><li>A common mistake is not allowing the filling to set properly; ensure it bakes until firm.<\/li><li>The filling is done when it no longer jiggles in the center.<\/li><li>Store leftovers in the refrigerator for up to 3 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this chocolate pecan pie with family always brings smiles. It's a reminder that desserts can be simple yet extraordinary, and watching everyone enjoy a slice makes it all worthwhile.</p>"
+            "content": "<p>Sharing this chocolate pecan pie with family always brings smiles. It's a reminder that desserts can be simple yet extraordinary, and watching everyone enjoy a slice makes it all worthwhile.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a splash of bourbon for depth, or a sprinkle of sea salt on top for contrast. A dollop of whipped cream or a scoop of vanilla ice cream elevates the experience.</p>"
+            "content": "<p>Consider adding a splash of bourbon for depth, or a sprinkle of sea salt on top for contrast. A dollop of whipped cream or a scoop of vanilla ice cream elevates the experience.<\/p>"
         },
         {
             "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Pair this pie with a scoop of vanilla ice cream or serve it alongside fresh whipped cream for a delightful contrast. A side of coffee or hot cocoa complements the rich flavors perfectly.</p>"
+            "content": "<p>Pair this pie with a scoop of vanilla ice cream or serve it alongside fresh whipped cream for a delightful contrast. A side of coffee or hot cocoa complements the rich flavors perfectly.<\/p>"
         },
         {
             "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free version, use a gluten-free pie crust. You can also substitute the chocolate chips with dark chocolate for a richer flavor.</p>"
+            "content": "<p>For a gluten-free version, use a gluten-free pie crust. You can also substitute the chocolate chips with dark chocolate for a richer flavor.<\/p>"
         },
         {
             "upload": {
@@ -111,41 +111,41 @@
         {
             "note": {
                 "label": "Expert Insights",
-                "content": "<ul><li>Chill the pie crust before baking for a flakier texture.</li><li>Add a layer of caramel sauce for extra richness.</li><li>Timing is crucial; keep an eye on the pie to prevent overbaking.</li><li>For an elegant presentation, serve with a garnish of chocolate curls.</li></ul>"
+                "content": "<ul><li>Chill the pie crust before baking for a flakier texture.<\/li><li>Add a layer of caramel sauce for extra richness.<\/li><li>Timing is crucial; keep an eye on the pie to prevent overbaking.<\/li><li>For an elegant presentation, serve with a garnish of chocolate curls.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't miss out on this chocolate pecan pie recipe. With just 90 minutes from start to finish, you can create a dessert that feels special without the fuss. Your family will love the rich flavors and delightful textures.</p>"
+            "content": "<p>Don't miss out on this chocolate pecan pie recipe. With just 90 minutes from start to finish, you can create a dessert that feels special without the fuss. Your family will love the rich flavors and delightful textures.<\/p>"
         }
     ],
     "category_id": "cat_1761229889_885",
     "images": [
         {
             "fileName": "decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
-            "filePath": "recipes/decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
-            "relativePath": "decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
+            "relativePath": "decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "decadent-chocolate-pecan-pie-for-holidays_image_2.webp",
-            "filePath": "recipes/decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_2.webp",
-            "relativePath": "decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_2.webp",
+            "relativePath": "decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "decadent-chocolate-pecan-pie-for-holidays_image_3.webp",
-            "filePath": "recipes/decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_3.webp",
-            "relativePath": "decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_3.webp",
+            "relativePath": "decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
-            "filePath": "recipes/decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
-            "relativePath": "decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
+            "relativePath": "decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -154,10 +154,10 @@
     "id": "recipe_1763313359_646",
     "author_id": "author_001",
     "image": "decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
-    "image_path": "recipes/decadent-chocolate-pecan-pie-for-holidays/images/decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
-    "image_dir": "decadent-chocolate-pecan-pie-for-holidays/images",
+    "image_path": "recipes\/decadent-chocolate-pecan-pie-for-holidays\/images\/decadent-chocolate-pecan-pie-for-holidays_image_1.webp",
+    "image_dir": "decadent-chocolate-pecan-pie-for-holidays\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-16T18:15:59+01:00",
-    "updatedAt": "2025-11-17T22:06:24+01:00"
+    "createdAt": "2025-11-17T22:08:44+01:00",
+    "updatedAt": "2025-11-17T22:08:44+01:00"
 }
