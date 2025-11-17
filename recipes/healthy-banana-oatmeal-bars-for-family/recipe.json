@@ -1,118 +1,123 @@
 {
-    "id": "recipe_1763313449_837",
-    "slug": "healthy-banana-oatmeal-bars-for-family",
-    "title": "Healthy Banana Oatmeal Bars for Family",
-    "promptIMG": "Banana oatmeal bars, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "title": "Nutritious Banana Oatmeal Bars for Healthy Snacking",
+    "promptIMG": "\"Banana oatmeal bars, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
     "isOnline": false,
-    "description": "These Banana Oatmeal Bars are a nutritious snack that everyone will love. Packed with fiber and natural sweetness, they make a perfect grab-and-go option. Try them today for a deliciously healthy treat!",
-    "category_id": "cat_1761230636_499",
-    "author_id": "author_001",
-    "ingredients": [
-        "3 ripe bananas, mashed",
-        "2 cups rolled oats",
-        "1 teaspoon cinnamon",
-        "1/4 cup honey or maple syrup",
-        "1/2 cup chopped nuts or chocolate chips (optional)"
-    ],
-    "instructions": [
-        "Preheat the oven to 350°F (175°C) and line a baking dish with parchment paper.",
-        "In a large bowl, mix the mashed bananas, oats, cinnamon, and honey until well combined.",
-        "Fold in any optional ingredients like nuts or chocolate chips.",
-        "Spread the mixture evenly in the prepared baking dish and bake for 25 minutes or until golden brown.",
-        "Let cool before cutting into bars."
-    ],
+    "description": "Enjoy these Banana Oatmeal Bars as a nutritious snack packed with fiber and natural sweetness. Perfect for busy days, they're a deliciously healthy treat for everyone!",
+    "difficulty": "easy",
     "prep_time": 15,
     "cook_time": 25,
-    "total_time": 40,
     "servings": 12,
-    "difficulty": "easy",
-    "tips": "For the best texture, ensure your bananas are very ripe. You can also customize these bars with your favorite mix-ins.",
+    "ingredients": [
+        "2 ripe bananas, mashed",
+        "1 cup rolled oats",
+        "1/2 cup honey or maple syrup",
+        "1/4 cup peanut butter",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup chocolate chips (optional)"
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F (175°C) and line an 8x8 inch baking dish with parchment paper.",
+        "In a large bowl, mix the mashed bananas, honey (or maple syrup), peanut butter, and vanilla extract until well combined.",
+        "Add the rolled oats, baking powder, and salt to the mixture, stirring until fully incorporated.",
+        "Fold in the chocolate chips if using.",
+        "Pour the mixture into the prepared baking dish and spread it evenly.",
+        "Bake for 25-30 minutes or until the edges are golden brown.",
+        "Allow to cool before cutting into bars."
+    ],
+    "tips": "For the best texture, ensure bananas are fully ripe. Let the bars cool completely before cutting to avoid crumbling. Store in an airtight container for freshness.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>These Banana Oatmeal Bars are not just a snack; they are a delightful blend of flavors and textures that will energize your day. The natural sweetness of ripe bananas combined with wholesome oats creates a satisfying treat that is both nutritious and delicious.</p>"
+            "content": "<p>These Banana Oatmeal Bars are a delightful combination of chewy oats and sweet bananas, creating a satisfying snack. Their natural sweetness and fiber content make them a healthy choice for any time of day.</p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 40 minutes</li><li>Healthy snack option packed with fiber</li><li>Perfect for breakfast or a midday boost</li><li>Uses simple ingredients you likely have on hand</li><li>Customizable with your favorite add-ins</li></ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes</li><li>Nutritious and filling snack option</li><li>Perfect for on-the-go munching</li><li>Uses common pantry ingredients</li><li>Great for kids and adults alike</li></ul>"
             }
         },
         {
-            "content": "<p>I remember making these bars with my kids on a lazy Sunday morning. The smell of bananas and cinnamon filled the kitchen, and we couldn't wait to taste our creation!</p>"
+            "content": "<p>I stumbled upon this recipe while looking for healthy snacks for my kids. They loved it so much that it quickly became a staple in our home!</p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:</strong> Ripe bananas work best as they provide natural sweetness and moisture.</li><li><strong>Key seasonings/flavoring agents:</strong> Cinnamon adds warmth and depth to the flavor.</li><li><strong>Supporting ingredients:</strong> Oats provide a hearty texture, while nuts or chocolate chips can enhance flavor and crunch.</li><li><strong>Equipment needed:</strong> A baking dish and mixing bowl are essential for this recipe.</li></ul>"
+            "content": "<ul><li><strong>Primary component:</strong> Bananas - provide natural sweetness and moisture</li><li><strong>Essential aromatics/flavor elements:</strong> Vanilla extract - enhances overall flavor</li><li><strong>Complementary components:</strong> Rolled oats - offer fiber and texture</li><li><strong>Required tools:</strong> Mixing bowl, baking dish, parchment paper</li></ul>"
         },
         {
             "upload": {
-                "context": "Preparation of the ingredients for the banana oatmeal bars.",
-                "url": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_1.webp",
-                "fileName": "healthy-banana-oatmeal-bars-for-family_image_1.webp",
+                "context": "Freshly mashed bananas with rolled oats, honey, and peanut butter arranged in a mixing bowl ready for baking.",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Preheat your oven and prepare your baking dish with parchment paper. Mash the bananas in a bowl.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Mix all ingredients and spread in the dish. Bake until golden brown, about 25 minutes.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Allow to cool before cutting into bars for the best texture.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Preheat the oven to 350°F (175°C) and prepare an 8x8 inch baking dish with parchment paper.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Mix bananas, honey, peanut butter, and vanilla. Add oats, baking powder, and salt. Fold in chocolate chips. Bake for 25-30 minutes.</dd><dt><strong>Final Assembly:</strong></dt><dd>Let cool before cutting into bars.</dd></dl>"
         },
         {
             "upload": {
-                "context": "Cooking process of the banana oatmeal bars in the oven.",
-                "url": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_2.webp",
-                "fileName": "healthy-banana-oatmeal-bars-for-family_image_2.webp",
-                "type": "main"
+                "context": "Banana oatmeal bars baking in the oven with a golden brown edge and a soft center.",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Ensure bananas are very ripe for maximum sweetness.</li><li>Avoid overmixing to keep the bars tender.</li><li>Bars are ready when they are golden brown on top.</li><li>Store in an airtight container for up to a week.</li></ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use very ripe bananas for maximum sweetness</li><li>Avoid overmixing the batter to keep bars tender</li><li>Bars are done when edges are golden brown</li><li>Store in an airtight container for up to a week</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing these bars with family during snack time has become a cherished tradition in our home. They are not only delicious but also a healthy choice that everyone enjoys!</p>"
+            "content": "<p>Sharing these bars with my family brings joy, especially when they ask for seconds. It's a reminder that healthy snacks can be both delicious and satisfying.</p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding vanilla extract for extra flavor or using different spices like nutmeg for a twist. You can also experiment with dried fruits for added sweetness.</p>"
+            "content": "<p>Add chopped nuts for extra crunch or a sprinkle of cinnamon for warmth. You can also substitute almond butter for peanut butter for a different flavor profile.</p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>These bars pair wonderfully with a cup of tea or coffee. Serve them alongside yogurt or fresh fruit for a complete breakfast or snack.</p>"
+            "content": "<p>Pair these bars with a glass of milk or a cup of yogurt for a balanced snack. They also go well with fresh fruit for added nutrition.</p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free version, ensure your oats are certified gluten-free. You can also substitute bananas with applesauce for a different flavor profile.</p>"
+            "content": "<p>Substitute honey with agave syrup for a vegan option. You can also replace oats with gluten-free oats for a gluten-free version.</p>"
         },
         {
             "upload": {
-                "context": "Final plated banana oatmeal bars ready to be served.",
-                "url": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_3.webp",
-                "fileName": "healthy-banana-oatmeal-bars-for-family_image_3.webp",
-                "type": "main"
+                "context": "Banana oatmeal bars plated on a rustic wooden board with a sprinkle of chocolate chips and fresh banana slices on the side.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use a sharp knife to cut the bars for clean edges.</li><li>Let the bars cool completely for easier cutting.</li><li>Experiment with different nuts or seeds for added crunch.</li><li>Store in the fridge for a refreshing snack.</li></ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For a chewier texture, let the bars sit overnight</li><li>Adding a pinch of salt enhances sweetness</li><li>Timing is key; check for doneness at 25 minutes</li><li>Serve with a drizzle of honey on top for extra sweetness</li></ul>"
             }
         },
         {
-            "content": "<p>Enjoy making these Banana Oatmeal Bars! They are not only easy to prepare but also a delightful way to nourish yourself and your loved ones.</p>"
+            "content": "<p>Don't miss out on these Banana Oatmeal Bars! They are quick to prepare and perfect for busy days, proving that healthy eating can be simple and delicious.</p>"
         }
     ],
+    "category_id": "cat_1761230221_583",
     "images": [
         {
             "fileName": "healthy-banana-oatmeal-bars-for-family_image_1.webp",
@@ -139,16 +144,19 @@
             "fileName": "healthy-banana-oatmeal-bars-for-family_image_4.webp",
             "filePath": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
             "relativePath": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "healthy-banana-oatmeal-bars-for-family",
+    "id": "recipe_1763313449_837",
+    "author_id": "author_001",
     "image": "healthy-banana-oatmeal-bars-for-family_image_1.webp",
     "image_path": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_1.webp",
     "image_dir": "healthy-banana-oatmeal-bars-for-family/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-16T18:17:29+01:00",
-    "updatedAt": "2025-11-16T18:17:29+01:00"
+    "updatedAt": "2025-11-17T21:41:58+01:00"
 }
