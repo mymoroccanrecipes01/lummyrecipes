@@ -1,7 +1,7 @@
 {
     "title": "Melt-in-Your-Mouth Chicken for Family Dinners",
     "promptIMG": "\"Melt-in-your-mouth chicken, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Enjoy melt-in-your-mouth chicken that's juicy and tender, perfect for busy weeknights. Quick to prepare and bursting with flavor, it's a family favorite!",
     "difficulty": "easy",
     "prep_time": 15,
@@ -31,22 +31,22 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Picture this: juicy chicken breasts baked to perfection, infused with aromatic garlic and onion flavors. This dish transforms simple ingredients into a delightful meal ready in no time, perfect for busy weeknights.</p>"
+            "content": "<p>Picture this: juicy chicken breasts baked to perfection, infused with aromatic garlic and onion flavors. This dish transforms simple ingredients into a delightful meal ready in no time, perfect for busy weeknights.<\/p>"
         },
         {
             "note": {
                 "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 15 minutes</li><li>Professional-level taste from your home kitchen</li><li>Ideal for busy evenings</li><li>Common pantry staples required</li><li>Perfect for family dinners</li></ul>"
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for busy evenings<\/li><li>Common pantry staples required<\/li><li>Perfect for family dinners<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I discovered this recipe on a hectic weeknight when I needed something quick yet delicious. My family loved it so much, it quickly became a staple in our dinner rotation.</p>"
+            "content": "<p>I discovered this recipe on a hectic weeknight when I needed something quick yet delicious. My family loved it so much, it quickly became a staple in our dinner rotation.<\/p>"
         },
         {
             "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Primary component:</strong> Chicken breasts - they provide a juicy and tender base for the dish.</li><li><strong>Essential aromatics/flavor elements:</strong> Garlic powder and onion powder - they enhance the chicken's flavor profile.</li><li><strong>Complementary components:</strong> Olive oil - it helps to keep the chicken moist during baking.</li><li><strong>Required tools:</strong> Baking dish, mixing bowl, and measuring spoons.</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Chicken breasts - they provide a juicy and tender base for the dish.<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Garlic powder and onion powder - they enhance the chicken's flavor profile.<\/li><li><strong>Complementary components:<\/strong> Olive oil - it helps to keep the chicken moist during baking.<\/li><li><strong>Required tools:<\/strong> Baking dish, mixing bowl, and measuring spoons.<\/li><\/ul>"
         },
         {
             "upload": {
@@ -59,7 +59,7 @@
             "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Preheat the oven to 375°F (190°C) and prepare a baking dish.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Combine olive oil, garlic powder, onion powder, salt, and pepper in a bowl. Coat the chicken breasts and place them in the baking dish. Bake for 25-30 minutes.</dd><dt><strong>Final Assembly:</strong></dt><dd>Let the chicken rest for 5 minutes before slicing and serving.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Preheat the oven to 375°F (190°C) and prepare a baking dish.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Combine olive oil, garlic powder, onion powder, salt, and pepper in a bowl. Coat the chicken breasts and place them in the baking dish. Bake for 25-30 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Let the chicken rest for 5 minutes before slicing and serving.<\/dd><\/dl>"
         },
         {
             "upload": {
@@ -71,29 +71,29 @@
         {
             "note": {
                 "label": "Essential Knowledge",
-                "content": "<ul><li>Use a meat thermometer to ensure the chicken reaches 165°F for perfect doneness.</li><li>Avoid overcooking to prevent dryness.</li><li>Letting the chicken rest allows juices to redistribute, enhancing flavor.</li><li>Store leftovers in an airtight container in the refrigerator for up to 3 days.</li></ul>"
+                "content": "<ul><li>Use a meat thermometer to ensure the chicken reaches 165°F for perfect doneness.<\/li><li>Avoid overcooking to prevent dryness.<\/li><li>Letting the chicken rest allows juices to redistribute, enhancing flavor.<\/li><li>Store leftovers in an airtight container in the refrigerator for up to 3 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Every time I serve this chicken, I'm reminded that simple meals can be incredibly satisfying. Watching my family enjoy it makes it a cherished recipe in our home.</p>"
+            "content": "<p>Every time I serve this chicken, I'm reminded that simple meals can be incredibly satisfying. Watching my family enjoy it makes it a cherished recipe in our home.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Add a splash of lemon juice before serving for brightness, or sprinkle fresh herbs like parsley for a pop of color and flavor. A dash of paprika can also add a nice smoky depth.</p>"
+            "content": "<p>Add a splash of lemon juice before serving for brightness, or sprinkle fresh herbs like parsley for a pop of color and flavor. A dash of paprika can also add a nice smoky depth.<\/p>"
         },
         {
             "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve with roasted vegetables or a fresh salad for a complete meal. Pairing with rice or quinoa can also soak up the delicious juices.</p>"
+            "content": "<p>Serve with roasted vegetables or a fresh salad for a complete meal. Pairing with rice or quinoa can also soak up the delicious juices.<\/p>"
         },
         {
             "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>Substitute chicken breasts with thighs for a richer flavor, or use tofu for a vegetarian option, adjusting the cooking time accordingly.</p>"
+            "content": "<p>Substitute chicken breasts with thighs for a richer flavor, or use tofu for a vegetarian option, adjusting the cooking time accordingly.<\/p>"
         },
         {
             "upload": {
@@ -105,41 +105,41 @@
         {
             "note": {
                 "label": "Expert Insights",
-                "content": "<ul><li>Brining the chicken for a few hours can enhance juiciness.</li><li>Marinating overnight can deepen the flavor.</li><li>Letting the chicken rest before slicing ensures maximum juiciness.</li><li>Garnish with fresh herbs for an appealing presentation.</li></ul>"
+                "content": "<ul><li>Brining the chicken for a few hours can enhance juiciness.<\/li><li>Marinating overnight can deepen the flavor.<\/li><li>Letting the chicken rest before slicing ensures maximum juiciness.<\/li><li>Garnish with fresh herbs for an appealing presentation.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 45 minutes away. Your family deserves this simplicity.</p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 45 minutes away. Your family deserves this simplicity.<\/p>"
         }
     ],
     "category_id": "cat_1761229889_885",
     "images": [
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -148,10 +148,10 @@
     "id": "recipe_1763052030_362",
     "author_id": "author_001",
     "image": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-    "image_path": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-    "image_dir": "melt-in-your-mouth-chicken-for-busy-families/images",
+    "image_path": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+    "image_dir": "melt-in-your-mouth-chicken-for-busy-families\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-15T21:05:50+01:00",
-    "updatedAt": "2025-11-16T15:31:45+01:00"
+    "createdAt": "2025-11-17T22:10:51+01:00",
+    "updatedAt": "2025-11-17T22:10:51+01:00"
 }

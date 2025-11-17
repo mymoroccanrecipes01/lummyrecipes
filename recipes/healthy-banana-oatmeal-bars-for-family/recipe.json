@@ -1,7 +1,7 @@
 {
     "title": "Nutritious Banana Oatmeal Bars for Healthy Snacking",
     "promptIMG": "\"Banana oatmeal bars, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Enjoy these Banana Oatmeal Bars as a nutritious snack packed with fiber and natural sweetness. Perfect for busy days, they're a deliciously healthy treat for everyone!",
     "difficulty": "easy",
     "prep_time": 15,
@@ -10,12 +10,12 @@
     "ingredients": [
         "2 ripe bananas, mashed",
         "1 cup rolled oats",
-        "1/2 cup honey or maple syrup",
-        "1/4 cup peanut butter",
-        "1/2 teaspoon vanilla extract",
-        "1/2 teaspoon baking powder",
-        "1/4 teaspoon salt",
-        "1/2 cup chocolate chips (optional)"
+        "1\/2 cup honey or maple syrup",
+        "1\/4 cup peanut butter",
+        "1\/2 teaspoon vanilla extract",
+        "1\/2 teaspoon baking powder",
+        "1\/4 teaspoon salt",
+        "1\/2 cup chocolate chips (optional)"
     ],
     "instructions": [
         "Preheat the oven to 350°F (175°C) and line an 8x8 inch baking dish with parchment paper.",
@@ -36,22 +36,22 @@
     ],
     "structured_content": [
         {
-            "content": "<p>These Banana Oatmeal Bars are a delightful combination of chewy oats and sweet bananas, creating a satisfying snack. Their natural sweetness and fiber content make them a healthy choice for any time of day.</p>"
+            "content": "<p>These Banana Oatmeal Bars are a delightful combination of chewy oats and sweet bananas, creating a satisfying snack. Their natural sweetness and fiber content make them a healthy choice for any time of day.<\/p>"
         },
         {
             "note": {
                 "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 15 minutes</li><li>Nutritious and filling snack option</li><li>Perfect for on-the-go munching</li><li>Uses common pantry ingredients</li><li>Great for kids and adults alike</li></ul>"
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Nutritious and filling snack option<\/li><li>Perfect for on-the-go munching<\/li><li>Uses common pantry ingredients<\/li><li>Great for kids and adults alike<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I stumbled upon this recipe while looking for healthy snacks for my kids. They loved it so much that it quickly became a staple in our home!</p>"
+            "content": "<p>I stumbled upon this recipe while looking for healthy snacks for my kids. They loved it so much that it quickly became a staple in our home!<\/p>"
         },
         {
             "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Primary component:</strong> Bananas - provide natural sweetness and moisture</li><li><strong>Essential aromatics/flavor elements:</strong> Vanilla extract - enhances overall flavor</li><li><strong>Complementary components:</strong> Rolled oats - offer fiber and texture</li><li><strong>Required tools:</strong> Mixing bowl, baking dish, parchment paper</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Bananas - provide natural sweetness and moisture<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Vanilla extract - enhances overall flavor<\/li><li><strong>Complementary components:<\/strong> Rolled oats - offer fiber and texture<\/li><li><strong>Required tools:<\/strong> Mixing bowl, baking dish, parchment paper<\/li><\/ul>"
         },
         {
             "upload": {
@@ -64,7 +64,7 @@
             "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Preheat the oven to 350°F (175°C) and prepare an 8x8 inch baking dish with parchment paper.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Mix bananas, honey, peanut butter, and vanilla. Add oats, baking powder, and salt. Fold in chocolate chips. Bake for 25-30 minutes.</dd><dt><strong>Final Assembly:</strong></dt><dd>Let cool before cutting into bars.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Preheat the oven to 350°F (175°C) and prepare an 8x8 inch baking dish with parchment paper.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Mix bananas, honey, peanut butter, and vanilla. Add oats, baking powder, and salt. Fold in chocolate chips. Bake for 25-30 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Let cool before cutting into bars.<\/dd><\/dl>"
         },
         {
             "upload": {
@@ -76,29 +76,29 @@
         {
             "note": {
                 "label": "Essential Knowledge",
-                "content": "<ul><li>Use very ripe bananas for maximum sweetness</li><li>Avoid overmixing the batter to keep bars tender</li><li>Bars are done when edges are golden brown</li><li>Store in an airtight container for up to a week</li></ul>"
+                "content": "<ul><li>Use very ripe bananas for maximum sweetness<\/li><li>Avoid overmixing the batter to keep bars tender<\/li><li>Bars are done when edges are golden brown<\/li><li>Store in an airtight container for up to a week<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing these bars with my family brings joy, especially when they ask for seconds. It's a reminder that healthy snacks can be both delicious and satisfying.</p>"
+            "content": "<p>Sharing these bars with my family brings joy, especially when they ask for seconds. It's a reminder that healthy snacks can be both delicious and satisfying.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Add chopped nuts for extra crunch or a sprinkle of cinnamon for warmth. You can also substitute almond butter for peanut butter for a different flavor profile.</p>"
+            "content": "<p>Add chopped nuts for extra crunch or a sprinkle of cinnamon for warmth. You can also substitute almond butter for peanut butter for a different flavor profile.<\/p>"
         },
         {
             "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Pair these bars with a glass of milk or a cup of yogurt for a balanced snack. They also go well with fresh fruit for added nutrition.</p>"
+            "content": "<p>Pair these bars with a glass of milk or a cup of yogurt for a balanced snack. They also go well with fresh fruit for added nutrition.<\/p>"
         },
         {
             "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>Substitute honey with agave syrup for a vegan option. You can also replace oats with gluten-free oats for a gluten-free version.</p>"
+            "content": "<p>Substitute honey with agave syrup for a vegan option. You can also replace oats with gluten-free oats for a gluten-free version.<\/p>"
         },
         {
             "upload": {
@@ -110,41 +110,41 @@
         {
             "note": {
                 "label": "Expert Insights",
-                "content": "<ul><li>For a chewier texture, let the bars sit overnight</li><li>Adding a pinch of salt enhances sweetness</li><li>Timing is key; check for doneness at 25 minutes</li><li>Serve with a drizzle of honey on top for extra sweetness</li></ul>"
+                "content": "<ul><li>For a chewier texture, let the bars sit overnight<\/li><li>Adding a pinch of salt enhances sweetness<\/li><li>Timing is key; check for doneness at 25 minutes<\/li><li>Serve with a drizzle of honey on top for extra sweetness<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't miss out on these Banana Oatmeal Bars! They are quick to prepare and perfect for busy days, proving that healthy eating can be simple and delicious.</p>"
+            "content": "<p>Don't miss out on these Banana Oatmeal Bars! They are quick to prepare and perfect for busy days, proving that healthy eating can be simple and delicious.<\/p>"
         }
     ],
     "category_id": "cat_1761230221_583",
     "images": [
         {
             "fileName": "healthy-banana-oatmeal-bars-for-family_image_1.webp",
-            "filePath": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_1.webp",
-            "relativePath": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_1.webp",
+            "relativePath": "healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "healthy-banana-oatmeal-bars-for-family_image_2.webp",
-            "filePath": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_2.webp",
-            "relativePath": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_2.webp",
+            "relativePath": "healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "healthy-banana-oatmeal-bars-for-family_image_3.webp",
-            "filePath": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_3.webp",
-            "relativePath": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_3.webp",
+            "relativePath": "healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "healthy-banana-oatmeal-bars-for-family_image_4.webp",
-            "filePath": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
-            "relativePath": "healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_4.webp",
+            "filePath": "recipes\/healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_4.webp",
+            "relativePath": "healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -153,10 +153,10 @@
     "id": "recipe_1763313449_837",
     "author_id": "author_001",
     "image": "healthy-banana-oatmeal-bars-for-family_image_1.webp",
-    "image_path": "recipes/healthy-banana-oatmeal-bars-for-family/images/healthy-banana-oatmeal-bars-for-family_image_1.webp",
-    "image_dir": "healthy-banana-oatmeal-bars-for-family/images",
+    "image_path": "recipes\/healthy-banana-oatmeal-bars-for-family\/images\/healthy-banana-oatmeal-bars-for-family_image_1.webp",
+    "image_dir": "healthy-banana-oatmeal-bars-for-family\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-16T18:17:29+01:00",
-    "updatedAt": "2025-11-17T21:41:58+01:00"
+    "createdAt": "2025-11-17T22:10:58+01:00",
+    "updatedAt": "2025-11-17T22:10:58+01:00"
 }
