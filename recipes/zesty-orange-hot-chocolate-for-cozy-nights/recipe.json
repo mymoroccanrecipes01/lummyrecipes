@@ -1,158 +1,159 @@
 {
-    "id": "recipe_1763313831_338",
-    "slug": "zesty-orange-hot-chocolate-for-cozy-nights",
     "title": "Zesty Orange Hot Chocolate for Cozy Nights",
-    "promptIMG": "Orange hot chocolate, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "Warm up with this zesty orange hot chocolate that combines rich cocoa with a burst of citrus flavor. It's a delightful twist on a classic drink, perfect for cozy nights in. Click to discover the recipe and enjoy this comforting treat!",
-    "category_id": "cat_1761230294_638",
-    "author_id": "author_001",
+    "promptIMG": "Zesty orange hot chocolate in a cozy mug, topped with whipped cream and orange zest, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Indulge in this zesty orange hot chocolate, a delightful twist on a classic drink. Perfect for cozy nights, this comforting treat will warm you up in no time!",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 5,
+    "servings": 2,
     "ingredients": [
         "2 cups milk",
-        "1/2 cup heavy cream",
-        "1/2 cup cocoa powder",
-        "1/4 cup sugar",
-        "1 teaspoon vanilla extract",
-        "1 tablespoon fresh orange zest",
-        "1/4 cup fresh orange juice",
-        "Whipped cream for topping",
-        "Chocolate shavings for garnish"
+        "2 tablespoons cocoa powder",
+        "2 tablespoons sugar",
+        "1\/4 teaspoon vanilla extract",
+        "1\/4 cup orange juice",
+        "1 tablespoon orange zest",
+        "Whipped cream for topping"
     ],
     "instructions": [
-        "In a medium saucepan, combine milk and heavy cream, and heat over medium heat until warm.",
-        "Whisk in cocoa powder and sugar until fully dissolved.",
-        "Add vanilla extract, orange zest, and orange juice, stirring until well combined.",
-        "Continue to heat until hot but not boiling, then remove from heat.",
-        "Serve in mugs topped with whipped cream and chocolate shavings."
+        "In a small saucepan, heat the milk over medium heat until warm.",
+        "Whisk in the cocoa powder and sugar until fully dissolved.",
+        "Stir in the vanilla extract, orange juice, and orange zest.",
+        "Continue to heat until hot, but do not boil.",
+        "Pour into mugs and top with whipped cream."
     ],
-    "prep_time": 15,
-    "cook_time": 10,
-    "total_time": 25,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For the richest flavor, use high-quality cocoa powder and fresh orange juice.",
+    "tips": "For a richer flavor, use whole milk instead of low-fat. Adjust the sugar to your taste for sweetness. Garnish with extra orange zest for a vibrant finish.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This orange hot chocolate is a delightful twist on a classic winter drink, combining rich chocolate with the bright flavor of fresh oranges. Perfect for warming up on a chilly evening, it's a treat that will bring comfort and joy to your home.</p>"
+            "content": "<p>Imagine a warm mug of hot chocolate infused with zesty orange, filling your kitchen with a comforting aroma. This delightful drink transforms a classic into a cozy treat, perfect for chilly evenings.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes</li><li>Rich and velvety texture with a citrus twist</li><li>Perfect for holiday gatherings or cozy nights in</li><li>Uses simple ingredients you likely have on hand</li><li>Great for impressing guests with minimal effort</li></ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 10 minutes<\/li><li>Unique flavor twist with citrus<\/li><li>Ideal for cozy nights in<\/li><li>Common pantry staples required<\/li><li>Perfect for warming up on cold days<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Every winter, my family gathers around the fireplace with mugs of this orange hot chocolate, sharing stories and laughter. It's a tradition that warms our hearts as much as it warms our hands.</p>"
+            "content": "<p>I discovered this recipe on a chilly evening when I craved something warm and comforting. The kids loved it, and now it's a staple in our home during the colder months.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:</strong> Milk and cream create a rich base that enhances the chocolate flavor.</li><li><strong>Key seasonings/flavoring agents:</strong> Fresh orange zest adds a vibrant citrus note that brightens the drink.</li><li><strong>Supporting ingredients:</strong> Cocoa powder and sugar balance the flavors, while whipped cream and chocolate shavings provide a delightful finish.</li><li><strong>Equipment needed:</strong> A medium saucepan and whisk for easy preparation.</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Milk - provides a creamy base for the drink<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Cocoa powder and orange zest - add depth and brightness<\/li><li><strong>Complementary components:<\/strong> Sugar and vanilla extract - enhance sweetness and flavor<\/li><li><strong>Required tools:<\/strong> Small saucepan, whisk, measuring cups<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the ingredients preparation.",
-                "url": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
-                "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
+                "context": "Fresh milk with cocoa powder, sugar, and orange zest arranged on kitchen counter ready for preparation.",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Gather all ingredients and measure them out before starting to ensure a smooth cooking process.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Heat the milk and cream gently to avoid scalding, and whisk in the cocoa and sugar thoroughly to prevent clumps.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Top with whipped cream and sprinkle with chocolate shavings for an elegant presentation.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Gather all ingredients and tools needed for the recipe.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Heat the milk, whisk in cocoa and sugar, then add orange juice and zest.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Pour into mugs and top with whipped cream.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the cooking process.",
-                "url": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
-                "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
-                "type": "main"
+                "context": "Zesty orange hot chocolate heating in saucepan with steam rising and rich color visible.",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Heat the milk slowly to prevent it from boiling over.</li><li>Avoid adding too much sugar; taste as you go to find the perfect balance.</li><li>Look for a rich, velvety texture as an indicator that it's ready to serve.</li><li>Store leftovers in the fridge and reheat gently on the stove.</li></ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use fresh orange juice for the best flavor<\/li><li>Avoid boiling the milk to prevent curdling<\/li><li>Look for a rich, creamy texture as a doneness indicator<\/li><li>Store leftovers in the fridge and reheat gently<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this orange hot chocolate with friends and family has become a cherished tradition, reminding us of the warmth and joy of togetherness during the colder months.</p>"
+            "content": "<p>Sharing this zesty orange hot chocolate with family brings warmth and joy. It's a reminder that simple ingredients can create delightful moments together.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a pinch of cinnamon or nutmeg for extra warmth, or a splash of orange liqueur for an adult version of this cozy drink.</p>"
+            "content": "<p>Add a pinch of cinnamon for warmth, or a splash of coffee for a mocha twist. A drizzle of chocolate syrup can enhance sweetness and presentation.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>This hot chocolate pairs beautifully with gingerbread cookies, biscotti, or a slice of orange cake for a delightful dessert spread.</p>"
+            "content": "<p>Pair with warm cookies or a slice of orange cake for a delightful treat. Serve alongside a cozy blanket for the ultimate comfort experience.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a vegan option, substitute dairy milk with almond or oat milk and use a dairy-free whipped topping.</p>"
+            "content": "<p>Substitute almond milk for a dairy-free version, or use dark chocolate for a richer flavor. For a spicier kick, add a dash of cayenne pepper.<\/p>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the final plated dish or variation.",
-                "url": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
-                "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
-                "type": "main"
+                "context": "Zesty orange hot chocolate plated in a cozy mug with whipped cream and orange zest on top.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use a high-quality cocoa powder for the best flavor.</li><li>Grate fresh orange zest just before using for maximum aroma.</li><li>Whisk continuously while heating to ensure a smooth consistency.</li><li>Serve in clear mugs to showcase the beautiful layers of the drink.</li></ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For a creamier texture, whisk vigorously while heating<\/li><li>Infuse flavors by letting the mixture sit for a few minutes before serving<\/li><li>Timing is key; serve immediately for the best experience<\/li><li>Use a clear mug to showcase the beautiful color<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Enjoy making this orange hot chocolate and let it bring warmth and happiness to your home. It's a simple pleasure that can brighten even the coldest of days!</p>"
+            "content": "<p>Don't miss out on this zesty orange hot chocolate! Ready in just 15 minutes, it's an easy way to enjoy a comforting drink that your family will love.<\/p>"
         }
     ],
+    "category_id": "cat_1761230749_334",
     "images": [
         {
             "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
-            "filePath": "recipes/zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
-            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
+            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
-            "filePath": "recipes/zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
-            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
+            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
-            "filePath": "recipes/zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
-            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
+            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
-            "filePath": "recipes/zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
-            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
+            "filePath": "recipes\/zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
+            "relativePath": "zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "zesty-orange-hot-chocolate-for-cozy-nights",
+    "id": "recipe_1763313831_338",
+    "author_id": "author_001",
     "image": "zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
-    "image_path": "recipes/zesty-orange-hot-chocolate-for-cozy-nights/images/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
-    "image_dir": "zesty-orange-hot-chocolate-for-cozy-nights/images",
+    "image_path": "recipes\/zesty-orange-hot-chocolate-for-cozy-nights\/images\/zesty-orange-hot-chocolate-for-cozy-nights_image_1.webp",
+    "image_dir": "zesty-orange-hot-chocolate-for-cozy-nights\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-16T18:23:51+01:00",
-    "updatedAt": "2025-11-16T18:23:51+01:00"
+    "createdAt": "2025-11-17T20:59:28+01:00",
+    "updatedAt": "2025-11-17T20:59:28+01:00"
 }
