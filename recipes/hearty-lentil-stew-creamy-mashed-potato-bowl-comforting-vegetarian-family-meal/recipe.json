@@ -1,161 +1,164 @@
 {
-    "id": "recipe_1763313645_279",
-    "slug": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal",
-    "title": "Hearty Lentil Stew & Creamy Mashed Potato Bowl - Comforting Vegetarian Family Meal",
-    "promptIMG": "Hearty Lentil Stew & Creamy Mashed Potato Bowl, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "This Hearty Lentil Stew & Creamy Mashed Potato Bowl is the ultimate cozy meal. Packed with plant-based protein, it's perfect for cold nights and family dinners. Try this nourishing dish tonight!",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "title": "Hearty Lentil Stew & Creamy Mashed Potato Bowl for Cozy Family Dinners",
+    "promptIMG": "\"Hearty Lentil Stew & Creamy Mashed Potato Bowl, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Enjoy a warm bowl of Hearty Lentil Stew paired with Creamy Mashed Potatoes. This nourishing dish is perfect for family dinners on cold nights. Try it tonight!",
+    "difficulty": "easy",
+    "prep_time": 30,
+    "cook_time": 60,
+    "servings": 4,
     "ingredients": [
-        "1 cup lentils, rinsed and drained",
+        "1 cup lentils",
         "4 cups vegetable broth",
-        "1 onion, diced",
+        "1 onion, chopped",
         "2 carrots, diced",
         "2 celery stalks, diced",
         "2 cloves garlic, minced",
         "1 teaspoon thyme",
-        "1 teaspoon cumin",
+        "1 bay leaf",
         "Salt and pepper to taste",
-        "4 large potatoes, peeled and cubed",
-        "4 tablespoons butter",
-        "1/2 cup milk"
+        "2 pounds potatoes, peeled and cubed",
+        "1\/2 cup milk",
+        "4 tablespoons butter"
     ],
     "instructions": [
-        "In a large pot, sauté onion, carrots, and celery in a bit of oil until softened.",
-        "Add garlic, thyme, and cumin; cook for another minute.",
-        "Stir in lentils and vegetable broth; bring to a boil, then reduce heat and simmer for 20-25 minutes until lentils are tender.",
-        "Meanwhile, boil potatoes in salted water until soft, about 15 minutes. Drain and mash with butter and milk until creamy.",
-        "Season the stew with salt and pepper to taste, and serve over a generous scoop of mashed potatoes."
+        "In a large pot, combine lentils, vegetable broth, onion, carrots, celery, garlic, thyme, bay leaf, salt, and pepper.",
+        "Bring to a boil, then reduce heat and simmer for about 30-40 minutes until lentils are tender.",
+        "Meanwhile, in a separate pot, boil the potatoes until tender, about 15-20 minutes.",
+        "Drain the potatoes and mash with milk and butter until creamy.",
+        "Serve the lentil stew in bowls topped with a scoop of creamy mashed potatoes."
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect mashed potatoes, ensure they are well-drained and use warm milk for a creamy texture.",
+    "tips": "For best flavor, let the stew simmer longer to develop depth. Use fresh herbs for a brighter taste. Adjust the thickness of the stew by adding more broth if needed.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This Hearty Lentil Stew & Creamy Mashed Potato Bowl is the ultimate comfort food, perfect for chilly evenings. The earthy lentils simmer in a savory broth, creating a dish that is both filling and nourishing.</p>"
+            "content": "<p>Picture this: a steaming bowl of hearty lentil stew, rich in flavor and topped with creamy mashed potatoes. This dish is not only comforting but also packed with plant-based protein, making it a perfect choice for chilly evenings.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes</li><li>Packed with plant-based protein and fiber</li><li>Perfect for weeknight dinners or meal prepping</li><li>Uses simple ingredients you likely have on hand</li><li>Deeply comforting and satisfying</li></ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Nutritious and filling for the whole family<\/li><li>Perfect for cold nights<\/li><li>Uses common pantry staples<\/li><li>Ideal for a cozy dinner<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, my family often enjoyed hearty stews during the winter months. This recipe brings back those warm memories of gathering around the table, sharing stories, and enjoying a comforting meal together.</p>"
+            "content": "<p>I remember making this stew on a cold winter evening when my family craved something warm and hearty. It quickly became a favorite, with everyone asking for seconds!<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:</strong> Lentils are nutritious and cook quickly, making them ideal for a hearty stew.</li><li><strong>Key seasonings/flavoring agents:</strong> Thyme and cumin add depth and warmth to the dish.</li><li><strong>Supporting ingredients:</strong> Potatoes provide a creamy base that complements the stew perfectly.</li><li><strong>Equipment needed:</strong> A large pot for the stew and a potato masher for the mash.</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Lentils - they provide a hearty texture and are rich in protein.<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Garlic, onion, and thyme - they enhance the stew's depth of flavor.<\/li><li><strong>Complementary components:<\/strong> Carrots and celery - they add sweetness and crunch.<\/li><li><strong>Required tools:<\/strong> Large pot, potato masher, and cutting board.<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the ingredients preparation.",
-                "url": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
-                "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
+                "context": "Fresh lentils with chopped vegetables and seasonings arranged on a kitchen counter ready for cooking.",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Rinse and drain the lentils, dice the vegetables, and peel the potatoes.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Follow the steps to sauté the vegetables, simmer the lentils, and boil the potatoes.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Season the stew and serve it over the creamy mashed potatoes.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Rinse lentils and chop all vegetables.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Combine lentils and vegetables in a pot, bring to a boil, then simmer for 30-40 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Prepare mashed potatoes and serve on top of the stew.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the cooking process.",
-                "url": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
-                "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
-                "type": "main"
+                "context": "Hearty lentil stew simmering in a large pot with vegetables visibly softening and flavors melding.",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook lentils until tender but not mushy for the best texture.</li><li>Avoid overcooking the potatoes to keep them fluffy.</li><li>Check for seasoning before serving to enhance flavors.</li><li>Store leftovers in the fridge for up to 3 days and reheat gently.</li></ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>For a thicker stew, mash some of the lentils against the pot.<\/li><li>Avoid overcooking the lentils; they should be tender but not mushy.<\/li><li>Doneness indicator: lentils should be soft but hold their shape.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this dish with friends and family always brings joy. It's a reminder of the warmth of home and the love that goes into cooking for those we care about.</p>"
+            "content": "<p>Sharing this hearty stew with my family brings warmth to our table. It's a reminder that comfort food can be both nourishing and satisfying.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Customize your stew by adding spinach or kale for extra greens, or a splash of balsamic vinegar for a tangy kick.</p>"
+            "content": "<p>Add a splash of balsamic vinegar for tang, or stir in some spinach for extra nutrients. A sprinkle of fresh parsley can brighten the dish.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve with crusty bread or a fresh salad for a complete meal. Pair with a light white wine for a delightful dinner.</p>"
+            "content": "<p>Serve with crusty bread for dipping, or a side salad to balance the meal. Rice or quinoa can also complement the stew nicely.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>Make it gluten-free by ensuring your broth is certified gluten-free. For a vegan version, substitute butter and milk with plant-based alternatives.</p>"
+            "content": "<p>Substitute lentils with chickpeas for a different texture, or use sweet potatoes instead of regular potatoes for a sweeter flavor.<\/p>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the final plated dish or variation.",
-                "url": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
-                "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
-                "type": "main"
+                "context": "Hearty lentil stew topped with creamy mashed potatoes plated on a rustic bowl with fresh herbs visible.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use homemade broth for richer flavor.</li><li>Let the stew sit for a few minutes before serving to enhance the flavors.</li><li>Keep an eye on the lentils; they should be tender but not falling apart.</li><li>Garnish with fresh herbs for an impressive presentation.</li></ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>Use a mix of lentils for varied texture.<\/li><li>Cooking lentils with a bay leaf adds depth to the flavor.<\/li><li>Timing is key; check lentils after 30 minutes.<\/li><li>Garnish with fresh herbs for a pop of color.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Enjoy making this Hearty Lentil Stew & Creamy Mashed Potato Bowl! It's a dish that warms the heart and fills the belly, perfect for any occasion.</p>"
+            "content": "<p>Don't miss out on this cozy dish! With a total time of just 90 minutes, you can enjoy a comforting meal that's easy to prepare. Your family will love this hearty stew!<\/p>"
         }
     ],
+    "category_id": "cat_1761229889_885",
     "images": [
         {
             "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
-            "filePath": "recipes/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
-            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
+            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
-            "filePath": "recipes/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
-            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
+            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
-            "filePath": "recipes/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
-            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
+            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
-            "filePath": "recipes/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
-            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
+            "filePath": "recipes\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
+            "relativePath": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal",
+    "id": "recipe_1763313645_279",
+    "author_id": "author_001",
     "image": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
-    "image_path": "recipes/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
-    "image_dir": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal/images",
+    "image_path": "recipes\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images\/hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal_image_1.webp",
+    "image_dir": "hearty-lentil-stew-creamy-mashed-potato-bowl-comforting-vegetarian-family-meal\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-16T18:20:45+01:00",
-    "updatedAt": "2025-11-16T18:20:45+01:00"
+    "createdAt": "2025-11-17T21:05:50+01:00",
+    "updatedAt": "2025-11-17T21:05:50+01:00"
 }
