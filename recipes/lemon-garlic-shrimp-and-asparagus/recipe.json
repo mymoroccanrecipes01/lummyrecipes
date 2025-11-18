@@ -1,7 +1,7 @@
 {
     "title": "Quick Lemon Garlic Shrimp and Asparagus for Family",
     "promptIMG": "Lemon garlic shrimp and asparagus, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Enjoy a quick and flavorful Lemon Garlic Shrimp and Asparagus dish that brings coastal flavors to your kitchen. Perfect for impressing family and friends with minimal effort.",
     "difficulty": "easy",
     "prep_time": 15,
@@ -33,27 +33,27 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Picture this: succulent shrimp and tender asparagus tossed in fragrant garlic oil, creating a delightful aroma in your kitchen. This quick dish transforms simple ingredients into a stunning meal ready in just 25 minutes.</p>"
+            "content": "<p>Picture this: succulent shrimp and tender asparagus tossed in fragrant garlic oil, creating a delightful aroma in your kitchen. This quick dish transforms simple ingredients into a stunning meal ready in just 25 minutes.<\/p>"
         },
         {
             "note": {
                 "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 15 minutes</li><li>Professional-level taste from your home kitchen</li><li>Ideal for busy evenings</li><li>Common pantry staples required</li><li>Perfect for impressing guests</li></ul>"
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for busy evenings<\/li><li>Common pantry staples required<\/li><li>Perfect for impressing guests<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I discovered this recipe on a busy weeknight when I needed something quick yet impressive. My family couldn't believe how delicious it was, and now it's a regular in our dinner rotation.</p>"
+            "content": "<p>I discovered this recipe on a busy weeknight when I needed something quick yet impressive. My family couldn't believe how delicious it was, and now it's a regular in our dinner rotation.<\/p>"
         },
         {
             "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Primary component:</strong> Shrimp - provides a succulent and flavorful base for the dish</li><li><strong>Essential aromatics/flavor elements:</strong> Garlic and lemon - enhance the dish with bright, zesty flavors</li><li><strong>Complementary components:</strong> Asparagus - adds a crunchy texture and vibrant color</li><li><strong>Required tools:</strong> Large skillet, spatula, measuring spoons</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Shrimp - provides a succulent and flavorful base for the dish<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Garlic and lemon - enhance the dish with bright, zesty flavors<\/li><li><strong>Complementary components:<\/strong> Asparagus - adds a crunchy texture and vibrant color<\/li><li><strong>Required tools:<\/strong> Large skillet, spatula, measuring spoons<\/li><\/ul>"
         },
         {
             "upload": {
                 "context": "Fresh peeled shrimp with minced garlic, asparagus, and lemon arranged on kitchen counter ready for cooking.",
-                "url": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+                "url": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_1.webp",
                 "type": "main",
                 "fileName": "lemon-garlic-shrimp-and-asparagus_image_1.webp"
             }
@@ -62,12 +62,12 @@
             "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Trim asparagus and peel shrimp. Mince garlic and juice the lemon.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Heat olive oil in a large skillet over medium heat. Sauté garlic for 1 minute, then add shrimp and asparagus. Cook for 5-7 minutes until shrimp are pink.</dd><dt><strong>Final Assembly:</strong></dt><dd>Squeeze lemon juice over the dish, season with salt and pepper, and serve immediately.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Trim asparagus and peel shrimp. Mince garlic and juice the lemon.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Heat olive oil in a large skillet over medium heat. Sauté garlic for 1 minute, then add shrimp and asparagus. Cook for 5-7 minutes until shrimp are pink.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Squeeze lemon juice over the dish, season with salt and pepper, and serve immediately.<\/dd><\/dl>"
         },
         {
             "upload": {
                 "context": "Lemon garlic shrimp and asparagus sizzling in hot skillet with shrimp turning pink and asparagus bright green.",
-                "url": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_2.webp",
+                "url": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_2.webp",
                 "type": "process",
                 "fileName": "lemon-garlic-shrimp-and-asparagus_image_2.webp"
             }
@@ -75,34 +75,34 @@
         {
             "note": {
                 "label": "Essential Knowledge",
-                "content": "<ul><li>Use fresh shrimp for the best flavor and texture</li><li>Avoid overcooking shrimp to prevent toughness</li><li>Doneness indicator: shrimp should be pink and opaque</li><li>Store leftovers in an airtight container in the fridge for up to 2 days</li></ul>"
+                "content": "<ul><li>Use fresh shrimp for the best flavor and texture<\/li><li>Avoid overcooking shrimp to prevent toughness<\/li><li>Doneness indicator: shrimp should be pink and opaque<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Every time I serve this dish, I'm reminded that great meals don't need complexity. Watching my family enjoy it confirms this recipe's place in our weekly menu.</p>"
+            "content": "<p>Every time I serve this dish, I'm reminded that great meals don't need complexity. Watching my family enjoy it confirms this recipe's place in our weekly menu.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Add a splash of white wine during cooking for depth, or sprinkle red pepper flakes for a kick. A pat of butter at the end creates a luxurious sauce.</p>"
+            "content": "<p>Add a splash of white wine during cooking for depth, or sprinkle red pepper flakes for a kick. A pat of butter at the end creates a luxurious sauce.<\/p>"
         },
         {
             "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve over fluffy rice or angel hair pasta to catch the garlicky sauce, or alongside a Caesar salad and crusty bread for a complete meal.</p>"
+            "content": "<p>Serve over fluffy rice or angel hair pasta to catch the garlicky sauce, or alongside a Caesar salad and crusty bread for a complete meal.<\/p>"
         },
         {
             "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>Substitute shrimp with cubed chicken or firm tofu, adjusting cook time. For a low-carb option, serve over zucchini noodles instead of pasta.</p>"
+            "content": "<p>Substitute shrimp with cubed chicken or firm tofu, adjusting cook time. For a low-carb option, serve over zucchini noodles instead of pasta.<\/p>"
         },
         {
             "upload": {
                 "context": "Perfectly cooked lemon garlic shrimp on white plate with fresh parsley garnish, lemon wedges and asparagus visible.",
-                "url": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_3.webp",
+                "url": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_3.webp",
                 "type": "final",
                 "fileName": "lemon-garlic-shrimp-and-asparagus_image_3.webp"
             }
@@ -110,44 +110,44 @@
         {
             "note": {
                 "label": "Expert Insights",
-                "content": "<ul><li>Use a high-quality olive oil for better flavor</li><li>Finish with fresh herbs like parsley for brightness</li><li>Timing tip: have all ingredients prepped before starting to cook</li><li>Plating suggestion: arrange shrimp and asparagus artfully for visual appeal</li></ul>"
+                "content": "<ul><li>Use a high-quality olive oil for better flavor<\/li><li>Finish with fresh herbs like parsley for brightness<\/li><li>Timing tip: have all ingredients prepped before starting to cook<\/li><li>Plating suggestion: arrange shrimp and asparagus artfully for visual appeal<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 25 minutes away. Your family deserves this simplicity.</p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 25 minutes away. Your family deserves this simplicity.<\/p>"
         }
     ],
-    "category_id": "cat_1761230383_494",
+    "category_id": "cat_1761230072_178",
     "images": [
         {
             "fileName": "lemon-garlic-shrimp-and-asparagus_image_1.webp",
-            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
-            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "lemon-garlic-shrimp-and-asparagus_image_2.webp",
-            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_2.webp",
-            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_2.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "lemon-garlic-shrimp-and-asparagus_image_3.webp",
-            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_3.webp",
-            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_3.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
             "fileName": "lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
-            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
-            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -156,10 +156,10 @@
     "id": "text_recipe_1762204446_519",
     "author_id": "author_001",
     "image": "lemon-garlic-shrimp-and-asparagus_image_1.webp",
-    "image_path": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
-    "image_dir": "lemon-garlic-shrimp-and-asparagus/images",
+    "image_path": "recipes\/lemon-garlic-shrimp-and-asparagus\/images\/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+    "image_dir": "lemon-garlic-shrimp-and-asparagus\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-03T22:14:06+01:00",
-    "updatedAt": "2025-11-18T22:50:09+01:00"
+    "createdAt": "2025-11-18T22:52:57+01:00",
+    "updatedAt": "2025-11-18T22:52:57+01:00"
 }
