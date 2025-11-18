@@ -1,7 +1,7 @@
 {
     "title": "Quick Pickled Onions for Tasty Meals",
     "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"quick pickled onions, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Elevate your meals with these quick pickled onions! Perfect for burgers or salads, they add a tangy crunch that transforms any dish. Try them today!",
     "difficulty": "easy",
     "prep_time": 10,
@@ -29,22 +29,22 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Picture this: vibrant red onions soaking in a tangy vinegar brine, creating a colorful and flavorful addition to your meals. These quick pickled onions are perfect for adding a burst of flavor without much effort, making them a go-to for busy weeknights.</p>"
+            "content": "<p>Picture this: vibrant red onions soaking in a tangy vinegar brine, creating a colorful and flavorful addition to your meals. These quick pickled onions are perfect for adding a burst of flavor without much effort, making them a go-to for busy weeknights.<\/p>"
         },
         {
             "note": {
                 "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 10 minutes</li><li>Transforms ordinary dishes into extraordinary meals</li><li>Ideal for quick meal enhancements</li><li>Uses common pantry staples</li><li>Perfect for burgers and salads</li></ul>"
+                "content": "<ul><li>Simple preparation in just 10 minutes<\/li><li>Transforms ordinary dishes into extraordinary meals<\/li><li>Ideal for quick meal enhancements<\/li><li>Uses common pantry staples<\/li><li>Perfect for burgers and salads<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I stumbled upon this recipe during a busy week when I needed a quick way to elevate my meals. Now, these pickled onions are a staple in my kitchen, adding a delightful crunch and tang that my family loves.</p>"
+            "content": "<p>I stumbled upon this recipe during a busy week when I needed a quick way to elevate my meals. Now, these pickled onions are a staple in my kitchen, adding a delightful crunch and tang that my family loves.<\/p>"
         },
         {
             "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Primary component:</strong> red onion - adds a sweet and tangy flavor that complements many dishes</li><li><strong>Essential aromatics/flavor elements:</strong> vinegar, sugar, salt - they create the perfect balance of acidity and sweetness</li><li><strong>Complementary components:</strong> water - dilutes the vinegar for a milder taste</li><li><strong>Required tools:</strong> bowl, whisk, glass jar for storage</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> red onion - adds a sweet and tangy flavor that complements many dishes<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> vinegar, sugar, salt - they create the perfect balance of acidity and sweetness<\/li><li><strong>Complementary components:<\/strong> water - dilutes the vinegar for a milder taste<\/li><li><strong>Required tools:<\/strong> bowl, whisk, glass jar for storage<\/li><\/ul>"
         },
         {
             "upload": {
@@ -57,7 +57,7 @@
             "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>In a bowl, combine the vinegar, water, sugar, and salt. Stir until the sugar and salt dissolve.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Add the sliced onions to the bowl and ensure they are submerged in the liquid.</dd><dt><strong>Final Assembly:</strong></dt><dd>Let the onions sit for at least 30 minutes before using. For best flavor, refrigerate for a few hours or overnight.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>In a bowl, combine the vinegar, water, sugar, and salt. Stir until the sugar and salt dissolve.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Add the sliced onions to the bowl and ensure they are submerged in the liquid.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Let the onions sit for at least 30 minutes before using. For best flavor, refrigerate for a few hours or overnight.<\/dd><\/dl>"
         },
         {
             "upload": {
@@ -69,29 +69,29 @@
         {
             "note": {
                 "label": "Essential Knowledge",
-                "content": "<ul><li>For best results, allow the onions to pickle overnight for maximum flavor</li><li>Avoid using metal containers for pickling to prevent reactions with vinegar</li><li>Onions are ready when they turn a bright pink color</li><li>Store pickled onions in the refrigerator for up to two weeks</li></ul>"
+                "content": "<ul><li>For best results, allow the onions to pickle overnight for maximum flavor<\/li><li>Avoid using metal containers for pickling to prevent reactions with vinegar<\/li><li>Onions are ready when they turn a bright pink color<\/li><li>Store pickled onions in the refrigerator for up to two weeks<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Every time I serve these pickled onions, my family is thrilled with the added flavor. They are a simple yet impactful addition that makes our meals feel special.</p>"
+            "content": "<p>Every time I serve these pickled onions, my family is thrilled with the added flavor. They are a simple yet impactful addition that makes our meals feel special.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>For an extra kick, add a few peppercorns or a sprig of fresh dill to the pickling liquid. You can also experiment with different types of vinegar for unique flavor profiles.</p>"
+            "content": "<p>For an extra kick, add a few peppercorns or a sprig of fresh dill to the pickling liquid. You can also experiment with different types of vinegar for unique flavor profiles.<\/p>"
         },
         {
             "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve these pickled onions on top of grilled burgers, mixed into salads, or as a garnish for tacos to enhance flavor and presentation.</p>"
+            "content": "<p>Serve these pickled onions on top of grilled burgers, mixed into salads, or as a garnish for tacos to enhance flavor and presentation.<\/p>"
         },
         {
             "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>Substitute red onions with white or yellow onions for a milder flavor. For a spicy twist, add sliced jalapeños to the pickling mixture.</p>"
+            "content": "<p>Substitute red onions with white or yellow onions for a milder flavor. For a spicy twist, add sliced jalapeños to the pickling mixture.<\/p>"
         },
         {
             "upload": {
@@ -103,41 +103,41 @@
         {
             "note": {
                 "label": "Expert Insights",
-                "content": "<ul><li>For a more complex flavor, try adding garlic cloves to the pickling mixture</li><li>Letting the onions pickle longer enhances their flavor</li><li>Use a mandoline for perfectly uniform onion slices</li><li>Serve in a clear dish to showcase the beautiful colors</li></ul>"
+                "content": "<ul><li>For a more complex flavor, try adding garlic cloves to the pickling mixture<\/li><li>Letting the onions pickle longer enhances their flavor<\/li><li>Use a mandoline for perfectly uniform onion slices<\/li><li>Serve in a clear dish to showcase the beautiful colors<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't miss out on adding these quick pickled onions to your meals. They are ready in just 10 minutes and provide a burst of flavor that is both easy and satisfying!</p>"
+            "content": "<p>Don't miss out on adding these quick pickled onions to your meals. They are ready in just 10 minutes and provide a burst of flavor that is both easy and satisfying!<\/p>"
         }
     ],
     "category_id": "cat_1761230221_583",
     "images": [
         {
             "fileName": "quick-pickled-onions-for-tasty-meals_image_1.webp",
-            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
-            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_1.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "quick-pickled-onions-for-tasty-meals_image_2.webp",
-            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_2.webp",
-            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_2.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "quick-pickled-onions-for-tasty-meals_image_3.webp",
-            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_3.webp",
-            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_3.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
-            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
-            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -146,10 +146,10 @@
     "id": "recipe_1763313253_724",
     "author_id": "author_001",
     "image": "quick-pickled-onions-for-tasty-meals_image_1.webp",
-    "image_path": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
-    "image_dir": "quick-pickled-onions-for-tasty-meals/images",
+    "image_path": "recipes\/quick-pickled-onions-for-tasty-meals\/images\/quick-pickled-onions-for-tasty-meals_image_1.webp",
+    "image_dir": "quick-pickled-onions-for-tasty-meals\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-16T18:14:13+01:00",
-    "updatedAt": "2025-11-18T22:19:09+01:00"
+    "createdAt": "2025-11-18T22:37:16+01:00",
+    "updatedAt": "2025-11-18T22:37:16+01:00"
 }
