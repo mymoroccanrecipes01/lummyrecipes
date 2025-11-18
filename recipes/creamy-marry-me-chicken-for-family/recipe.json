@@ -1,157 +1,162 @@
 {
-    "id": "recipe_1763051548_307",
-    "slug": "creamy-marry-me-chicken-for-family",
-    "title": "Creamy Marry Me Chicken for Family",
-    "promptIMG": "Crockpot Marry Me Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "Crockpot Marry Me Chicken is the ultimate comfort dish that transforms weeknight dinners into something special. With its creamy texture and rich flavors, it's sure to impress your family or that special someone. Save this recipe for an effortless yet romantic meal!",
-    "category_id": "cat_1761230383_494",
-    "author_id": "author_001",
-    "ingredients": [
-        "4 chicken breasts",
-        "1 cup cream of chicken soup",
-        "1 cup chicken broth",
-        "1 packet ranch seasoning",
-        "1 cup shredded cheese",
-        "1/2 cup sun-dried tomatoes",
-        "1 tablespoon olive oil",
-        "Salt and pepper to taste"
-    ],
-    "instructions": [
-        "In a slow cooker, add the chicken breasts and season with salt and pepper.",
-        "In a bowl, mix the cream of chicken soup, chicken broth, ranch seasoning, and sun-dried tomatoes.",
-        "Pour the mixture over the chicken in the slow cooker.",
-        "Cover and cook on low for 4 hours or until the chicken is cooked through.",
-        "In the last 30 minutes of cooking, sprinkle shredded cheese on top and cover until melted."
-    ],
+    "title": "Effortless Crockpot Marry Me Chicken for Family Dinners",
+    "promptIMG": "Crockpot Marry Me Chicken, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Discover the creamy and rich flavors of Crockpot Marry Me Chicken, an effortless dish perfect for weeknight dinners. Impress your loved ones with this easy recipe that elevates any occasion.",
+    "difficulty": "easy",
     "prep_time": 15,
     "cook_time": 240,
-    "total_time": 255,
     "servings": 4,
-    "difficulty": "easy",
-    "tips": "For the best results, sear the chicken in olive oil before adding it to the slow cooker to enhance the flavor.",
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1 cup heavy cream",
+        "1 cup chicken broth",
+        "1 packet ranch seasoning mix",
+        "1 cup grated Parmesan cheese",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "Place the chicken breasts in the bottom of the crockpot.",
+        "In a bowl, mix together the heavy cream, chicken broth, ranch seasoning, Parmesan cheese, garlic powder, onion powder, salt, and pepper.",
+        "Pour the mixture over the chicken in the crockpot.",
+        "Cover and cook on low for 4 hours or until the chicken is cooked through and tender.",
+        "Once done, shred the chicken with two forks and stir to combine with the sauce.",
+        "Serve hot, garnished with fresh parsley."
+    ],
+    "tips": "For the best flavor, let the chicken marinate in the sauce for a few hours before cooking. Ensure the chicken is fully submerged in the sauce for even cooking. Serve with a side of crusty bread to soak up the delicious sauce.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>Indulge in the rich, creamy goodness of Crockpot Marry Me Chicken, a dish that promises to win hearts and taste buds alike. This easy recipe combines tender chicken with a luscious sauce, making it perfect for any occasion.</p>"
+            "content": "<p>Imagine tender chicken simmering in a creamy, savory sauce, filling your kitchen with an irresistible aroma. This Crockpot Marry Me Chicken transforms simple ingredients into a delightful meal that’s ready with minimal effort.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 15 minutes of prep</li><li>Rich, creamy flavors that feel indulgent</li><li>Perfect for weeknight dinners or romantic evenings</li><li>Uses simple ingredients you likely have on hand</li><li>Family-approved and sure to impress!</li></ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Professional-level taste from your home kitchen<\/li><li>Ideal for busy evenings<\/li><li>Common pantry staples required<\/li><li>Perfect for impressing guests<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I'll never forget the first time I made this dish for my partner; the moment they took a bite, their eyes lit up, and I knew I had found a winner. It's become a staple in our home, perfect for cozy nights in.</p>"
+            "content": "<p>I stumbled upon this recipe during a hectic week, and it quickly became a family favorite. The kids love the creamy sauce, and it’s so easy to prepare that I can make it even on the busiest nights.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:</strong> Chicken breasts are best for this recipe as they stay juicy and tender during slow cooking.</li><li><strong>Key seasonings/flavoring agents:</strong> Ranch seasoning adds a burst of flavor that elevates the dish.</li><li><strong>Supporting ingredients:</strong> Cream of chicken soup and cheese create a creamy sauce that envelops the chicken.</li><li><strong>Equipment needed:</strong> A slow cooker is essential for this recipe to achieve that melt-in-your-mouth texture.</li></ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Chicken breasts - they become incredibly tender in the slow cooker<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Ranch seasoning and garlic powder - they add depth and richness<\/li><li><strong>Complementary components:<\/strong> Heavy cream and Parmesan cheese - they create a luscious sauce<\/li><li><strong>Required tools:<\/strong> Crockpot, mixing bowl, measuring cups<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "Preparation of ingredients for Crockpot Marry Me Chicken, showcasing chicken breasts and other ingredients.",
-                "url": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_1.webp",
-                "fileName": "creamy-marry-me-chicken-for-family_image_1.webp",
+                "context": "Fresh chicken breasts with ranch seasoning, heavy cream, and Parmesan cheese arranged on a kitchen counter ready for cooking.",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Season the chicken breasts with salt and pepper, and prepare the sauce mixture in a separate bowl.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Combine the chicken and sauce in the slow cooker, cover, and cook on low for 4 hours until the chicken is tender.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Add cheese in the last 30 minutes for a melty, delicious finish.</dd></dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Place the chicken breasts in the bottom of the crockpot.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Mix the heavy cream, chicken broth, ranch seasoning, Parmesan cheese, garlic powder, onion powder, salt, and pepper, then pour over the chicken. Cover and cook on low for 4 hours.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Shred the chicken and stir to combine with the sauce before serving.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Cooking process of Crockpot Marry Me Chicken, showing the dish simmering in the slow cooker.",
-                "url": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_2.webp",
-                "fileName": "creamy-marry-me-chicken-for-family_image_2.webp",
-                "type": "main"
+                "context": "Crockpot Marry Me Chicken simmering in the crockpot with creamy sauce bubbling around tender chicken.",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook on low for the best flavor and tenderness.</li><li>Avoid overcooking the chicken to prevent dryness.</li><li>Check for doneness with a meat thermometer; it should reach 165°F.</li><li>Store leftovers in an airtight container in the fridge for up to 3 days.</li></ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>For maximum tenderness, ensure the chicken is fully submerged in the sauce.<\/li><li>Avoid overcooking by checking the chicken's doneness after 4 hours.<\/li><li>The chicken is done when it shreds easily with a fork.<\/li><li>This dish can be stored in the refrigerator for up to 3 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This dish has become a cherished recipe in our family, often shared during gatherings and special occasions. It's a reminder of love and comfort, bringing everyone together around the table.</p>"
+            "content": "<p>Every time I serve this dish, my family can't get enough of the creamy sauce. It's a comforting meal that brings everyone together, making it a staple in our household.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding fresh herbs like parsley or basil for a fresh twist, or a splash of lemon juice for brightness. You can also swap in different cheeses for varied flavors.</p>"
+            "content": "<p>Add a splash of lemon juice for brightness, or toss in some spinach during the last hour of cooking for added nutrition. A sprinkle of red pepper flakes can also add a nice kick.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve with a side of mashed potatoes or over rice to soak up the creamy sauce. A crisp green salad pairs beautifully for a complete meal.</p>"
+            "content": "<p>Serve over fluffy rice or pasta to soak up the creamy sauce, or pair with a fresh green salad for a balanced meal.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free version, ensure your cream of chicken soup is gluten-free. You can also use tofu or chickpeas for a vegetarian twist while keeping the creamy sauce.</p>"
+            "content": "<p>Substitute chicken with turkey or firm tofu for a vegetarian option, adjusting the cook time as necessary. For a lighter version, use half-and-half instead of heavy cream.<\/p>"
         },
         {
             "upload": {
-                "context": "Final plated dish of Crockpot Marry Me Chicken, showcasing the creamy texture and garnished with herbs.",
-                "url": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_3.webp",
-                "fileName": "creamy-marry-me-chicken-for-family_image_3.webp",
-                "type": "main"
+                "context": "Crockpot Marry Me Chicken plated on a white dish with fresh parsley garnish and a side of rice.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Sear the chicken for extra flavor before slow cooking.</li><li>Use low-sodium broth to control saltiness.</li><li>Monitor cooking time closely to maintain moisture.</li><li>Garnish with fresh herbs for an appealing presentation.</li></ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For a richer flavor, sear the chicken in a skillet before adding to the crockpot.<\/li><li>Incorporate fresh herbs like thyme or basil for an aromatic touch.<\/li><li>Timing is key; ensure you start cooking early for optimal tenderness.<\/li><li>For plating, drizzle extra sauce over the chicken for a beautiful presentation.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Embrace the joy of cooking with this easy and delicious recipe. You'll feel proud serving this dish, knowing it brings happiness to your loved ones!</p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This Crockpot Marry Me Chicken proves that restaurant-quality flavor is just 255 minutes away. Your family deserves this simplicity.<\/p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "creamy-marry-me-chicken-for-family_image_1.webp",
-            "filePath": "recipes/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_1.webp",
-            "relativePath": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_1.webp",
+            "relativePath": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "creamy-marry-me-chicken-for-family_image_2.webp",
-            "filePath": "recipes/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_2.webp",
-            "relativePath": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_2.webp",
+            "relativePath": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "creamy-marry-me-chicken-for-family_image_3.webp",
-            "filePath": "recipes/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_3.webp",
-            "relativePath": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_3.webp",
+            "relativePath": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "creamy-marry-me-chicken-for-family_image_4.webp",
-            "filePath": "recipes/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_4.webp",
-            "relativePath": "creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_4.webp",
+            "fileName": "creamy-marry-me-chicken-for-family_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_LummyRecipes_image_4.webp",
+            "relativePath": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "creamy-marry-me-chicken-for-family",
+    "id": "recipe_1763051548_307",
+    "author_id": "author_001",
     "image": "creamy-marry-me-chicken-for-family_image_1.webp",
-    "image_path": "recipes/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_1.webp",
-    "image_dir": "creamy-marry-me-chicken-for-family/images",
+    "image_path": "recipes\/creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_1.webp",
+    "image_dir": "creamy-marry-me-chicken-for-family\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-13T17:32:28+01:00",
-    "updatedAt": "2025-11-13T17:32:28+01:00"
+    "createdAt": "2025-11-19T00:53:24+01:00",
+    "updatedAt": "2025-11-19T00:53:24+01:00"
 }

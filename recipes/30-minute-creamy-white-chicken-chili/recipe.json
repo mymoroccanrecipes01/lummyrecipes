@@ -1,24 +1,33 @@
 {
-    "title": "Quick and Creamy White Chicken Chili for Cozy Nights",
-    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"white chicken chili, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "title": "Creamy White Chicken Chili for Cozy Nights",
+    "promptIMG": "Creamy white chicken chili, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
     "isOnline": true,
-    "description": "Enjoy a comforting bowl of creamy white chicken chili ready in just 30 minutes. Perfect for cozy weeknight dinners or gatherings with friends. Try it tonight!",
+    "description": "Savor a comforting bowl of creamy white chicken chili, ready in just 30 minutes. Perfect for cozy weeknight dinners or gatherings with friends. Try it tonight!",
     "difficulty": "easy",
     "prep_time": 30,
     "cook_time": 30,
     "servings": 4,
     "ingredients": [
-        "chicken",
-        "white beans",
-        "cream",
-        "spices"
+        "2 cups cooked chicken, shredded",
+        "1 can white beans, drained and rinsed",
+        "1 cup corn, frozen or canned",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "2 cups chicken broth",
+        "1 cup heavy cream",
+        "1 teaspoon cumin",
+        "1 teaspoon chili powder",
+        "Salt and pepper to taste",
+        "Fresh cilantro for garnish"
     ],
     "instructions": [
-        "Cook chicken until no longer pink.",
-        "Add white beans and cream.",
-        "Stir in spices and simmer for 10 minutes."
+        "In a large pot, sauté the onion and garlic until translucent.",
+        "Add the shredded chicken, white beans, corn, chicken broth, cumin, chili powder, salt, and pepper.",
+        "Bring to a simmer and cook for 15 minutes.",
+        "Stir in the heavy cream and heat through.",
+        "Serve hot, garnished with fresh cilantro."
     ],
-    "tips": "For a thicker chili, mash some of the beans before adding. Adjust spices to taste for a personalized kick. Serve with fresh cilantro for added flavor.",
+    "tips": "For the best flavor, use homemade chicken broth. Adjust the spices to your taste for a milder or spicier chili. Serve with crusty bread for a complete meal.",
     "image_keywords": [
         "appetizing",
         "delicious",
@@ -28,26 +37,26 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Picture this: a warm bowl of creamy white chicken chili, rich and flavorful, perfect for chilly evenings. This dish transforms simple ingredients into a comforting meal ready in just 30 minutes.<\/p>"
+            "content": "<p>Picture this: a creamy white chicken chili bubbling in a pot, filling your kitchen with a warm, inviting aroma. This quick dish transforms simple ingredients into a comforting meal ready in just 30 minutes, perfect for busy weeknights.<\/p>"
         },
         {
             "note": {
                 "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Rich, creamy texture that satisfies<\/li><li>Ideal for cozy weeknight dinners<\/li><li>Common pantry staples required<\/li><li>Perfect for gatherings with friends<\/li><\/ul>"
+                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Rich and creamy flavor that satisfies<\/li><li>Ideal for cozy gatherings<\/li><li>Uses common pantry staples<\/li><li>Perfect for chilly evenings<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I stumbled upon this recipe during a busy week when I needed something quick yet comforting. It quickly became a family favorite, perfect for those nights when everyone is home.<\/p>"
+            "content": "<p>I stumbled upon this creamy white chicken chili recipe during a busy week when I needed something quick yet comforting. It quickly became a family favorite, perfect for those nights when everyone is craving something warm.<\/p>"
         },
         {
             "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Primary component:<\/strong> chicken - provides protein and heartiness<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> spices - enhance the flavor profile<\/li><li><strong>Complementary components:<\/strong> white beans and cream - add creaminess and texture<\/li><li><strong>Required tools:<\/strong> large pot, stirring spoon<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Chicken - provides protein and heartiness to the dish<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Onion and garlic - enhance the overall flavor profile<\/li><li><strong>Complementary components:<\/strong> White beans and corn - add texture and sweetness<\/li><li><strong>Required tools:<\/strong> Large pot, wooden spoon, measuring cups<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "Fresh chicken pieces with white beans and spices arranged on a kitchen counter ready for cooking.",
+                "context": "Fresh shredded chicken with diced onions, minced garlic, and white beans arranged on a kitchen counter ready for cooking.",
                 "url": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_1.webp",
                 "type": "main",
                 "fileName": "30-minute-creamy-white-chicken-chili_image_1.webp"
@@ -57,11 +66,11 @@
             "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Cook chicken until no longer pink, about 10 minutes.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Add white beans and cream, stir in spices, and simmer for 10 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Serve hot, garnished with fresh cilantro if desired.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Gather all ingredients and tools needed for the recipe.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Sauté the onion and garlic in a large pot until translucent, then add the remaining ingredients and simmer for 15 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Stir in the heavy cream, heat through, and serve garnished with cilantro.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "White chicken chili simmering in a large pot with creamy texture and spices bubbling.",
+                "context": "Creamy white chicken chili simmering in a large pot with steam rising and ingredients visibly blended.",
                 "url": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_2.webp",
                 "type": "process",
                 "fileName": "30-minute-creamy-white-chicken-chili_image_2.webp"
@@ -70,33 +79,33 @@
         {
             "note": {
                 "label": "Essential Knowledge",
-                "content": "<ul><li>For a creamier texture, use heavy cream instead of regular cream.<\/li><li>Avoid overcooking the chicken to keep it tender.<\/li><li>Chili is done when heated through and flavors meld.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "content": "<ul><li>For a thicker chili, mash some of the beans before adding them.<\/li><li>A common mistake is not allowing enough time for the flavors to meld.<\/li><li>The chili is done when it is heated through and creamy.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Every time I serve this chili, it brings warmth and comfort to our family dinners. It's a hit with everyone, and I love how quickly it comes together.<\/p>"
+            "content": "<p>Every time I serve this creamy white chicken chili, my family can't get enough. It's a reminder that simple, comforting meals can bring everyone together, making it a staple in our home.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Add a squeeze of lime juice for brightness, or toss in some diced jalapeños for heat. A sprinkle of cheese on top creates a deliciously creamy finish.<\/p>"
+            "content": "<p>Add a squeeze of lime juice for brightness, or toss in some diced jalapeños for a spicy kick. A sprinkle of cheese on top enhances the creaminess.<\/p>"
         },
         {
             "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve with warm cornbread or tortilla chips for a delightful crunch. A side salad can also complement the meal nicely.<\/p>"
+            "content": "<p>Serve with warm tortillas or crusty bread to soak up the chili, or pair with a fresh garden salad for a balanced meal.<\/p>"
         },
         {
             "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>Substitute chicken with turkey for a lighter option, or use canned beans for a quicker prep. For a vegetarian version, replace chicken with mushrooms or tofu.<\/p>"
+            "content": "<p>Substitute chicken with shredded rotisserie chicken for even quicker prep. For a vegetarian version, use chickpeas instead of chicken and vegetable broth.<\/p>"
         },
         {
             "upload": {
-                "context": "Creamy white chicken chili plated in a bowl with fresh cilantro garnish and warm cornbread on the side.",
+                "context": "Creamy white chicken chili plated in a bowl with fresh cilantro garnish and crusty bread on the side.",
                 "url": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_3.webp",
                 "type": "final",
                 "fileName": "30-minute-creamy-white-chicken-chili_image_3.webp"
@@ -105,11 +114,11 @@
         {
             "note": {
                 "label": "Expert Insights",
-                "content": "<ul><li>Use a rotisserie chicken for even faster prep.<\/li><li>Incorporate fresh herbs for an aromatic boost.<\/li><li>Timing is key; simmer just enough to meld flavors.<\/li><li>Serve in a rustic bowl for a cozy presentation.<\/li><\/ul>"
+                "content": "<ul><li>Use high-quality chicken for the best flavor.<\/li><li>Consider adding a dash of hot sauce for an extra flavor boost.<\/li><li>Timing is key; don't rush the simmering process.<\/li><li>For plating, a dollop of sour cream adds a nice touch.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 30 minutes away. Your family deserves this simplicity.<\/p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This creamy white chicken chili proves that comfort food can be ready in just 30 minutes. Your family deserves this simplicity.<\/p>"
         }
     ],
     "category_id": "cat_1761230383_494",
@@ -155,6 +164,6 @@
     "image_dir": "30-minute-creamy-white-chicken-chili\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-18T23:33:10+01:00",
-    "updatedAt": "2025-11-18T23:33:10+01:00"
+    "createdAt": "2025-11-19T00:53:28+01:00",
+    "updatedAt": "2025-11-19T00:53:28+01:00"
 }
