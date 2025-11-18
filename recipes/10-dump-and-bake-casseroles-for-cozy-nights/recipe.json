@@ -1,151 +1,168 @@
 {
-    "id": "text_recipe_1762046687_537",
-    "slug": "10-dump-and-bake-casseroles-for-cozy-nights",
-    "title": "10 Dump-and-Bake Casseroles for Cozy Nights",
-    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"casserole, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "title": "Cozy Dump-and-Bake Casseroles for Family",
+    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"dump-and-bake casserole, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
     "isOnline": false,
-    "description": "Cozy up with these 10 delicious dump-and-bake casseroles that are perfect for chilly nights. Each recipe is designed to be simple yet satisfying, making them ideal for busy weeknights or family gatherings.",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "description": "Indulge in these 10 cozy dump-and-bake casseroles, perfect for chilly nights. Simple yet satisfying, they make weeknight dinners a breeze for the whole family.",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 6,
     "ingredients": [
-        "1 pound shrimp peeled and deveined",
-        "2 tablespoons olive oil"
+        "1 pound ground beef",
+        "1 can diced tomatoes",
+        "1 can cream of mushroom soup",
+        "2 cups frozen mixed vegetables",
+        "2 cups shredded cheese",
+        "1 package pasta",
+        "1 tablespoon Italian seasoning",
+        "Salt and pepper to taste"
     ],
     "instructions": [
-        "Heat olive oil in large skillet over medium heat",
-        "Add shrimp and cook 2-3 minutes per side until pink"
+        "Preheat the oven to 375°F (190°C).",
+        "In a large mixing bowl, combine ground beef, diced tomatoes, cream of mushroom soup, mixed vegetables, and Italian seasoning.",
+        "Add uncooked pasta and mix until well combined.",
+        "Transfer the mixture to a greased 9x13 inch baking dish.",
+        "Top with shredded cheese.",
+        "Cover with foil and bake for 30 minutes.",
+        "Remove the foil and bake for an additional 15 minutes, or until the cheese is bubbly and golden."
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect results, ensure your shrimp are fresh and not overcooked to maintain their tender texture.",
+    "tips": "For a creamier casserole, add a splash of milk or cream before baking. Ensure the pasta is fully submerged in the mixture to cook evenly. Let the casserole sit for a few minutes before serving for easier slicing.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>These dump-and-bake casseroles are a lifesaver for anyone looking to enjoy a hearty meal without spending hours in the kitchen. With minimal prep and maximum flavor, they are sure to become a staple in your home.<\/p>"
+            "content": "<p>Imagine a warm, cheesy casserole bubbling in the oven, filling your home with a comforting aroma. This dish combines hearty ingredients into a satisfying meal that’s ready in just 60 minutes, perfect for busy weeknights.</p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Comforting flavors that warm you up<\/li><li>Perfect for weeknight dinners or cozy gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes</li><li>Professional-level taste from your home kitchen</li><li>Ideal for busy evenings</li><li>Common pantry staples required</li><li>Perfect for family gatherings</li></ul>"
             }
         },
         {
-            "content": "<p>Growing up, my family often gathered around the table for a warm casserole after a long day. These recipes remind me of those cherished moments, bringing comfort and joy to every meal.<\/p>"
+            "content": "<p>I stumbled upon this casserole recipe during a hectic week when I needed a quick dinner solution. My family loved it so much that it has become a staple in our meal rotation.</p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Shrimp adds a delightful seafood flavor and cooks quickly, making it perfect for casseroles.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic and herbs enhance the dish's flavor profile, so choose fresh or dried options based on availability.<\/li><li><strong>Supporting ingredients:<\/strong> Vegetables like bell peppers and onions add texture and nutrition.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a baking dish are essential for assembling and cooking your casserole.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:</strong> Ground beef - provides a hearty base for the casserole</li><li><strong>Essential aromatics/flavor elements:</strong> Italian seasoning - adds depth and flavor</li><li><strong>Complementary components:</strong> Diced tomatoes and cream of mushroom soup - create a rich sauce</li><li><strong>Required tools:</strong> Mixing bowl, baking dish, foil</li></ul>"
         },
         {
             "upload": {
-                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
-                "url": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-                "type": "main"
+                "context": "Ground beef with diced tomatoes, cream of mushroom soup, and mixed vegetables arranged in a mixing bowl ready for baking.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+                "type": "main",
+                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by prepping your ingredients: peel and devein the shrimp, chop vegetables, and measure out your seasonings.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat olive oil in a skillet, add shrimp and cook until pink, then mix with other ingredients in a baking dish and bake until bubbly.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with fresh herbs before serving for an added pop of color and flavor.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:</strong></dt><dd>Preheat the oven to 375°F (190°C) and grease a baking dish.</dd><dt><strong>Main Cooking Phase:</strong></dt><dd>Combine all ingredients in a mixing bowl, transfer to the baking dish, cover with foil, and bake for 30 minutes.</dd><dt><strong>Final Assembly:</strong></dt><dd>Remove the foil, bake for an additional 15 minutes until cheese is bubbly.</dd></dl>"
         },
         {
             "upload": {
-                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
-                "url": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-                "type": "process"
+                "context": "Casserole baking in the oven with cheese bubbling and golden brown on top.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+                "type": "process",
+                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook shrimp just until pink to avoid a rubbery texture.<\/li><li>A common mistake is overcrowding the pan, which can lead to uneven cooking.<\/li><li>Look for a bubbly, golden top to indicate it's ready to serve.<\/li><li>Store leftovers in an airtight container for up to 3 days and reheat in the oven.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>For best results, use lean ground beef to avoid excess grease.</li><li>Avoid overcooking the pasta; it should be slightly underdone before baking.</li><li>The casserole is done when the cheese is melted and bubbly.</li><li>Store leftovers in an airtight container in the refrigerator for up to 3 days.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing these casseroles with friends and family brings back memories of warmth and laughter, making every bite even more special.<\/p>"
+            "content": "<p>Every time I serve this casserole, I see my family's eyes light up. It's a reminder that simple meals can bring everyone together, making it a cherished dish in our home.</p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a sprinkle of cheese on top before baking or a dash of hot sauce for those who enjoy a little heat.<\/p>"
+            "content": "<p>Add a splash of hot sauce for a kick, or mix in some sautéed onions and bell peppers for extra flavor. A sprinkle of fresh herbs before serving can elevate the dish.</p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Pair your casserole with a fresh green salad and crusty bread for a complete meal that satisfies all appetites.<\/p>"
+            "content": "<p>Serve with a side salad for freshness, or pair with garlic bread to soak up the delicious sauce. Roasted vegetables also complement this hearty casserole well.</p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free option, use rice instead of pasta, or swap shrimp for chicken or tofu to cater to different dietary preferences.<\/p>"
+            "content": "<p>Substitute ground turkey for a lighter option, or use gluten-free pasta to accommodate dietary needs. For a vegetarian version, replace meat with lentils or chickpeas.</p>"
         },
         {
             "upload": {
-                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
-                "url": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-                "type": "final"
+                "context": "Delicious dump-and-bake casserole plated on a rustic dish with fresh parsley garnish and a side salad visible.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+                "type": "final",
+                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>For restaurant-quality results, sear the shrimp before adding to the casserole.<\/li><li>Marinate shrimp in lemon juice and garlic for extra flavor.<\/li><li>Keep an eye on baking time to prevent overcooking.<\/li><li>Serve in individual portions for a more elegant presentation.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>Use a mix of cheeses for a more complex flavor.</li><li>Consider adding a layer of breadcrumbs on top for extra crunch.</li><li>Timing is key; check the casserole a few minutes before the end to avoid overbaking.</li><li>For plating, serve directly from the baking dish for a rustic feel.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to dive into these comforting casseroles; they are not just meals, but a way to create lasting memories with loved ones.<\/p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 60 minutes away. Your family deserves this simplicity.</p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
-            "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
+            "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "10-dump-and-bake-casseroles-for-cozy-nights",
+    "id": "text_recipe_1762046687_537",
+    "author_id": "author_001",
     "image": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-    "image_path": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-    "image_dir": "10-dump-and-bake-casseroles-for-cozy-nights\/images",
+    "image_path": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+    "image_dir": "10-dump-and-bake-casseroles-for-cozy-nights/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-02T02:24:47+01:00",
-    "updatedAt": "2025-11-02T02:24:47+01:00"
+    "updatedAt": "2025-11-18T22:19:16+01:00"
 }
