@@ -1,123 +1,125 @@
 {
-    "id": "text_recipe_1762008853_491",
-    "slug": "30-minute-sausage-tortellini-soup",
-    "title": "30-Minute Sausage Tortellini Soup",
-    "promptIMG": "Sausage tortellini soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "This hearty and comforting sausage tortellini soup is a family favorite that comes together in just 30 minutes. Packed with flavor and wholesome ingredients, it's perfect for busy weeknights when you crave something warm and satisfying.",
-    "category_id": "cat_1761230166_734",
-    "author_id": "author_001",
+    "title": "Quick and Hearty Sausage Tortellini Soup for Families",
+    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"sausage tortellini soup, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Enjoy this hearty sausage tortellini soup ready in just 30 minutes! Perfect for busy weeknights, it's packed with flavor and wholesome ingredients your family will love.",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 6,
     "ingredients": [
-        "1 pound Italian sausage, casings removed",
-        "1 onion, chopped",
-        "2 cloves garlic, minced",
-        "4 cups chicken broth",
-        "1 can diced tomatoes",
-        "1 package (9 ounces) cheese tortellini",
-        "2 cups fresh spinach",
-        "Salt and pepper to taste",
-        "Grated Parmesan cheese for serving"
+        "1 package of tortellini",
+        "1 pound of sausage",
+        "4 cups of chicken broth",
+        "1 can of diced tomatoes",
+        "1 cup of spinach",
+        "1 onion, diced",
+        "2 cloves of garlic, minced",
+        "Salt and pepper to taste"
     ],
     "instructions": [
-        "In a large pot, cook the Italian sausage over medium heat until browned, breaking it apart with a spoon.",
-        "Add the chopped onion and minced garlic, cooking until the onion is translucent.",
+        "In a large pot, cook the sausage over medium heat until browned.",
+        "Add the diced onion and minced garlic, cooking until the onion is translucent.",
         "Pour in the chicken broth and diced tomatoes, bringing the mixture to a boil.",
-        "Stir in the tortellini and cook according to package instructions until tender.",
-        "Add the fresh spinach and cook until wilted, about 2 minutes.",
-        "Season with salt and pepper to taste, and serve hot with grated Parmesan cheese on top."
+        "Stir in the tortellini and cook according to package instructions.",
+        "Add the spinach and cook until wilted.",
+        "Season with salt and pepper to taste before serving."
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For a richer flavor, try using homemade broth and adding a pinch of red pepper flakes for a little heat.",
+    "tips": "For the best flavor, use fresh sausage instead of pre-cooked. Don't overcook the tortellini; they should be tender but firm. Add a sprinkle of Parmesan cheese on top for extra richness.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This 30-Minute Sausage Tortellini Soup is the perfect dish for those chilly evenings when you want something warm and filling. The combination of savory sausage, tender tortellini, and fresh spinach creates a delightful balance of flavors and textures that will have your family asking for seconds.<\/p>"
+            "content": "<p>Picture this: a warm bowl of sausage tortellini soup, filled with tender pasta, hearty sausage, and vibrant spinach. The aroma of garlic and herbs wafts through the kitchen, making it the perfect comfort food for busy weeknights.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or cozy gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Freezes well for meal prep or leftovers<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Packed with flavor and wholesome ingredients<\/li><li>Ideal for busy weeknights<\/li><li>Common pantry staples required<\/li><li>Perfect for family gatherings<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This soup reminds me of family dinners growing up, where we would gather around the table, sharing stories and laughter. It's a dish that brings everyone together, and the aroma fills the house with warmth and comfort.<\/p>"
+            "content": "<p>I stumbled upon this recipe during a hectic week when I needed a quick dinner solution. My family loved it so much that it quickly became a staple in our weekly meal rotation.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Italian sausage adds a rich flavor; choose a mild or spicy version based on your preference.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic and onion are essential for building a flavorful base.<\/li><li><strong>Supporting ingredients:<\/strong> Fresh spinach adds color and nutrition, while cheese tortellini provides a satisfying bite.<\/li><li><strong>Equipment needed:<\/strong> A large pot or Dutch oven is ideal for cooking this soup.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Tortellini - adds heartiness and texture to the soup<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Garlic and onion - provide a flavorful base<\/li><li><strong>Complementary components:<\/strong> Sausage and spinach - enhance the soup's richness and nutrition<\/li><li><strong>Required tools:<\/strong> Large pot, stirring spoon, measuring cups<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh ingredients ready for the soup preparation.",
+                "context": "Fresh tortellini with diced tomatoes, spinach, and sausage arranged on a kitchen counter ready for cooking.",
                 "url": "30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_1.webp",
-                "fileName": "30-minute-sausage-tortellini-soup_image_1.webp",
-                "type": "main"
+                "type": "main",
+                "fileName": "30-minute-sausage-tortellini-soup_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by removing the casings from the sausage and chopping the onion and garlic.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the sausage until browned, then add onion and garlic, followed by broth and tomatoes. Bring to a boil, add tortellini, and finish with spinach.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve hot, topped with freshly grated Parmesan cheese for added flavor.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Cook the sausage in a large pot over medium heat until browned. Add diced onion and minced garlic, cooking until the onion is translucent.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Pour in chicken broth and diced tomatoes, bringing to a boil. Stir in tortellini and cook according to package instructions.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Add spinach and cook until wilted. Season with salt and pepper to taste before serving.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Capturing the cooking process of the soup simmering in the pot.",
+                "context": "Sausage tortellini soup simmering in a large pot with steam rising and vibrant colors visible.",
                 "url": "30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_2.webp",
-                "fileName": "30-minute-sausage-tortellini-soup_image_2.webp",
-                "type": "process"
+                "type": "process",
+                "fileName": "30-minute-sausage-tortellini-soup_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook the sausage until fully browned for the best flavor.<\/li><li>Avoid overcooking the tortellini to keep them tender.<\/li><li>Look for wilted spinach as a sign that it's ready to serve.<\/li><li>This soup can be stored in the fridge for up to 3 days and reheated on the stove.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use fresh sausage for better flavor<\/li><li>Avoid overcooking the tortellini<\/li><li>Look for the tortellini to float as an indicator of doneness<\/li><li>This soup can be stored in the refrigerator for up to 3 days<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this soup with my family is always a joy, especially on cold nights when we can gather around and enjoy a warm bowl together. It's a dish that feels like a hug in a bowl.<\/p>"
+            "content": "<p>Every time I serve this soup, I see my family's faces light up with joy. It's a reminder that simple meals can bring everyone together and create lasting memories.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a splash of cream for a richer soup, or toss in some red pepper flakes for a spicy kick. Fresh herbs like basil or parsley can also elevate the flavor profile.<\/p>"
+            "content": "<p>Add a splash of cream for a richer texture, or toss in some red pepper flakes for a hint of heat. Fresh herbs like basil or parsley can elevate the flavor profile.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>This soup pairs wonderfully with crusty bread or a simple green salad. For a complete meal, serve it alongside a glass of red wine.<\/p>"
+            "content": "<p>Serve with crusty bread for dipping or a side salad for a complete meal. Garlic bread pairs wonderfully to soak up the delicious broth.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a lighter version, substitute turkey sausage and use whole wheat tortellini. You can also make it vegetarian by omitting the sausage and adding more vegetables like zucchini or bell peppers.<\/p>"
+            "content": "<p>Substitute sausage with ground turkey or chicken for a lighter option. For a vegetarian version, use plant-based sausage and vegetable broth.<\/p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated bowl of sausage tortellini soup ready to be enjoyed.",
+                "context": "Hearty sausage tortellini soup plated in a rustic bowl with fresh herbs sprinkled on top and crusty bread on the side.",
                 "url": "30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_3.webp",
-                "fileName": "30-minute-sausage-tortellini-soup_image_3.webp",
-                "type": "final"
+                "type": "final",
+                "fileName": "30-minute-sausage-tortellini-soup_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Brown the sausage thoroughly for maximum flavor.<\/li><li>Prep your ingredients ahead of time for a quick cooking experience.<\/li><li>Keep an eye on the tortellini to prevent mushiness.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>Use homemade broth for a deeper flavor<\/li><li>Consider adding a squeeze of lemon juice for brightness<\/li><li>Timing is key; add spinach at the end to keep it vibrant<\/li><li>Garnish with fresh herbs for a beautiful presentation<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to make this comforting soup; it's easy, delicious, and sure to become a staple in your home. Enjoy the process and the delightful aromas that fill your kitchen!<\/p>"
+            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 30 minutes away. Your family deserves this simplicity.<\/p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "30-minute-sausage-tortellini-soup_image_1.webp",
@@ -144,19 +146,22 @@
             "type": "final"
         },
         {
-            "fileName": "30-minute-sausage-tortellini-soup_image_4.webp",
-            "filePath": "recipes\/30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_4.webp",
-            "relativePath": "30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_4.webp",
+            "fileName": "30-minute-sausage-tortellini-soup_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_LummyRecipes_image_4.webp",
+            "relativePath": "30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "30-minute-sausage-tortellini-soup",
+    "id": "text_recipe_1762008853_491",
+    "author_id": "author_001",
     "image": "30-minute-sausage-tortellini-soup_image_1.webp",
     "image_path": "recipes\/30-minute-sausage-tortellini-soup\/images\/30-minute-sausage-tortellini-soup_image_1.webp",
     "image_dir": "30-minute-sausage-tortellini-soup\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-01T15:54:13+01:00",
-    "updatedAt": "2025-11-01T15:54:13+01:00"
+    "createdAt": "2025-11-19T21:49:05+01:00",
+    "updatedAt": "2025-11-19T21:49:05+01:00"
 }
