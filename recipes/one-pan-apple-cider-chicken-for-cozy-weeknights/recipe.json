@@ -1,122 +1,122 @@
 {
-    "id": "recipe_1762889891_362",
-    "slug": "one-pan-apple-cider-chicken-for-cozy-weeknights",
-    "title": "One-Pan Apple Cider Chicken for Cozy Weeknights",
-    "promptIMG": "One-Pan Apple Cider Glazed Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "This One-Pan Apple Cider Glazed Chicken is the perfect weeknight meal that brings warmth and flavor to your table. With its sweet and tangy glaze, it's a dish that will impress your family and friends. Try it tonight for a cozy dinner experience!",
-    "category_id": "cat_1761230383_494",
-    "author_id": "author_001",
-    "ingredients": [
-        "1 pound chicken thighs, boneless and skinless",
-        "1 cup apple cider",
-        "2 tablespoons olive oil",
-        "1 teaspoon salt",
-        "1\/2 teaspoon black pepper",
-        "1 teaspoon thyme",
-        "1\/2 cup onion, sliced",
-        "1 cup apple slices"
-    ],
-    "instructions": [
-        "Heat olive oil in a large skillet over medium heat.",
-        "Season chicken thighs with salt, pepper, and thyme, then add to the skillet.",
-        "Cook chicken for about 5-7 minutes on each side until golden brown.",
-        "Remove chicken and set aside. In the same skillet, add onions and apple slices, sautéing until soft.",
-        "Pour in apple cider, scraping up any browned bits from the skillet.",
-        "Return chicken to the skillet, cover, and simmer for 10-15 minutes until cooked through."
-    ],
+    "title": "One-Pan Apple Cider Glazed Chicken for Cozy Dinners",
+    "promptIMG": "\"One-Pan Apple Cider Glazed Chicken, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Enjoy this One-Pan Apple Cider Glazed Chicken, a sweet and tangy dish that’s perfect for weeknight dinners. Impress your family with its delightful flavors!",
+    "difficulty": "easy",
     "prep_time": 15,
     "cook_time": 30,
-    "total_time": 45,
     "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect results, ensure the chicken is cooked to an internal temperature of 165°F. Let the dish rest for a few minutes before serving to enhance flavors.",
+    "ingredients": [
+        "4 chicken thighs",
+        "1 cup apple cider",
+        "2 tablespoons soy sauce",
+        "1 tablespoon Dijon mustard",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste",
+        "Fresh thyme for garnish"
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "In a bowl, mix apple cider, soy sauce, and Dijon mustard.",
+        "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+        "Season chicken thighs with salt and pepper, then brown them in the skillet for about 5 minutes on each side.",
+        "Pour the apple cider mixture over the chicken and bring to a simmer.",
+        "Transfer the skillet to the oven and bake for 25 minutes, or until the chicken is cooked through.",
+        "Garnish with fresh thyme before serving."
+    ],
+    "tips": "For best results, ensure the chicken is browned well for added flavor. Use a meat thermometer to check for doneness; chicken should reach 165°F. Let the chicken rest for a few minutes before serving to retain juices.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This One-Pan Apple Cider Glazed Chicken is a delightful dish that combines the sweetness of apple cider with savory chicken, creating a comforting meal perfect for cozy weeknights. The simplicity of cooking everything in one pan not only saves time but also enhances the flavors as they meld together.<\/p>"
+            "content": "<p>Imagine the aroma of sweet apple cider mingling with savory chicken, creating a warm and inviting dish. This one-pan meal is not only easy to prepare but also delivers a delightful balance of flavors that will make your weeknight dinners special.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for fall gatherings with its seasonal flavors<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Sweet and tangy glaze elevates the dish<\/li><li>Perfect for busy weeknights<\/li><li>Uses common pantry staples<\/li><li>Ideal for cozy family dinners<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made this dish; the aroma filled my kitchen, and my family couldn't wait to dig in. It's become a staple in our home, especially during the cooler months.<\/p>"
+            "content": "<p>I stumbled upon this recipe during a hectic week, needing something quick yet impressive. The family loved it, and it quickly became a staple in our dinner rotation.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken thighs are juicy and flavorful, making them perfect for this dish. Look for ones that are plump and fresh.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Thyme adds a lovely herbal note that complements the sweetness of the cider.<\/li><li><strong>Supporting ingredients:<\/strong> Apples add a nice texture and sweetness, while onions provide depth of flavor.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for cooking everything evenly.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Chicken thighs - juicy and flavorful, perfect for glazing<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Apple cider, soy sauce, and Dijon mustard - they create a sweet and savory glaze<\/li><li><strong>Complementary components:<\/strong> Olive oil and fresh thyme - enhance the overall flavor<\/li><li><strong>Required tools:<\/strong> Oven-safe skillet<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the ingredients preparation.",
-                "url": "one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_1.webp",
-                "fileName": "one-pan-apple-cider-chicken-for-cozy-weeknights_image_1.webp",
+                "context": "Fresh chicken thighs with apple cider, soy sauce, and Dijon mustard arranged on kitchen counter ready for cooking",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by seasoning the chicken thighs with salt, pepper, and thyme. Slice the onions and apples while the skillet heats up.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the chicken until golden brown, then sauté the onions and apples in the same skillet. Add apple cider and return the chicken to finish cooking.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let the dish rest for a few minutes before serving to allow the flavors to meld.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Preheat the oven to 400°F (200°C). Mix apple cider, soy sauce, and Dijon mustard in a bowl.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Heat olive oil in a large oven-safe skillet, season chicken thighs, and brown for 5 minutes on each side. Pour the apple cider mixture over the chicken and bring to a simmer.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Transfer the skillet to the oven and bake for 25 minutes. Garnish with fresh thyme before serving.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the cooking process.",
-                "url": "one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_2.webp",
-                "fileName": "one-pan-apple-cider-chicken-for-cozy-weeknights_image_2.webp",
-                "type": "main"
+                "context": "One-Pan Apple Cider Glazed Chicken baking in skillet with bubbling glaze and golden-brown chicken",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook the chicken until it reaches an internal temperature of 165°F for safety.<\/li><li>Avoid overcrowding the pan to ensure even cooking.<\/li><li>Look for a golden brown color on the chicken as a sign of doneness.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>For maximum flavor, marinate the chicken in the glaze for a few hours before cooking.<\/li><li>Avoid overcrowding the skillet to ensure even browning.<\/li><li>Chicken is done when it reaches an internal temperature of 165°F.<\/li><li>Leftovers can be stored in the fridge for up to 3 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This dish is not just a meal; it's a memory in the making. Sharing it with loved ones brings warmth and joy to our gatherings.<\/p>"
+            "content": "<p>Sharing this dish with family brings warmth and joy to our table. The sweet and tangy glaze always gets compliments, making it a favorite for gatherings.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a splash of balsamic vinegar for extra depth or a sprinkle of crushed red pepper for a hint of heat. Fresh herbs like parsley can also brighten the dish.<\/p>"
+            "content": "<p>Add a splash of apple cider vinegar for extra tang, or include sliced apples in the skillet for a fruity twist. A sprinkle of crushed red pepper flakes can add a hint of heat.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve this dish with a side of roasted vegetables or a simple green salad. A glass of crisp white wine pairs beautifully with the flavors.<\/p>"
+            "content": "<p>Serve with roasted vegetables or creamy mashed potatoes to soak up the delicious glaze. A side salad adds freshness to balance the meal.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a gluten-free option, ensure your apple cider is gluten-free. You can also substitute chicken with tofu for a vegetarian twist while maintaining the same delicious glaze.<\/p>"
+            "content": "<p>Substitute chicken thighs with drumsticks or breasts, adjusting cooking time as needed. For a vegetarian option, use firm tofu and adjust the glaze accordingly.<\/p>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the final plated dish or variation.",
-                "url": "one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_3.webp",
-                "fileName": "one-pan-apple-cider-chicken-for-cozy-weeknights_image_3.webp",
-                "type": "main"
+                "context": "One-Pan Apple Cider Glazed Chicken plated on white dish with fresh thyme garnish and roasted vegetables visible.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>For restaurant-quality results, sear the chicken well to develop flavor.<\/li><li>Let the chicken marinate in the cider for a few hours for maximum flavor.<\/li><li>Keep an eye on the cooking time to prevent overcooking.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For a deeper flavor, sear the chicken in the skillet before adding the glaze.<\/li><li>Let the glaze reduce for a thicker consistency if desired.<\/li><li>Timing is key; check the chicken early to avoid overcooking.<\/li><li>Plate with a sprig of thyme for a professional touch.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to try this recipe; it's easier than you think and will surely impress your family. Enjoy the process and the delicious results!<\/p>"
+            "content": "<p>Don't let busy weeknights deter you from enjoying delicious meals. This One-Pan Apple Cider Glazed Chicken is ready in just 45 minutes, making it a simple yet impressive choice for your family.<\/p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "one-pan-apple-cider-chicken-for-cozy-weeknights_image_1.webp",
@@ -140,19 +140,22 @@
             "order": 3
         },
         {
-            "fileName": "one-pan-apple-cider-chicken-for-cozy-weeknights_image_4.webp",
-            "filePath": "recipes\/one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_4.webp",
-            "relativePath": "one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_4.webp",
+            "fileName": "one-pan-apple-cider-chicken-for-cozy-weeknights_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_LummyRecipes_image_4.webp",
+            "relativePath": "one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "one-pan-apple-cider-chicken-for-cozy-weeknights",
+    "id": "recipe_1762889891_362",
+    "author_id": "author_001",
     "image": "one-pan-apple-cider-chicken-for-cozy-weeknights_image_1.webp",
     "image_path": "recipes\/one-pan-apple-cider-chicken-for-cozy-weeknights\/images\/one-pan-apple-cider-chicken-for-cozy-weeknights_image_1.webp",
     "image_dir": "one-pan-apple-cider-chicken-for-cozy-weeknights\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-13T17:08:03+01:00",
-    "updatedAt": "2025-11-13T17:08:03+01:00"
+    "createdAt": "2025-11-20T20:55:28+01:00",
+    "updatedAt": "2025-11-20T20:55:28+01:00"
 }

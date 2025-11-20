@@ -1,120 +1,125 @@
 {
-    "id": "recipe_1762554180_130",
-    "slug": "italian-penicillin-soup-for-comforting-recovery",
-    "title": "Italian Penicillin Soup for Comforting Recovery",
-    "promptIMG": "Italian Penicillin Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "This Italian Penicillin Soup is a soothing remedy when you're feeling under the weather. Packed with wholesome ingredients, it’s the perfect comfort food to warm you up. Try this easy recipe for a nourishing bowl that heals.",
-    "category_id": "cat_1761230166_734",
-    "author_id": "author_001",
+    "title": "Nourishing Italian Penicillin Soup for Comfort",
+    "promptIMG": "Italian Penicillin Soup, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Warm up with this nourishing Italian Penicillin Soup, perfect for comfort during cold days. Easy to make and packed with wholesome ingredients, it's a healing bowl of goodness.",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
     "ingredients": [
-        "1 pound shrimp peeled and deveined",
         "2 tablespoons olive oil",
-        "4 cups vegetable broth",
-        "1 cup diced tomatoes",
-        "1 cup chopped carrots",
-        "1 cup chopped celery",
-        "1 teaspoon dried basil",
-        "Salt and pepper to taste"
+        "1 onion, chopped",
+        "2 carrots, diced",
+        "2 celery stalks, diced",
+        "3 garlic cloves, minced",
+        "6 cups chicken broth",
+        "1 cup cooked chicken, shredded",
+        "1 cup egg noodles",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
     ],
     "instructions": [
         "Heat olive oil in a large pot over medium heat.",
-        "Add chopped carrots and celery, sautéing until softened, about 5 minutes.",
-        "Stir in diced tomatoes and vegetable broth, bringing to a simmer.",
-        "Add shrimp, dried basil, salt, and pepper, cooking for an additional 5-7 minutes until shrimp are pink and cooked through."
+        "Add onion, carrots, and celery; sauté until softened, about 5 minutes.",
+        "Stir in garlic and cook for another minute.",
+        "Pour in chicken broth and bring to a boil.",
+        "Add cooked chicken and egg noodles; simmer until noodles are tender, about 10 minutes.",
+        "Season with salt and pepper to taste.",
+        "Serve hot, garnished with fresh parsley."
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect results, ensure the shrimp are fresh and do not overcook them to maintain their tenderness.",
+    "tips": "For added flavor, use homemade chicken broth. Ensure the noodles are cooked al dente to prevent mushiness. Adjust seasoning to your preference for the best taste.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful"
+    ],
     "structured_content": [
         {
-            "content": "<p>This Italian Penicillin Soup is a warm embrace on a chilly day. With its light yet flavorful broth, it’s designed to comfort and heal, making it the perfect remedy when you're feeling under the weather.<\/p>"
+            "content": "<p>Picture this: a steaming bowl of Italian Penicillin Soup, filled with tender chicken and vibrant vegetables, creating a comforting aroma that fills your kitchen. This easy recipe is perfect for those chilly days when you need a little extra warmth and care.<\/p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Wholesome ingredients that are gentle on the stomach<\/li><li>Perfect for cozy dinners or when you're feeling unwell<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Rich in flavor while being light and nourishing<\/li><\/ul>"
+                "label": "What Makes This Recipe Outstanding",
+                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Wholesome ingredients for a healing effect<\/li><li>Ideal for cold days or when feeling under the weather<\/li><li>Common pantry staples required<\/li><li>Perfect for family gatherings<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I remember making this soup for my family when they were sick, and it always brought comfort and warmth. It’s a dish that not only nourishes the body but also the soul.<\/p>"
+            "content": "<p>I discovered this soup during a particularly chilly winter, and it quickly became a family favorite. The kids love the tender noodles and chicken, and I appreciate how easy it is to whip up on busy nights.<\/p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Ingredient Assembly"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp adds a delicate flavor and protein; ensure they are peeled and deveined for ease.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Dried basil enhances the soup's aroma; look for high-quality herbs.<\/li><li><strong>Supporting ingredients:<\/strong> Carrots and celery provide texture and sweetness to the broth.<\/li><li><strong>Equipment needed:<\/strong> A large pot for cooking and a sharp knife for chopping.<\/li><\/ul>"
+            "content": "<ul><li><strong>Primary component:<\/strong> Chicken - provides protein and heartiness to the soup<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Onion, garlic, and celery - they create a flavorful base<\/li><li><strong>Complementary components:<\/strong> Carrots and egg noodles - add sweetness and texture<\/li><li><strong>Required tools:<\/strong> Large pot, cutting board, knife, stirring spoon<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the ingredients preparation.",
-                "url": "italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_1.webp",
-                "fileName": "italian-penicillin-soup-for-comforting-recovery_image_1.webp",
+                "context": "Fresh chopped vegetables and shredded chicken arranged on a cutting board, ready for soup preparation.",
+                "url": "null",
                 "type": "main"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Preparation Method"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop the vegetables and prepare the shrimp. Heat olive oil in a pot.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Sauté the vegetables, add broth and tomatoes, then stir in shrimp until cooked through.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Adjust seasoning and serve hot, garnished with fresh herbs if desired.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Chop the onion, carrots, and celery; mince the garlic; shred the cooked chicken.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Heat olive oil, sauté vegetables, add broth, chicken, and noodles; simmer until noodles are tender.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Season with salt and pepper, serve hot with parsley garnish.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the cooking process.",
-                "url": "italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_2.webp",
-                "fileName": "italian-penicillin-soup-for-comforting-recovery_image_2.webp",
-                "type": "main"
+                "context": "Italian Penicillin Soup simmering in a large pot, with steam rising and noodles softening.",
+                "url": "null",
+                "type": "process"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook shrimp just until pink to avoid toughness.<\/li><li>A common mistake is overcooking the shrimp; keep an eye on them.<\/li><li>The soup is ready when the shrimp are opaque and firm.<\/li><li>Store leftovers in the fridge for up to 2 days; reheat gently.<\/li><\/ul>"
+                "label": "Essential Knowledge",
+                "content": "<ul><li>Use rotisserie chicken for quicker preparation<\/li><li>Avoid overcooking the noodles to keep them firm<\/li><li>Look for noodles to be tender but not mushy<\/li><li>Store leftovers in an airtight container in the fridge<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This soup has been a family favorite for years. Sharing it with loved ones during tough times makes it even more special.<\/p>"
+            "content": "<p>Every time I serve this soup, my family gathers around the table, enjoying the warmth and comfort it brings. It's a reminder that simple meals can create lasting memories and bring us closer together.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Enhance the soup with a squeeze of lemon juice or a sprinkle of fresh parsley for added brightness.<\/p>"
+            "content": "<p>Add a splash of lemon juice for brightness, or sprinkle in some red pepper flakes for a hint of heat. A dash of soy sauce can enhance the umami flavor of the broth.<\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Accompaniment Ideas"
         },
         {
-            "content": "<p>Serve with crusty bread or a fresh salad for a complete meal.<\/p>"
+            "content": "<p>Serve with crusty bread for dipping, or pair with a fresh green salad to balance the meal. A side of garlic bread also complements the soup beautifully.<\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Recipe Adaptations"
         },
         {
-            "content": "<p>For a vegetarian version, replace shrimp with chickpeas and use vegetable broth.<\/p>"
+            "content": "<p>Substitute chicken with diced tofu for a vegetarian option, or use whole grain noodles for added nutrition. For a low-carb version, replace noodles with zucchini noodles.<\/p>"
         },
         {
             "upload": {
-                "context": "A short description for the alt image of the final plated dish or variation.",
-                "url": "italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_3.webp",
-                "fileName": "italian-penicillin-soup-for-comforting-recovery_image_3.webp",
-                "type": "main"
+                "context": "Bowl of Italian Penicillin Soup garnished with parsley, served with crusty bread on the side.",
+                "url": "null",
+                "type": "final"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use homemade broth for the best flavor.<\/li><li>Prep all ingredients before starting to streamline the cooking process.<\/li><li>Timing is key; add shrimp at the end to keep them tender.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+                "label": "Expert Insights",
+                "content": "<ul><li>For a richer flavor, roast the vegetables before adding them to the soup<\/li><li>Consider adding fresh herbs like thyme or rosemary for depth<\/li><li>Timing is key; add noodles towards the end of cooking<\/li><li>Serve in warm bowls to keep the soup hot longer<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Enjoy making this comforting soup and feel the warmth it brings, both in flavor and in heart.<\/p>"
+            "content": "<p>Don't let cold days keep you from enjoying delicious meals. This Italian Penicillin Soup is ready in just 45 minutes, making it an easy and comforting choice for your family.<\/p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
     "images": [
         {
             "fileName": "italian-penicillin-soup-for-comforting-recovery_image_1.webp",
@@ -138,19 +143,22 @@
             "order": 3
         },
         {
-            "fileName": "italian-penicillin-soup-for-comforting-recovery_image_4.webp",
-            "filePath": "recipes\/italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_4.webp",
-            "relativePath": "italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_4.webp",
+            "fileName": "italian-penicillin-soup-for-comforting-recovery_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_LummyRecipes_image_4.webp",
+            "relativePath": "italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "italian-penicillin-soup-for-comforting-recovery",
+    "id": "recipe_1762554180_130",
+    "author_id": "author_001",
     "image": "italian-penicillin-soup-for-comforting-recovery_image_1.webp",
     "image_path": "recipes\/italian-penicillin-soup-for-comforting-recovery\/images\/italian-penicillin-soup-for-comforting-recovery_image_1.webp",
     "image_dir": "italian-penicillin-soup-for-comforting-recovery\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-08T01:58:05+01:00",
-    "updatedAt": "2025-11-08T01:58:05+01:00"
+    "createdAt": "2025-11-20T20:55:24+01:00",
+    "updatedAt": "2025-11-20T20:55:24+01:00"
 }
