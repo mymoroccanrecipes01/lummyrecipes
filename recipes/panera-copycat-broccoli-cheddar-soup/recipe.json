@@ -3,7 +3,7 @@
     "slug": "panera-copycat-broccoli-cheddar-soup",
     "title": "Panera Copycat: Broccoli Cheddar Soup",
     "promptIMG": "Broccoli Cheddar Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Indulge in the creamy, cheesy goodness of this Broccoli Cheddar Soup that captures the essence of your favorite café dish. Perfectly balanced with tender broccoli and rich cheddar, this comforting bowl will warm your soul and satisfy your cravings.",
     "category_id": "cat_1761230166_734",
     "author_id": "author_001",
@@ -155,6 +155,6 @@
     "image_dir": "panera-copycat-broccoli-cheddar-soup\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-10-31T17:17:02+01:00",
-    "updatedAt": "2025-10-31T17:17:02+01:00"
+    "createdAt": "2025-11-27T19:38:19+01:00",
+    "updatedAt": "2025-11-27T19:38:19+01:00"
 }
