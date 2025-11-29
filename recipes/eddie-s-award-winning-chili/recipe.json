@@ -1,164 +1,169 @@
 {
-    "id": "text_recipe_1761518609_396",
-    "slug": "eddie-s-award-winning-chili",
-    "title": "Eddie's Award Winning Chili",
-    "promptIMG": "Eddie's Award Winning Chili, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": true,
-    "description": "Indulge in Eddie's Award Winning Chili, a hearty and flavorful dish that combines tender meats, zesty spices, and a touch of heat. Perfect for gatherings or cozy nights in, this chili is sure to impress your family and friends.",
-    "category_id": "cat_1761230383_494",
-    "author_id": "author_001",
+    "title": "Hearty Award-Winning Chili (Perfect for Gatherings)",
+    "promptIMG": "[chili], professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": false,
+    "description": "Warm up with this award-winning chili recipe that's perfect for gatherings! Packed with tender meat and zesty spices, it's a crowd-pleaser. Try it today!",
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 60,
+    "servings": 6,
     "ingredients": [
-        "1 pound ground beef",
-        "1 pound ground pork",
-        "2 cans kidney beans, drained and rinsed",
-        "2 fresh chile peppers, chopped",
+        "1 pound ground beef, browned and drained",
+        "1 pound ground pork, cooked and crumbled",
         "1 large onion, diced",
-        "4 cloves garlic, minced",
-        "2 cans diced tomatoes",
-        "1 cup beer",
+        "2 cloves garlic, minced",
+        "2 cans (15 oz each) kidney beans, rinsed and drained",
+        "1 can (28 oz) crushed tomatoes",
         "2 tablespoons chili powder",
         "1 tablespoon cumin",
-        "1 tablespoon paprika",
-        "Salt and pepper to taste"
+        "1 teaspoon smoked paprika",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1 cup beef broth",
+        "1 tablespoon olive oil",
+        "Optional toppings: shredded cheese, sour cream, chopped green onions"
     ],
     "instructions": [
-        "In a large pot, brown the ground beef and pork over medium heat until fully cooked.",
-        "Add the onions and garlic, cooking until softened.",
-        "Stir in the chopped chile peppers, diced tomatoes, kidney beans, and beer.",
-        "Season with chili powder, cumin, paprika, salt, and pepper.",
-        "Bring to a boil, then reduce heat and let simmer for at least 3 hours, stirring occasionally."
+        "In a large pot, heat olive oil over medium heat. Add diced onion and sauté until translucent, about 5 minutes. Stir in minced garlic and cook for an additional minute until fragrant.",
+        "Add the browned ground beef and crumbled pork to the pot, mixing well with the onions and garlic. Cook for about 5 minutes to combine flavors.",
+        "Stir in the crushed tomatoes, kidney beans, beef broth, chili powder, cumin, smoked paprika, salt, and black pepper. Bring the mixture to a simmer.",
+        "Reduce the heat to low and cover the pot. Let the chili simmer for 45 minutes, stirring occasionally, until thickened and flavors meld.",
+        "Taste and adjust seasoning if necessary. If you prefer a spicier chili, add more chili powder or a dash of hot sauce.",
+        "Serve hot, garnished with your choice of toppings such as shredded cheese, sour cream, and green onions."
     ],
-    "prep_time": 30,
-    "cook_time": 210,
-    "total_time": 240,
-    "servings": 10,
-    "difficulty": "medium",
-    "tips": "For the best flavor, let the chili sit overnight in the refrigerator and reheat before serving.",
+    "tips": "To elevate your chili, consider these professional tips: \n- Use a combination of meats for depth of flavor; beef and pork create a rich base. \n- Allow the chili to rest for a few hours or overnight in the fridge; flavors deepen as it sits. \n- When reheating, add a splash of broth to restore consistency. \n- Avoid overcooking the beans; they should be tender but not mushy. \n- Experiment with different beans or add corn for a twist; each ingredient adds unique texture and flavor.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>This award-winning chili is not just a meal; it's a celebration of flavors that warms the soul. With a perfect blend of meats and spices, every bite is a delightful experience that will leave you craving more.<\/p>"
+            "content": "<p>Experience the warmth and comfort of hearty award-winning chili, a dish that brings together the rich flavors of tender meats and zesty spices. This chili is not just a meal; it's a celebration of cozy nights and gatherings with loved ones. Imagine the aroma filling your kitchen as it simmers, inviting everyone to the table. With its perfect balance of heat and flavor, this chili is sure to become a favorite in your home.</p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Cooked low and slow for maximum flavor<\/li><li>Perfect for game days or family gatherings<\/li><li>Hearty and satisfying, great for cold nights<\/li><li>Uses common ingredients that pack a punch<\/li><li>Can be easily customized to your heat preference<\/li><\/ul>"
+                "content": "<ul><li>Quick and ready in 60 minutes - perfect for busy weeknights or gatherings.</li><li>Enjoy restaurant-quality flavors right at home with this award-winning recipe.</li><li>Ideal for game days, family dinners, or cozy nights in with friends.</li><li>Simple ingredients make it easy to whip up without fuss.</li><li>This chili is a budget-friendly option that doesn't skimp on flavor, making it a crowd-pleaser.</li><li>Rich in protein and fiber, it’s a satisfying meal that keeps you full.</li></ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made this chili for a potluck. The compliments kept coming, and I knew I had a winner on my hands. It's become a staple in my home, bringing everyone together around the table.<\/p>"
+            "content": "<p>This chili recipe holds a special place in my heart. I discovered it during a chilly autumn gathering with friends, where we all brought our favorite dishes. Eddie's chili stood out with its robust flavors and comforting warmth. Since then, it has become a staple at our family gatherings, often requested by everyone. The laughter and stories shared over a bowl of this chili create memories that last a lifetime.</p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground beef and pork create a rich, meaty base that is essential for depth of flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Chili powder and cumin are crucial for that authentic chili taste; look for fresh spices for the best results.<\/li><li><strong>Supporting ingredients:<\/strong> Beans add texture and heartiness, while fresh chile peppers provide a kick.<\/li><li><strong>Equipment needed:<\/strong> A large pot or Dutch oven is essential for even cooking and flavor development.<\/li><\/ul>"
+            "content": "<p><strong>Main ingredient (protein/base):</strong> Ground beef and pork provide a rich, savory base for the chili. Look for high-quality, lean cuts to avoid excess grease. Browning the meat well enhances the flavor profile significantly.</p><p><strong>Key seasonings/aromatics:</strong> Chili powder, cumin, and smoked paprika are essential for depth. They work together to create a warm, spicy aroma that defines the dish. Fresh herbs can also elevate the flavor.</p><p><strong>Supporting ingredients:</strong> Kidney beans add creaminess and texture, while crushed tomatoes provide a tangy base. Rinsing the beans helps reduce sodium and enhances their flavor.</p><p><strong>Smart substitutions:</strong> For a lighter version, use ground turkey or chicken. If you prefer vegetarian, substitute with lentils or black beans for a hearty alternative. Each option brings its unique flavor and texture.</p><p><strong>Equipment needed:</strong> A large pot or Dutch oven is essential for even cooking and simmering. A wooden spoon is perfect for stirring, ensuring all ingredients meld beautifully.</p>"
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh ingredients ready for chili preparation, including meats, beans, and spices.",
-                "url": "eddie-s-award-winning-chili\/images\/image_1.webp",
-                "fileName": "image_1.webp",
-                "type": "main"
+                "context": "Fresh ingredients including ground meats, beans, tomatoes, and spices arranged on a wooden countertop for chili preparation",
+                "url": "eddie-s-award-winning-chili/images/image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by browning the meats in a large pot over medium heat, ensuring they are cooked through before adding vegetables.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Combine all ingredients in the pot, bringing to a boil before reducing heat to simmer for 3 hours, allowing flavors to meld.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve hot, garnished with fresh cilantro or cheese if desired, for an added touch of flavor.<\/dd><\/dl>"
+            "content": "<p>Preparation is key to a successful chili. Start by gathering all your ingredients and chopping the onion and garlic. Measure out your spices and have everything ready to go. This will streamline your cooking process and ensure nothing is overlooked.</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Chop the onion and garlic, and measure out your spices. Preheat your pot over medium heat, allowing it to warm up before adding oil. This ensures even cooking from the start.</dd><dt><strong>Cooking process:</strong></dt><dd>Add the oil to the pot, then sauté the onions until they are soft and translucent. Introduce the garlic and cook until fragrant. Next, add the meats and cook until browned, ensuring to break them apart for even cooking.</dd><dt><strong>Finishing touches:</strong></dt><dd>Once the chili has simmered and thickened, taste and adjust the seasoning. Serve it hot in bowls, garnished with cheese, sour cream, or green onions for added flavor and presentation.</dd></dl>"
         },
         {
             "upload": {
-                "context": "A steaming pot of chili simmering on the stove, showcasing the rich colors and textures of the ingredients.",
-                "url": "eddie-s-award-winning-chili\/images\/image_2.webp",
-                "fileName": "image_2.webp",
-                "type": "process"
+                "context": "Stirring a rich, bubbling chili in a large pot on the stovetop, showcasing the vibrant ingredients and textures",
+                "url": "eddie-s-award-winning-chili/images/image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Simmering the chili for several hours enhances the flavors significantly.<\/li><li>Avoid overcooking the beans; they should be tender but not mushy.<\/li><li>The chili is ready when it has thickened and the flavors are well combined.<\/li><li>Store leftovers in an airtight container for up to 3 days; reheat on the stove or microwave.<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> Maintain a steady simmer for optimal flavor development. Use a thermometer to ensure the internal temperature of the meat reaches 160°F for safety.</li><li><strong>Common mistake to avoid:</strong> Overcooking the beans can lead to mushiness. Add them later in the cooking process to maintain their texture.</li><li><strong>Perfect doneness indicator:</strong> Look for a thick, bubbling consistency and rich aroma. The chili should be hearty and flavorful, with a slight sheen on the surface.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the fridge for up to 4 days. Reheat on the stovetop over low heat, adding a splash of broth if needed.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing this chili with friends and family has created countless memories, from game nights to cozy winter evenings. It's more than just a dish; it's a way to bring people together.<\/p>"
+            "content": "<p>Sharing this chili with family and friends is a joy. The moment I serve it, the room fills with laughter and warmth. Everyone gathers around, eager to dig in, and the compliments flow as they savor each bite. The blend of spices and tender meat creates a comforting experience that brings us together. It's not just a meal; it's a cherished moment that makes every gathering special.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Consider adding a dash of hot sauce for extra heat, or top with avocado and sour cream for a creamy contrast. You can also experiment with different types of beans or add corn for sweetness.<\/p>"
+            "content": "<p>Enhance your chili experience with these ideas: <ul><li><strong>Herbs:</strong> Fresh cilantro adds a bright finish; sprinkle it on just before serving. Oregano can deepen the flavor if added during cooking.</li><li><strong>Spices:</strong> A pinch of cayenne pepper can elevate the heat; start small and adjust to taste. Adding a dash of cinnamon can provide a surprising warmth.</li><li><strong>Upgrades:</strong> Consider adding diced bell peppers for sweetness or jalapeños for extra heat. A splash of beer or red wine can also enrich the flavor profile.</li><li><strong>Technique variations:</strong> For a smoky flavor, try grilling the meat before adding it to the pot. Alternatively, slow-cook the chili for several hours for a deeper flavor.</li></ul></p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>This chili pairs beautifully with cornbread, a fresh salad, or tortilla chips. For beverages, try serving it with a cold beer or a refreshing iced tea.<\/p>"
+            "content": "<p>Pair your chili with these delightful options: <ul><li><strong>Side dishes:</strong> Cornbread is a classic choice, providing a sweet contrast. A fresh green salad adds brightness and balances the richness of the chili.</li><li><strong>Beverage pairings:</strong> A cold lager complements the spices beautifully, while a fruity red wine can enhance the overall experience.</li><li><strong>Bread/starch options:</strong> Serve with crusty bread for dipping or tortilla chips for added crunch.</li><li><strong>Occasion ideas:</strong> This chili shines at game day parties, family reunions, or cozy winter nights.</li><li><strong>Presentation tips:</strong> Serve in rustic bowls with toppings artfully arranged on the side for a beautiful display.</li><li><strong>Temperature serving note:</strong> Chili is best served hot, allowing the flavors to shine and the warmth to comfort.</li></ul></p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>For a vegetarian version, substitute the meats with lentils or mushrooms. You can also make it gluten-free by ensuring your beer and spices are certified gluten-free.<\/p>"
+            "content": "<p>Explore these exciting variations: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Use gluten-free beans and ensure all spices are certified gluten-free to enjoy this dish without worry.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute ground meat with lentils or textured vegetable protein, and use vegetable broth for a hearty vegan option.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):</strong> For a spicy kick, add chipotle peppers. For a Mediterranean twist, incorporate olives and feta.</li><li><strong>Protein/ingredient swap:</strong> Try using chicken or turkey for a lighter version, maintaining the same spices for a familiar flavor.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated bowl of Eddie's Award Winning Chili, garnished with fresh herbs and served with cornbread.",
-                "url": "eddie-s-award-winning-chili\/images\/image_3.webp",
-                "fileName": "image_3.webp",
-                "type": "final"
+                "context": "A steaming bowl of award-winning chili topped with shredded cheese and fresh cilantro, served on a rustic wooden table",
+                "url": "eddie-s-award-winning-chili/images/image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Brown the meat in batches to avoid steaming.<\/li><li>Use fresh spices for the best flavor impact.<\/li><li>Letting the chili rest overnight improves the taste.<\/li><li>Garnish creatively to enhance presentation.<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> Browning the meat properly enhances the flavor; don't rush this step. Allow it to caramelize for depth.</li><li><strong>Ingredient prep secret:</strong> Soak dried beans overnight for better texture and flavor absorption, if using them instead of canned.</li><li><strong>Timing strategy:</strong> Plan to make chili a day ahead; it tastes even better the next day as the flavors meld.</li><li><strong>Presentation hack:</strong> Use a sprinkle of fresh herbs or a dollop of sour cream on top for a pop of color and freshness.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to try this chili recipe; it's a guaranteed crowd-pleaser that will fill your home with warmth and joy. Enjoy the process and the delicious results!<\/p>"
+            "content": "<p>This award-winning chili is a must-try for anyone seeking comfort and flavor in one bowl. Its rich, hearty nature makes it perfect for any occasion, whether a casual dinner or a festive gathering. I encourage you to make this recipe your own and share your experiences. Don't forget to rate the recipe and share your photos on social media. Enjoy the warmth and joy this chili brings to your table!</p>"
         }
     ],
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "image_1.webp",
-            "filePath": "recipes\/eddie-s-award-winning-chili\/images\/image_1.webp",
-            "relativePath": "eddie-s-award-winning-chili\/images\/image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/eddie-s-award-winning-chili/images/image_1.webp",
+            "relativePath": "eddie-s-award-winning-chili/images/image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "image_2.webp",
-            "filePath": "recipes\/eddie-s-award-winning-chili\/images\/image_2.webp",
-            "relativePath": "eddie-s-award-winning-chili\/images\/image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/eddie-s-award-winning-chili/images/image_2.webp",
+            "relativePath": "eddie-s-award-winning-chili/images/image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "image_3.webp",
-            "filePath": "recipes\/eddie-s-award-winning-chili\/images\/image_3.webp",
-            "relativePath": "eddie-s-award-winning-chili\/images\/image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/eddie-s-award-winning-chili/images/image_3.webp",
+            "relativePath": "eddie-s-award-winning-chili/images/image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
-            "fileName": "eddie-s-award-winning-chili_image_4.webp",
-            "filePath": "recipes\/eddie-s-award-winning-chili\/images\/eddie-s-award-winning-chili_image_4.webp",
-            "relativePath": "eddie-s-award-winning-chili\/images\/eddie-s-award-winning-chili_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/eddie-s-award-winning-chili\/images\/eddie-s-award-winning-chili_image_4.webp",
+            "fileName": "eddie-s-award-winning-chili_LummyRecipes_image_4.webp",
+            "filePath": "recipes/eddie-s-award-winning-chili/images/eddie-s-award-winning-chili_LummyRecipes_image_4.webp",
+            "relativePath": "eddie-s-award-winning-chili/images/eddie-s-award-winning-chili_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/eddie-s-award-winning-chili/images/eddie-s-award-winning-chili_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "eddie-s-award-winning-chili",
+    "id": "text_recipe_1761518609_396",
     "image": "image_1.webp",
-    "image_path": "recipes\/eddie-s-award-winning-chili\/images\/image_1.webp",
-    "image_dir": "eddie-s-award-winning-chili\/images",
+    "image_path": "recipes/eddie-s-award-winning-chili/images/image_1.webp",
+    "image_dir": "eddie-s-award-winning-chili/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-21T18:27:12+01:00",
-    "updatedAt": "2025-11-21T18:27:12+01:00"
+    "updatedAt": "2025-11-29T15:19:01+01:00"
 }

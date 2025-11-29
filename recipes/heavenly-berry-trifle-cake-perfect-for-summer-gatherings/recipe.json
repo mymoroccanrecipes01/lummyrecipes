@@ -1,155 +1,157 @@
 {
-    "title": "Heavenly Berry Trifle Cake - Delightful Dessert for Gatherings",
-    "promptIMG": "Heavenly Berry Trifle Cake, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
-    "isOnline": true,
-    "description": "Experience the bliss of layers of fluffy angel food cake, creamy pudding, and fresh berries in this delightful trifle cake. Perfect for gatherings and sure to impress your guests!",
-    "difficulty": "easy",
-    "prep_time": 30,
-    "cook_time": 15,
-    "servings": 8,
+    "title": "Easy Berry Trifle Cake (No Bake)",
+    "promptIMG": "Berry trifle cake, beautifully layered in a glass dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": false,
+    "description": "Delight in this no-bake berry trifle cake that's ready in just 30 minutes! A stunning dessert with layers of fluffy cake, creamy pudding, and fresh berries. Perfect for any celebration!",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 6,
     "ingredients": [
-        "1 angel food cake",
-        "2 cups vanilla pudding",
-        "2 cups fresh mixed berries"
+        "1 store-bought angel food cake, cut into cubes",
+        "2 cups vanilla pudding, prepared",
+        "2 cups mixed fresh berries (strawberries, blueberries, raspberries)",
+        "1 cup whipped cream, for topping",
+        "Mint leaves, for garnish"
     ],
     "instructions": [
-        "Prepare the angel food cake according to package instructions and let it cool.",
-        "In a trifle dish, layer pieces of the angel food cake, followed by a layer of vanilla pudding.",
-        "Add a layer of fresh mixed berries on top.",
-        "Repeat the layers until all ingredients are used, finishing with a layer of berries on top.",
-        "Chill in the refrigerator for at least 2 hours before serving."
+        "Begin by preparing your vanilla pudding according to package instructions and set aside to thicken slightly.",
+        "In a large glass trifle dish, layer half of the angel food cake cubes at the bottom, ensuring even coverage.",
+        "Spoon half of the prepared pudding over the cake layer, spreading it gently to cover the cake evenly.",
+        "Add a layer of fresh mixed berries, distributing them evenly over the pudding layer.",
+        "Repeat the layering process with the remaining cake, pudding, and berries, finishing with a generous layer of whipped cream on top.",
+        "Garnish with mint leaves and refrigerate for at least 1 hour before serving to allow the flavors to meld."
     ],
-    "tips": "For the best texture, ensure the angel food cake is completely cooled before layering. Use a mix of berries for a colorful presentation. Chill the trifle for a few hours to allow flavors to meld.",
+    "tips": "To elevate your trifle cake, consider these professional tips: \n- Use fresh, seasonal berries for the best flavor and texture. Look for berries that are firm and vibrant in color. \n- If you want to add a little zing, consider drizzling a bit of berry syrup or fruit compote between the layers. \n- Avoid over-soaking the cake with pudding; it should be moist but not soggy. \n- For a beautiful presentation, use a clear trifle dish to showcase the layers. \n- Leftovers can be stored in the refrigerator for up to 2 days, but the texture may change slightly as the cake absorbs moisture.",
     "image_keywords": [
         "appetizing",
         "delicious",
         "homemade",
         "fresh",
-        "colorful"
+        "colorful",
+        "comforting",
+        "family-friendly"
     ],
     "structured_content": [
         {
-            "content": "<p>Imagine this: a stunning trifle cake with layers of fluffy angel food cake, creamy vanilla pudding, and vibrant fresh berries. This dessert not only looks beautiful but is also a breeze to prepare, making it perfect for any gathering.<\/p>"
+            "content": "<p>Indulge in the delightful experience of a berry trifle cake, where fluffy angel food cake meets creamy pudding and vibrant fresh berries. This dessert is not only visually stunning but also incredibly easy to prepare, making it a perfect choice for gatherings or special occasions. Each layer offers a unique texture and flavor, creating a symphony of taste that will leave your guests craving more. With its light and refreshing profile, this trifle cake is sure to become a favorite at your table!</p>"
         },
         {
             "note": {
-                "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Visually impressive yet easy to make<\/li><li>Perfect for summer gatherings<\/li><li>Utilizes fresh, seasonal ingredients<\/li><li>Great for feeding a crowd<\/li><\/ul>"
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and ready in 30 minutes - perfect for last-minute gatherings!</li><li>Impressive layers of flavor and texture that mimic gourmet desserts.</li><li>Ideal for summer picnics or holiday celebrations.</li><li>Simple ingredients make it accessible for any home cook.</li><li>Budget-friendly dessert that doesn't skimp on style or taste.</li><li>Versatile enough to customize with your favorite fruits or flavors.</li></ul>"
             }
         },
         {
-            "content": "<p>I stumbled upon this delightful trifle cake recipe during a family reunion. It quickly became a favorite, with everyone asking for seconds and thirds!<\/p>"
+            "content": "<p>This berry trifle cake holds a special place in my heart, reminiscent of summer family gatherings filled with laughter and joy. I remember the first time I made it for a friend's birthday party; the vibrant colors and delightful layers stole the show! Everyone was amazed at how something so beautiful could be so easy to prepare. It's a dessert that brings people together, creating sweet memories with every bite. Whether it's a casual get-together or a festive celebration, this trifle cake is always a hit!</p>"
         },
         {
-            "headline": "Ingredient Assembly"
+            "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<ul><li><strong>Primary component:<\/strong> Angel food cake - light and airy, it provides a perfect base for the trifle.<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Vanilla pudding - adds creaminess and sweetness.<\/li><li><strong>Complementary components:<\/strong> Fresh mixed berries - provide a burst of flavor and color.<\/li><li><strong>Required tools:<\/strong> Trifle dish or large glass bowl, mixing bowls, whisk.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (cake):</strong> Angel food cake is light and airy, making it the perfect base for this dessert. When shopping, look for a cake that is fresh and has a soft texture. You can also make your own from scratch for a personal touch.</li><li><strong>Key seasonings/aromatics:</strong> While this recipe is simple, the vanilla pudding adds a rich creaminess that complements the berries beautifully. Opt for high-quality vanilla extract in your pudding for enhanced flavor.</li><li><strong>Supporting ingredients:</strong> Fresh berries not only add color but also provide a burst of natural sweetness and acidity that balances the richness of the pudding. Choose ripe, seasonal berries for the best taste.</li><li><strong>Smart substitutions:</strong> For a gluten-free option, consider using a gluten-free angel food cake mix. You can also substitute the vanilla pudding with a dairy-free version for a vegan-friendly dessert.</li><li><strong>Equipment needed:</strong> A clear trifle dish is essential for showcasing the beautiful layers. A mixing bowl for the pudding and a spatula for layering will also be needed.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh angel food cake pieces with creamy vanilla pudding and colorful mixed berries arranged in a trifle dish.",
-                "url": "null",
-                "type": "main"
+                "context": "Fresh ingredients for berry trifle cake, including angel food cake, vanilla pudding, and assorted berries on a marble countertop.",
+                "url": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp"
             }
         },
         {
-            "headline": "Preparation Method"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Prepare the angel food cake according to package instructions and allow it to cool completely.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Layer the cooled angel food cake, vanilla pudding, and fresh berries in a trifle dish.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Chill the assembled trifle in the refrigerator for at least 2 hours before serving.<\/dd><\/dl>"
+            "content": "<p>Preparation for this trifle cake is a breeze! Start by gathering all your ingredients and tools. Cut the angel food cake into cubes, and prepare the vanilla pudding according to the package instructions, allowing it to thicken slightly before use. You can prepare the pudding a day in advance to save time.</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Measure out your ingredients and have them ready to go. This will streamline the layering process and keep things organized.</dd><dt><strong>Cooking process:</strong></dt><dd>Since this is a no-bake dessert, focus on layering the ingredients in your trifle dish. Each layer should be spread evenly, and you can use a spatula to help with this.</dd><dt><strong>Finishing touches:</strong></dt><dd>After layering, top the trifle with whipped cream and garnish with mint leaves. Chill in the refrigerator for at least an hour to allow the flavors to meld.</dd></dl>"
         },
         {
             "upload": {
-                "context": "Heavenly Berry Trifle Cake being layered in a trifle dish with fresh berries and pudding visible.",
-                "url": "null",
-                "type": "process"
+                "context": "Layering the pudding and berries in a glass trifle dish for a colorful dessert.",
+                "url": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "Essential Knowledge",
-                "content": "<ul><li>Use a serrated knife to slice the angel food cake for clean layers.<\/li><li>Avoid overmixing the pudding to maintain its creamy texture.<\/li><li>Look for the berries to be vibrant and fresh for the best flavor.<\/li><li>Store leftovers in the refrigerator for up to 2 days.<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> While this dessert is no-bake, ensure your pudding is chilled before layering. This helps maintain the structure of the trifle.</li><li><strong>Common mistake to avoid:</strong> Avoid over-soaking the cake with pudding. It should be moist, not mushy. Layer gently to maintain the cake's integrity.</li><li><strong>Perfect doneness indicator:</strong> Since there’s no baking, look for a well-set pudding that holds its shape when layered.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the refrigerator for up to 2 days. The texture may change slightly, but it will still taste delicious.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing this trifle cake with family always brings smiles and compliments. It's a reminder that simple ingredients can create a stunning dessert that everyone loves.<\/p>"
+            "content": "<p>Sharing this berry trifle cake with friends and family is a joyous experience. As I set it on the table, the vibrant layers catch everyone's eye, and the anticipation builds. The first scoop reveals the beautiful layers, and the aroma of fresh berries fills the air. Watching loved ones enjoy each bite, their smiles and compliments warm my heart. This dessert is more than just a treat; it's a way to connect and create lasting memories around the table.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Add a splash of almond extract to the pudding for extra flavor, or incorporate a layer of whipped cream for added richness. A drizzle of chocolate sauce can also elevate the dessert.<\/p>"
+            "content": "<p>Enhance your trifle cake with these exciting ideas: <ul><li>Fresh mint adds a refreshing note; sprinkle it between layers or as a garnish for a burst of flavor.</li><li>Consider adding a splash of vanilla extract to the pudding for an extra layer of depth.</li><li>For a richer experience, try incorporating chocolate shavings or a drizzle of chocolate sauce between the layers.</li><li>Experiment with different fruits like peaches or mangoes for a tropical twist.</li></ul> These variations can elevate your trifle cake to new heights!</p>"
         },
         {
-            "headline": "Accompaniment Ideas"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Serve with a side of whipped cream or a scoop of vanilla ice cream for a decadent treat. Pair with a light summer salad for a balanced meal.<\/p>"
+            "content": "<p>To make your berry trifle cake shine, consider these pairing suggestions: <ul><li><strong>Side dishes:</strong> Serve with a light salad to balance the sweetness, or offer a cheese platter for a savory contrast.</li><li><strong>Beverage pairings:</strong> A chilled glass of sparkling lemonade or a fruity sangria complements the dessert beautifully.</li><li><strong>Bread/starch options:</strong> Pair with buttery croissants or light biscuits for a delightful brunch spread.</li><li><strong>Occasion ideas:</strong> This trifle is perfect for birthdays, summer picnics, or holiday gatherings.</li><li><strong>Presentation tips:</strong> Serve in individual cups for a modern touch, or layer in a large glass bowl for a stunning centerpiece.</li><li><strong>Temperature serving note:</strong> Serve chilled for the best flavor and texture experience.</li></ul></p>"
         },
         {
-            "headline": "Recipe Adaptations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Substitute the angel food cake with a sponge cake for a denser texture. For a gluten-free option, use gluten-free cake mix. You can also swap the berries for other fruits like peaches or mangoes.<\/p>"
+            "content": "<p>Explore these exciting variations of the berry trifle cake: <ul><li><strong>Dietary adaptation 1 (Gluten-Free):</strong> Use a gluten-free angel food cake mix and ensure your pudding is also gluten-free for a safe and delicious dessert.</li><li><strong>Dietary adaptation 2 (Vegan/Dairy-Free):</strong> Substitute the pudding with a plant-based version and use coconut whipped cream for a creamy topping.</li><li><strong>Flavor variation (Chocolate):</strong> Add layers of chocolate pudding and chocolate shavings for a decadent twist.</li><li><strong>Protein/ingredient swap:</strong> Incorporate layers of yogurt for added protein and a tangy flavor.</li></ul> Each variation offers a unique taste experience!</p>"
         },
         {
             "upload": {
-                "context": "Heavenly Berry Trifle Cake plated on a glass dish with fresh mint garnish and colorful berries visible.",
-                "url": "null",
-                "type": "final"
+                "context": "Beautifully plated berry trifle cake with layers of cake, pudding, and berries, garnished with mint leaves.",
+                "url": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Expert Insights",
-                "content": "<ul><li>For a professional touch, layer the trifle in clear glass cups for individual servings.<\/li><li>Enhance flavor by macerating the berries with a bit of sugar before layering.<\/li><li>Timing is key; prepare the trifle a few hours in advance for the best flavor.<\/li><li>Garnish with fresh mint leaves for a pop of color.<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a professional touch, layer the ingredients in a clear dish to showcase the beautiful colors and textures.</li><li><strong>Ingredient prep secret:</strong> Chill your mixing bowl and beaters before whipping cream for a fluffier texture.</li><li><strong>Timing strategy:</strong> Prepare the pudding a day in advance to save time and enhance the flavors.</li><li><strong>Presentation hack:</strong> Use a piping bag to add whipped cream for a more elegant finish.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't miss out on this delightful trifle cake! With just 45 minutes of prep and chill time, you can impress your guests with this easy, stunning dessert.<\/p>"
+            "content": "<p>This berry trifle cake is a delightful dessert that’s sure to impress! With its easy preparation and stunning presentation, it’s perfect for any occasion. Whether you’re celebrating a special event or simply enjoying a sweet treat, this recipe is a must-try. Don’t forget to share your experience and photos with us! We’d love to hear how your trifle turned out. Enjoy this delicious dessert that brings joy to every gathering!</p>"
         }
     ],
-    "category_id": "cat_1761230383_494",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
-            "filePath": "recipes\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
-            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
+            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_2.webp",
-            "filePath": "recipes\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_2.webp",
-            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_2.webp",
+            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_3.webp",
-            "filePath": "recipes\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_3.webp",
-            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_3.webp",
+            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_4.webp",
-            "filePath": "recipes\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_4.webp",
-            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_4.webp",
+            "fileName": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings_LummyRecipes_image_4.webp",
+            "filePath": "recipes/heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_LummyRecipes_image_4.webp",
+            "relativePath": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "slug": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings",
     "id": "recipe_1763313733_668",
-    "author_id": "author_001",
     "image": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
-    "image_path": "recipes\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images\/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
-    "image_dir": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings\/images",
+    "image_path": "recipes/heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images/heavenly-berry-trifle-cake-perfect-for-summer-gatherings_image_1.webp",
+    "image_dir": "heavenly-berry-trifle-cake-perfect-for-summer-gatherings/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-17T21:05:53+01:00",
-    "updatedAt": "2025-11-17T21:05:53+01:00"
+    "updatedAt": "2025-11-29T15:23:12+01:00"
 }

@@ -1,163 +1,166 @@
 {
-    "title": "Hearty Meatloaf with Creamy Mashed Potatoes for Family Comfort",
-    "promptIMG": "Hearty meatloaf with creamy mashed potatoes, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
-    "isOnline": true,
-    "description": "Savor the warmth of this hearty meatloaf paired with creamy mashed potatoes. Perfect for a cozy family dinner, this easy recipe is sure to please everyone at the table.",
-    "difficulty": "easy",
-    "prep_time": 30,
+    "title": "Hearty Meatloaf with Creamy Mash (Easy Recipe)",
+    "promptIMG": "\"Hearty meatloaf with creamy mashed potatoes, beautifully plated on a rustic wooden board, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, warm kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": false,
+    "description": "Enjoy a comforting meatloaf with creamy mashed potatoes ready in no time! This recipe brings together classic flavors for a family-friendly meal. Try it tonight!",
+    "difficulty": "Easy",
+    "prep_time": 15,
     "cook_time": 60,
     "servings": 4,
     "ingredients": [
         "1 pound ground beef",
         "1 cup breadcrumbs",
-        "1\/2 cup onion, chopped",
-        "1\/2 cup milk",
-        "1 egg",
-        "1 tablespoon Worcestershire sauce",
-        "Salt and pepper to taste",
-        "2 cups mashed potatoes",
-        "1 cup shredded cheese"
+        "1/2 cup milk",
+        "1/4 cup finely chopped onion",
+        "1/4 cup ketchup",
+        "1 large egg",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1/2 teaspoon garlic powder",
+        "2 pounds potatoes, peeled and cubed",
+        "1/2 cup heavy cream",
+        "4 tablespoons butter",
+        "Salt and pepper to taste"
     ],
     "instructions": [
-        "Preheat the oven to 350°F (175°C).",
-        "In a large bowl, combine ground beef, breadcrumbs, onion, milk, egg, Worcestershire sauce, salt, and pepper.",
-        "Mix until well combined and shape into a loaf.",
-        "Place the meatloaf in a baking dish and bake for 60 minutes.",
-        "While the meatloaf is baking, prepare the mashed potatoes according to package instructions.",
-        "Once the meatloaf is done, top with shredded cheese and return to the oven for an additional 5 minutes until cheese is melted.",
-        "Serve the meatloaf with creamy mashed potatoes."
+        "Preheat your oven to 350°F (175°C). In a large bowl, combine the ground beef, breadcrumbs, milk, onion, ketchup, egg, Worcestershire sauce, salt, pepper, and garlic powder. Mix until well combined.",
+        "Shape the mixture into a loaf and place it in a greased baking dish. Spread a thin layer of ketchup on top for added flavor.",
+        "Bake in the preheated oven for about 60 minutes, or until the internal temperature reaches 160°F (70°C). Let it rest for 10 minutes before slicing.",
+        "Meanwhile, boil the cubed potatoes in salted water until tender, about 15-20 minutes. Drain and return them to the pot.",
+        "Add the heavy cream and butter to the potatoes, then mash until smooth and creamy. Season with salt and pepper to taste.",
+        "Serve slices of meatloaf alongside a generous scoop of creamy mashed potatoes."
     ],
-    "tips": "For the best flavor, let the meatloaf rest for 10 minutes before slicing. Use fresh breadcrumbs for a better texture. Adjust seasoning to your taste for a personalized touch.",
+    "tips": "To ensure your meatloaf is moist, avoid overmixing the meat mixture. Use fresh breadcrumbs for better texture, and consider adding chopped herbs for extra flavor. When mashing potatoes, warm the cream and butter slightly to help them blend smoothly. For storage, keep leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) until warmed through, about 20 minutes. Always check the internal temperature of the meatloaf to avoid undercooking.",
     "image_keywords": [
         "appetizing",
         "delicious",
         "homemade",
         "fresh",
-        "colorful"
+        "colorful",
+        "comforting",
+        "family-friendly"
     ],
     "structured_content": [
         {
-            "content": "<p>Imagine this: a warm, savory meatloaf fresh from the oven, paired with fluffy mashed potatoes. The aroma fills your kitchen, inviting everyone to the table for a comforting meal that feels like a hug in every bite.<\/p>"
+            "content": "<p>Indulge in the comforting embrace of a classic meatloaf, perfectly paired with velvety mashed potatoes. This dish is a nostalgic favorite, bringing back memories of family dinners filled with laughter and warmth. The savory aroma of the meatloaf baking in the oven fills your home, while the creamy potatoes promise a delightful texture. Ideal for any weeknight, this recipe is not only easy to prepare but also guarantees satisfaction for everyone at the table.</p>"
         },
         {
             "note": {
-                "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Comforting flavors that everyone loves<\/li><li>Ideal for busy family dinners<\/li><li>Common pantry staples required<\/li><li>Perfect for cozy evenings<\/li><\/ul>"
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and ready in just 75 minutes - perfect for busy families seeking comfort food.</li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.</li><li>Great for cozy family dinners or meal prep for the week ahead.</li><li>Made with accessible ingredients that are easy to find.</li><li>This meatloaf is a crowd-pleaser, sure to impress even the pickiest eaters!</li><li>Rich in protein and satisfying, making it a wholesome choice for dinner.</li></ul>"
             }
         },
         {
-            "content": "<p>This meatloaf recipe was a lifesaver on a chilly evening when I needed something hearty and quick. It quickly became a family favorite, with everyone asking for seconds!<\/p>"
+            "content": "<p>This meatloaf recipe holds a special place in my heart. I remember the first time I made it for my family; the aroma wafting through the house drew everyone to the kitchen. My kids were excited to dig in, and their smiles as they took their first bites were priceless. This dish has become a staple in our home, perfect for those busy weeknights when comfort food is a must. Each slice brings back memories of laughter and togetherness around the dinner table.</p>"
         },
         {
-            "headline": "Ingredient Assembly"
+            "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<ul><li><strong>Primary component:<\/strong> Ground beef - provides the rich, hearty base for the meatloaf<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Onion and Worcestershire sauce - enhance the flavor profile<\/li><li><strong>Complementary components:<\/strong> Breadcrumbs and egg - bind the mixture together for a perfect texture<\/li><li><strong>Required tools:<\/strong> Baking dish, mixing bowl, and measuring cups<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Ground beef is the star of this dish, providing rich flavor and satisfying texture. Look for a blend with some fat for moisture. Ground turkey or chicken can be used for a lighter option, but may require additional seasoning.</li><li><strong>Key seasonings/aromatics:</strong> Onion and garlic powder enhance the meat's flavor, adding depth. Fresh herbs like parsley or thyme can elevate the dish further, adding freshness.</li><li><strong>Supporting ingredients:</strong> Breadcrumbs help bind the meatloaf while keeping it tender. You can use crushed crackers or oats as alternatives for a different texture.</li><li><strong>Smart substitutions:</strong> For a gluten-free option, substitute breadcrumbs with gluten-free oats or almond flour. If you're dairy-free, use a plant-based milk and omit the butter in the mash.</li><li><strong>Equipment needed:</strong> A mixing bowl is essential for combining ingredients, while a baking dish ensures even cooking. A potato masher helps achieve the perfect creamy texture for your mashed potatoes.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh ground beef with breadcrumbs, chopped onion, and milk arranged on kitchen counter ready for mixing",
-                "url": "null",
-                "type": "main"
+                "context": "Fresh ingredients for meatloaf preparation including ground beef, breadcrumbs, and potatoes arranged on a marble countertop.",
+                "url": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_1.webp"
             }
         },
         {
-            "headline": "Preparation Method"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Preheat the oven to 350°F (175°C) and gather all ingredients.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Combine ground beef, breadcrumbs, onion, milk, egg, Worcestershire sauce, salt, and pepper. Shape into a loaf and bake for 60 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Top the meatloaf with shredded cheese and bake for an additional 5 minutes until melted.<\/dd><\/dl>"
+            "content": "<p>Preparation is key to a successful meatloaf. Start by preheating your oven to 350°F (175°C) to ensure even cooking. Gather all your ingredients and chop the onion finely to release its flavor. Combine the meat mixture thoroughly, but avoid overworking it to keep the loaf tender.</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Chop the onion and gather all ingredients. Preheat the oven and prepare your baking dish with a light coating of cooking spray.</dd><dt><strong>Cooking process:</strong></dt><dd>Shape the meat mixture into a loaf and place it in the oven. Bake until the internal temperature reaches 160°F (70°C), which should take about an hour.</dd><dt><strong>Finishing touches:</strong></dt><dd>Let the meatloaf rest for 10 minutes before slicing. Serve with a generous helping of creamy mashed potatoes for a comforting meal.</dd></dl>"
         },
         {
             "upload": {
-                "context": "Meatloaf baking in oven with melted cheese on top, golden brown crust forming",
-                "url": "null",
-                "type": "process"
+                "context": "Slicing freshly baked meatloaf in a stainless steel baking dish, steam rising from the tender meat.",
+                "url": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "Essential Knowledge",
-                "content": "<ul><li>For best results, use lean ground beef to avoid excess grease<\/li><li>Avoid overmixing the meat mixture to keep the loaf tender<\/li><li>Check doneness with a meat thermometer; it should read 160°F (70°C)<\/li><li>Store leftovers in an airtight container for up to 3 days<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> Cooking at the right temperature is crucial for even cooking. Use a meat thermometer to check the internal temperature, aiming for 160°F (70°C).</li><li><strong>Common mistake to avoid:</strong> Overmixing the meat can lead to a dense loaf. Mix just until combined for the best texture.</li><li><strong>Perfect doneness indicator:</strong> Look for a nicely browned exterior and juices running clear when sliced. The meatloaf should feel firm but not dry.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) for about 20 minutes or until warmed through.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing this meatloaf with my family always brings smiles. It's a reminder that simple meals can create the best memories around the dinner table.<\/p>"
+            "content": "<p>Sharing this meatloaf with family brings joy to my heart. As I serve it up, the compliments flow, and I can see the delight on their faces. The creamy mashed potatoes complement the savory meatloaf perfectly, creating a comforting meal that sparks conversation and laughter. It's moments like these that make cooking worthwhile, as we gather around the table, enjoying not just the food, but each other's company.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Add a splash of barbecue sauce on top before baking for a tangy twist, or mix in some chopped herbs for freshness. A sprinkle of garlic powder can elevate the flavor even more.<\/p>"
+            "content": "<p>Enhance your meatloaf with these flavorful additions: <ul><li>Fresh herbs like rosemary or thyme can be mixed into the meat for an aromatic boost. Add them during the mixing phase for maximum flavor.</li><li>Spices such as smoked paprika or cumin can add depth; use about 1 teaspoon of each for a warm, earthy flavor.</li><li>Consider upgrading with sautéed mushrooms or grated carrots for added moisture and nutrition.</li><li>For a twist, try adding a spicy kick with diced jalapeños or a dash of hot sauce.</li></ul>These enhancements can transform your dish into something extraordinary!</p>"
         },
         {
-            "headline": "Accompaniment Ideas"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Serve with a side of steamed vegetables or a fresh garden salad to balance the richness of the meatloaf. Garlic bread also makes a delightful addition.<\/p>"
+            "content": "<p>To complement your meatloaf, consider these side dishes: <ul><li><strong>Roasted vegetables:</strong> Carrots and Brussels sprouts add a sweet and savory contrast, enhancing the meal's overall flavor.</li><li><strong>Green salad:</strong> A fresh salad with a tangy vinaigrette balances the richness of the meatloaf.</li><li><strong>Garlic bread:</strong> Serve warm, crusty garlic bread to soak up the delicious juices from the meatloaf.</li><li><strong>Occasion ideas:</strong> This dish is perfect for family gatherings, casual dinners, or even meal prep for the week ahead.</li><li><strong>Presentation tips:</strong> Slice the meatloaf and arrange it on a platter with mashed potatoes and a sprinkle of fresh parsley for a pop of color.</li><li><strong>Temperature serving note:</strong> Serve the meatloaf warm for the best flavor and texture.</li></ul></p>"
         },
         {
-            "headline": "Recipe Adaptations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Substitute ground turkey for a lighter option, or use lentils for a vegetarian version. Adjust cooking times as necessary for different proteins.<\/p>"
+            "content": "<p>Explore these exciting variations: <ul><li><strong>Gluten-Free:</strong> Substitute breadcrumbs with gluten-free oats or almond flour for a delicious alternative that maintains texture.</li><li><strong>Vegan/Dairy-Free:</strong> Use lentils or chickpeas as a base, and substitute plant-based milk and butter for the mash.</li><li><strong>Spicy variation:</strong> Incorporate diced jalapeños or a spicy sausage blend for a kick that elevates the flavor profile.</li><li><strong>Protein swap:</strong> Try ground turkey or chicken for a lighter version, adjusting seasonings to enhance flavor.</li></ul>These variations can keep your meals exciting and cater to different dietary needs!</p>"
         },
         {
             "upload": {
-                "context": "Perfectly cooked meatloaf plated on white dish with melted cheese garnish and creamy mashed potatoes on the side",
-                "url": "null",
-                "type": "final"
+                "context": "Final plated meatloaf with creamy mashed potatoes, garnished with fresh parsley on a rustic table setting.",
+                "url": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Expert Insights",
-                "content": "<ul><li>For extra moisture, add a tablespoon of ketchup to the meat mixture<\/li><li>Let the meatloaf rest before slicing to maintain juiciness<\/li><li>Consider making individual meatloaves for quicker cooking<\/li><li>Garnish with fresh parsley for a pop of color<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a gourmet touch, consider glazing the meatloaf with a mixture of ketchup and brown sugar for a sweet, caramelized crust.</li><li><strong>Ingredient prep secret:</strong> Sautéing the onions before adding them to the meatloaf enhances their sweetness and depth of flavor.</li><li><strong>Timing strategy:</strong> Allow the meatloaf to rest after baking; this helps redistribute the juices for a more flavorful slice.</li><li><strong>Presentation hack:</strong> Use a ring mold to shape individual servings for an elegant presentation at dinner parties.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't let busy schedules rob you of delicious meals. This recipe proves restaurant-quality flavor is just 90 minutes away. Your family deserves this simplicity.<\/p>"
+            "content": "<p>This hearty meatloaf is not just a meal; it’s a comforting experience that brings families together. With its rich flavors and creamy mashed potatoes, it’s sure to become a favorite in your home. I encourage you to try this recipe and share your thoughts in the comments. Don’t forget to snap a photo and share it on social media! Enjoy this easy meatloaf recipe that promises to warm your heart and satisfy your taste buds.</p>"
         }
     ],
     "category_id": "cat_1761229889_885",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "comforting-meatloaf-with-mashed-potatoes_image_1.webp",
-            "filePath": "recipes\/comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_1.webp",
-            "relativePath": "comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_1.webp",
+            "relativePath": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "comforting-meatloaf-with-mashed-potatoes_image_2.webp",
-            "filePath": "recipes\/comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_2.webp",
-            "relativePath": "comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_2.webp",
+            "relativePath": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "comforting-meatloaf-with-mashed-potatoes_image_3.webp",
-            "filePath": "recipes\/comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_3.webp",
-            "relativePath": "comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_3.webp",
+            "relativePath": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "comforting-meatloaf-with-mashed-potatoes_image_4.webp",
-            "filePath": "recipes\/comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_4.webp",
-            "relativePath": "comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_4.webp",
+            "fileName": "comforting-meatloaf-with-mashed-potatoes_LummyRecipes_image_4.webp",
+            "filePath": "recipes/comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_LummyRecipes_image_4.webp",
+            "relativePath": "comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "slug": "comforting-meatloaf-with-mashed-potatoes",
     "id": "recipe_1763313072_373",
-    "author_id": "author_001",
     "image": "comforting-meatloaf-with-mashed-potatoes_image_1.webp",
-    "image_path": "recipes\/comforting-meatloaf-with-mashed-potatoes\/images\/comforting-meatloaf-with-mashed-potatoes_image_1.webp",
-    "image_dir": "comforting-meatloaf-with-mashed-potatoes\/images",
+    "image_path": "recipes/comforting-meatloaf-with-mashed-potatoes/images/comforting-meatloaf-with-mashed-potatoes_image_1.webp",
+    "image_dir": "comforting-meatloaf-with-mashed-potatoes/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-17T12:51:23+01:00",
-    "updatedAt": "2025-11-17T12:51:23+01:00"
+    "updatedAt": "2025-11-29T15:24:23+01:00"
 }

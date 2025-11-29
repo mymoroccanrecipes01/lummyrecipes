@@ -1,169 +1,167 @@
 {
-    "title": "Creamy White Chicken Chili for Cozy Nights",
-    "promptIMG": "Creamy white chicken chili, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300",
-    "isOnline": true,
-    "description": "Savor a comforting bowl of creamy white chicken chili, ready in just 30 minutes. Perfect for cozy weeknight dinners or gatherings with friends. Try it tonight!",
-    "difficulty": "easy",
-    "prep_time": 30,
+    "title": "Quick Creamy Chicken Chili (Ready in 30 Minutes)",
+    "promptIMG": "\"Creamy white chicken chili, elegantly served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": false,
+    "description": "Whip up this creamy chicken chili in just 30 minutes! This dish combines rich flavors and hearty ingredients, making it perfect for any occasion. Enjoy a bowl tonight!",
+    "difficulty": "Easy",
+    "prep_time": 15,
     "cook_time": 30,
     "servings": 4,
     "ingredients": [
-        "2 cups cooked chicken, shredded",
-        "1 can white beans, drained and rinsed",
-        "1 cup corn, frozen or canned",
-        "1 onion, diced",
+        "1 pound boneless, skinless chicken breasts, diced",
+        "1 tablespoon olive oil",
+        "1 medium onion, chopped",
         "2 cloves garlic, minced",
+        "1 can (15 ounces) white beans, drained and rinsed",
+        "1 can (14.5 ounces) diced tomatoes with green chilies",
         "2 cups chicken broth",
-        "1 cup heavy cream",
-        "1 teaspoon cumin",
+        "1 teaspoon ground cumin",
         "1 teaspoon chili powder",
+        "1 cup heavy cream",
         "Salt and pepper to taste",
         "Fresh cilantro for garnish"
     ],
     "instructions": [
-        "In a large pot, sauté the onion and garlic until translucent.",
-        "Add the shredded chicken, white beans, corn, chicken broth, cumin, chili powder, salt, and pepper.",
-        "Bring to a simmer and cook for 15 minutes.",
-        "Stir in the heavy cream and heat through.",
+        "In a large pot, heat the olive oil over medium heat. Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+        "Stir in the minced garlic and cook for an additional minute until fragrant.",
+        "Add the diced chicken to the pot, cooking until browned on all sides, approximately 5-7 minutes.",
+        "Incorporate the white beans, diced tomatoes, chicken broth, cumin, and chili powder. Bring the mixture to a gentle simmer and let it cook for 15 minutes.",
+        "Reduce the heat and stir in the heavy cream, allowing it to warm through without boiling. Season with salt and pepper to taste.",
         "Serve hot, garnished with fresh cilantro."
     ],
-    "tips": "For the best flavor, use homemade chicken broth. Adjust the spices to your taste for a milder or spicier chili. Serve with crusty bread for a complete meal.",
+    "tips": "To elevate your chicken chili, consider these professional tips: \n- For a deeper flavor, sear the chicken until golden brown before adding other ingredients. This caramelization enhances the dish's richness. \n- When selecting chicken, opt for organic or free-range for better taste and texture. Always check for freshness and avoid any signs of discoloration. \n- A common mistake is overcooking the chicken, which can make it tough. Aim for just cooked through, and it will remain tender. \n- Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on the stove to maintain creaminess. \n- For optimal flavor, let the chili sit for a few minutes before serving, allowing the spices to meld beautifully.",
     "image_keywords": [
         "appetizing",
         "delicious",
         "homemade",
         "fresh",
-        "colorful"
+        "colorful",
+        "comforting",
+        "family-friendly"
     ],
     "structured_content": [
         {
-            "content": "<p>Picture this: a creamy white chicken chili bubbling in a pot, filling your kitchen with a warm, inviting aroma. This quick dish transforms simple ingredients into a comforting meal ready in just 30 minutes, perfect for busy weeknights.<\/p>"
+            "content": "<p>Indulge in a bowl of creamy white chicken chili that warms both the heart and soul. This dish is a delightful blend of tender chicken, creamy broth, and zesty spices, creating a comforting experience in every spoonful. Perfect for busy weeknights or cozy gatherings, this chili is not only quick to prepare but also packed with flavor that will leave everyone asking for seconds.</p>"
         },
         {
             "note": {
-                "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 30 minutes<\/li><li>Rich and creamy flavor that satisfies<\/li><li>Ideal for cozy gatherings<\/li><li>Uses common pantry staples<\/li><li>Perfect for chilly evenings<\/li><\/ul>"
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and ready in 30 minutes - perfect for families on the go!</li><li>This chili boasts restaurant-quality flavors that will impress your guests.</li><li>Ideal for game nights or casual get-togethers with friends.</li><li>Simple ingredients make it easy to whip up any night of the week.</li><li>Budget-friendly and filling, this dish is a crowd-pleaser that everyone will enjoy.</li></ul>"
             }
         },
         {
-            "content": "<p>I stumbled upon this creamy white chicken chili recipe during a busy week when I needed something quick yet comforting. It quickly became a family favorite, perfect for those nights when everyone is craving something warm.<\/p>"
+            "content": "<p>My love for creamy chicken chili began during a chilly autumn evening when I first tasted it at a friend's dinner party. The warmth of the spices and the comforting texture of the creamy broth instantly drew me in. I remember savoring each bite, feeling a sense of coziness that only a bowl of chili can provide. Since then, I've made it a staple in my home, often sharing it with family and friends, creating new memories around the dinner table.</p>"
         },
         {
-            "headline": "Ingredient Assembly"
+            "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<ul><li><strong>Primary component:<\/strong> Chicken - provides protein and heartiness to the dish<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Onion and garlic - enhance the overall flavor profile<\/li><li><strong>Complementary components:<\/strong> White beans and corn - add texture and sweetness<\/li><li><strong>Required tools:<\/strong> Large pot, wooden spoon, measuring cups<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Chicken breast is ideal for this dish due to its mild flavor and ability to absorb spices. Look for fresh, high-quality cuts for the best results. Dicing the chicken into uniform pieces ensures even cooking.</li><li><strong>Key seasonings/aromatics:</strong> Onions and garlic are essential for building a flavorful base. Use fresh ingredients for maximum aroma and taste, enhancing the overall depth of the chili.</li><li><strong>Supporting ingredients:</strong> White beans add creaminess and texture, while diced tomatoes provide acidity and balance. Rinse the beans well to remove excess sodium and enhance their flavor.</li><li><strong>Smart substitutions:</strong> For a lighter version, swap heavy cream with coconut milk for a dairy-free option. Alternatively, use turkey instead of chicken for a leaner protein choice.</li><li><strong>Equipment needed:</strong> A large pot is essential for cooking the chili evenly. A wooden spoon is great for stirring, while a sharp knife is necessary for dicing the chicken and vegetables.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh shredded chicken with diced onions, minced garlic, and white beans arranged on a kitchen counter ready for cooking.",
-                "url": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_1.webp",
-                "type": "main",
-                "fileName": "30-minute-creamy-white-chicken-chili_image_1.webp"
+                "context": "Fresh ingredients for creamy white chicken chili, including chicken, beans, tomatoes, and spices, beautifully arranged on a marble countertop.",
+                "url": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp"
             }
         },
         {
-            "headline": "Preparation Method"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Gather all ingredients and tools needed for the recipe.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Sauté the onion and garlic in a large pot until translucent, then add the remaining ingredients and simmer for 15 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Stir in the heavy cream, heat through, and serve garnished with cilantro.<\/dd><\/dl>"
+            "content": "<p>Preparing this creamy chicken chili is a breeze. <dl><dt><strong>Preparation phase:</strong></dt><dd>Start by gathering all your ingredients and chopping the onion and garlic. Dice the chicken into bite-sized pieces for even cooking. Preheat your pot over medium heat while you prep, ensuring a smooth cooking process.</dd><dt><strong>Cooking process:</strong></dt><dd>Once your pot is hot, add the olive oil and sauté the onion until soft. Add the garlic and chicken, cooking until the chicken is no longer pink. This should take about 5-7 minutes.</dd><dt><strong>Finishing touches:</strong></dt><dd>After simmering the chili, stir in the cream and let it warm through. Serve in bowls, garnished with cilantro for a fresh touch.</dd></dl></p>"
         },
         {
             "upload": {
-                "context": "Creamy white chicken chili simmering in a large pot with steam rising and ingredients visibly blended.",
-                "url": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_2.webp",
-                "type": "process",
-                "fileName": "30-minute-creamy-white-chicken-chili_image_2.webp"
+                "context": "Cooking creamy chicken chili in a large pot, stirring with a wooden spoon as it simmers on the stovetop.",
+                "url": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "Essential Knowledge",
-                "content": "<ul><li>For a thicker chili, mash some of the beans before adding them.<\/li><li>A common mistake is not allowing enough time for the flavors to meld.<\/li><li>The chili is done when it is heated through and creamy.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> Maintain a medium heat throughout cooking to ensure the chicken cooks evenly without drying out. Use a meat thermometer to check that the chicken reaches 165°F.</li><li><strong>Common mistake to avoid:</strong> Many cooks overlook the importance of letting the chili simmer. Skipping this step can lead to a bland flavor. Allow at least 15 minutes for the spices to develop.</li><li><strong>Perfect doneness indicator:</strong> Look for the chicken to be white throughout and tender. The chili should be bubbling gently, indicating it's ready to serve.</li><li><strong>Storage & reheating:</strong> Store leftovers in airtight containers for up to 3 days. Reheat on the stove over low heat, stirring occasionally to prevent sticking.</li></ul>"
             }
         },
         {
-            "content": "<p>Every time I serve this creamy white chicken chili, my family can't get enough. It's a reminder that simple, comforting meals can bring everyone together, making it a staple in our home.<\/p>"
+            "content": "<p>Sharing this creamy chicken chili with loved ones is always a joy. I remember serving it at a family gathering, and the smiles on everyone's faces as they took their first bites were priceless. The aroma filled the room, drawing everyone in, and soon the table was filled with laughter and compliments. It's moments like these that make cooking so rewarding, as food brings us together and creates lasting memories.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Add a squeeze of lime juice for brightness, or toss in some diced jalapeños for a spicy kick. A sprinkle of cheese on top enhances the creaminess.<\/p>"
+            "content": "<p>To take your chicken chili to the next level, consider these enhancements: <ul><li>Fresh cilantro adds a bright, herbal note. Stir it in just before serving for maximum flavor.</li><li>Jalapeños can bring a spicy kick; add them during the sautéing phase for a milder heat, or sprinkle fresh on top for a bolder flavor.</li><li>For a richer taste, consider adding a splash of lime juice to brighten the dish; it complements the creaminess beautifully.</li><li>Experiment with smoked paprika for a subtle smokiness, or add a dash of cayenne for extra heat.</li></ul></p>"
         },
         {
-            "headline": "Accompaniment Ideas"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Serve with warm tortillas or crusty bread to soak up the chili, or pair with a fresh garden salad for a balanced meal.<\/p>"
+            "content": "<p>Enhance your dining experience with these pairing suggestions: <ul><li><strong>Side dishes:</strong> Serve with warm cornbread for a classic combination that soaks up the chili beautifully. A fresh garden salad adds a crisp contrast.</li><li><strong>Beverage pairings:</strong> A light lager or a refreshing iced tea complements the chili's richness without overpowering it.</li><li><strong>Bread/starch options:</strong> Crusty baguette or tortilla chips are perfect for dipping and adding texture.</li><li><strong>Occasion ideas:</strong> This chili is perfect for casual family dinners, game day gatherings, or cozy nights in.</li><li><strong>Presentation tips:</strong> Serve in colorful bowls and garnish with a dollop of sour cream and a sprinkle of cilantro for a vibrant look.</li><li><strong>Temperature serving note:</strong> Serve the chili hot for the best flavor and texture.</li></ul></p>"
         },
         {
-            "headline": "Recipe Adaptations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Substitute chicken with shredded rotisserie chicken for even quicker prep. For a vegetarian version, use chickpeas instead of chicken and vegetable broth.<\/p>"
+            "content": "<p>Explore these exciting variations to customize your chili: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> This recipe is naturally gluten-free, making it a great choice for those with dietary restrictions.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute chicken with chickpeas and use coconut cream instead of heavy cream for a delicious vegan version.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):</strong> Add Mediterranean spices like oregano and feta for a unique twist, or incorporate ginger and soy sauce for an Asian flair.</li><li><strong>Protein/ingredient swap:</strong> Swap chicken for shrimp or tofu for a different protein profile that still works well with the creamy base.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Creamy white chicken chili plated in a bowl with fresh cilantro garnish and crusty bread on the side.",
-                "url": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_3.webp",
-                "type": "final",
-                "fileName": "30-minute-creamy-white-chicken-chili_image_3.webp"
+                "context": "A vibrant bowl of creamy white chicken chili garnished with cilantro and served with crusty bread on a rustic table.",
+                "url": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Expert Insights",
-                "content": "<ul><li>Use high-quality chicken for the best flavor.<\/li><li>Consider adding a dash of hot sauce for an extra flavor boost.<\/li><li>Timing is key; don't rush the simmering process.<\/li><li>For plating, a dollop of sour cream adds a nice touch.<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a restaurant-quality finish, blend a portion of the chili to create a creamy base, then mix it back in for a luscious texture.</li><li><strong>Ingredient prep secret:</strong> Marinate the chicken in lime juice and spices for 30 minutes before cooking to enhance flavor and tenderness.</li><li><strong>Timing strategy:</strong> Prepare your ingredients ahead of time to streamline the cooking process, allowing you to focus on flavor development.</li><li><strong>Presentation hack:</strong> Use a squeeze bottle for drizzling sour cream in artistic patterns on top of the chili for an impressive presentation.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't let busy schedules rob you of delicious meals. This creamy white chicken chili proves that comfort food can be ready in just 30 minutes. Your family deserves this simplicity.<\/p>"
+            "content": "<p>This creamy chicken chili is not just a meal; it's a warm hug in a bowl. Its rich flavors and comforting texture make it a must-try for any occasion. I invite you to gather your loved ones and enjoy this delightful dish together. Don't forget to share your experience and photos on social media or leave a rating. Happy cooking!</p>"
         }
     ],
-    "category_id": "cat_1761230383_494",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "30-minute-creamy-white-chicken-chili_image_1.webp",
-            "filePath": "recipes\/30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_1.webp",
-            "relativePath": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp",
+            "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "30-minute-creamy-white-chicken-chili_image_2.webp",
-            "filePath": "recipes\/30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_2.webp",
-            "relativePath": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_2.webp",
+            "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "30-minute-creamy-white-chicken-chili_image_3.webp",
-            "filePath": "recipes\/30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_3.webp",
-            "relativePath": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_3.webp",
+            "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
             "fileName": "30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
-            "filePath": "recipes\/30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
-            "relativePath": "30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
+            "filePath": "recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
+            "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "slug": "30-minute-creamy-white-chicken-chili",
     "id": "text_recipe_1761927375_608",
-    "author_id": "author_001",
     "image": "30-minute-creamy-white-chicken-chili_image_1.webp",
-    "image_path": "recipes\/30-minute-creamy-white-chicken-chili\/images\/30-minute-creamy-white-chicken-chili_image_1.webp",
-    "image_dir": "30-minute-creamy-white-chicken-chili\/images",
+    "image_path": "recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp",
+    "image_dir": "30-minute-creamy-white-chicken-chili/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-19T00:53:28+01:00",
-    "updatedAt": "2025-11-19T00:53:28+01:00"
+    "updatedAt": "2025-11-29T15:21:26+01:00"
 }

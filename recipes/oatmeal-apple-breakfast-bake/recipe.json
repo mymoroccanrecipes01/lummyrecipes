@@ -1,168 +1,164 @@
 {
-    "title": "Hearty Oatmeal Apple Breakfast Bake for Busy Mornings",
-    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"Oatmeal Apple Breakfast Bake, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
-    "isOnline": true,
-    "description": "Start your day right with this Oatmeal Apple Breakfast Bake, a nutritious and delicious dish that combines oats and apples. Perfect for busy mornings or cozy weekends.",
-    "difficulty": "easy",
+    "title": "Quick Apple Oatmeal Bake (Healthy Start)",
+    "promptIMG": "\"Oatmeal Apple Breakfast Bake, beautifully arranged in a ceramic dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": false,
+    "description": "Start your day with this easy and healthy oatmeal apple bake! Packed with wholesome ingredients, it’s a delightful way to enjoy breakfast. Try it today!",
+    "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 30,
     "servings": 6,
     "ingredients": [
         "2 cups rolled oats",
-        "2 cups milk",
-        "2 apples, diced",
-        "1\/2 cup brown sugar",
-        "1\/4 cup butter, melted",
+        "2 cups almond milk (or any milk of choice)",
+        "2 medium apples, peeled and diced",
+        "1/2 cup brown sugar or maple syrup",
         "1 teaspoon cinnamon",
-        "1\/2 teaspoon salt",
+        "1/2 teaspoon nutmeg",
+        "1/4 teaspoon salt",
+        "1/4 cup chopped walnuts or pecans (optional)",
         "1 teaspoon vanilla extract",
-        "2 eggs"
+        "2 tablespoons melted coconut oil or butter"
     ],
     "instructions": [
-        "Preheat the oven to 350°F (175°C).",
-        "In a large bowl, combine the rolled oats, milk, diced apples, brown sugar, melted butter, cinnamon, salt, vanilla extract, and eggs.",
-        "Mix until well combined.",
-        "Pour the mixture into a greased baking dish.",
-        "Bake for 30 minutes or until the top is golden brown and set.",
-        "Let cool for a few minutes before serving."
+        "Preheat your oven to 350°F (175°C) and grease a baking dish with coconut oil or butter.",
+        "In a large bowl, combine the rolled oats, almond milk, diced apples, brown sugar, cinnamon, nutmeg, and salt. Stir until well mixed.",
+        "Add the chopped nuts, vanilla extract, and melted coconut oil to the mixture, folding gently to combine all ingredients.",
+        "Pour the oat mixture into the prepared baking dish, spreading it evenly. Bake for 30-35 minutes, or until the top is golden and the mixture is set.",
+        "Let it cool for a few minutes before slicing. Serve warm, drizzled with additional maple syrup if desired."
     ],
-    "tips": "For the best texture, use old-fashioned rolled oats instead of quick oats. Ensure the apples are evenly diced for consistent baking. Let the bake cool slightly to firm up before cutting.",
+    "tips": "To ensure your oatmeal bake is perfectly moist, avoid overbaking; check for a slight jiggle in the center when you remove it from the oven. Use fresh, crisp apples for the best flavor, and feel free to mix in other fruits like berries or bananas for variety. If you prefer a sweeter dish, increase the sugar or syrup slightly. For storage, keep leftovers in an airtight container in the fridge for up to 3 days. Reheat individual portions in the microwave for a quick breakfast. Experiment with spices like ginger or cardamom for a unique twist!",
     "image_keywords": [
         "appetizing",
         "delicious",
         "homemade",
         "fresh",
-        "colorful"
+        "colorful",
+        "comforting",
+        "family-friendly"
     ],
     "structured_content": [
         {
-            "content": "<p>Imagine waking up to the aroma of baked apples and cinnamon wafting through your kitchen. This Oatmeal Apple Breakfast Bake combines wholesome oats with sweet, tender apples, creating a comforting dish that is both nutritious and satisfying. Perfect for busy mornings, it can be prepared in advance and enjoyed throughout the week.<\/p>"
+            "content": "<p>Start your mornings with a warm slice of Oatmeal Apple Breakfast Bake, where the sweet aroma of baked apples fills the air. This dish combines the wholesome goodness of oats with tender, juicy apples, creating a comforting texture that’s both satisfying and nutritious. Perfect for busy weekdays or leisurely weekends, this bake is a delightful way to fuel your day.</p>"
         },
         {
             "note": {
-                "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Packed with fiber and protein<\/li><li>Ideal for busy mornings<\/li><li>Uses common pantry staples<\/li><li>Perfect for a cozy weekend breakfast<\/li><\/ul>"
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and ready in 45 minutes - perfect for families looking for a healthy breakfast option.</li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.</li><li>Ideal for brunch gatherings or cozy family breakfasts.</li><li>Made with easily accessible ingredients that you likely already have.</li><li>This dish is budget-friendly and can be made ahead for busy mornings.</li><li>Rich in fiber and nutrients, making it a wholesome start to your day.</li></ul>"
             }
         },
         {
-            "content": "<p>I first made this dish on a chilly Saturday morning when I wanted something warm and filling for breakfast. My family loved it so much that it quickly became a weekend staple, and now we enjoy it together every Sunday.<\/p>"
+            "content": "<p>My love for oatmeal bakes began during a chilly autumn when I craved something warm and comforting. I stumbled upon a recipe that combined oats and apples, and it quickly became a family favorite. The first time I made it, the aroma wafted through the house, drawing everyone to the kitchen. Now, it’s a cherished tradition to bake this dish on weekends, bringing smiles and warmth to our breakfast table.</p>"
         },
         {
-            "headline": "Ingredient Assembly"
+            "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<ul><li><strong>Primary component:<\/strong> Rolled oats - they provide a hearty base and are full of fiber.<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> Cinnamon and vanilla extract - they add warmth and sweetness.<\/li><li><strong>Complementary components:<\/strong> Apples and brown sugar - they bring natural sweetness and moisture.<\/li><li><strong>Required tools:<\/strong> Baking dish, mixing bowl, and whisk.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (oats):</strong> Rolled oats are the star here, providing a hearty base. Look for gluten-free options if needed. They absorb moisture well, creating a creamy texture when baked.</li><li><strong>Key seasonings/aromatics:</strong> Cinnamon and nutmeg add warmth and depth to the dish, enhancing the natural sweetness of the apples. Freshly grated spices offer the best flavor.</li><li><strong>Supporting ingredients:</strong> Apples contribute moisture and sweetness, while nuts add a delightful crunch. Choose firm varieties like Granny Smith or Honeycrisp for the best results.</li><li><strong>Smart substitutions:</strong> Swap almond milk for any milk you prefer, and use honey or agave syrup instead of brown sugar for a different sweetness profile.</li><li><strong>Equipment needed:</strong> A mixing bowl and a baking dish are essential for this recipe. A good quality baking dish ensures even cooking and browning.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh diced apples and rolled oats arranged in a mixing bowl ready for baking.",
-                "url": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_1.webp",
-                "type": "main",
-                "fileName": "oatmeal-apple-breakfast-bake_image_1.webp"
+                "context": "Freshly diced apples, rolled oats, and spices arranged on a wooden countertop, ready for oatmeal bake preparation.",
+                "url": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_1.webp"
             }
         },
         {
-            "headline": "Preparation Method"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Preheat the oven to 350°F (175°C) and grease a baking dish.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Combine all ingredients in a bowl, pour into the baking dish, and bake for 30 minutes.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Let cool for a few minutes before serving.<\/dd><\/dl>"
+            "content": "<p>Before diving into the baking, gather all your ingredients and preheat your oven to 350°F (175°C). This ensures everything is ready to go. Start by greasing your baking dish to prevent sticking. In a large bowl, mix the oats, almond milk, diced apples, and spices. This step can be done ahead of time to save you some morning prep. Once combined, pour the mixture into the dish and bake until golden brown, about 30-35 minutes. You’ll know it’s done when the top is slightly firm to the touch. Let it cool before serving for the best texture.</p>"
         },
         {
             "upload": {
-                "context": "Oatmeal Apple Breakfast Bake baking in the oven with a golden brown top and bubbling edges.",
-                "url": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_2.webp",
-                "type": "process",
-                "fileName": "oatmeal-apple-breakfast-bake_image_2.webp"
+                "context": "Pouring the oatmeal apple mixture into a greased baking dish, preparing for the oven.",
+                "url": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "Essential Knowledge",
-                "content": "<ul><li>Use old-fashioned rolled oats for the best texture.<\/li><li>Avoid overmixing the batter to keep it light.<\/li><li>Check doneness by ensuring the top is golden and set.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> Baking at the right temperature is crucial for even cooking. Use an oven thermometer to ensure accuracy.</li><li><strong>Common mistake to avoid:</strong> Overmixing can lead to a dense texture; mix just until combined.</li><li><strong>Perfect doneness indicator:</strong> Look for a golden top and a firm center; a toothpick should come out clean when inserted.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the microwave for 1-2 minutes or until warmed through.</li></ul>"
             }
         },
         {
-            "content": "<p>Every time I serve this dish, I’m reminded of the joy of sharing a warm, comforting breakfast with my family. It’s a simple recipe that brings us together, and the smiles on their faces make it all worthwhile.<\/p>"
+            "content": "<p>Sharing this Oatmeal Apple Breakfast Bake with family brings joy to my heart. The smiles and satisfied sighs as they take their first bites make all the effort worthwhile. It’s a dish that sparks conversation and laughter around the table, creating cherished memories. The comforting warmth and delightful flavors make it a perfect centerpiece for our breakfast gatherings.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>For added richness, consider mixing in chopped nuts or dried fruits. A drizzle of maple syrup before serving can enhance the sweetness, or add a pinch of nutmeg for extra warmth.<\/p>"
+            "content": "<p>Enhance your oatmeal bake with these ideas: <ul><li>Try adding chopped pecans or almonds for extra crunch and flavor. Toast them lightly for a deeper taste.</li><li>Incorporate spices like ginger or cardamom for a warm kick; add them in moderation to avoid overpowering the dish.</li><li>For a gourmet twist, mix in dried cranberries or raisins for added sweetness and texture.</li><li>Experiment with different milk alternatives like coconut or oat milk for unique flavor profiles.</li></ul> Get creative and make this recipe your own!</p>"
         },
         {
-            "headline": "Accompaniment Ideas"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Serve with a dollop of yogurt or a splash of cream for added creaminess. Fresh fruit on the side or a warm cup of coffee complements this dish beautifully.<\/p>"
+            "content": "<p>To complement your Oatmeal Apple Breakfast Bake, consider these pairings: <ul><li><strong>Side dishes:</strong> Serve with Greek yogurt for a creamy contrast or fresh fruit for a refreshing touch.</li><li><strong>Beverage pairings:</strong> A warm cup of chai or a fresh fruit smoothie pairs wonderfully with this dish.</li><li><strong>Bread/starch options:</strong> Offer slices of whole grain toast or a light bagel for added texture.</li><li><strong>Occasion ideas:</strong> This bake is perfect for weekend brunches, holiday gatherings, or cozy family breakfasts.</li><li><strong>Presentation tips:</strong> Garnish with a sprinkle of cinnamon or a drizzle of honey for an appealing touch.</li><li><strong>Temperature serving note:</strong> Serve warm for the best flavor and texture experience.</li></ul></p>"
         },
         {
-            "headline": "Recipe Adaptations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Substitute apples with pears or berries for a different flavor. For a vegan option, use almond milk and flax eggs instead of regular eggs.<\/p>"
+            "content": "<p>Explore these exciting variations: <ul><li><strong>Dietary adaptation 1 (Gluten-Free):</strong> Use certified gluten-free oats and ensure all other ingredients are gluten-free.</li><li><strong>Dietary adaptation 2 (Vegan):</strong> Substitute almond milk with any plant-based milk and use maple syrup instead of honey.</li><li><strong>Flavor variation (Spicy):</strong> Add a pinch of cayenne pepper for a surprising heat that contrasts beautifully with the sweetness.</li><li><strong>Protein/ingredient swap:</strong> Replace apples with pears for a different flavor profile while maintaining the same texture.</li></ul> These adaptations can make the dish more inclusive and exciting!</p>"
         },
         {
             "upload": {
-                "context": "Oatmeal Apple Breakfast Bake plated on a rustic dish with a sprinkle of cinnamon and fresh apple slices visible.",
-                "url": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_3.webp",
-                "type": "final",
-                "fileName": "oatmeal-apple-breakfast-bake_image_3.webp"
+                "context": "A beautifully plated slice of oatmeal apple bake topped with a dollop of yogurt and a sprinkle of cinnamon, served on a rustic wooden table.",
+                "url": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Expert Insights",
-                "content": "<ul><li>Let the bake rest for a few minutes before slicing for cleaner cuts.<\/li><li>Incorporate a layer of caramelized apples on top for an elegant touch.<\/li><li>Timing is key; check for doneness to avoid a soggy texture.<\/li><li>Garnish with a sprinkle of powdered sugar for a beautiful presentation.<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a professional touch, consider caramelizing the apples in a bit of butter before adding them to the mix for enhanced flavor.</li><li><strong>Ingredient prep secret:</strong> Soaking oats in milk for 10-15 minutes before baking can improve texture and flavor absorption.</li><li><strong>Timing strategy:</strong> Prepare the mixture the night before and refrigerate; bake in the morning for a quick breakfast.</li><li><strong>Presentation hack:</strong> Use a ring mold to create individual servings for a more upscale presentation.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't let busy mornings rob you of a delicious breakfast. This Oatmeal Apple Breakfast Bake is ready in just 45 minutes, making it an easy and wholesome choice for your family. Enjoy the simplicity and flavor!<\/p>"
+            "content": "<p>In conclusion, this Oatmeal Apple Breakfast Bake is not just a meal; it’s an experience worth sharing. Its delightful flavors and comforting texture make it a go-to recipe for any occasion. I encourage you to try this dish and share your thoughts in the comments. Don’t forget to snap a photo and share it on social media! Let’s inspire others to enjoy this wholesome breakfast together.</p>"
         }
     ],
     "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "oatmeal-apple-breakfast-bake_image_1.webp",
-            "filePath": "recipes\/oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_1.webp",
-            "relativePath": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_1.webp",
+            "relativePath": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "oatmeal-apple-breakfast-bake_image_2.webp",
-            "filePath": "recipes\/oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_2.webp",
-            "relativePath": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_2.webp",
+            "relativePath": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "oatmeal-apple-breakfast-bake_image_3.webp",
-            "filePath": "recipes\/oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_3.webp",
-            "relativePath": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_3.webp",
+            "relativePath": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
             "fileName": "oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
-            "filePath": "recipes\/oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
-            "relativePath": "oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
+            "filePath": "recipes/oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
+            "relativePath": "oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "slug": "oatmeal-apple-breakfast-bake",
     "id": "text_recipe_1761589092_924",
-    "author_id": "author_001",
     "image": "oatmeal-apple-breakfast-bake_image_1.webp",
-    "image_path": "recipes\/oatmeal-apple-breakfast-bake\/images\/oatmeal-apple-breakfast-bake_image_1.webp",
-    "image_dir": "oatmeal-apple-breakfast-bake\/images",
+    "image_path": "recipes/oatmeal-apple-breakfast-bake/images/oatmeal-apple-breakfast-bake_image_1.webp",
+    "image_dir": "oatmeal-apple-breakfast-bake/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-19T21:49:13+01:00",
-    "updatedAt": "2025-11-19T21:49:13+01:00"
+    "updatedAt": "2025-11-29T15:20:39+01:00"
 }

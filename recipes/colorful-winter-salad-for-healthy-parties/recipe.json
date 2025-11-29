@@ -1,153 +1,159 @@
 {
-    "title": "Vibrant Winter Salad for Festive Gatherings",
-    "promptIMG": "Detailed image generation instructions for the completed dish, foundation prompt: \"Winter salad, plated presentation, authentic culinary photography, complete sharpness throughout frame, unlimited focus depth, true-to-life food surfaces, contemporary kitchen setting in full focus, ambient daylight, visible preparation surface, uniform clarity distribution, reportage-style food capture, organic sharpness --exclude blur, shallow focus, bokeh effects, excessive sharpening, digital manipulation --quality 2 --raw --stylize 300\"",
-    "isOnline": true,
-    "description": "Enjoy a vibrant winter salad featuring fresh greens, juicy oranges, and crunchy pecans. Perfect for festive gatherings, this healthy dish adds color and flavor to your holiday meals.",
-    "difficulty": "easy",
+    "title": "Festive Winter Salad (Healthy & Colorful)",
+    "promptIMG": "Vibrant winter salad with fresh greens, juicy oranges, and crunchy pecans, professionally plated in a white bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": false,
+    "description": "Brighten up your holiday table with this easy winter salad! Packed with fresh greens, sweet oranges, and crunchy pecans, it's a delightful addition. Perfect for festive gatherings!",
+    "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 0,
     "servings": 4,
     "ingredients": [
-        "fresh greens",
-        "juicy oranges",
-        "crunchy pecans"
+        "4 cups mixed salad greens, washed and dried",
+        "2 medium oranges, peeled and segmented",
+        "1 cup pecans, toasted",
+        "1/4 cup red onion, thinly sliced",
+        "1/2 cup feta cheese, crumbled",
+        "1/4 cup olive oil",
+        "2 tablespoons balsamic vinegar",
+        "Salt and pepper to taste"
     ],
     "instructions": [
-        "Combine fresh greens in a large bowl.",
-        "Segment juicy oranges and add them to the greens.",
-        "Sprinkle crunchy pecans on top."
+        "In a large bowl, combine the mixed salad greens, orange segments, toasted pecans, and sliced red onion.",
+        "In a separate small bowl, whisk together the olive oil, balsamic vinegar, salt, and pepper until well blended.",
+        "Drizzle the dressing over the salad mixture and toss gently to coat all ingredients evenly.",
+        "Sprinkle the crumbled feta cheese on top of the salad for added flavor.",
+        "Serve immediately for the freshest taste, or chill briefly before serving if desired."
     ],
-    "tips": "For the best flavor, use a mix of greens for texture. Toast the pecans lightly to enhance their nuttiness. Serve immediately to maintain the freshness of the salad.",
+    "tips": "To elevate your winter salad, consider these professional tips: \n- Choose fresh, vibrant greens for the best flavor and texture. Look for crisp leaves without browning. \n- Toasting pecans enhances their nuttiness; do this in a dry skillet over medium heat for 5-7 minutes, stirring frequently to avoid burning. \n- Avoid over-dressing your salad; start with a small amount of dressing and add more as needed to keep the greens crisp. \n- For meal prep, keep the dressing separate until just before serving to maintain the salad's freshness. \n- Experiment with seasonal fruits like pomegranate or apples for a twist on flavor and color.",
     "image_keywords": [
         "appetizing",
         "delicious",
         "homemade",
         "fresh",
-        "colorful"
+        "colorful",
+        "comforting",
+        "family-friendly"
     ],
     "structured_content": [
         {
-            "content": "<p>Picture this: a vibrant winter salad bursting with colors and textures. The freshness of greens combined with the sweetness of oranges and the crunch of pecans creates a delightful dish that’s both healthy and festive.<\/p>"
+            "content": "<p>Experience the joy of a vibrant winter salad that bursts with color and flavor! This delightful dish features a mix of fresh greens, juicy oranges, and crunchy pecans, creating a perfect balance of textures. Ideal for holiday gatherings, this salad not only looks stunning on the table but also offers a refreshing taste that complements rich holiday meals. With its bright hues and nutritious ingredients, it's a dish that will impress your guests and leave them craving more.</p>"
         },
         {
             "note": {
-                "label": "What Makes This Recipe Outstanding",
-                "content": "<ul><li>Simple preparation in just 15 minutes<\/li><li>Bright and colorful presentation<\/li><li>Perfect for holiday gatherings<\/li><li>Healthy ingredients that are easy to find<\/li><li>Refreshing twist on traditional salads<\/li><\/ul>"
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and ready in just 15 minutes - perfect for busy holiday prep!</li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.</li><li>Great for festive occasions like Thanksgiving or Christmas dinners.</li><li>Utilizes fresh, seasonal produce for a nutritious boost.</li><li>This salad is a crowd-pleaser, appealing to both health-conscious eaters and those looking for a delicious side.</li><li>Light and refreshing, it balances heavier holiday dishes beautifully.</li></ul>"
             }
         },
         {
-            "content": "<p>I discovered this winter salad while looking for a fresh side dish for holiday dinners. It quickly became a favorite among family and friends, adding a burst of color to our festive table.<\/p>"
+            "content": "<p>Growing up, winter gatherings were always filled with rich, hearty dishes, but I discovered this salad at a friend's holiday party, and it changed my perspective. The bright oranges and crunchy pecans stood out among the traditional fare, offering a refreshing contrast. I remember the laughter and joy as we shared stories around the table, and this salad became a staple in my holiday repertoire. It's not just a dish; it's a celebration of flavors and memories that brings everyone together.</p>"
         },
         {
-            "headline": "Ingredient Assembly"
+            "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<ul><li><strong>Primary component:<\/strong> fresh greens - they provide a crisp base for the salad<\/li><li><strong>Essential aromatics\/flavor elements:<\/strong> juicy oranges - they add sweetness and brightness<\/li><li><strong>Complementary components:<\/strong> crunchy pecans - they offer a satisfying crunch<\/li><li><strong>Required tools:<\/strong> large bowl, knife, cutting board<\/li><\/ul>"
+            "content": "<p><strong>Main ingredient (greens):</strong> Mixed salad greens are the base of this dish, providing a fresh and crisp texture. Look for a variety that includes arugula, spinach, and romaine for a mix of flavors. Wash and dry them thoroughly to avoid sogginess. <strong>Key seasonings/aromatics:</strong> The dressing, made with olive oil and balsamic vinegar, adds a tangy richness that enhances the salad's natural sweetness. Use high-quality olive oil for the best flavor. <strong>Supporting ingredients:</strong> Oranges add sweetness and juiciness, while pecans contribute a satisfying crunch. Both ingredients brighten the dish visually and flavor-wise. <strong>Smart substitutions:</strong> Swap pecans for walnuts for a different nutty flavor, or use goat cheese instead of feta for a creamier texture. <strong>Equipment needed:</strong> A large mixing bowl is essential for combining the ingredients, and a whisk is perfect for emulsifying the dressing."
         },
         {
             "upload": {
-                "context": "Fresh greens with segmented oranges and pecans arranged in a large bowl ready for serving.",
-                "url": "null",
-                "type": "main"
+                "context": "Fresh salad ingredients including mixed greens, oranges, pecans, and feta cheese arranged on a marble countertop, ready for preparation.",
+                "url": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp"
             }
         },
         {
-            "headline": "Preparation Method"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Initial Setup:<\/strong><\/dt><dd>Combine fresh greens in a large bowl.<\/dd><dt><strong>Main Cooking Phase:<\/strong><\/dt><dd>Segment juicy oranges and add them to the greens.<\/dd><dt><strong>Final Assembly:<\/strong><\/dt><dd>Sprinkle crunchy pecans on top.<\/dd><\/dl>"
+            "content": "<p><strong>Preparation phase:</strong> Start by washing and drying the salad greens thoroughly to ensure they remain crisp. Segment the oranges and slice the red onion while the pecans toast in a skillet. This prep can be done ahead of time to save on cooking day. <strong>Cooking process:</strong> Since this is a no-cook recipe, focus on assembling the ingredients. Combine the greens, oranges, and onions in a large bowl. Whisk the dressing ingredients together until emulsified, then pour over the salad. <strong>Finishing touches:</strong> Gently toss the salad to coat it evenly with the dressing, then sprinkle the feta cheese on top for a beautiful presentation. Serve immediately for the best texture and flavor.</p>"
         },
         {
             "upload": {
-                "context": "Winter salad being tossed in a large bowl with vibrant colors and textures visible.",
-                "url": "null",
-                "type": "process"
+                "context": "Tossing the vibrant winter salad in a large bowl with a wooden spoon, showcasing the colorful ingredients and dressing.",
+                "url": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "Essential Knowledge",
-                "content": "<ul><li>Use a variety of greens for added flavor<\/li><li>Avoid over-dressing the salad to keep it fresh<\/li><li>Look for vibrant oranges for the best taste<\/li><li>Store leftovers in an airtight container for up to a day<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> Serve the salad chilled or at room temperature for the best flavor. If using leftover greens, ensure they are fresh and crisp to avoid a wilted salad.</li><li><strong>Common mistake to avoid:</strong> Overdressing the salad can lead to sogginess. Start with a small amount of dressing and add more as needed.</li><li><strong>Perfect doneness indicator:</strong> While there’s no cooking involved, ensure the greens are vibrant and not wilted, and the oranges are juicy and fresh.</li><li><strong>Storage & reheating:</strong> Store any leftovers in an airtight container in the fridge for up to 2 days. Keep the dressing separate to maintain freshness.</li></ul>"
             }
         },
         {
-            "content": "<p>Every time I serve this winter salad, it brings smiles and compliments from my family. It's a reminder that healthy meals can be both beautiful and delicious, making it a staple on our holiday table.<\/p>"
+            "content": "<p>Sharing this winter salad with family and friends is always a delight. As I serve it, I can see the smiles as they take their first bites, the crunch of the pecans and the burst of citrus creating a joyful experience. It's a dish that sparks conversation and brings everyone together, making the meal feel even more special. The vibrant colors on the plate reflect the warmth of the gathering, and I love hearing everyone rave about how refreshing it is. This salad has a way of making ordinary moments extraordinary.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Add a drizzle of balsamic glaze for extra flavor, or include some feta cheese for a salty contrast. A sprinkle of pomegranate seeds can also enhance the festive look and taste.<\/p>"
+            "content": "<p>To elevate your winter salad, consider these enhancements: <ul><li><strong>Herbs:</strong> Add fresh mint or basil for a fragrant twist; incorporate them just before serving for maximum flavor.</li><li><strong>Spices:</strong> A pinch of cinnamon can add warmth, while a dash of cayenne pepper introduces a subtle heat that contrasts beautifully with the sweetness.</li><li><strong>Upgrades:</strong> For a gourmet touch, include sliced avocado or roasted beets for added creaminess and earthiness.</li><li><strong>Technique variations:</strong> Try grilling the oranges for a caramelized flavor or using a spiralizer for the greens for a fun presentation.</li></ul></p>"
         },
         {
-            "headline": "Accompaniment Ideas"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Serve this salad alongside roasted meats or as part of a buffet spread. It pairs well with crusty bread or a warm grain dish for a complete meal.<\/p>"
+            "content": "<p>When serving this winter salad, consider these pairings: <ul><li><strong>Side dishes:</strong> Complement it with roasted vegetables or a hearty grain dish like quinoa for a balanced meal.</li><li><strong>Beverage pairings:</strong> A light white wine or sparkling water with citrus notes enhances the flavors beautifully.</li><li><strong>Bread/starch options:</strong> Serve with crusty artisan bread or warm pita to soak up any leftover dressing.</li><li><strong>Occasion ideas:</strong> This salad shines at holiday dinners, potlucks, or as a refreshing lunch option.</li><li><strong>Presentation tips:</strong> Serve in a clear glass bowl to showcase the colorful ingredients, and garnish with extra pecans and a sprinkle of feta for visual appeal.</li><li><strong>Temperature serving note:</strong> Aim to serve the salad chilled or at room temperature for the best taste experience.</li></ul></p>"
         },
         {
-            "headline": "Recipe Adaptations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Substitute oranges with grapefruit for a tangy twist, or use walnuts instead of pecans for a different flavor. For a vegan option, skip any cheese and use a plant-based dressing.<\/p>"
+            "content": "<p>Explore these exciting variations of the winter salad: <ul><li><strong>Dietary adaptation 1 (Gluten-Free):</strong> This salad is naturally gluten-free; just ensure any added ingredients like croutons are also gluten-free.</li><li><strong>Dietary adaptation 2 (Vegan):</strong> Omit the feta cheese and replace it with avocado or a vegan cheese alternative for creaminess.</li><li><strong>Flavor variation (Spicy):</strong> Add sliced jalapeños or a drizzle of sriracha to the dressing for a spicy kick.</li><li><strong>Protein/ingredient swap:</strong> Incorporate grilled chicken or shrimp for a heartier meal option, adding protein without compromising the salad's freshness.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Vibrant winter salad plated on a white serving dish with pecans and oranges visible on top.",
-                "url": "null",
-                "type": "final"
+                "context": "Beautifully plated winter salad with vibrant oranges, greens, and pecans, garnished with feta cheese on a rustic wooden table.",
+                "url": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Expert Insights",
-                "content": "<ul><li>Use fresh, high-quality ingredients for the best flavor<\/li><li>Consider adding herbs like mint for an aromatic touch<\/li><li>Prepare the salad just before serving for optimal freshness<\/li><li>Garnish with additional nuts for an elegant presentation<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a professional touch, consider making a citrus vinaigrette by blending fresh orange juice with olive oil for a more intense flavor.</li><li><strong>Ingredient prep secret:</strong> Segment oranges over a bowl to catch the juices, which can be used in the dressing for added flavor.</li><li><strong>Timing strategy:</strong> Prepare the salad just before serving to maintain the crispness of the greens and freshness of the ingredients.</li><li><strong>Presentation hack:</strong> Layer the salad ingredients in a clear bowl for a stunning visual effect, showcasing the colors and textures.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't miss out on this vibrant winter salad that can be ready in just 15 minutes. It's an easy, healthy addition to your holiday meals that your family will love!<\/p>"
+            "content": "<p>This winter salad is a delightful addition to any meal, bringing a burst of flavor and color to your table. Its simplicity and freshness make it a go-to recipe for holiday gatherings and everyday meals alike. I encourage you to try making this salad and share your experience in the comments or on social media. Your feedback is invaluable, and I can't wait to hear how you enjoyed this vibrant dish!</p>"
         }
     ],
-    "category_id": "cat_1761230383_494",
+    "category_id": "cat_1761230636_499",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_image_1.webp",
-            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_1.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_image_2.webp",
-            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_2.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_2.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_image_3.webp",
-            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_3.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_3.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "colorful-winter-salad-for-healthy-parties_image_4.webp",
-            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_4.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_4.webp",
+            "fileName": "colorful-winter-salad-for-healthy-parties_LummyRecipes_image_4.webp",
+            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_LummyRecipes_image_4.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "slug": "colorful-winter-salad-for-healthy-parties",
     "id": "recipe_1763313160_687",
-    "author_id": "author_001",
     "image": "colorful-winter-salad-for-healthy-parties_image_1.webp",
-    "image_path": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_1.webp",
-    "image_dir": "colorful-winter-salad-for-healthy-parties\/images",
+    "image_path": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp",
+    "image_dir": "colorful-winter-salad-for-healthy-parties/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-17T12:51:21+01:00",
-    "updatedAt": "2025-11-17T12:51:21+01:00"
+    "updatedAt": "2025-11-29T15:24:21+01:00"
 }
