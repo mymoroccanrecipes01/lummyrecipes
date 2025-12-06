@@ -1,29 +1,32 @@
 {
-    "title": "Juicy Chicken Delight (Quick Recipe)",
-    "promptIMG": "Juicy chicken delight, professionally plated on a rustic wooden board, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
-    "isOnline": false,
-    "description": "Quick and flavorful chicken dish ready in no time! This juicy delight is perfect for busy families. Try it tonight and enjoy a meal everyone will love!",
+    "title": "Quick and Juicy Chicken Delight (30-Minute Meal)",
+    "promptIMG": "[juicy chicken dish], beautifully plated on a rustic wooden board, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": true,
+    "description": "Whip up this quick and juicy chicken delight in just 30 minutes! Packed with flavor, it's a family favorite that's sure to impress. Perfect for busy weeknights!",
     "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 30,
     "servings": 4,
     "ingredients": [
-        "4 chicken breasts, boneless and skinless",
+        "4 boneless, skinless chicken breasts, trimmed",
         "2 tablespoons olive oil",
         "1 teaspoon garlic powder",
-        "1 teaspoon onion powder",
         "1 teaspoon paprika",
         "Salt and pepper to taste",
-        "1 tablespoon fresh parsley, chopped for garnish"
+        "1 cup cherry tomatoes, halved",
+        "1 cup fresh spinach, roughly chopped",
+        "1\/2 cup shredded mozzarella cheese",
+        "Fresh basil for garnish"
     ],
     "instructions": [
-        "Begin by preheating your oven to 400°F (200°C). While it heats, pat the chicken breasts dry with paper towels to ensure a nice sear.",
-        "In a small bowl, mix together the garlic powder, onion powder, paprika, salt, and pepper. Rub this spice blend evenly over both sides of the chicken breasts.",
-        "Heat the olive oil in a large oven-safe skillet over medium-high heat. Once hot, add the chicken breasts and sear for about 5 minutes on each side until they are golden brown.",
-        "Transfer the skillet to the preheated oven and bake for an additional 15-20 minutes, or until the chicken reaches an internal temperature of 165°F (75°C).",
-        "Remove the skillet from the oven, let the chicken rest for a few minutes, then slice and garnish with fresh parsley before serving."
+        "Begin by preheating your oven to 400°F (200°C). While it warms up, season the chicken breasts with garlic powder, paprika, salt, and pepper on both sides.",
+        "In a large oven-safe skillet, heat olive oil over medium-high heat. Once hot, add the seasoned chicken breasts and sear for about 5 minutes on each side until golden brown.",
+        "Add the halved cherry tomatoes and chopped spinach around the chicken in the skillet. Cook for an additional 2-3 minutes until the spinach wilts.",
+        "Sprinkle shredded mozzarella cheese over the chicken and transfer the skillet to the preheated oven. Bake for 10-12 minutes or until the chicken is cooked through and the cheese is bubbly.",
+        "Remove from the oven and let it rest for a few minutes. Garnish with fresh basil before serving.",
+        "Serve hot with your choice of sides for a complete meal."
     ],
-    "tips": "To ensure your chicken remains juicy, avoid overcooking it. Use a meat thermometer to check for doneness. For added flavor, marinate the chicken in the spice blend for a few hours before cooking. If you have leftovers, store them in an airtight container in the fridge for up to 3 days. Reheat gently in the microwave or on the stovetop to maintain tenderness. When selecting chicken, look for breasts that are plump and have a pinkish hue without any discoloration.",
+    "tips": "To ensure your chicken remains juicy, avoid overcooking it. Use a meat thermometer to check for an internal temperature of 165°F (74°C). When selecting chicken, look for breasts that are plump and have a pinkish hue. Common mistakes include not allowing the chicken to rest after cooking, which can lead to dryness. For storage, place leftovers in an airtight container and refrigerate for up to 3 days. Reheat gently in the oven or microwave to maintain moisture. If you're short on time, consider using pre-cooked chicken to reduce cooking time.",
     "image_keywords": [
         "appetizing",
         "delicious",
@@ -35,82 +38,82 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Experience the joy of juicy chicken delight, a dish that promises tenderness and flavor in every bite. This recipe is perfect for busy weeknights, allowing you to serve a delicious meal without spending hours in the kitchen. Imagine the aroma of perfectly seasoned chicken wafting through your home, enticing everyone to gather around the table. With its golden crust and moist interior, this dish is sure to become a family favorite!</p>"
+            "content": "<p>This quick and juicy chicken delight is a perfect solution for busy weeknights. Imagine tender chicken breasts seared to golden perfection, topped with bubbling mozzarella and vibrant cherry tomatoes. The aroma of garlic and paprika fills your kitchen, making it hard to resist. This dish not only satisfies hunger but also brings a touch of restaurant-quality flair to your dining table. It's a meal that the whole family will adore!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 30 minutes - perfect for families on the go!</li><li>Enjoy restaurant-quality flavors made right at home.</li><li>Great for weeknight dinners or casual gatherings with friends.</li><li>Simple ingredients make it easy to whip up any night.</li><li>Kid-approved and sure to please even the pickiest eaters!</li><li>High in protein and low in carbs, making it a healthy choice.</li></ul>"
+                "content": "<ul><li>Quick and ready in 30 minutes - perfect for families on the go!<\/li><li>Enjoy restaurant-quality flavors right at home with minimal effort.<\/li><li>Great for weeknight dinners, gatherings, or meal prep.<\/li><li>Simple ingredients make it easy to whip up anytime.<\/li><li>This dish is not only delicious but also packed with nutrients from fresh veggies.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This chicken delight recipe holds a special place in my heart. I remember the first time I made it for my family; the smiles on their faces as they took the first bite were priceless. It became a staple in our household, especially on those busy evenings when time is short. The simplicity of the ingredients and the ease of preparation make it a go-to for anyone looking to impress without the stress. I hope it brings as much joy to your table as it has to mine!</p>"
+            "content": "<p>This chicken dish holds a special place in my heart. I remember the first time I made it for my family; the smiles on their faces as they took their first bites were priceless. It became a staple in our home, especially on busy nights when we needed something quick yet satisfying. The combination of flavors and textures always brings everyone together at the dinner table, making it a cherished recipe that I love to share.<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Chicken breasts are ideal for this dish due to their quick cooking time and ability to absorb flavors. Look for fresh, plump breasts for the best results. Trim any excess fat before cooking for a cleaner taste.</li><li><strong>Key seasonings/aromatics:</strong> The combination of garlic and onion powder adds depth to the chicken, while paprika contributes a subtle smokiness. Experiment with different brands to find your favorite flavor profile.</li><li><strong>Supporting ingredients:</strong> Olive oil not only helps in cooking but also adds richness. Use high-quality extra virgin for the best flavor. Fresh parsley brightens the dish and adds a pop of color.</li><li><strong>Smart substitutions:</strong> You can substitute chicken thighs for a juicier option. For a lower-fat version, try using skinless chicken tenders. If you’re out of paprika, smoked paprika can add a delightful twist.</li><li><strong>Equipment needed:</strong> A large oven-safe skillet is essential for searing and baking the chicken. A meat thermometer ensures perfect doneness every time.</li></ul></p>"
+            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> Chicken breasts are ideal for this dish due to their quick cooking time and ability to absorb flavors. Look for fresh, plump breasts for the best results. You can also use thighs for a richer taste.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Garlic powder and paprika elevate the dish, adding depth and warmth. Fresh garlic can also be used for a more robust flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Cherry tomatoes add a burst of sweetness, while spinach contributes color and nutrients. Ensure the tomatoes are ripe for maximum flavor.<\/li><li><strong>Smart substitutions:<\/strong> Try turkey cutlets for a leaner option or use zucchini noodles for a low-carb alternative. You can also swap mozzarella for feta for a tangy twist.<\/li><li><strong>Equipment needed:<\/strong> A large oven-safe skillet is essential for searing and baking the chicken, ensuring even cooking and easy cleanup.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Fresh chicken breasts, olive oil, spices, and parsley arranged on a wooden cutting board for preparation of juicy chicken delight",
-                "url": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp"
+                "context": "Fresh chicken breasts, cherry tomatoes, spinach, and mozzarella cheese arranged on a wooden cutting board, ready for cooking",
+                "url": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Preparation is key to a successful meal. Start by gathering all your ingredients and tools. Preheat your oven to 400°F (200°C) to save time later. Pat the chicken dry to help the spices adhere better. You can even marinate the chicken overnight for deeper flavor.</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Chop your parsley and measure out the spices before you begin cooking. This will streamline your process and keep things organized.</dd><dt><strong>Cooking process:</strong></dt><dd>After searing the chicken, watch for a golden crust to form, indicating it’s time to transfer it to the oven. Bake until the chicken is fully cooked, about 15-20 minutes.</dd><dt><strong>Finishing touches:</strong></dt><dd>Let the chicken rest for a few minutes to retain its juices. Slice it against the grain for maximum tenderness and garnish with parsley for a fresh touch.</dd></dl>"
+            "content": "<p>Preparing this chicken dish is straightforward and quick. <dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by gathering all your ingredients and preheating the oven. Season the chicken breasts thoroughly and chop the vegetables. This can be done ahead of time to save effort during cooking.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Heat the skillet and sear the chicken until golden brown. This step locks in moisture and flavor. Keep an eye on the chicken to avoid burning.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After baking, let the chicken rest briefly to allow juices to redistribute. This ensures every bite is juicy and flavorful. Serve with a sprinkle of fresh basil for a pop of color.<\/dd><\/dl><\/p>"
         },
         {
             "upload": {
-                "context": "Searing chicken breasts in a large skillet on the stovetop, golden crust forming as they cook",
-                "url": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp"
+                "context": "Searing chicken breasts in a large skillet on the stovetop, surrounded by vibrant cherry tomatoes and spinach",
+                "url": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Cooking chicken to an internal temperature of 165°F (75°C) is crucial for safety. Use a meat thermometer to check the thickest part of the breast.</li><li><strong>Common mistake to avoid:</strong> Overcooking chicken can lead to dryness. Keep an eye on the time and use a thermometer for best results.</li><li><strong>Perfect doneness indicator:</strong> Look for juices running clear and a firm texture to indicate that your chicken is perfectly cooked.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the microwave or on the stovetop until warmed through.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Cooking chicken to exactly 165°F (74°C) ensures it's safe to eat while remaining juicy. Use a meat thermometer for accuracy.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking chicken can lead to dryness. Keep an eye on cooking time and temperature.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for clear juices and a firm texture to confirm the chicken is fully cooked.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container for up to 3 days. Reheat gently in the oven or microwave to maintain moisture.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this juicy chicken delight with loved ones is a heartwarming experience. As you gather around the table, the aroma fills the air, and laughter ensues. Watching family and friends savor each bite brings joy to my heart. It's moments like these that make cooking worthwhile, creating memories that last a lifetime. I hope this dish brings as much happiness to your gatherings as it has to mine!</p>"
+            "content": "<p>Serving this chicken dish is always a delight. As I place it on the table, the vibrant colors and enticing aroma draw everyone in. Family and friends gather around, eager to dig in. The first bite reveals tender chicken and melted cheese, and the smiles that follow are priceless. It’s moments like these that make cooking so rewarding, creating memories that last long after the meal is over.<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your chicken delight, consider these enhancements:</p><ul><li>Fresh herbs like thyme or rosemary can be added during cooking for an aromatic boost. Add them in the last few minutes to preserve their flavor.</li><li>Spices such as cumin or chili powder can introduce a warm, earthy note. Start with a teaspoon and adjust to your taste.</li><li>For a gourmet twist, consider adding sun-dried tomatoes or olives for a Mediterranean flair. These add depth and complexity to the dish.</li><li>Try marinating the chicken in yogurt or buttermilk for a tenderizing effect and a tangy flavor. This technique works wonders for juicy results.</li></ul><p>Feel free to mix and match these ideas to create a dish that suits your palate!</p>"
+            "content": "<p>To elevate your chicken dish, consider these enhancements: <ul><li>Add fresh herbs like thyme or rosemary during cooking for an aromatic touch.<\/li><li>Incorporate spices such as cumin or chili powder for a kick of flavor.<\/li><li>Upgrade with sun-dried tomatoes or olives for a Mediterranean twist.<\/li><li>Try grilling the chicken instead of baking for a smoky flavor.<\/li><\/ul>These variations can transform your dish into something new and exciting!<\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your juicy chicken delight, consider these pairing suggestions:</p><ul><li><strong>Side dishes:</strong> Roasted vegetables bring a colorful and nutritious addition to your plate. Consider pairing with a light salad for freshness.</li><li><strong>Beverage pairings:</strong> A crisp white wine like Sauvignon Blanc enhances the flavors beautifully. For a non-alcoholic option, try sparkling water with a splash of lemon.</li><li><strong>Bread/starch options:</strong> Serve with fluffy rice or creamy mashed potatoes to soak up the delicious juices. Crusty bread is also a fantastic choice for a hearty meal.</li><li><strong>Occasion ideas:</strong> This dish is perfect for family dinners, casual get-togethers, or even meal prep for the week ahead.</li><li><strong>Presentation tips:</strong> Serve the chicken on a wooden board with colorful sides for a rustic feel. Garnish with fresh herbs for an inviting look.</li><li><strong>Temperature serving note:</strong> Serve the chicken warm for the best flavor and texture.</li></ul>"
+            "content": "<p>For a well-rounded meal, pair this chicken with: <ul><li><strong>Side dishes:<\/strong> Creamy mashed potatoes complement the dish beautifully, while a fresh garden salad adds crunch.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine or sparkling water with lemon enhances the meal's freshness.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with crusty bread to soak up the delicious juices.<\/li><li><strong>Occasion ideas:<\/strong> This dish is perfect for family dinners, casual gatherings, or even meal prep for the week.<\/li><li><strong>Presentation tips:<\/strong> Plate the chicken on a colorful platter and garnish with fresh basil for a stunning visual.<\/li><li><strong>Temperature serving note:<\/strong> Serve the chicken warm for the best flavor experience.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations to keep things fresh:</p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> This recipe is naturally gluten-free. Just ensure your spices are free from gluten contamination.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> For a plant-based option, substitute chicken with firm tofu or tempeh, marinating it in the same spices.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):</strong> For a spicy kick, add cayenne pepper to the spice mix. For Mediterranean flair, incorporate olives and feta cheese.</li><li><strong>Protein/ingredient swap:</strong> Swap chicken for turkey or pork for a different flavor profile. Adjust cooking times accordingly for thicker cuts.</li></ul><p>These variations allow for creativity while keeping the essence of the dish intact!</p>"
+            "content": "<p>Explore these exciting variations: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Use gluten-free breadcrumbs for a crispy topping without the gluten.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute chicken with tofu and use dairy-free cheese for a plant-based version.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> Add sriracha for heat or soy sauce and ginger for an Asian twist.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap chicken for shrimp for a quick-cooking seafood option.<\/li><\/ul>These variations allow you to tailor the dish to your preferences!<\/p>"
         },
         {
             "upload": {
-                "context": "Plated juicy chicken delight garnished with fresh parsley, served with colorful roasted vegetables on a rustic table",
-                "url": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp"
+                "context": "Beautifully plated chicken dish garnished with fresh basil, served on a rustic wooden table with colorful sides",
+                "url": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> Searing the chicken before baking locks in moisture and enhances flavor. Always preheat your skillet for the best results.</li><li><strong>Ingredient prep secret:</strong> Allow chicken to come to room temperature before cooking for even cooking throughout.</li><li><strong>Timing strategy:</strong> Start cooking the sides while the chicken is in the oven to save time and ensure everything is ready together.</li><li><strong>Presentation hack:</strong> Use a squeeze of lemon juice over the chicken just before serving for a bright finish that enhances the flavors.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Searing the chicken before baking locks in flavor and moisture, creating a restaurant-quality dish.<\/li><li><strong>Ingredient prep secret:<\/strong> Marinating the chicken for even 30 minutes can enhance flavor and tenderness.<\/li><li><strong>Timing strategy:<\/strong> Prepare your sides while the chicken cooks to streamline the meal prep process.<\/li><li><strong>Presentation hack:<\/strong> Use a ring mold to stack ingredients for an elegant presentation.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>In conclusion, this juicy chicken delight is a must-try for anyone looking for a quick and flavorful meal. It's perfect for busy weeknights and sure to impress your family and friends. I encourage you to give it a try, and don't forget to share your experiences in the comments. Your feedback means a lot, and I can't wait to hear how it turned out for you. Happy cooking!</p>"
+            "content": "<p>In conclusion, this quick and juicy chicken delight is a must-try for anyone looking to create a flavorful meal in no time. With its simple ingredients and easy preparation, it’s perfect for busy nights or special occasions. I invite you to give this recipe a try and share your experiences in the comments. Don’t forget to post your photos on social media! Enjoy this delicious chicken dish that everyone will love!<\/p>"
         }
     ],
     "category_id": "cat_1761230383_494",
@@ -118,30 +121,30 @@
     "images": [
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
-            "filePath": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
-            "relativePath": "melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
+            "relativePath": "melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -149,10 +152,10 @@
     "slug": "melt-in-your-mouth-chicken-for-busy-families",
     "id": "recipe_1763052030_362",
     "image": "melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-    "image_path": "recipes/melt-in-your-mouth-chicken-for-busy-families/images/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
-    "image_dir": "melt-in-your-mouth-chicken-for-busy-families/images",
+    "image_path": "recipes\/melt-in-your-mouth-chicken-for-busy-families\/images\/melt-in-your-mouth-chicken-for-busy-families_image_1.webp",
+    "image_dir": "melt-in-your-mouth-chicken-for-busy-families\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-17T22:10:51+01:00",
-    "updatedAt": "2025-11-29T15:22:31+01:00"
+    "createdAt": "2025-12-07T00:05:37+01:00",
+    "updatedAt": "2025-12-07T00:05:37+01:00"
 }

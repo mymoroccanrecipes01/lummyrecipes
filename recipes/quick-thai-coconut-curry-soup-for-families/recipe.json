@@ -1,7 +1,7 @@
 {
     "title": "Quick Thai Coconut Curry Dumpling Soup",
     "promptIMG": "Thai coconut curry dumpling soup, beautifully plated in a deep bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Warm up with this quick and easy Thai coconut curry dumpling soup! It combines rich flavors and tender dumplings for a comforting meal. Perfect for cozy evenings!",
     "difficulty": "Easy",
     "prep_time": 15,
@@ -41,82 +41,82 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Indulge in a bowl of Thai coconut curry dumpling soup, where creamy coconut milk meets aromatic spices. This dish is a warm embrace on chilly days, featuring tender dumplings that soak up the rich flavors. With its vibrant colors and enticing aroma, this soup is not just a meal; it's a comforting experience that invites you to savor every spoonful.</p>"
+            "content": "<p>Indulge in a bowl of Thai coconut curry dumpling soup, where creamy coconut milk meets aromatic spices. This dish is a warm embrace on chilly days, featuring tender dumplings that soak up the rich flavors. With its vibrant colors and enticing aroma, this soup is not just a meal; it's a comforting experience that invites you to savor every spoonful.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 30 minutes - perfect for busy weeknights when you crave something comforting.</li><li>Enjoy restaurant-quality flavors right at home, making every bite a delightful experience.</li><li>Ideal for cozy gatherings or a simple family dinner, this soup brings everyone together.</li><li>Simple ingredients come together effortlessly, making it accessible for all skill levels.</li><li>This dish is a crowd-pleaser, with its rich flavors and satisfying dumplings that everyone will love.</li><li>Nutritious and filling, it’s a great way to incorporate greens into your meal.</li></ul>"
+                "content": "<ul><li>Quick and ready in 30 minutes - perfect for busy weeknights when you crave something comforting.<\/li><li>Enjoy restaurant-quality flavors right at home, making every bite a delightful experience.<\/li><li>Ideal for cozy gatherings or a simple family dinner, this soup brings everyone together.<\/li><li>Simple ingredients come together effortlessly, making it accessible for all skill levels.<\/li><li>This dish is a crowd-pleaser, with its rich flavors and satisfying dumplings that everyone will love.<\/li><li>Nutritious and filling, it’s a great way to incorporate greens into your meal.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This Thai coconut curry dumpling soup holds a special place in my heart. I remember the first time I tried it at a local Thai restaurant, the warmth and depth of the flavors instantly captivated me. I decided to recreate it at home, experimenting with different ingredients until I found the perfect balance. Now, it’s a staple in my kitchen, bringing joy and comfort to my family during cold evenings. Each bowl is filled with love, laughter, and the delightful aroma of spices that fills the air, making it a cherished recipe I love to share.</p>"
+            "content": "<p>This Thai coconut curry dumpling soup holds a special place in my heart. I remember the first time I tried it at a local Thai restaurant, the warmth and depth of the flavors instantly captivated me. I decided to recreate it at home, experimenting with different ingredients until I found the perfect balance. Now, it’s a staple in my kitchen, bringing joy and comfort to my family during cold evenings. Each bowl is filled with love, laughter, and the delightful aroma of spices that fills the air, making it a cherished recipe I love to share.<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Dumplings are the star here, providing a satisfying bite. Look for high-quality frozen dumplings or make your own for a personal touch. Ensure they are cooked thoroughly for the best texture.</li><li><strong>Key seasonings/aromatics:</strong> Red curry paste is essential for flavor; it adds heat and depth. Brands like Thai Kitchen or Maesri are great choices. Adjust the amount based on your spice tolerance.</li><li><strong>Supporting ingredients:</strong> Coconut milk adds creaminess and balances the spice. Choose full-fat for richness or light for a healthier option. Fresh spinach contributes color and nutrients, making the soup vibrant.</li><li><strong>Smart substitutions:</strong> If you don’t have dumplings, try using rice noodles or even cooked chicken for a different texture. For a vegan option, ensure your dumplings are plant-based.</li><li><strong>Equipment needed:</strong> A large pot is essential for cooking the soup evenly, and a wooden spoon helps in stirring without scratching your cookware.</li></ul></p>"
+            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> Dumplings are the star here, providing a satisfying bite. Look for high-quality frozen dumplings or make your own for a personal touch. Ensure they are cooked thoroughly for the best texture.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Red curry paste is essential for flavor; it adds heat and depth. Brands like Thai Kitchen or Maesri are great choices. Adjust the amount based on your spice tolerance.<\/li><li><strong>Supporting ingredients:<\/strong> Coconut milk adds creaminess and balances the spice. Choose full-fat for richness or light for a healthier option. Fresh spinach contributes color and nutrients, making the soup vibrant.<\/li><li><strong>Smart substitutions:<\/strong> If you don’t have dumplings, try using rice noodles or even cooked chicken for a different texture. For a vegan option, ensure your dumplings are plant-based.<\/li><li><strong>Equipment needed:<\/strong> A large pot is essential for cooking the soup evenly, and a wooden spoon helps in stirring without scratching your cookware.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
                 "context": "Fresh ingredients for Thai coconut curry dumpling soup, including dumplings, coconut milk, and spices arranged on a wooden countertop.",
-                "url": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_1.webp"
+                "url": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Preparing this soup is a breeze! <dl><dt><strong>Preparation phase:</strong></dt><dd>Start by gathering all your ingredients. Chop the onion, mince the garlic, and grate the ginger. This will streamline your cooking process. You can even prep the dumplings ahead of time if they are frozen.</dd><dt><strong>Cooking process:</strong></dt><dd>Heat the oil in your pot, then add the onion and sauté until soft. Incorporate the garlic and ginger, followed by the curry paste. Pour in the broth and coconut milk, bringing it to a simmer. Add the dumplings and cook until they float, about 10 minutes.</dd><dt><strong>Finishing touches:</strong></dt><dd>Finally, stir in the spinach, soy sauce, and lime juice. Cook for a couple more minutes until the spinach wilts. Serve hot, garnished with cilantro for a fresh finish.</dd></dl></p>"
+            "content": "<p>Preparing this soup is a breeze! <dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by gathering all your ingredients. Chop the onion, mince the garlic, and grate the ginger. This will streamline your cooking process. You can even prep the dumplings ahead of time if they are frozen.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Heat the oil in your pot, then add the onion and sauté until soft. Incorporate the garlic and ginger, followed by the curry paste. Pour in the broth and coconut milk, bringing it to a simmer. Add the dumplings and cook until they float, about 10 minutes.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Finally, stir in the spinach, soy sauce, and lime juice. Cook for a couple more minutes until the spinach wilts. Serve hot, garnished with cilantro for a fresh finish.<\/dd><\/dl><\/p>"
         },
         {
             "upload": {
                 "context": "Stirring the flavorful Thai coconut curry dumpling soup in a large pot on the stovetop, showcasing vibrant colors and textures.",
-                "url": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_2.webp"
+                "url": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Maintain a gentle simmer to prevent overcooking the dumplings. Use a thermometer to ensure the soup reaches at least 165°F for safety.</li><li><strong>Common mistake to avoid:</strong> Overcooking the dumplings can lead to a mushy texture. Keep an eye on them and remove them from heat as soon as they float.</li><li><strong>Perfect doneness indicator:</strong> The soup is ready when the spinach is bright green and the dumplings are tender yet firm to the bite.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container for up to 3 days. Reheat gently on the stove, adding a splash of water if it thickens too much.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Maintain a gentle simmer to prevent overcooking the dumplings. Use a thermometer to ensure the soup reaches at least 165°F for safety.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking the dumplings can lead to a mushy texture. Keep an eye on them and remove them from heat as soon as they float.<\/li><li><strong>Perfect doneness indicator:<\/strong> The soup is ready when the spinach is bright green and the dumplings are tender yet firm to the bite.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container for up to 3 days. Reheat gently on the stove, adding a splash of water if it thickens too much.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this Thai coconut curry dumpling soup with friends and family is always a joy. As I ladle the steaming soup into bowls, the aroma fills the room, drawing everyone in. The vibrant colors and inviting scent create a warm atmosphere. Watching loved ones enjoy each spoonful, their smiles and compliments make the effort worthwhile. This dish is more than just food; it’s a way to connect and create lasting memories around the table.</p>"
+            "content": "<p>Sharing this Thai coconut curry dumpling soup with friends and family is always a joy. As I ladle the steaming soup into bowls, the aroma fills the room, drawing everyone in. The vibrant colors and inviting scent create a warm atmosphere. Watching loved ones enjoy each spoonful, their smiles and compliments make the effort worthwhile. This dish is more than just food; it’s a way to connect and create lasting memories around the table.<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Elevate your soup with these enhancements: <ul><li>Fresh basil adds a sweet, aromatic note. Stir in a handful just before serving for a burst of flavor.</li><li>Chili flakes can introduce a spicy kick; start with a pinch and adjust to taste.</li><li>For a gourmet touch, consider adding shrimp or tofu for protein richness.</li><li>Experiment with a splash of fish sauce for depth or lime zest for brightness.</li></ul> These tweaks can transform your dish into something extraordinary!</p>"
+            "content": "<p>Elevate your soup with these enhancements: <ul><li>Fresh basil adds a sweet, aromatic note. Stir in a handful just before serving for a burst of flavor.<\/li><li>Chili flakes can introduce a spicy kick; start with a pinch and adjust to taste.<\/li><li>For a gourmet touch, consider adding shrimp or tofu for protein richness.<\/li><li>Experiment with a splash of fish sauce for depth or lime zest for brightness.<\/li><\/ul> These tweaks can transform your dish into something extraordinary!<\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your Thai coconut curry dumpling soup, consider these pairings: <ul><li><strong>Side dishes:</strong> Serve with a light cucumber salad to balance the richness, or crispy spring rolls for added crunch.</li><li><strong>Beverage pairings:</strong> A chilled Thai iced tea or a light lager can enhance the meal's flavors beautifully.</li><li><strong>Bread/starch options:</strong> Offer jasmine rice or crusty bread to soak up the delicious broth.</li><li><strong>Occasion ideas:</strong> This soup is perfect for cozy family dinners or casual gatherings with friends.</li><li><strong>Presentation tips:</strong> Serve in vibrant bowls and garnish with cilantro and lime wedges for a pop of color.</li><li><strong>Temperature serving note:</strong> Enjoy the soup hot for the best flavor experience.</li></ul></p>"
+            "content": "<p>To complement your Thai coconut curry dumpling soup, consider these pairings: <ul><li><strong>Side dishes:<\/strong> Serve with a light cucumber salad to balance the richness, or crispy spring rolls for added crunch.<\/li><li><strong>Beverage pairings:<\/strong> A chilled Thai iced tea or a light lager can enhance the meal's flavors beautifully.<\/li><li><strong>Bread\/starch options:<\/strong> Offer jasmine rice or crusty bread to soak up the delicious broth.<\/li><li><strong>Occasion ideas:<\/strong> This soup is perfect for cozy family dinners or casual gatherings with friends.<\/li><li><strong>Presentation tips:<\/strong> Serve in vibrant bowls and garnish with cilantro and lime wedges for a pop of color.<\/li><li><strong>Temperature serving note:<\/strong> Enjoy the soup hot for the best flavor experience.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Use gluten-free dumplings or rice noodles to ensure everyone can enjoy this dish.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute coconut milk with almond milk for a lighter version while keeping it vegan.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):</strong> Add a tablespoon of peanut butter for a nutty twist or switch the curry paste for a green version for a different flavor profile.</li><li><strong>Protein/ingredient swap:</strong> Try adding cooked chicken or tofu for a heartier meal. Each option brings its unique taste and texture.</li></ul> These variations allow you to customize the soup to your liking!</p>"
+            "content": "<p>Explore these exciting variations: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Use gluten-free dumplings or rice noodles to ensure everyone can enjoy this dish.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute coconut milk with almond milk for a lighter version while keeping it vegan.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> Add a tablespoon of peanut butter for a nutty twist or switch the curry paste for a green version for a different flavor profile.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Try adding cooked chicken or tofu for a heartier meal. Each option brings its unique taste and texture.<\/li><\/ul> These variations allow you to customize the soup to your liking!<\/p>"
         },
         {
             "upload": {
                 "context": "A beautifully plated bowl of Thai coconut curry dumpling soup, garnished with fresh cilantro and lime wedges, set against a rustic wooden table.",
-                "url": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_3.webp"
+                "url": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> For a richer broth, simmer the soup longer to deepen the flavors, allowing the spices to meld beautifully.</li><li><strong>Ingredient prep secret:</strong> Toasting the curry paste in the oil before adding liquids enhances its flavor profile significantly.</li><li><strong>Timing strategy:</strong> Prepare all ingredients before starting to cook; this mise en place will make the process smoother and more enjoyable.</li><li><strong>Presentation hack:</strong> Use a squeeze bottle for drizzling lime juice on top for a professional touch and to control the amount.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a richer broth, simmer the soup longer to deepen the flavors, allowing the spices to meld beautifully.<\/li><li><strong>Ingredient prep secret:<\/strong> Toasting the curry paste in the oil before adding liquids enhances its flavor profile significantly.<\/li><li><strong>Timing strategy:<\/strong> Prepare all ingredients before starting to cook; this mise en place will make the process smoother and more enjoyable.<\/li><li><strong>Presentation hack:<\/strong> Use a squeeze bottle for drizzling lime juice on top for a professional touch and to control the amount.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This Thai coconut curry dumpling soup is a must-try for anyone seeking comfort in a bowl. With its rich flavors and satisfying dumplings, it's sure to become a favorite in your home. Don't hesitate to share your experience in the comments or post your photos on social media. Your culinary journey awaits, and this delightful soup is just the beginning!</p>"
+            "content": "<p>This Thai coconut curry dumpling soup is a must-try for anyone seeking comfort in a bowl. With its rich flavors and satisfying dumplings, it's sure to become a favorite in your home. Don't hesitate to share your experience in the comments or post your photos on social media. Your culinary journey awaits, and this delightful soup is just the beginning!<\/p>"
         }
     ],
     "category_id": "cat_1761230166_734",
@@ -124,30 +124,30 @@
     "images": [
         {
             "fileName": "quick-thai-coconut-curry-soup-for-families_image_1.webp",
-            "filePath": "recipes/quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_1.webp",
-            "relativePath": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "quick-thai-coconut-curry-soup-for-families_image_2.webp",
-            "filePath": "recipes/quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_2.webp",
-            "relativePath": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_2.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "quick-thai-coconut-curry-soup-for-families_image_3.webp",
-            "filePath": "recipes/quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_3.webp",
-            "relativePath": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_3.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
-            "filePath": "recipes/quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
-            "relativePath": "quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -155,10 +155,10 @@
     "slug": "quick-thai-coconut-curry-soup-for-families",
     "id": "recipe_1763314116_401",
     "image": "quick-thai-coconut-curry-soup-for-families_image_1.webp",
-    "image_path": "recipes/quick-thai-coconut-curry-soup-for-families/images/quick-thai-coconut-curry-soup-for-families_image_1.webp",
-    "image_dir": "quick-thai-coconut-curry-soup-for-families/images",
+    "image_path": "recipes\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp",
+    "image_dir": "quick-thai-coconut-curry-soup-for-families\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-17T12:51:25+01:00",
-    "updatedAt": "2025-11-29T15:23:44+01:00"
+    "createdAt": "2025-12-04T18:21:13+01:00",
+    "updatedAt": "2025-12-04T18:21:13+01:00"
 }
