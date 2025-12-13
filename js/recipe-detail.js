@@ -1988,6 +1988,7 @@ addBreadcrumbSchema(recipe) {
             total_time,
             servings,
             difficulty,
+            createdAt,
             ingredients = [],
             instructions = [],
             tips,
@@ -2008,8 +2009,7 @@ addBreadcrumbSchema(recipe) {
 
         // Generate recent recipes HTML
         const recentRecipesHTML = this.generateRecentRecipesHTML();
-
-   
+        const createdAtFormatted = new Date(createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
 
         const recipeHTML = `
             <div class="social-links social-links-recipe" bis_skin_checked="1">
@@ -2026,6 +2026,11 @@ addBreadcrumbSchema(recipe) {
             <div class="wrap">
                 <main class="main">
                     <div class="recipe-card">
+                        <div class="recipe-author">           
+                            <div>
+                                <h5>By <a href="?page=about">${this.activeAuthor ? this.activeAuthor.name : 'House Chef'}, ${createdAtFormatted}</h5>                        
+                            </div>
+                        </div>                    
                         <div class="meta-row">
                             <div style="flex:1">
                                 <h1 class="title">${title}</h1>
