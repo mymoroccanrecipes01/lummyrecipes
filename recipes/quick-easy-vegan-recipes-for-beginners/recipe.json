@@ -1,7 +1,7 @@
 {
     "title": "Quick and Delicious Vegan Recipes for Beginners",
     "promptIMG": "Professional food photography prompt: \"Vegan dishes, beautifully arranged on a rustic wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Discover the joy of cooking with these quick and delicious vegan recipes! Featuring fresh vegetables, hearty grains, and vibrant spices, these meals are perfect for busy weeknights. Ideal for anyone looking to explore plant-based cooking. Pin this collection for easy meal inspiration!",
     "hashtags": "#veganrecipes #easymeals #plantbased #quickdinner #healthyfood",
     "difficulty": "Easy",
@@ -36,82 +36,82 @@
     ],
     "structured_content": [
         {
-            "content": "<p>These quick and delicious vegan recipes are perfect for anyone eager to dive into plant-based cooking! Imagine vibrant vegetables sautéing in olive oil, filling your kitchen with an irresistible aroma. Each dish is not only nutritious but also bursting with flavor, making it a delightful experience for your taste buds. Whether you're a seasoned chef or a novice, these recipes are designed to be simple yet satisfying, ensuring that you can whip up a meal in no time.</p>"
+            "content": "<p>These quick and delicious vegan recipes are perfect for anyone eager to dive into plant-based cooking! Imagine vibrant vegetables sautéing in olive oil, filling your kitchen with an irresistible aroma. Each dish is not only nutritious but also bursting with flavor, making it a delightful experience for your taste buds. Whether you're a seasoned chef or a novice, these recipes are designed to be simple yet satisfying, ensuring that you can whip up a meal in no time.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 30 minutes - perfect for busy weeknights!</li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.</li><li>Great for family dinners or meal prep for the week ahead.</li><li>Using fresh veggies makes these meals not only tasty but also nutritious.</li><li>These recipes are versatile and can be customized to your taste preferences.</li></ul>"
+                "content": "<ul><li>Quick and ready in just 30 minutes - perfect for busy weeknights!<\/li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.<\/li><li>Great for family dinners or meal prep for the week ahead.<\/li><li>Using fresh veggies makes these meals not only tasty but also nutritious.<\/li><li>These recipes are versatile and can be customized to your taste preferences.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, I always found joy in the kitchen, experimenting with different flavors and ingredients. One day, I stumbled upon a vibrant vegan recipe that changed my perspective on plant-based meals. The colors, the aromas, and the satisfaction of creating something wholesome from scratch were exhilarating. Sharing this dish with friends and family became a cherished experience, as they were amazed at how delicious vegan cooking could be. It’s a memory that inspires me to continue exploring and sharing these delightful recipes.</p>"
+            "content": "<p>Growing up, I always found joy in the kitchen, experimenting with different flavors and ingredients. One day, I stumbled upon a vibrant vegan recipe that changed my perspective on plant-based meals. The colors, the aromas, and the satisfaction of creating something wholesome from scratch were exhilarating. Sharing this dish with friends and family became a cherished experience, as they were amazed at how delicious vegan cooking could be. It’s a memory that inspires me to continue exploring and sharing these delightful recipes.<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Quinoa is a fantastic base for vegan dishes due to its high protein content and nutty flavor. When shopping, look for organic varieties for the best quality. Rinse it before cooking to remove any bitterness.</li><li><strong>Key seasonings/aromatics:</strong> Cumin adds a warm, earthy flavor that enhances the dish. Opt for whole seeds and toast them lightly for a more intense aroma.</li><li><strong>Supporting ingredients:</strong> Fresh vegetables not only add color but also provide essential nutrients and texture. Choose a mix of your favorites for a delightful crunch.</li><li><strong>Smart substitutions:</strong> If you don’t have quinoa, brown rice or couscous can work well. For a different protein source, chickpeas are a great alternative.</li><li><strong>Equipment needed:</strong> A large skillet is essential for even cooking, and a good knife will make chopping vegetables a breeze.</li></ul></p>"
+            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> Quinoa is a fantastic base for vegan dishes due to its high protein content and nutty flavor. When shopping, look for organic varieties for the best quality. Rinse it before cooking to remove any bitterness.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Cumin adds a warm, earthy flavor that enhances the dish. Opt for whole seeds and toast them lightly for a more intense aroma.<\/li><li><strong>Supporting ingredients:<\/strong> Fresh vegetables not only add color but also provide essential nutrients and texture. Choose a mix of your favorites for a delightful crunch.<\/li><li><strong>Smart substitutions:<\/strong> If you don’t have quinoa, brown rice or couscous can work well. For a different protein source, chickpeas are a great alternative.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking, and a good knife will make chopping vegetables a breeze.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
                 "context": "Fresh vegetables, quinoa, and herbs beautifully arranged on a wooden cutting board, ready for a vibrant vegan meal preparation.",
-                "url": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_1.webp"
+                "url": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Cooking these vegan recipes is a breeze! <dl><dt><strong>Preparation phase:</strong></dt><dd>Start by washing and chopping your vegetables into bite-sized pieces. Measure out your quinoa or rice and rinse it under cold water. Preheat your skillet over medium heat while you prepare the other ingredients.</dd><dt><strong>Cooking process:</strong></dt><dd>Once your skillet is hot, add the olive oil and sauté the vegetables until they are tender and vibrant. This should take about 5 minutes. Then, mix in the quinoa and beans, allowing the flavors to meld together.</dd><dt><strong>Finishing touches:</strong></dt><dd>After everything is heated through, remove the skillet from the heat. Serve your dish warm, garnished with fresh herbs for a pop of color and flavor.</dd></dl></p>"
+            "content": "<p>Cooking these vegan recipes is a breeze! <dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by washing and chopping your vegetables into bite-sized pieces. Measure out your quinoa or rice and rinse it under cold water. Preheat your skillet over medium heat while you prepare the other ingredients.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once your skillet is hot, add the olive oil and sauté the vegetables until they are tender and vibrant. This should take about 5 minutes. Then, mix in the quinoa and beans, allowing the flavors to meld together.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After everything is heated through, remove the skillet from the heat. Serve your dish warm, garnished with fresh herbs for a pop of color and flavor.<\/dd><\/dl><\/p>"
         },
         {
             "upload": {
                 "context": "Stirring a colorful mix of sautéed vegetables and quinoa in a large skillet on the stovetop, showcasing the vibrant colors of the dish.",
-                "url": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_2.webp"
+                "url": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Cooking at medium heat is crucial for even sautéing. Too high, and your vegetables may burn; too low, and they might become mushy.</li><li><strong>Common mistake to avoid:</strong> Overcooking vegetables can lead to a loss of flavor and nutrients. Keep an eye on them and remove them from heat as soon as they are tender.</li><li><strong>Perfect doneness indicator:</strong> Look for vibrant colors and a slight crunch in your vegetables for the best texture.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the microwave or on the stovetop until warmed through.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Cooking at medium heat is crucial for even sautéing. Too high, and your vegetables may burn; too low, and they might become mushy.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking vegetables can lead to a loss of flavor and nutrients. Keep an eye on them and remove them from heat as soon as they are tender.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for vibrant colors and a slight crunch in your vegetables for the best texture.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the microwave or on the stovetop until warmed through.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing these delicious vegan meals with family and friends is always a joy. The vibrant colors and enticing aromas draw everyone to the table, sparking conversations and laughter. As we gather around, each bite brings smiles and compliments, making the effort of cooking worthwhile. It’s these moments that remind us of the love and connection food can create, turning simple recipes into cherished memories.</p>"
+            "content": "<p>Sharing these delicious vegan meals with family and friends is always a joy. The vibrant colors and enticing aromas draw everyone to the table, sparking conversations and laughter. As we gather around, each bite brings smiles and compliments, making the effort of cooking worthwhile. It’s these moments that remind us of the love and connection food can create, turning simple recipes into cherished memories.<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your vegan dishes, consider these enhancements: <ul><li>Fresh herbs like basil or mint can add a refreshing twist. Add them at the end of cooking for maximum flavor.</li><li>Spices such as smoked paprika or chili powder can introduce a smoky or spicy kick. Use them sparingly to find your preferred heat level.</li><li>For a richer taste, try adding nutritional yeast for a cheesy flavor or a splash of soy sauce for umami depth.</li><li>Experiment with cooking techniques like roasting vegetables instead of sautéing for a caramelized flavor.</li></ul></p>"
+            "content": "<p>To elevate your vegan dishes, consider these enhancements: <ul><li>Fresh herbs like basil or mint can add a refreshing twist. Add them at the end of cooking for maximum flavor.<\/li><li>Spices such as smoked paprika or chili powder can introduce a smoky or spicy kick. Use them sparingly to find your preferred heat level.<\/li><li>For a richer taste, try adding nutritional yeast for a cheesy flavor or a splash of soy sauce for umami depth.<\/li><li>Experiment with cooking techniques like roasting vegetables instead of sautéing for a caramelized flavor.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your vegan dishes, consider these pairing ideas: <ul><li><strong>Side dishes:</strong> A crisp green salad with a tangy vinaigrette balances the heartiness of the main dish.</li><li><strong>Beverage pairings:</strong> A light herbal tea or sparkling water with lemon enhances the meal without overpowering it.</li><li><strong>Bread/starch options:</strong> Serve with warm pita bread or whole-grain rolls for a satisfying addition.</li><li><strong>Occasion ideas:</strong> These recipes shine at casual family dinners or potlucks, where everyone can enjoy a healthy option.</li><li><strong>Presentation tips:</strong> Serve in colorful bowls to showcase the vibrant ingredients and add a sprinkle of fresh herbs on top for a finishing touch.</li><li><strong>Temperature serving note:</strong> These dishes are best enjoyed warm, allowing the flavors to be at their peak.</li></ul></p>"
+            "content": "<p>To complement your vegan dishes, consider these pairing ideas: <ul><li><strong>Side dishes:<\/strong> A crisp green salad with a tangy vinaigrette balances the heartiness of the main dish.<\/li><li><strong>Beverage pairings:<\/strong> A light herbal tea or sparkling water with lemon enhances the meal without overpowering it.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with warm pita bread or whole-grain rolls for a satisfying addition.<\/li><li><strong>Occasion ideas:<\/strong> These recipes shine at casual family dinners or potlucks, where everyone can enjoy a healthy option.<\/li><li><strong>Presentation tips:<\/strong> Serve in colorful bowls to showcase the vibrant ingredients and add a sprinkle of fresh herbs on top for a finishing touch.<\/li><li><strong>Temperature serving note:<\/strong> These dishes are best enjoyed warm, allowing the flavors to be at their peak.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations for your vegan recipes: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Substitute quinoa with rice or millet for a gluten-free option that retains the dish's heartiness.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Use plant-based cheese alternatives or skip cheese altogether to keep it vegan-friendly.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):</strong> Add sriracha for a spicy kick or incorporate Mediterranean spices like oregano and lemon for a fresh twist.</li><li><strong>Protein/ingredient swap:</strong> Swap black beans for lentils or chickpeas for a different texture and flavor profile.</li></ul></p>"
+            "content": "<p>Explore these exciting variations for your vegan recipes: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Substitute quinoa with rice or millet for a gluten-free option that retains the dish's heartiness.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Use plant-based cheese alternatives or skip cheese altogether to keep it vegan-friendly.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> Add sriracha for a spicy kick or incorporate Mediterranean spices like oregano and lemon for a fresh twist.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap black beans for lentils or chickpeas for a different texture and flavor profile.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
                 "context": "A beautifully plated vegan dish featuring sautéed vegetables and quinoa, garnished with fresh herbs, presented on a rustic wooden table.",
-                "url": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_3.webp"
+                "url": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> Sauté vegetables in batches to avoid overcrowding the pan, ensuring even cooking and browning.</li><li><strong>Ingredient prep secret:</strong> Pre-chop vegetables and store them in airtight containers to save time during meal prep.</li><li><strong>Timing strategy:</strong> Plan your cooking order; start with ingredients that take longer to cook, like grains, while prepping others.</li><li><strong>Presentation hack:</strong> Use a ring mold to stack ingredients for a visually appealing presentation on the plate.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Sauté vegetables in batches to avoid overcrowding the pan, ensuring even cooking and browning.<\/li><li><strong>Ingredient prep secret:<\/strong> Pre-chop vegetables and store them in airtight containers to save time during meal prep.<\/li><li><strong>Timing strategy:<\/strong> Plan your cooking order; start with ingredients that take longer to cook, like grains, while prepping others.<\/li><li><strong>Presentation hack:<\/strong> Use a ring mold to stack ingredients for a visually appealing presentation on the plate.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>These quick and delicious vegan recipes are a fantastic way to explore plant-based cooking. With vibrant ingredients and simple techniques, you can create meals that are not only satisfying but also full of flavor. I encourage you to try these recipes and share your experiences in the comments or on social media. Your culinary journey awaits, and I can't wait for you to enjoy these delightful dishes!</p>"
+            "content": "<p>These quick and delicious vegan recipes are a fantastic way to explore plant-based cooking. With vibrant ingredients and simple techniques, you can create meals that are not only satisfying but also full of flavor. I encourage you to try these recipes and share your experiences in the comments or on social media. Your culinary journey awaits, and I can't wait for you to enjoy these delightful dishes!<\/p>"
         }
     ],
     "category_id": "cat_1761230119_510",
@@ -119,30 +119,30 @@
     "images": [
         {
             "fileName": "quick-easy-vegan-recipes-for-beginners_image_1.webp",
-            "filePath": "recipes/quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_1.webp",
-            "relativePath": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_1.webp",
+            "relativePath": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "quick-easy-vegan-recipes-for-beginners_image_2.webp",
-            "filePath": "recipes/quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_2.webp",
-            "relativePath": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_2.webp",
+            "relativePath": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "quick-easy-vegan-recipes-for-beginners_image_3.webp",
-            "filePath": "recipes/quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_3.webp",
-            "relativePath": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_3.webp",
+            "relativePath": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
-            "filePath": "recipes/quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
-            "relativePath": "quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
+            "relativePath": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -150,10 +150,10 @@
     "slug": "quick-easy-vegan-recipes-for-beginners",
     "id": "recipe_1765645923_137",
     "image": "quick-easy-vegan-recipes-for-beginners_image_1.webp",
-    "image_path": "recipes/quick-easy-vegan-recipes-for-beginners/images/quick-easy-vegan-recipes-for-beginners_image_1.webp",
-    "image_dir": "quick-easy-vegan-recipes-for-beginners/images",
+    "image_path": "recipes\/quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_1.webp",
+    "image_dir": "quick-easy-vegan-recipes-for-beginners\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T18:12:03+01:00",
-    "updatedAt": "2025-12-13T18:56:19+01:00"
+    "createdAt": "2025-12-13T20:09:17+01:00",
+    "updatedAt": "2025-12-13T20:09:17+01:00"
 }
