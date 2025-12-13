@@ -1,31 +1,33 @@
 {
-    "title": "Quick Cozy Casseroles for Families",
-    "promptIMG": "[cozy casserole], beautifully arranged in a ceramic baking dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
-    "isOnline": true,
-    "description": "Whip up a delightful casserole in no time! These comforting dishes are perfect for busy families, bringing warmth and flavor to your table. Try it tonight!",
+    "title": "Quick and Cozy Casserole for Busy Families",
+    "promptIMG": "Delicious casserole, beautifully plated in a rustic dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": false,
+    "description": "Savor a quick and cozy casserole that brings warmth to your family dinner! Packed with hearty ingredients like tender chicken, creamy sauce, and vibrant vegetables, it's a perfect weeknight meal. Enjoy this comforting dish any night of the week. Save this recipe for your busy evenings!",
+    "hashtags": "#casserole #comfortfood #quickmeals #familydinner #easyrecipes",
     "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 30,
     "servings": 4,
     "ingredients": [
-        "2 cups cooked pasta, any shape",
-        "1 cup shredded cheese, your choice",
-        "1 can cream of mushroom soup",
+        "2 cups cooked chicken, shredded",
         "1 cup mixed vegetables, frozen or fresh",
+        "1 can cream of mushroom soup",
+        "1 cup shredded cheddar cheese",
+        "1 cup cooked rice or pasta",
         "1 teaspoon garlic powder",
         "1 teaspoon onion powder",
         "Salt and pepper to taste",
-        "1\/2 cup breadcrumbs for topping",
-        "2 tablespoons olive oil"
+        "1/2 cup breadcrumbs for topping"
     ],
     "instructions": [
-        "Preheat your oven to 350°F (175°C). Gather all your ingredients to streamline the process.",
-        "In a large mixing bowl, combine the cooked pasta, cream of mushroom soup, mixed vegetables, garlic powder, onion powder, and half of the cheese. Season with salt and pepper.",
-        "Transfer the mixture into a greased baking dish, spreading it evenly. Top with the remaining cheese and breadcrumbs, then drizzle with olive oil.",
-        "Bake in the preheated oven for about 25-30 minutes, or until the top is golden and bubbly.",
-        "Remove from the oven and let it cool for a few minutes before serving. This allows the flavors to meld beautifully."
+        "Preheat your oven to 350°F (175°C). In a large mixing bowl, combine the shredded chicken, mixed vegetables, cream of mushroom soup, cooked rice or pasta, garlic powder, onion powder, salt, and pepper. Mix until well combined.",
+        "Transfer the mixture into a greased 9x13 inch baking dish, spreading it evenly. Sprinkle the shredded cheddar cheese on top.",
+        "In a small bowl, mix the breadcrumbs with a drizzle of olive oil until they are lightly coated. Sprinkle this mixture over the cheese layer for added crunch.",
+        "Bake in the preheated oven for about 25-30 minutes, or until the casserole is bubbling and the top is golden brown.",
+        "Remove from the oven and let it cool for a few minutes before serving. This allows the flavors to meld beautifully.",
+        "Serve warm, garnished with fresh herbs if desired."
     ],
-    "tips": "When making casseroles, consider using leftover proteins like chicken or beef for added flavor and ease. Ensure your pasta is slightly undercooked, as it will absorb some moisture while baking. If you're short on time, pre-chop your vegetables and store them in the fridge. For a creamier texture, add a splash of milk or broth to the mixture before baking. Lastly, experiment with different cheeses for varied flavor profiles; sharp cheddar or mozzarella can elevate your dish significantly.",
+    "tips": "For a creamier casserole, consider adding a splash of milk or sour cream to the mixture. When selecting your vegetables, opt for a colorful mix to enhance both nutrition and presentation. Avoid overcooking the chicken initially, as it will continue to cook in the oven. If you want to make this dish ahead of time, assemble it and store it in the fridge for up to 24 hours before baking. For reheating, cover with foil and bake at 350°F (175°C) for about 20 minutes or until heated through.",
     "image_keywords": [
         "appetizing",
         "delicious",
@@ -37,82 +39,82 @@
     ],
     "structured_content": [
         {
-            "content": "<p>Experience the warmth of a homemade casserole, where every bite is a hug for your taste buds. This quick and cozy casserole is perfect for busy weeknights, offering a delightful blend of creamy textures and savory flavors. Imagine the aroma wafting through your kitchen as it bakes to golden perfection, inviting everyone to gather around the table. It's not just a meal; it's a comforting tradition that brings families together.<\/p>"
+            "content": "<p>Experience the joy of a quick and cozy casserole that brings comfort to your family table! This dish is a delightful blend of tender chicken, creamy sauce, and vibrant vegetables, all baked to perfection. The aroma wafting from the oven will have everyone eagerly anticipating dinner. With its golden, bubbling top and hearty filling, this casserole is not just a meal; it's a warm hug on a plate. Perfect for busy weeknights, it comes together in a snap, making it a go-to recipe for any home cook.</p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 30 minutes - perfect for families on the go!<\/li><li>Enjoy restaurant-quality flavors right at home with minimal effort.<\/li><li>Ideal for cozy family dinners or potlucks with friends.<\/li><li>Simple ingredients make it easy to whip up anytime.<\/li><li>This dish is a budget-friendly option that doesn’t compromise on taste.<\/li><li>Packed with nutrients from vegetables, making it a wholesome choice.<\/li><\/ul>"
+                "content": "<ul><li>Quick and ready in just 30 minutes - perfect for busy families looking for a satisfying meal.</li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.</li><li>Ideal for weeknight dinners, potlucks, or family gatherings.</li><li>Made with easy-to-find ingredients that you likely have on hand.</li><li>This casserole is a budget-friendly option that doesn't skimp on flavor or comfort.</li><li>Nutritious and filling, it’s a dish that everyone will love.</li></ul>"
             }
         },
         {
-            "content": "<p>Growing up, casseroles were a staple in my family. I remember the comforting scent of bubbling cheese and savory vegetables filling the house, making everyone feel at home. This recipe is inspired by those cherished moments, designed to bring the same joy to your table. Whether it's a chilly evening or a busy weeknight, this casserole is sure to become a beloved dish in your household.<\/p>"
+            "content": "<p>This casserole holds a special place in my heart, as it reminds me of cozy family dinners growing up. I remember my mom whipping it up after a long day, filling our home with its comforting aroma. Each bite was a blend of flavors that felt like a warm embrace. Now, I love sharing this recipe with my friends and family, creating new memories around the dinner table. It’s a dish that brings everyone together, sparking laughter and conversation, making it a cherished favorite in our home.</p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> Pasta is the perfect base for casseroles due to its ability to absorb flavors and provide a hearty texture. Opt for whole grain or gluten-free varieties for a healthier twist.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Garlic and onion powders enhance the dish's depth, adding warmth and richness. Fresh herbs like thyme or basil can also elevate the flavor profile.<\/li><li><strong>Supporting ingredients:<\/strong> Mixed vegetables add color and nutrition, while cheese contributes creaminess. Frozen veggies are a convenient option that saves prep time.<\/li><li><strong>Smart substitutions:<\/strong> Swap cream of mushroom soup with cream of chicken or a homemade white sauce for a different flavor. You can also use quinoa instead of pasta for a gluten-free alternative.<\/li><li><strong>Equipment needed:<\/strong> A large mixing bowl is essential for combining ingredients, and a baking dish ensures even cooking and easy serving.<\/li><\/ul><\/p>"
+            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Cooked chicken is perfect for this casserole as it adds protein and flavor. Look for rotisserie chicken for convenience, or use leftover grilled chicken. Shred it into bite-sized pieces for even distribution.</li><li><strong>Key seasonings/aromatics:</strong> Garlic and onion powders enhance the dish's flavor profile, providing depth without overpowering the other ingredients. Use fresh garlic and onions for a more robust taste if desired.</li><li><strong>Supporting ingredients:</strong> Mixed vegetables add color and nutrition. Fresh or frozen options work well; just ensure they are cut into similar sizes for even cooking.</li><li><strong>Smart substitutions:</strong> Instead of cream of mushroom soup, you can use cream of chicken or a homemade white sauce for a different flavor. For a vegetarian option, substitute chicken with chickpeas or lentils.</li><li><strong>Equipment needed:</strong> A 9x13 inch baking dish is essential for even cooking. A mixing bowl for combining ingredients and a spatula for easy serving will also be helpful.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for a cozy casserole, including pasta, cheese, and vegetables, beautifully arranged on a wooden countertop.",
-                "url": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp"
+                "context": "Fresh ingredients for casserole preparation, including chicken, vegetables, and cheese, arranged on a wooden countertop.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Preparation is key to a successful casserole. Start by preheating your oven to 350°F (175°C) and gather all your ingredients. Chop any fresh vegetables you plan to use, and measure out your pasta and cheese. This will make the cooking process smooth and efficient.<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Chop your vegetables and measure out all ingredients. Pre-cook your pasta until al dente, as it will continue cooking in the oven. This step can be done ahead of time to save you effort later.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Mix all ingredients in a large bowl, ensuring everything is well combined. Pour the mixture into a greased baking dish, spreading it evenly. Bake for 25-30 minutes, watching for a golden top.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once baked, let the casserole rest for a few minutes before serving. This allows the flavors to meld and makes it easier to serve. Consider garnishing with fresh herbs for an appealing presentation.<\/dd><\/dl>"
+            "content": "<p>To start, gather all your ingredients and preheat your oven to 350°F (175°C). Begin by shredding the cooked chicken and measuring out your vegetables and rice or pasta. This prep work should take about 10 minutes. You can also chop any fresh vegetables you wish to add at this stage.</p><dl><dt><strong>Preparation phase:</strong></dt><dd>In a large bowl, combine the shredded chicken, vegetables, soup, rice or pasta, and seasonings. Mix thoroughly until all ingredients are well-coated. This step ensures that every bite is flavorful.</dd><dt><strong>Cooking process:</strong></dt><dd>Transfer the mixture to a greased baking dish, spreading it evenly. Top with cheese and breadcrumbs for a delightful crunch. Bake for 25-30 minutes, or until the top is golden and bubbly. Keep an eye on it to avoid over-browning.</dd><dt><strong>Finishing touches:</strong></dt><dd>Once baked, let the casserole sit for a few minutes before serving. This resting time helps the flavors meld and makes serving easier. Garnish with fresh herbs for an extra pop of color.</dd></dl>"
         },
         {
             "upload": {
-                "context": "Stirring the casserole mixture in a large mixing bowl, preparing for baking in a cozy kitchen setting.",
-                "url": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp"
+                "context": "Mixing the casserole ingredients in a large bowl, showcasing the vibrant colors and textures of the dish.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Baking at the correct temperature ensures even cooking. Use an oven thermometer to verify accuracy.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking the pasta before baking can lead to mushy texture. Aim for al dente to maintain structure.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for a bubbly, golden top and a slight crust around the edges to indicate it's ready.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) until warmed through, about 15-20 minutes.<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:</strong> Baking at 350°F (175°C) is crucial for even cooking. Use an oven thermometer to ensure accuracy, as ovens can vary.</li><li><strong>Common mistake to avoid:</strong> Overcooking the casserole can lead to dry ingredients. Keep an eye on the baking time and check for bubbling edges.</li><li><strong>Perfect doneness indicator:</strong> Look for a golden brown top and bubbling edges as signs that your casserole is perfectly cooked.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) for about 20 minutes or until heated through.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing this casserole with family and friends is a heartwarming experience. As you serve it, watch their faces light up with joy at the first bite. The creamy texture and comforting flavors create a sense of togetherness, making every meal a cherished memory. It's more than just food; it's a way to connect and celebrate the simple pleasures of life.<\/p>"
+            "content": "<p>Sharing this casserole with family and friends is always a joy. The smiles and satisfied sighs around the table remind me why I love cooking. Each serving is met with compliments and requests for seconds, making it a highlight of our gatherings. The creamy texture and savory flavors create a comforting experience that lingers long after the meal is over. It's not just food; it's a way to connect and create lasting memories with those we love.</p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your casserole, consider these enhancements: <ul><li>Fresh herbs like parsley or basil can be stirred in before baking for a burst of freshness.<\/li><li>Spices such as paprika or cayenne pepper can add a delightful kick; use sparingly to suit your taste.<\/li><li>Upgrade with premium ingredients like truffle oil drizzled on top before serving for a gourmet touch.<\/li><li>For a twist, try adding a layer of sautéed mushrooms or spinach for added depth.<\/li><\/ul>These options allow you to personalize the dish and make it uniquely yours.<\/p>"
+            "content": "<p>To elevate your casserole, consider these enhancements: <ul><li>Fresh herbs like thyme or rosemary can be added for a fragrant touch. Add them during the mixing phase to infuse their flavors.</li><li>Spices such as paprika or cayenne pepper can introduce a subtle heat. Start with a teaspoon and adjust to your taste.</li><li>For a gourmet twist, try adding sautéed mushrooms or spinach for extra depth and nutrition.</li><li>Experiment with different cheeses like gouda or pepper jack for a unique flavor profile.</li></ul>These tweaks can transform your casserole into a personalized masterpiece!</p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your cozy casserole, consider these pairings: <ul><li><strong>Side dishes:<\/strong> A crisp green salad with a light vinaigrette balances the richness of the casserole.<\/li><li><strong>Beverage pairings:<\/strong> A glass of chilled white wine or sparkling water enhances the meal's flavors.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with crusty bread or garlic knots for a satisfying addition.<\/li><li><strong>Occasion ideas:<\/strong> Perfect for family gatherings, potlucks, or a cozy night in.<\/li><li><strong>Presentation tips:<\/strong> Garnish with fresh herbs or a sprinkle of cheese before serving for an appealing touch.<\/li><li><strong>Temperature serving note:<\/strong> Serve warm for the best flavor and texture experience.<\/li><\/ul><\/p>"
+            "content": "<p>To complement your casserole, consider these pairing options: <ul><li><strong>Side dishes:</strong> A crisp green salad with a tangy vinaigrette balances the richness of the casserole. Roasted vegetables also make a great accompaniment.</li><li><strong>Beverage pairings:</strong> A light white wine or sparkling water with a slice of lemon enhances the meal without overpowering it.</li><li><strong>Bread/starch options:</strong> Serve with crusty bread or garlic knots to soak up the delicious sauce.</li><li><strong>Occasion ideas:</strong> This casserole is perfect for family dinners, potlucks, or casual gatherings with friends.</li><li><strong>Presentation tips:</strong> Serve in the baking dish for a rustic look, or transfer to a decorative serving platter for a more polished presentation.</li><li><strong>Temperature serving note:</strong> Serve warm for the best flavor and texture.</li></ul></p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Use gluten-free pasta and ensure your soup is certified gluten-free for a safe option.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute the cheese with a plant-based alternative and use coconut cream instead of the soup.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> Add diced jalapeños for heat or incorporate Mediterranean spices like oregano and feta cheese for a fresh twist.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Replace pasta with quinoa for a protein boost or add shredded chicken for heartiness.<\/li><\/ul>These variations allow you to keep the dish exciting and tailored to your preferences.<\/p>"
+            "content": "<p>Explore these exciting variations to keep things fresh: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Use gluten-free pasta or rice and ensure your soup is gluten-free for a safe option.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute chicken with chickpeas and use a plant-based cream soup to make it vegan-friendly.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean):</strong> Add olives and feta cheese for a Mediterranean twist or jalapeños for a spicy kick.</li><li><strong>Protein/ingredient swap:</strong> Try using ground turkey or beef for a different protein base, adjusting cooking times as necessary.</li></ul>These variations allow you to customize the casserole to your taste!</p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated casserole topped with fresh herbs, served on a rustic wooden table, inviting and ready to enjoy.",
-                "url": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp"
+                "context": "Final plated casserole, garnished with fresh herbs, served in a rustic dish on a wooden table.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Layering flavors by sautéing vegetables before adding them to the casserole can enhance the overall taste.<\/li><li><strong>Ingredient prep secret:<\/strong> Pre-cooking your pasta slightly less than usual helps maintain its structure during baking.<\/li><li><strong>Timing strategy:<\/strong> Prepare ingredients ahead of time and assemble the casserole in the morning for a quick bake at dinner.<\/li><li><strong>Presentation hack:<\/strong> Use a fresh herb garnish to elevate the visual appeal of your dish before serving.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a professional touch, broil the casserole for the last 2-3 minutes to achieve a perfectly crispy top.</li><li><strong>Ingredient prep secret:</strong> Pre-cook your vegetables slightly before adding them to the casserole to ensure they are tender and flavorful.</li><li><strong>Timing strategy:</strong> Prepare all ingredients ahead of time to streamline the cooking process, allowing for a stress-free dinner.</li><li><strong>Presentation hack:</strong> Drizzle a bit of olive oil or a sprinkle of fresh herbs on top just before serving for an eye-catching finish.</li></ul>"
             }
         },
         {
-            "content": "<p>This cozy casserole is not just a meal; it's a comforting experience that brings people together. With its ease of preparation and delightful flavors, it's a dish worth making again and again. We invite you to try this recipe and share your thoughts in the comments. Don't forget to post your photos on social media and inspire others to enjoy this cozy delight!<\/p>"
+            "content": "<p>This quick and cozy casserole is a must-try for anyone looking to bring comfort to their dinner table. With its simple ingredients and straightforward preparation, it's perfect for busy nights. I hope you enjoy making it as much as I do! Please share your experiences in the comments, and don't forget to pin this recipe for later. Happy cooking!</p>"
         }
     ],
     "category_id": "cat_1761230383_494",
@@ -120,33 +122,33 @@
     "images": [
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
             "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
-            "filePath": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
-            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
@@ -154,10 +156,10 @@
     "slug": "10-dump-and-bake-casseroles-for-cozy-nights",
     "id": "text_recipe_1762046687_537",
     "image": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-    "image_path": "recipes\/10-dump-and-bake-casseroles-for-cozy-nights\/images\/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
-    "image_dir": "10-dump-and-bake-casseroles-for-cozy-nights\/images",
+    "image_path": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+    "image_dir": "10-dump-and-bake-casseroles-for-cozy-nights/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-12-11T19:04:06+01:00",
-    "updatedAt": "2025-12-11T19:04:06+01:00"
+    "updatedAt": "2025-12-13T19:05:12+01:00"
 }

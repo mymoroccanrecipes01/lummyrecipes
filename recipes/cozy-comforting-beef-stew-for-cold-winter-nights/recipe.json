@@ -1,164 +1,165 @@
 {
-    "id": "recipe_1765300298_453",
-    "slug": "cozy-comforting-beef-stew-for-cold-winter-nights",
-    "title": "Cozy Comforting Beef Stew for Cold Winter Nights",
-    "promptIMG": "Professional food photography prompt: \"beef stew, professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#beefstew #comfortfood #easyrecipes #heartymeal #winterdinner",
-    "isOnline": true,
-    "description": "Warm up with this cozy beef stew, perfect for chilly nights! Made with tender beef, hearty vegetables, and aromatic herbs, it's a comforting dish that brings the family together. Ideal for weeknight dinners or special occasions. Save this recipe for your next gathering!",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "title": "Comforting Beef Stew for Chilly Nights",
+    "promptIMG": "Beef stew, professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, cozy kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in this comforting beef stew that warms the soul! Packed with tender beef, vibrant vegetables, and fragrant herbs, it's perfect for family dinners or gatherings. Enjoy this hearty dish on chilly nights and make it a staple in your kitchen. Pin this recipe for your next cozy meal!",
+    "hashtags": "#beefstew #comfortfood #heartyrecipes #easyrecipes #familydinner",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 120,
+    "servings": 6,
     "ingredients": [
         "2 pounds beef chuck, cut into 1-inch cubes",
-        "2 tablespoons olive oil",
-        "1 large onion, chopped",
+        "4 cups beef broth",
+        "3 medium carrots, sliced",
+        "2 large potatoes, diced",
+        "1 onion, chopped",
         "3 cloves garlic, minced",
-        "4 carrots, sliced",
-        "3 potatoes, diced",
-        "2 cups beef broth",
-        "1 cup red wine",
         "2 tablespoons tomato paste",
         "1 teaspoon dried thyme",
         "1 bay leaf",
         "Salt and pepper to taste",
-        "Fresh parsley for garnish"
+        "2 tablespoons olive oil"
     ],
     "instructions": [
-        "In a large pot, heat olive oil over medium-high heat. Add beef cubes and brown on all sides, about 5-7 minutes.",
-        "Add chopped onion and minced garlic to the pot, cooking until the onion is translucent, about 3-4 minutes.",
-        "Stir in carrots and potatoes, followed by beef broth, red wine, tomato paste, thyme, and bay leaf. Bring to a boil.",
-        "Reduce heat to low, cover, and simmer for 1.5 to 2 hours, until the beef is tender and the flavors meld together.",
-        "Season with salt and pepper to taste. Remove bay leaf before serving.",
-        "Garnish with fresh parsley and serve hot."
+        "In a large pot, heat the olive oil over medium-high heat. Add the beef cubes and sear them until browned on all sides, about 5-7 minutes.",
+        "Remove the beef from the pot and set aside. In the same pot, add the chopped onion and garlic, sautéing until softened and fragrant, about 3-4 minutes.",
+        "Stir in the tomato paste, thyme, and bay leaf, cooking for another minute to enhance the flavors.",
+        "Return the beef to the pot and pour in the beef broth. Bring the mixture to a boil, then reduce the heat to low and cover, allowing it to simmer for about 1.5 hours.",
+        "After 1.5 hours, add the carrots and potatoes to the stew. Continue to simmer for an additional 30 minutes, or until the vegetables are tender.",
+        "Season with salt and pepper to taste before serving hot."
     ],
-    "prep_time": 15,
-    "cook_time": 120,
-    "total_time": 135,
-    "servings": 6,
-    "difficulty": "Easy",
-    "tips": "For the best beef stew, choose well-marbled beef chuck for tenderness. Browning the meat adds depth of flavor, so don’t skip this step. Avoid overcooking the vegetables; add them halfway through the cooking time for perfect texture. Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on the stove or in the microwave. For a thicker stew, mix a tablespoon of cornstarch with cold water and stir it in during the last 15 minutes of cooking.",
+    "tips": "For the best flavor, choose well-marbled beef chuck, as it becomes tender during cooking. Searing the meat first adds depth to the stew's flavor. Avoid overcrowding the pot when browning the beef to ensure a good sear. If you have leftovers, store them in an airtight container in the fridge for up to 3 days. Reheat gently on the stove over low heat to maintain the stew's texture. For a thicker stew, you can mix a tablespoon of cornstarch with water and stir it in during the last 10 minutes of cooking.",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "hearty",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>Indulge in the warmth of this cozy beef stew, perfect for cold winter nights. This hearty dish combines tender beef, vibrant vegetables, and aromatic herbs, creating a comforting meal that warms the soul. Ideal for family gatherings or a cozy night in, this stew is sure to become a favorite. With its rich flavors and satisfying texture, it’s the ultimate comfort food that brings everyone together around the table.<\/p>"
+            "content": "<p>Experience the warmth of a homemade beef stew that fills your kitchen with delightful aromas! This dish is a perfect blend of tender beef and vibrant vegetables, simmered to perfection. Each spoonful offers a comforting taste that evokes memories of family gatherings and cozy nights in. The rich broth, infused with aromatic herbs, creates a satisfying meal that is both hearty and nourishing. Ideal for chilly evenings, this stew is sure to become a beloved staple in your home.</p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 2 hours or less - perfect for busy weeknights.<\/li><li>Restaurant-quality flavors achieved at home with simple techniques.<\/li><li>Perfect for family dinners or cozy gatherings.<\/li><li>Uses simple ingredients you likely have in your pantry.<\/li><li>Budget-friendly and a crowd-pleaser.<\/li><li>Nutritious and filling, making it a complete meal.<\/li><\/ul>"
+                "content": "<ul><li>Quick and ready in just 2 hours - perfect for busy weeknights or special occasions.</li><li>Enjoy restaurant-quality flavors right at home with simple ingredients.</li><li>Great for family gatherings or cozy dinners with friends.</li><li>Made with easily accessible ingredients that create a rich, savory stew.</li><li>This dish is budget-friendly, making it a go-to for feeding a crowd.</li><li>Packed with nutrients from fresh vegetables, making it a wholesome choice.</li></ul>"
             }
         },
         {
-            "content": "<p>This beef stew recipe holds a special place in my heart. I remember making it with my grandmother on chilly evenings, the aroma filling the house and bringing everyone to the kitchen. It's a dish that not only warms the body but also the spirit, perfect for sharing with loved ones. Whether it's a casual family dinner or a special occasion, this stew always brings smiles and requests for seconds.<\/p>"
+            "content": "<p>This beef stew recipe brings back fond memories of family dinners at my grandmother's house. I remember the smell of simmering beef and vegetables wafting through the air, inviting everyone to gather around the table. Each bite was a reminder of love and warmth, making it a cherished dish in our family. Now, I love sharing this recipe with friends, creating new memories over a hearty bowl of stew. It's a dish that not only nourishes the body but also the soul.</p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>When making beef stew, the choice of beef is crucial. <strong>Beef chuck<\/strong> is ideal due to its marbling, which renders down during cooking, creating a tender texture. Look for bright red meat with a good amount of fat. <strong>Onions and garlic<\/strong> are essential for building flavor; use fresh for the best results. <strong>Carrots and potatoes<\/strong> add heartiness and nutrition. For dietary needs, consider <strong>substituting beef with mushrooms<\/strong> for a vegetarian option, and use vegetable broth instead of beef broth. Essential tools include a heavy-bottomed pot for even cooking and a sharp knife for precise chopping.<\/p>"
+            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Beef chuck is ideal for stews due to its rich marbling, which breaks down during cooking, resulting in tender meat. Look for cuts that are bright red with good fat distribution.</li><li><strong>Key seasonings/aromatics:</strong> Garlic and onion are essential for building a flavorful base. Use fresh garlic for a punchy flavor and yellow onions for sweetness.</li><li><strong>Supporting ingredients:</strong> Carrots and potatoes add texture and heartiness. Cut them into uniform pieces for even cooking.</li><li><strong>Smart substitutions:</strong> You can use chicken thighs instead of beef for a lighter version, or swap in sweet potatoes for a different flavor profile.</li><li><strong>Equipment needed:</strong> A heavy-bottomed pot or Dutch oven is crucial for even heat distribution and preventing burning.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for beef stew including beef, carrots, potatoes, and herbs arranged on a wooden cutting board, ready for cooking.",
-                "url": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-                "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-                "type": "main"
+                "context": "Fresh ingredients for beef stew including beef cubes, carrots, potatoes, and herbs arranged on a wooden countertop for preparation.",
+                "url": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before cooking, prepare your ingredients. <strong>Chop the vegetables<\/strong> and <strong>cut the beef<\/strong> into cubes. This mise en place will streamline your cooking process. <strong>Heat your pot<\/strong> over medium-high heat and gather all ingredients. Once prepped, follow these steps:<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Ensure all ingredients are ready to go. This includes chopping vegetables and measuring liquids. Preheat your pot to get it hot before adding the beef.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Brown the beef first, then add the onions and garlic. This layering of flavors is key. After adding the broth and wine, bring to a boil before reducing to a simmer.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once cooked, taste and adjust seasoning. Garnish with parsley for a fresh finish before serving.<\/dd><\/dl>"
+            "content": "<p>Before diving into cooking, gather all your ingredients and tools. Chop the vegetables and measure out the broth. Preheat your pot over medium-high heat to ensure a good sear on the beef. You can prep the vegetables a day in advance to save time.</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Start by cutting the beef into 1-inch cubes and seasoning them with salt and pepper. Chop the onions, garlic, carrots, and potatoes, keeping them ready for the pot.</dd><dt><strong>Cooking process:</strong></dt><dd>Begin by searing the beef in hot oil until browned. This step is vital for developing flavor. Once browned, remove the beef and sauté the onions and garlic until translucent, then add the tomato paste and herbs.</dd><dt><strong>Finishing touches:</strong></dt><dd>After simmering, add the vegetables and cook until tender. Serve the stew hot, garnished with fresh herbs for an inviting presentation.</dd></dl>"
         },
         {
             "upload": {
-                "context": "Stirring beef stew in a large pot, with vegetables and herbs visible, on a gas stovetop.",
-                "url": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
-                "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
-                "type": "main"
+                "context": "Stirring the hearty beef stew in a large cast-iron pot on the stovetop, showcasing the rich broth and tender vegetables.",
+                "url": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Maintain a low simmer for the best results; too high can toughen the meat.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t rush the browning process; it adds essential flavor.<\/li><li><strong>Perfect doneness indicator:<\/strong> The meat should be fork-tender and vegetables should be soft but not mushy.<\/li><li><strong>Storage & reheating:<\/strong> Store in airtight containers; it lasts up to 3 days in the fridge. Reheat gently on the stove to preserve texture.<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:</strong> Maintain a gentle simmer rather than a rolling boil to prevent tough meat. Use a thermometer to check the internal temperature of the beef if needed.</li><li><strong>Common mistake to avoid:</strong> Avoid adding too many vegetables at once, which can lower the cooking temperature and lead to uneven cooking.</li><li><strong>Perfect doneness indicator:</strong> The beef should be fork-tender and the vegetables should be soft but not mushy, with a rich aroma filling the kitchen.</li><li><strong>Storage & reheating:</strong> Store leftovers in an airtight container for up to 3 days. Reheat gently on the stove over low heat to preserve texture.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing this beef stew with family is always a joy. The warmth of the dish and the laughter around the table create lasting memories. Everyone loves the rich flavors and hearty texture, making it a staple for gatherings. The compliments and requests for the recipe remind me of the love that goes into cooking for others. It's more than just a meal; it's a way to connect and share comfort.<\/p>"
+            "content": "<p>Sharing this beef stew with family and friends is always a joy. The hearty aroma fills the room, drawing everyone to the table. As we gather around, laughter and stories flow just as freely as the rich, savory stew. Each bowl is filled with warmth, and the smiles on faces remind me why this dish is so special. It's more than just a meal; it's a celebration of togetherness and comfort.</p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your beef stew, consider adding fresh herbs like <strong>rosemary<\/strong> or <strong>thyme<\/strong> for an aromatic touch. <strong>Smoked paprika<\/strong> can add depth, while a splash of <strong>worcestershire sauce<\/strong> enhances umami. For a richer flavor, try adding <strong>mushrooms<\/strong> or <strong>pearl onions<\/strong> during cooking. If you want to change the character, try <strong>adding a splash of balsamic vinegar<\/strong> for a tangy twist or <strong>using sweet potatoes<\/strong> instead of regular potatoes for a sweeter profile.<\/p>"
+            "content": "<p>To elevate your beef stew, consider adding these flavor boosters:</p><ul><li>Fresh herbs like rosemary or parsley can be added during the last 30 minutes of cooking for a burst of freshness.</li><li>Spices such as smoked paprika or cumin can deepen the flavor profile; add them when sautéing the onions.</li><li>Upgrade your stew by incorporating red wine for a richer taste; deglaze the pot after browning the beef.</li><li>For a twist, try adding a splash of Worcestershire sauce or soy sauce for umami depth.</li></ul><p>Experiment with different vegetables like parsnips or turnips for variety, and don't hesitate to adjust the seasoning to your liking!</p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Serve your beef stew with crusty bread for dipping, or pair it with a fresh green salad for a balanced meal. A glass of red wine complements the rich flavors beautifully. For a cozy dinner, consider serving it alongside roasted vegetables or creamy mashed potatoes. This stew is perfect for casual family dinners or holiday gatherings, where it can be the star of the table. Garnish with fresh parsley for a pop of color and serve warm for the best experience.<\/p>"
+            "content": "<p>For a complete meal, consider these pairings:</p><ul><li><strong>Side dishes:</strong> Crusty bread or warm rolls are perfect for soaking up the delicious broth. A fresh green salad can add a refreshing contrast.</li><li><strong>Beverage pairings:</strong> A glass of red wine complements the stew beautifully, enhancing the rich flavors.</li><li><strong>Bread/starch options:</strong> Serve with buttery mashed potatoes or rice for a filling meal.</li><li><strong>Occasion ideas:</strong> This stew shines at family gatherings, cozy winter nights, or as a comforting dish after a long day.</li><li><strong>Presentation tips:</strong> Garnish with fresh parsley or thyme for a pop of color and freshness.</li><li><strong>Temperature serving note:</strong> Serve the stew hot, ideally around 160°F for the best flavor experience.</li></ul>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>For a gluten-free option, use gluten-free flour to thicken the stew. If you're looking for a vegan version, substitute beef with hearty mushrooms and use vegetable broth. For a spicy kick, add jalapeños or a dash of cayenne pepper. You can also swap the beef for chicken thighs for a lighter variation. Each adaptation offers a unique twist while keeping the comforting essence of the original recipe.<\/p>"
+            "content": "<p>Explore these exciting variations:</p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Use gluten-free flour to thicken the stew or skip thickening altogether for a lighter version.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute beef with hearty mushrooms or lentils and use vegetable broth for a plant-based option.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean):</strong> Add chili flakes for heat or Mediterranean spices like oregano and basil for a different twist.</li><li><strong>Protein/ingredient swap:</strong> Try using lamb for a unique flavor or chicken for a lighter stew.</li></ul><p>These variations allow you to customize the dish to suit your taste and dietary needs!</p>"
         },
         {
             "upload": {
-                "context": "Beautifully plated beef stew garnished with fresh parsley in a rustic bowl, ready to serve on a wooden table.",
-                "url": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
-                "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
-                "type": "main"
+                "context": "A beautifully plated bowl of beef stew, garnished with fresh herbs, served on a rustic table setting with warm bread.",
+                "url": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Searing the beef properly locks in flavor and moisture, creating a richer stew.<\/li><li><strong>Ingredient prep secret:<\/strong> Salting the beef before cooking enhances its natural flavor.<\/li><li><strong>Timing strategy:<\/strong> Prepare all ingredients ahead to streamline the cooking process.<\/li><li><strong>Presentation hack:<\/strong> Serve in rustic bowls with a sprinkle of fresh herbs for an inviting look.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:</strong> For a deeper flavor, consider marinating the beef in red wine and herbs overnight before cooking.</li><li><strong>Ingredient prep secret:</strong> Browning the meat in batches prevents steaming and ensures a good crust.</li><li><strong>Timing strategy:</strong> Plan to let the stew simmer longer for enhanced flavors; the longer it cooks, the better it gets!</li><li><strong>Presentation hack:</strong> Serve in individual bowls with a sprig of fresh thyme on top for an elegant touch.</li></ul>"
             }
         },
         {
-            "content": "<p>This comforting beef stew is a must-try for anyone looking to create a warm, satisfying meal. With its rich flavors and tender meat, it's a dish that will impress family and friends alike. Don't hesitate to make this your go-to recipe for chilly nights. I encourage you to share your experience and photos on social media using the hashtag #beefstew. Enjoy the process and the delicious results!<\/p>"
+            "content": "<p>This beef stew is a must-try for anyone looking for a comforting meal that brings joy to the table. With its rich flavors and hearty ingredients, it's sure to become a family favorite. Don't hesitate to share your experience or post photos of your creation on social media. Your friends will be inspired to make this delicious beef stew too!</p>"
+        },
+        {
+            "category_id": "cat_1761230166_734"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-            "filePath": "recipes\/cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
+            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
-            "filePath": "recipes\/cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
-            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
+            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
-            "filePath": "recipes\/cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
-            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
+            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes\/cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_mollykitchendaily-main_image_4.webp",
-            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_mollykitchendaily-main_image_4.webp",
+            "fileName": "cozy-comforting-beef-stew-for-cold-winter-nights_LummyRecipes_image_4.webp",
+            "filePath": "recipes/cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_LummyRecipes_image_4.webp",
+            "relativePath": "cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "cozy-comforting-beef-stew-for-cold-winter-nights",
+    "id": "recipe_1765300298_453",
     "image": "cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-    "image_path": "recipes\/cozy-comforting-beef-stew-for-cold-winter-nights\/images\/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
-    "image_dir": "cozy-comforting-beef-stew-for-cold-winter-nights\/images",
+    "image_path": "recipes/cozy-comforting-beef-stew-for-cold-winter-nights/images/cozy-comforting-beef-stew-for-cold-winter-nights_image_1.webp",
+    "image_dir": "cozy-comforting-beef-stew-for-cold-winter-nights/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-12-12T12:17:20+01:00",
-    "updatedAt": "2025-12-12T12:17:20+01:00"
+    "updatedAt": "2025-12-13T19:05:07+01:00"
 }
