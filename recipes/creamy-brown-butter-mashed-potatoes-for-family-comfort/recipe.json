@@ -1,118 +1,98 @@
 {
-    "title": "Creamy Brown Butter Mashed Potatoes for Cozy Dinners",
-    "promptIMG": "Creamy brown butter mashed potatoes, elegantly served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "title": "Creamy Brown Butter Mashed Potatoes Recipe",
+    "promptIMG": "Professional food photography prompt: \"Creamy brown butter mashed potatoes, beautifully plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, warm kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Experience the ultimate comfort with creamy brown butter mashed potatoes! Infused with rich, nutty flavors, these potatoes are a delightful twist on a classic favorite. Ideal for family gatherings or cozy dinners, this dish will impress everyone at the table. Save this recipe for your next meal!",
-    "hashtags": "#brownbuttermashedpotatoes #comfortfood #easyrecipes #familydinner #homemade",
+    "description": "You gotta try these creamy brown butter mashed potatoes! Infused with rich, nutty flavors, they add a twist to your usual recipe. Ideal for family gatherings or cozy dinners. Save this recipe for your next meal!",
+    "hashtags": "#brownbuttermashedpotatoes #comfortfood #easyrecipes #familydinners #sidedish",
     "difficulty": "Easy",
     "prep_time": 15,
-    "cook_time": 30,
+    "cook_time": 20,
     "servings": 4,
     "ingredients": [
-        "2 pounds russet potatoes, peeled and cubed",
-        "1\/2 cup unsalted butter, browned",
+        "2 pounds russet potatoes, peeled and quartered",
+        "1\/2 cup unsalted Kerrygold butter",
         "1\/2 cup whole milk, warmed",
-        "Salt and pepper to taste",
-        "Chives, finely chopped for garnish"
+        "Salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "Optional: chopped fresh chives for garnish"
     ],
     "instructions": [
-        "Begin by placing the peeled and cubed potatoes into a large pot. Cover them with cold water and add a generous pinch of salt. Bring to a boil over medium-high heat.",
-        "Once boiling, reduce the heat to medium and let the potatoes simmer until fork-tender, about 15-20 minutes. Drain the potatoes well and return them to the pot.",
-        "In a separate pan, melt the butter over medium heat until it turns a golden brown color and develops a nutty aroma. Remove from heat and set aside.",
-        "Mash the drained potatoes using a potato masher or ricer until smooth. Gradually incorporate the warm milk and the browned butter, mixing until creamy and well combined.",
-        "Season with salt and pepper to taste, adjusting as necessary. Serve the mashed potatoes warm, garnished with freshly chopped chives."
+        "Start by boiling a large pot of salted water. Add the quartered potatoes and cook them for about 15 minutes until super tender. You wanna make sure they’re soft enough to mash easily.",
+        "While the potatoes are cooking, melt the Kerrygold butter in a skillet over medium heat. Keep an eye on it and stir occasionally until it turns golden brown and smells nutty. Seriously, this step is where the magic happens.",
+        "Once the potatoes are done, drain them and return them to the pot. Mash them up until smooth. You can use a potato masher or even a ricer (my personal favorite).",
+        "Pour the browned butter into the mashed potatoes, along with the warmed milk. Mix everything together until creamy and well combined. Season with salt and pepper to taste.",
+        "If you’re feeling fancy, sprinkle some chopped chives on top before serving. They add a nice pop of color and flavor!"
     ],
-    "tips": "For the best texture, choose starchy potatoes like russets. Ensure they are cut into even pieces for uniform cooking. When browning the butter, watch closely to prevent burning; it should have a nutty aroma and a rich amber color. Store leftovers in an airtight container in the refrigerator for up to 3 days. Reheat gently on the stove with a splash of milk to restore creaminess. If you prefer a lighter version, substitute half of the butter with olive oil.",
+    "tips": "When it comes to mashed potatoes, the type of potato matters. Russets are starchy and break down nicely, giving you that creamy texture. Always warm your milk (I use it straight from the microwave for about 30 seconds) to keep the mash warm. And, trust me, you can’t overdo the butter here—go for flavor! Also, remember to taste and adjust your seasoning. If you want a little more zing, try adding a dash of garlic powder. If you have leftovers, they reheat beautifully on the stove with a splash of milk to regain that creamy texture. My KitchenAid mixer can also whip them up in no time, just don't overmix or they can get gummy.",
     "image_keywords": [
-        "appetizing",
-        "delicious",
-        "homemade",
-        "fresh",
-        "colorful",
         "comforting",
-        "family-friendly"
+        "creamy",
+        "homemade",
+        "buttery",
+        "rich",
+        "satisfying"
     ],
     "structured_content": [
         {
-            "content": "<p>Indulge in the creamy delight of brown butter mashed potatoes, a dish that transforms a classic into something extraordinary. The rich, nutty aroma of browned butter mingles with the fluffy texture of perfectly mashed potatoes, creating a comforting side that’s hard to resist. This recipe is not just about flavor; it’s about the experience of sharing a warm, satisfying dish with loved ones. Perfect for family gatherings or cozy dinners, these mashed potatoes will elevate any meal.<\/p>"
+            "content": "<p>So, I've made these creamy brown butter mashed potatoes a couple of times, and every time, they just blow me away. The aroma of that browned butter cooking? It's like a hug in the kitchen. Seriously, it adds this incredible depth that regular butter just can’t touch. And the texture? Silky smooth with little bits of chive peeking through. You won't want to go back to plain mashed potatoes after trying these!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 30 minutes - perfect for busy weeknights or special occasions.<\/li><li>Enjoy restaurant-quality flavors at home with simple ingredients.<\/li><li>Ideal for holiday feasts, family gatherings, or any comfort food craving.<\/li><li>Easy to prepare with just a few steps, making it accessible for all cooks.<\/li><li>This dish is a crowd-pleaser that pairs beautifully with meats and veggies.<\/li><li>Nutritious and satisfying, these mashed potatoes are a wholesome addition to your table.<\/li><\/ul>"
+                "content": "<ul><li>30 minutes total. That's it.<\/li><li>Rich, nutty flavor that makes them stand out!<\/li><li>My friend Dave said, \"These are the best mashed potatoes I've ever had!\" (no joke)<\/li><li>Perfect side for any occasion, from holidays to BBQs.<\/li><li>Great for meal prep; they taste even better the next day.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, mashed potatoes were a staple at our family dinners. I remember the warmth of the kitchen filled with the aroma of buttery potatoes, a dish that always brought us together. Discovering the technique of browning butter added a new layer of flavor that transformed this classic side into something special. Now, every time I make brown butter mashed potatoes, I’m reminded of those cozy evenings spent with family, sharing laughter and stories over a delicious meal.<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried these creamy brown butter mashed potatoes at my friend Emily's Thanksgiving dinner last November. The smell of the buttery goodness hit me right when I walked in. Emily said, \"You HAVE to try the mashed potatoes; I made them with brown butter!\" One bite, and I was sold—smooth, rich, and totally addictive. Now I whip them up for my family every holiday. My kids, who usually turn their noses up at regular mashed potatoes, ask for seconds. It’s a win!<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>Honestly, the first time I made these, I burned the butter. DISASTER. It turned out bitter and ruined the whole dish. Now I know to keep an eye on it and stir constantly until it’s just golden. Seriously, don't walk away!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (potatoes):<\/strong> Russet potatoes are ideal for mashing due to their high starch content, resulting in a fluffy texture. Look for firm potatoes without any blemishes for the best results.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> The addition of salt enhances the natural flavor of the potatoes, while freshly cracked pepper adds a subtle kick. Consider using garlic powder for an extra depth of flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Whole milk contributes creaminess, while brown butter adds a rich, nutty flavor. For a lighter option, use low-fat milk or a dairy alternative.<\/li><li><strong>Smart substitutions:<\/strong> You can replace russet potatoes with Yukon Gold for a creamier texture, or use cauliflower for a lower-carb version. Both will yield delicious results.<\/li><li><strong>Equipment needed:<\/strong> A sturdy pot for boiling and a potato masher or ricer for mashing are essential for achieving the perfect consistency.<\/li><\/ul><\/p>"
-        },
-        {
-            "upload": {
-                "context": "Fresh russet potatoes, butter, and seasonings arranged on a wooden countertop, ready for mashing.",
-                "url": "creamy-brown-butter-mashed-potatoes-for-family-comfort\/images\/creamy-brown-butter-mashed-potatoes-for-family-comfort_image_1.webp"
-            }
+            "content": "<p><strong>Main ingredient (potatoes):<\/strong> Russet potatoes work best for their starchiness. Look for ones that are firm and without blemishes. They create that creamy texture we all love. Peel and cut them into even pieces for consistent cooking.<\/p><li><strong>Key seasonings:<\/strong> The simple combination of salt and pepper enhances the flavor. I love using fresh ground black pepper for an extra kick!<\/li><li><strong>Supporting ingredients:<\/strong> The Kerrygold butter brings a rich, nutty flavor. I always have some on hand because it’s rich and worth it.<\/li><li><strong>Smart substitutions:<\/strong> You can use Yukon Gold potatoes for a buttery taste and yellow color. If you want to make it dairy-free, try almond milk and vegan butter.<\/li><li><strong>Equipment needed:<\/strong> A good pot for boiling is essential. I always use my heavy-bottomed pot because it heats evenly, preventing scorching.<\/li><\/p>"
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>To start, gather your ingredients and prepare your workspace. Peel and cube the potatoes, ensuring they are uniform in size for even cooking. Place them in a pot and cover with cold water, adding a pinch of salt. Bring to a boil over medium-high heat, then reduce to a simmer until tender, about 15-20 minutes. Drain and return to the pot.<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>While the potatoes are cooking, warm the milk in a small saucepan over low heat. This will help keep the potatoes hot and creamy when mixed.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once the potatoes are drained, mash them until smooth. Slowly mix in the warm milk and browned butter, ensuring everything is well combined and creamy.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Season the mashed potatoes with salt and pepper to taste. Serve immediately, garnished with chopped chives for a pop of color and flavor.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "Mashing golden brown butter into fluffy potatoes in a stainless steel pot on the stovetop.",
-                "url": "creamy-brown-butter-mashed-potatoes-for-family-comfort\/images\/creamy-brown-butter-mashed-potatoes-for-family-comfort_image_2.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Ensure your potatoes are cooked until fork-tender; this ensures a smooth mash. Test by piercing with a fork; they should break apart easily.<\/li><li><strong>Common mistake to avoid:<\/strong> Avoid over-mashing the potatoes, which can lead to a gummy texture. Mash just until smooth.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for a creamy consistency without lumps, and the potatoes should be warm but not boiling when served.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on the stove with a splash of milk to restore creaminess.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing these brown butter mashed potatoes with family and friends is always a joy. The moment they take a bite, their faces light up with delight, and the rich, nutty flavor brings smiles all around. It’s a dish that not only fills the stomach but also warms the heart, creating memories that linger long after the meal is over. Whether it’s a holiday gathering or a casual weeknight dinner, these mashed potatoes are sure to be a hit.<\/p>"
+            "content": "<p>When prepping, start by washing and peeling your potatoes. Cut them into quarters for even cooking. Boil them in a pot of salted water until fork-tender—about 15 minutes. While they cook, melting the butter in a skillet over medium heat is key. You want it bubbling and golden, which only takes a few minutes. After draining the potatoes, mash them up until smooth, then mix in the browned butter and warmed milk. Finish with salt and pepper to taste.<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your brown butter mashed potatoes, consider adding:<\/p><ul><li>Fresh herbs like rosemary or thyme, added during the mashing process for a fragrant touch.<\/li><li>Spices such as nutmeg or smoked paprika for a unique flavor twist; add just a pinch to enhance the overall taste.<\/li><li>Upgrades like roasted garlic or cream cheese for a richer, creamier texture that takes the dish to the next level.<\/li><li>Technique variations like using a food processor for an ultra-smooth finish or folding in sautéed onions for added sweetness.<\/li><\/ul><p>These enhancements can make your mashed potatoes even more delightful!<\/p>"
+            "content": "<p>For an extra punch, consider adding fresh herbs like rosemary or thyme. Just chop them fine and mix them in right at the end. Garlic is another great addition—try roasting a clove and mashing it into the potatoes. If you're feeling adventurous, some cheese (like parmesan) can take it to the next level. Looking for a spice? A hint of smoked paprika adds a nice depth. Also, if you prefer a tangy twist, a splash of sour cream can be a game changer.<\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>For a well-rounded meal, pair your brown butter mashed potatoes with:<\/p><ul><li><strong>Side dishes:<\/strong> Roasted vegetables complement the creamy potatoes beautifully, adding color and nutrition.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine, like Chardonnay, enhances the rich flavors of the dish.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with crusty bread or soft dinner rolls to soak up any leftover butter.<\/li><li><strong>Occasion ideas:<\/strong> These mashed potatoes shine at holiday dinners, family gatherings, or as a comforting side for a cozy night in.<\/li><li><strong>Presentation tips:<\/strong> Serve in a rustic bowl, topped with a pat of butter and a sprinkle of chives for a beautiful finish.<\/li><li><strong>Temperature serving note:<\/strong> Serve warm for the best flavor and texture.<\/li><\/ul>"
+            "content": "<p>For sides, these mashed potatoes go beautifully with roasted veggies or a simple green salad. You could also pair them with grilled meats like steak or chicken for a hearty meal. I love serving them with a nice red wine or even a refreshing iced tea. If you’re thinking about bread, some crusty sourdough or buttery rolls make a great addition. And don’t forget to serve them hot, ideally right after mashing for that creamy, comforting experience!<\/p>"
         },
         {
-            "headline": "Creative Variations to Try"
+            "headline": "Conclusion"
         },
         {
-            "content": "<p>Explore exciting variations of brown butter mashed potatoes:<\/p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> This recipe is naturally gluten-free; just ensure all ingredients are certified gluten-free.<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Substitute the butter with vegan margarine and use almond or oat milk for a delicious dairy-free option.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños or a dash of cayenne pepper for a spicy kick that contrasts beautifully with the creamy potatoes.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Try incorporating cream cheese or sour cream for an even richer flavor profile.<\/li><\/ul><p>These variations allow you to customize the dish to your taste!<\/p>"
-        },
-        {
-            "upload": {
-                "context": "A beautifully plated dish of brown butter mashed potatoes garnished with fresh chives, served on a rustic wooden table.",
-                "url": "creamy-brown-butter-mashed-potatoes-for-family-comfort\/images\/creamy-brown-butter-mashed-potatoes-for-family-comfort_image_3.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> For an ultra-smooth texture, use a ricer instead of a masher; this technique creates fluffy, light potatoes.<\/li><li><strong>Ingredient prep secret:<\/strong> Soak peeled potatoes in cold water for 30 minutes before cooking to remove excess starch, resulting in a creamier mash.<\/li><li><strong>Timing strategy:<\/strong> Prepare the brown butter while the potatoes are boiling to streamline the cooking process.<\/li><li><strong>Presentation hack:<\/strong> Use a piping bag to create elegant swirls of mashed potatoes on the plate for a restaurant-quality presentation.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>These creamy brown butter mashed potatoes are a must-try for anyone seeking comfort food that impresses. With their rich flavor and smooth texture, they are sure to become a favorite at your table. Don't hesitate to share your experience and photos on social media or Pinterest. Enjoy making this delightful dish that brings warmth and joy to every meal!<\/p>"
+            "content": "<p>In the end, these creamy brown butter mashed potatoes are a must-try for any dinner table. With their rich flavor and smooth texture, they’ll become a staple in your home. Seriously, give them a shot and let me know what you think! Don’t forget to share your experience or post some pics on Instagram. I’d love to see how yours turn out!<\/p>"
         }
     ],
     "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Practical Expert",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:17:42"
+    },
     "author_id": "author_001",
     "images": [
         {
@@ -152,6 +132,6 @@
     "image_dir": "creamy-brown-butter-mashed-potatoes-for-family-comfort\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T20:17:31+01:00",
-    "updatedAt": "2025-12-13T20:17:31+01:00"
+    "createdAt": "2026-01-04T16:29:49+01:00",
+    "updatedAt": "2026-01-04T16:29:49+01:00"
 }

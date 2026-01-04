@@ -1,119 +1,112 @@
 {
-    "id": "recipe_1763052966_981",
-    "slug": "classic-southern-thanksgiving-feast-for-family",
-    "title": "Classic Southern Thanksgiving Feast for Family",
-    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"Southern Thanksgiving feast, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
-    "isOnline": false,
-    "description": "This Southern Thanksgiving feast is the perfect way to celebrate with family. Packed with classic flavors and vintage recipes, it brings warmth to your holiday table. Gather your loved ones and enjoy a memorable meal together!",
-    "category_id": "cat_1761229712_965",
-    "author_id": "author_001",
+    "title": "Southern Thanksgiving Feast: Cornbread, Turkey & Greens",
+    "promptIMG": "Professional food photography prompt: \"Southern Thanksgiving feast with cornbread, roasted turkey, and collard greens, beautifully arranged on a rustic wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, warm lighting, family gathering atmosphere --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "This Southern Thanksgiving feast is all about comfort and tradition. Enjoy homemade cornbread, tender turkey, and flavorful collard greens. A great way to bring family together for the holidays! Make sure to save this recipe for your next family gathering.",
+    "hashtags": "#SouthernThanksgiving #comfortfood #familydinner #holidayrecipes #easyrecipes",
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 90,
+    "servings": 8,
     "ingredients": [
-        "1 turkey (12-14 pounds)",
-        "2 cups cornbread stuffing",
-        "4 cups green bean casserole",
-        "1 cup cranberry sauce",
-        "1 pumpkin pie"
+        "1 batch of cornbread (made with Bob's Red Mill cornmeal)",
+        "1 whole turkey (about 12-14 lbs)",
+        "2 tablespoons Kerrygold butter",
+        "4 cups collard greens, washed and chopped",
+        "1 onion, diced",
+        "4 cloves garlic, minced",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste",
+        "1 teaspoon smoked paprika",
+        "2 cups chicken broth"
     ],
     "instructions": [
-        "Preheat the oven to 325°F (165°C).",
-        "Prepare the turkey by seasoning it and stuffing it with cornbread stuffing.",
-        "Roast the turkey in the oven for about 3 hours, basting occasionally.",
-        "Prepare the green bean casserole and cranberry sauce while the turkey is cooking.",
-        "Bake the pumpkin pie according to package instructions.",
-        "Let the turkey rest for 20 minutes before carving and serving."
+        "OK, so first things first, preheat your oven to 325°F. While that's heating up, let's prep the turkey. Rinse it under cold water and pat it dry with paper towels. Season it generously with salt, pepper, and smoked paprika.",
+        "Melt that Kerrygold butter in a roasting pan over medium heat. Sear the turkey breast side down for about 30 minutes. This gives it a nice golden color and locks in those juices.",
+        "Flip the turkey and pour in 2 cups of chicken broth. Cover with foil and roast for about 2 hours. Check for doneness; it should reach 165°F in the thickest part. Trust me, you want to avoid undercooked turkey.",
+        "While the turkey is roasting, heat olive oil in a large pot over medium heat. Add the diced onion and sauté until translucent, then throw in the garlic and collard greens. Cook until the greens are wilted, about 10 minutes.",
+        "Season the collards with salt and pepper, then add a splash of chicken broth if they seem dry. Let them simmer while the turkey finishes up. And don't forget to whip up that cornbread - easy peasy with Bob's Red Mill cornmeal."
     ],
-    "prep_time": 30,
-    "cook_time": 120,
-    "total_time": 150,
-    "servings": 8,
-    "difficulty": "medium",
-    "tips": "Brining the turkey overnight ensures it stays juicy and flavorful. Use fresh herbs for the stuffing for an aromatic touch.",
+    "tips": "Listen, cooking a turkey can be a bit daunting, but here’s what I’ve learned: 1) Always let your turkey rest for at least 20 minutes before carving. This helps keep it juicy. 2) If you want crispy skin, dry the turkey thoroughly before seasoning. 3) Collard greens can be prepped the day before; just reheat them in the pan. 4) For cornbread, I recommend using Kerrygold butter for richer flavor. 5) If you’re feeling adventurous, add some red pepper flakes to the collards for a spicy kick!",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>This Southern Thanksgiving feast is a celebration of tradition and flavor, bringing together family and friends around a beautifully set table. The aroma of roasted turkey and the sweetness of pumpkin pie create a warm and inviting atmosphere that makes this holiday special.<\/p>"
+            "content": "<p>So I've made this Southern Thanksgiving feast a few times now, and every time, the aroma of roasted turkey fills my kitchen, making it feel like a warm hug. The cornbread is golden and fluffy, and the collard greens add a perfect touch of spice and color to the plate. Honestly, there's something about this combination that just makes my heart happy.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 3 hours<\/li><li>Classic flavors that evoke nostalgia<\/li><li>Perfect for holiday gatherings and family celebrations<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Brings everyone together for a memorable meal<\/li><\/ul>"
+                "content": "<ul><li>30 minutes prep time. Seriously, that's it!<\/li><li>It tastes like a family reunion in your mouth.<\/li><li>My kids actually devoured the collard greens (I know, shocking!).<\/li><li>All the flavors complement each other beautifully.<\/li><li>Leftovers? Even better the next day!<\/li><li>It's a true Southern tradition that never gets old.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, Thanksgiving was always a time for family to come together, share stories, and enjoy a feast. This recipe brings back those cherished memories, reminding me of the laughter and love shared around the dinner table.<\/p>"
+            "headline": "My Story With This Recipe"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "content": "<p>I first tried this at my Aunt Clara's house during Thanksgiving last November. The smell of roasting turkey filled the air, and I was immediately hooked. Aunt Clara said, \"You HAVE to eat the cornbread with the greens!\" First bite? Heaven. Now I make it for my family every Thanksgiving. My husband once said, \"This is the best Thanksgiving dinner ever!\"<\/p>"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> A fresh turkey is essential for a juicy roast; choose one that fits your gathering size.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Use a blend of herbs like rosemary and thyme to enhance the turkey's flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Cornbread stuffing adds texture and flavor, while cranberry sauce provides a sweet contrast.<\/li><li><strong>Equipment needed:<\/strong> A roasting pan, meat thermometer, and serving platter are essential for best results.<\/li><\/ul>"
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>Listen, my first attempt at this was a disaster. I overcooked the turkey by about 30 minutes. It was dry and sad. Now I know to check the temperature early. It'll save you from turkey tragedy.<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><strong>Main ingredient (turkey):<\/strong> I recommend using a fresh, organic turkey for the best flavor. Look for one that's free-range if you can. It really makes a difference in taste and texture when cooked. <strong>Key seasonings:<\/strong> Salt and pepper are essential, but smoked paprika adds that depth you're gonna love. Brands like McCormick work great! <strong>Supporting ingredients:<\/strong> Collard greens add nutrients and a slightly bitter taste that balances the meal. When prepping, make sure to rinse them thoroughly. <strong>Smart substitutions:<\/strong> If you're short on time, you can use frozen collard greens, but fresh is always better. And for cornbread, any quality cornmeal will do, but I personally love Bob's Red Mill for its texture.<\/p>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p><strong>Preparation phase:<\/strong> Start by prepping your ingredients: chop the collard greens, and season the turkey. This takes about 20 minutes. You can even make the cornbread batter ahead of time. <strong>Cooking process:<\/strong> Roast the turkey for about 2 hours total, checking the temperature. You want it to reach 165°F. For the collards, sauté them for about 10 minutes until they're tender. <strong>Finishing touches:<\/strong> Once everything's cooked, serve the turkey sliced, with collards on the side and cornbread for scooping. It’s a feast!<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters & Customization Ideas"
+        },
+        {
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Add fresh thyme or rosemary to the turkey for a fragrant twist. Just throw them in the cavity before roasting.<\/li><li><strong>Spices:<\/strong> Paprika adds warmth; use about 1 teaspoon for that perfect kick.<\/li><li><strong>Upgrades:<\/strong> Try adding bacon to the collard greens for extra flavor; it’s a game changer.<\/li><li><strong>Technique variations:<\/strong> Smoked turkey instead of roasted can give you a unique flavor profile; just adjust the cooking times.<\/li><\/ul><\/p>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Mashed potatoes are a classic. They soak up all those turkey drippings, yum!<\/li><li><strong>Beverage pairings:<\/strong> A nice chilled cider pairs perfectly with this meal.<\/li><li><strong>Bread options:<\/strong> Serve some crusty rolls for those who love to mop up juices.<\/li><li><strong>Occasion ideas:<\/strong> Thanksgiving dinner is a must, but it also works great for family reunions.<\/li><li><strong>Presentation tips:<\/strong> Arrange the turkey on a big platter with greens and cornbread artfully placed around.<\/li><li><strong>Temperature serving note:<\/strong> Make sure to serve everything warm, especially the turkey.<\/li><\/ul><\/p>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p><ul><li><strong>Dietary adaptation 1:<\/strong> For gluten-free, use a gluten-free cornbread mix instead of regular flour. It still tastes delicious!<\/li><li><strong>Dietary adaptation 2:<\/strong> If you're vegan, try using jackfruit for a meaty texture and sautéed greens without any meat.<\/li><li><strong>Flavor variation:<\/strong> Add a dash of hot sauce to the collards for a spicy kick!<\/li><li><strong>Protein swap:<\/strong> You can also use chicken instead of turkey if that's what you have on hand.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
-                "url": "classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_1.webp",
-                "fileName": "classic-southern-thanksgiving-feast-for-family_image_1.webp",
-                "type": "main"
+                "context": "Steaming platter of roasted turkey, collard greens, and cornbread arranged beautifully for Thanksgiving dinner.",
+                "url": "classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and preparing the turkey with seasoning and stuffing. Allow time for the turkey to come to room temperature before roasting.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Roast the turkey, basting it regularly to keep it moist. Prepare the sides while the turkey cooks to ensure everything is ready at the same time.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let the turkey rest before carving, and serve with all the sides for a complete Thanksgiving meal.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
-                "url": "classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_2.webp",
-                "fileName": "classic-southern-thanksgiving-feast-for-family_image_2.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Brining the turkey overnight is key for moisture.<\/li><li>Avoid overcooking by using a meat thermometer to check for doneness.<\/li><li>The skin should be golden brown and crispy when ready.<\/li><li>Leftovers can be stored in the fridge for up to 4 days and reheated in the oven.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing this meal with family is what makes Thanksgiving truly special. The joy of passing dishes around the table and enjoying each other's company is a tradition I cherish.<\/p>"
-        },
-        {
-            "headline": "Flavor Boosters"
-        },
-        {
-            "content": "<p>Add a touch of maple syrup to your cranberry sauce for a sweet twist, or sprinkle some pecans on the green bean casserole for added crunch.<\/p>"
-        },
-        {
-            "headline": "Serving Suggestions"
-        },
-        {
-            "content": "<p>Pair this feast with a refreshing apple cider or a robust red wine. Serve with warm rolls and a fresh salad for a complete meal.<\/p>"
-        },
-        {
-            "headline": "Creative Variations"
-        },
-        {
-            "content": "<p>For a gluten-free option, use gluten-free bread for the stuffing. You can also substitute the turkey with a roasted vegetable platter for a vegetarian alternative.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
-                "url": "classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_3.webp",
-                "fileName": "classic-southern-thanksgiving-feast-for-family_image_3.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use a high-quality turkey for the best flavor.<\/li><li>Let the turkey rest before carving to retain juices.<\/li><li>Prepare sides in advance to reduce stress on the day.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Embrace the joy of cooking this Southern Thanksgiving feast, and create lasting memories with your loved ones. Enjoy every moment of this special holiday!<\/p>"
+            "content": "<p>Honestly, sharing this meal with family and friends is what it's all about. Watching everyone gather around the table, the laughter, and the way the food just brings us together... It's a moment I cherish. The flavors and aromas create memories that last a lifetime. I can’t wait for you to try this Southern Thanksgiving feast!<\/p>"
         }
     ],
+    "generation_metadata": {
+        "voice": "Storyteller",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:14:08"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "classic-southern-thanksgiving-feast-for-family_image_1.webp",
@@ -137,19 +130,21 @@
             "order": 3
         },
         {
-            "fileName": "classic-southern-thanksgiving-feast-for-family_image_4.webp",
-            "filePath": "recipes\/classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_4.webp",
-            "relativePath": "classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_4.webp",
+            "fileName": "classic-southern-thanksgiving-feast-for-family_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_LummyRecipes_image_4.webp",
+            "relativePath": "classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "classic-southern-thanksgiving-feast-for-family",
+    "id": "recipe_1763052966_981",
     "image": "classic-southern-thanksgiving-feast-for-family_image_1.webp",
     "image_path": "recipes\/classic-southern-thanksgiving-feast-for-family\/images\/classic-southern-thanksgiving-feast-for-family_image_1.webp",
     "image_dir": "classic-southern-thanksgiving-feast-for-family\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-13T17:59:43+01:00",
-    "updatedAt": "2025-11-13T17:59:43+01:00"
+    "createdAt": "2026-01-04T16:29:54+01:00",
+    "updatedAt": "2026-01-04T16:29:54+01:00"
 }

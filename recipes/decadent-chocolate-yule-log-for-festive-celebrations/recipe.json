@@ -1,123 +1,108 @@
 {
-    "title": "Decadent Chocolate Yule Log for Festive Celebrations",
-    "promptIMG": "Professional food photography prompt: \"Chocolate Yule log, elegantly presented on a rustic wooden platter, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Decadent Chocolate Yule Log Recipe for Festive Celebrations",
+    "promptIMG": "Professional food photography prompt: \"chocolate yule log, elegantly plated on a festive dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Savor the rich flavors of this decadent chocolate Yule log, a showstopper for any festive gathering! With a moist chocolate sponge and creamy filling, it’s perfect for holiday celebrations. Impress your guests with this classic dessert that’s sure to delight. Pin this recipe for your next celebration!",
-    "hashtags": "#chocolateyulelog #dessertrecipes #holidaybaking #festiveflavors #easyrecipes",
+    "description": "Rich chocolate yule log that's a must-have for holiday gatherings! Featuring a moist chocolate sponge layered with creamy filling, it’s a treat everyone will love. Ideal for festive occasions with family and friends. Don't forget to save this recipe for later!",
+    "hashtags": "#chocolateyulelog #holidaydesserts #easyrecipes #festivebaking #dessertideas",
     "difficulty": "Medium",
     "prep_time": 30,
     "cook_time": 25,
     "servings": 8,
     "ingredients": [
         "4 large eggs, separated",
-        "1 cup granulated sugar",
+        "1 cup granulated sugar, divided",
         "1\/2 cup all-purpose flour, sifted",
-        "1\/3 cup unsweetened cocoa powder",
+        "1\/3 cup cocoa powder, unsweetened (like Ghirardelli)",
+        "1\/4 teaspoon baking powder",
         "1\/4 teaspoon salt",
-        "1\/2 teaspoon baking powder",
-        "1 cup heavy cream",
-        "1\/2 cup powdered sugar",
+        "1\/2 cup heavy cream (use Organic Valley for best results)",
+        "1\/4 cup powdered sugar",
         "1 teaspoon vanilla extract",
-        "Chocolate shavings for garnish"
+        "Chocolate shavings, for garnish"
     ],
     "instructions": [
-        "Preheat your oven to 350°F (175°C) and line a 15x10-inch jelly roll pan with parchment paper, ensuring it extends over the edges.",
-        "In a large bowl, beat the egg yolks and granulated sugar until the mixture is pale and thick. Gradually fold in the sifted flour, cocoa powder, salt, and baking powder until just combined.",
-        "In a separate bowl, whip the egg whites until stiff peaks form, then gently fold them into the chocolate mixture to maintain the airy texture.",
-        "Spread the batter evenly in the prepared pan and bake for 20-25 minutes, or until the cake springs back when lightly touched.",
-        "Once baked, remove from the oven and let it cool in the pan for 5 minutes before inverting onto a clean kitchen towel dusted with powdered sugar. Carefully peel off the parchment paper.",
-        "While the cake cools, whip the heavy cream with powdered sugar and vanilla until soft peaks form. Spread the whipped cream over the cooled cake, then roll it up tightly from one short end, using the towel to assist. Chill for 30 minutes before serving."
+        "Preheat your oven to 350°F (175°C). Line a 15x10-inch baking pan with parchment paper, letting some hang over the edges. This makes it easier to lift out later.",
+        "In a mixing bowl, beat the egg yolks with half the sugar until pale and thick. This step is crucial for that fluffy texture.",
+        "Sift the flour, cocoa powder, baking powder, and salt into the yolk mixture. Gently fold until just combined, being careful not to overmix.",
+        "In a separate bowl, beat the egg whites until foamy, then gradually add the remaining sugar. Whip until stiff peaks form. Fold a third of the whites into the chocolate mixture, then gently fold in the remaining whites. You want to keep it light!",
+        "Spread the batter evenly into the prepared pan. Bake for about 20-25 minutes, or until the cake springs back when lightly pressed. It should look set but not dry.",
+        "Once out of the oven, let it cool in the pan for about 5 minutes. Then, invert it onto a clean kitchen towel dusted with powdered sugar. Carefully peel off the parchment. Roll it up with the towel from the short side and let it cool completely."
     ],
-    "tips": "To ensure a perfect Yule log, make sure to whip the egg whites until they are very stiff; this will give your cake a light and airy texture. When rolling the cake, do it while it's still warm to prevent cracking. If you want to add a twist, consider incorporating a splash of coffee or orange zest into the whipped cream for added flavor. For storage, wrap the log tightly in plastic wrap and keep it in the refrigerator for up to three days. When ready to serve, dust with cocoa powder or powdered sugar for a festive touch.",
+    "tips": "1. Use fresh eggs for better volume when whisking egg whites. And trust me, it makes a difference! 2. Let the cake cool completely before unrolling to avoid cracks. I learned this the hard way (shocking, right?). 3. If it seems too dry, a splash of coffee or milk can add moisture. 4. For the filling, I always go for heavy cream; it makes everything richer and creamier. Use a KitchenAid mixer for the best results. 5. Don't stress if it cracks a little when rolling. You can cover it with frosting and no one will know!",
     "image_keywords": [
-        "chocolate",
-        "dessert",
+        "appetizing",
+        "chocolatey",
         "festive",
-        "holiday",
-        "celebration",
-        "indulgent"
+        "homemade",
+        "rich",
+        "comforting"
     ],
     "structured_content": [
         {
-            "content": "<p>Indulge in the rich, velvety goodness of a chocolate Yule log, a dessert that embodies the spirit of festive celebrations. This delightful treat features a moist chocolate sponge cake rolled with a luscious cream filling, creating a beautiful centerpiece for your holiday table. With its elegant presentation and decadent flavors, this Yule log is sure to impress your guests and become a cherished tradition in your home.<\/p>"
+            "content": "<p>So I've made this chocolate yule log a few times now, and honestly, it's such a impressive! The aroma of fresh cocoa fills the kitchen, making everyone eager for a slice. It's like a soft, chocolatey cloud that melts in your mouth, with a creamy filling that just adds to the experience. Trust me, your family and friends will be asking for seconds!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick to prepare in just 30 minutes, making it perfect for holiday gatherings.<\/li><li>This Yule log brings restaurant-quality flavors right to your kitchen.<\/li><li>Ideal for festive occasions like Christmas or New Year’s Eve.<\/li><li>Simple ingredients come together to create a stunning dessert.<\/li><li>Budget-friendly yet impressive, it’s a crowd-pleaser that everyone will love.<\/li><li>Rich in flavor and visually stunning, it’s a dessert that will leave a lasting impression.<\/li><\/ul>"
+                "content": "<ul><li>30 minutes to prep. That's it.<\/li><li>Tastes like you spent hours, but you didn't.<\/li><li>My kids actually ask for this every holiday season (shocked!).<\/li><li>Chances are, you already have most of these ingredients at home.<\/li><li>Freezes well for future celebrations.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This chocolate Yule log holds a special place in my heart, as it reminds me of family gatherings during the holidays. I remember the first time I made it with my grandmother, who taught me the importance of patience and precision in baking. The aroma of chocolate wafting through the kitchen was intoxicating, and the joy on our family’s faces when we served it was priceless. It’s more than just a dessert; it’s a symbol of togetherness and celebration that I cherish every year.<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried this chocolate yule log at my Aunt Linda's Christmas party two years ago. The smell of warm chocolate filled the room, and I was immediately drawn to it. Linda said, \"You HAVE to try this, it's my special recipe!\" The first bite was good - soft chocolate rolled around creamy filling. Now, I make it every holiday season, and my kids can't get enough. Last year, my daughter said, \"Mom, this is the best dessert ever!\"<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>My first attempt? Total fail. I overbaked the cake by 5 minutes and it turned out dry, which was a bummer because I was so excited. Now I know to keep an eye on it - the cake should spring back when gently pressed. Keep an eye on it, trust me!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> The eggs in this recipe are crucial for creating a light and airy sponge. When shopping, look for fresh eggs, as they whip better and provide a richer flavor. Be sure to separate the yolks and whites carefully to avoid any contamination.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Unsweetened cocoa powder is essential for that deep chocolate flavor. Choose high-quality cocoa for the best results, as it significantly impacts the overall taste of the cake.<\/li><li><strong>Supporting ingredients:<\/strong> Heavy cream adds richness and a luxurious texture to the filling. Use cold cream for easier whipping, and consider chilling your mixing bowl for even better results.<\/li><li><strong>Smart substitutions:<\/strong> For a lighter version, you can substitute half of the heavy cream with Greek yogurt. Alternatively, for a gluten-free option, use a gluten-free flour blend in place of all-purpose flour.<\/li><li><strong>Equipment needed:<\/strong> A jelly roll pan is essential for baking the cake evenly. A hand mixer or stand mixer will make whipping the egg whites and cream much easier.<\/li><\/ul><\/p>"
-        },
-        {
-            "upload": {
-                "context": "Fresh ingredients for chocolate Yule log including eggs, cocoa powder, and cream arranged on a marble countertop ready for baking.",
-                "url": "decadent-chocolate-yule-log-for-festive-celebrations\/images\/decadent-chocolate-yule-log-for-festive-celebrations_image_1.webp"
-            }
+            "content": "<p><ul><li><strong>Main ingredient:<\/strong> Eggs are crucial here for that lift. I always use fresh, large eggs. They help your cake rise and give it that fluffy texture.<\/li><li><strong>Key seasonings:<\/strong> Cocoa powder brings out rich chocolate flavors. Brands like Ghirardelli are top-notch for this recipe.<\/li><li><strong>Supporting ingredients:<\/strong> Cream adds the needed richness and a silky texture to the filling. Heavy cream works best, I recommend Organic Valley.<\/li><li><strong>Smart substitutions:<\/strong> If you're out of heavy cream, you can use full-fat coconut milk for a dairy-free option. It'll give a different flavor but still delicious!<\/li><li><strong>Equipment needed:<\/strong> A KitchenAid mixer is my go-to for whipping egg whites. It makes it so much easier!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before diving into the baking process, it's essential to prepare your workspace. Gather all your ingredients and equipment, ensuring everything is at room temperature for optimal mixing. Preheat your oven to 350°F (175°C) and line your jelly roll pan with parchment paper, which will help the cake release easily after baking.<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by separating the eggs, placing the yolks in one bowl and the whites in another. Beat the yolks with sugar until thick and creamy. Sift together the flour, cocoa, salt, and baking powder, then fold into the yolk mixture. In another bowl, whip the egg whites until stiff peaks form, then gently incorporate them into the batter.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Pour the batter into the prepared pan, spreading it evenly. Bake for 20-25 minutes, watching for the cake to spring back when touched. Once baked, allow it to cool slightly before inverting onto a towel dusted with powdered sugar.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After rolling the cake in the towel to cool completely, whip the cream and spread it generously over the cake. Roll it back up carefully, then chill before serving. Dust with cocoa or powdered sugar for a festive finish.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "Rolling the chocolate Yule log cake with whipped cream filling in a clean kitchen towel on a countertop.",
-                "url": "decadent-chocolate-yule-log-for-festive-celebrations\/images\/decadent-chocolate-yule-log-for-festive-celebrations_image_2.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Ensure your oven is properly calibrated; an incorrect temperature can lead to a dry cake. Use an oven thermometer to check accuracy.<\/li><li><strong>Common mistake to avoid:<\/strong> Avoid overmixing the batter once the egg whites are added, as this can deflate the mixture and lead to a dense cake.<\/li><li><strong>Perfect doneness indicator:<\/strong> The cake should be springy to the touch and slightly pulling away from the sides of the pan when done.<\/li><li><strong>Storage & reheating:<\/strong> Wrap the Yule log tightly in plastic wrap and refrigerate for up to three days. For best flavor, serve chilled or at room temperature.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing this chocolate Yule log with family and friends is always a heartwarming experience. As I slice into the beautifully rolled cake, the creamy filling oozes out, and the rich chocolate aroma fills the air. Watching the smiles on my loved ones' faces as they take their first bite is priceless. It’s a dessert that not only satisfies the sweet tooth but also brings everyone together, creating cherished memories around the table.<\/p>"
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by preheating your oven to 350°F. Grab your baking pan and line it. This part is key because it keeps your cake from sticking.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Mix your ingredients carefully, and don't overmix after adding the flour. This helps keep it light and airy. Bake until it springs back when gently pressed.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once cooled, unroll and spread your filling evenly. Roll it back up without the towel this time, and dust with powdered sugar for a nice finish.<\/dd><\/dl><\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your chocolate Yule log, consider these flavor enhancements: <ul><li>Add a hint of espresso powder to the batter for a mocha twist that enhances the chocolate flavor.<\/li><li>Incorporate orange zest into the whipped cream for a refreshing citrus note that complements the richness.<\/li><li>For a nutty flavor, fold in finely chopped hazelnuts or almonds into the cream filling.<\/li><li>Experiment with different extracts, such as almond or peppermint, to create unique flavor profiles.<\/li><\/ul>These variations will make your Yule log even more exciting and personalized!<\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Mint can add a fresh twist. Use fresh mint leaves as a garnish to brighten the rich chocolate.<\/li><li><strong>Spices:<\/strong> A hint of cinnamon can warm up the flavor profile. Just a pinch! It adds a nice depth.<\/li><li><strong>Upgrades:<\/strong> Consider adding a layer of raspberry jam between the cake and the filling for a fruity contrast.<\/li><li><strong>Technique variations:<\/strong> For a gluten-free version, use almond flour instead of all-purpose flour. It changes the texture a bit but is still delicious.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your chocolate Yule log, consider these delightful pairings: <ul><li><strong>Side dishes:<\/strong> Serve with a light fruit salad or a scoop of vanilla ice cream to balance the richness of the cake.<\/li><li><strong>Beverage pairings:<\/strong> A cup of rich coffee or a glass of dessert wine pairs beautifully with the chocolate flavors.<\/li><li><strong>Bread\/starch options:<\/strong> Consider offering buttery croissants or a selection of festive cookies alongside for variety.<\/li><li><strong>Occasion ideas:<\/strong> This Yule log is perfect for Christmas dinner, New Year’s Eve parties, or any festive gathering.<\/li><li><strong>Presentation tips:<\/strong> Garnish the log with chocolate shavings and fresh berries for an elegant touch.<\/li><li><strong>Temperature serving note:<\/strong> Serve the Yule log chilled or at room temperature for the best flavor experience.<\/li><\/ul><\/p>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with a scoop of vanilla ice cream. That creamy contrast is just good.<\/li><li><strong>Beverage pairings:<\/strong> A rich red wine or even a hot cup of coffee complements the chocolate beautifully.<\/li><li><strong>Bread options:<\/strong> A slice of buttery brioche on the side can balance the sweetness.<\/li><li><strong>Occasion ideas:<\/strong> This yule log shines at Christmas gatherings and New Year's celebrations. It's a impressive on any dessert table.<\/li><li><strong>Presentation tips:<\/strong> Dust with extra powdered sugar and add a few holly leaves for a festive touch.<\/li><li><strong>Temperature serving note:<\/strong> Serve at room temperature for the best flavor experience.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations for your Yule log: <ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Use a gluten-free flour blend to maintain the cake's texture while accommodating gluten sensitivities.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute eggs with flaxseed meal and use coconut cream for the filling for a vegan-friendly version.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> Add a pinch of cinnamon and nutmeg for a warm spice profile, or incorporate matcha powder for a unique twist.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Instead of whipped cream, try using mascarpone cheese for a richer filling.<\/li><\/ul>These variations allow you to customize the Yule log to suit different tastes and dietary needs.<\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1:<\/strong> For gluten-free, swap the flour with a gluten-free blend. It works surprisingly well!<\/li><li><strong>Dietary adaptation 2:<\/strong> To make it vegan, use aquafaba instead of eggs and coconut cream for the filling.<\/li><li><strong>Flavor variation:<\/strong> Try adding espresso powder to the batter for a mocha twist. Just a teaspoon will do!<\/li><li><strong>Protein swap:<\/strong> Instead of the cream filling, use a whipped tofu mix for a lighter, dairy-free option.<\/li><\/ul><\/p>"
         },
         {
-            "upload": {
-                "context": "Beautifully plated chocolate Yule log garnished with chocolate shavings and fresh berries on a festive table setting.",
-                "url": "decadent-chocolate-yule-log-for-festive-celebrations\/images\/decadent-chocolate-yule-log-for-festive-celebrations_image_3.webp"
-            }
+            "headline": "Conclusion"
         },
         {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> To achieve a professional look, use a serrated knife to slice the log, ensuring clean edges.<\/li><li><strong>Ingredient prep secret:<\/strong> Chill your mixing bowl and beaters before whipping cream for optimal volume and stability.<\/li><li><strong>Timing strategy:<\/strong> Plan to make the Yule log a day ahead; it allows the flavors to meld beautifully overnight.<\/li><li><strong>Presentation hack:<\/strong> Use a fork to create bark-like patterns on the surface of the log for an authentic look.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>This chocolate Yule log is not just a dessert; it's a celebration of flavors and memories. With its rich chocolate and creamy filling, it’s bound to be a hit at any gathering. I encourage you to try making this delightful treat and share your experience in the comments. Don’t forget to post your photos on social media or save this recipe for your next festive occasion. Happy baking!<\/p>"
+            "content": "<p>Honestly, this chocolate yule log is worth every bit of effort. It's rich, satisfying, and brings everyone together during the holiday season. I can’t wait for you to try it! If you do, drop a comment or share your photos on social media. I’d love to see how yours turns out. Remember, this yule log is a treat that truly shines during celebrations!<\/p>"
         }
     ],
-    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "voice": "Practical Expert",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:21:28"
+    },
     "author_id": "author_001",
     "images": [
         {
@@ -157,6 +142,6 @@
     "image_dir": "decadent-chocolate-yule-log-for-festive-celebrations\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T19:06:12+01:00",
-    "updatedAt": "2025-12-13T19:06:12+01:00"
+    "createdAt": "2026-01-04T16:30:46+01:00",
+    "updatedAt": "2026-01-04T16:30:46+01:00"
 }

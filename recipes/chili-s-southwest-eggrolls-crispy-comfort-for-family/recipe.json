@@ -1,125 +1,112 @@
 {
-    "title": "Quick Cheesy Southwest Eggrolls Recipe",
-    "promptIMG": "Southwest eggrolls, beautifully arranged on a rustic wooden platter, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "title": "Crispy Southwest Eggrolls in 30 Minutes",
+    "promptIMG": "Professional food photography prompt: \"Crispy southwest eggrolls arranged on a colorful plate, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Delicious Southwest eggrolls ready in just 30 minutes! These crispy bites are packed with flavor and perfect for any gathering. Try them today!",
+    "description": "Crispy southwest eggrolls ready in just 30 minutes! Loaded with spicy chicken, black beans, and cheese, these bites are a hit for game night or casual gatherings. Save this recipe and try it today!",
+    "hashtags": "#southwesteggrolls #appetizers #easyrecipes #partyfood #snacktime",
     "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 15,
     "servings": 4,
     "ingredients": [
-        "1 cup shredded cooked chicken",
-        "1 cup black beans, rinsed and drained",
-        "1 cup corn kernels, fresh or frozen",
-        "1 cup shredded cheese (cheddar or Mexican blend)",
-        "1\/2 cup diced red bell pepper",
-        "1\/4 cup chopped green onions",
-        "1 teaspoon ground cumin",
+        "1 cup cooked chicken, shredded (I use rotisserie for ease)",
+        "1\/2 cup black beans, rinsed and drained",
+        "1\/2 cup corn, frozen or canned",
+        "1\/2 cup shredded cheese (I love Kerrygold cheddar)",
+        "1\/4 cup diced red bell pepper",
+        "1\/4 cup diced green onions",
         "1 teaspoon chili powder",
-        "1\/2 teaspoon garlic powder",
+        "1\/2 teaspoon cumin",
         "Salt and pepper to taste",
-        "8 eggroll wrappers",
-        "Oil for frying"
+        "1 package eggroll wrappers (found in the freezer section)",
+        "Oil for frying (canola or vegetable works great)"
     ],
     "instructions": [
-        "In a large bowl, combine the shredded chicken, black beans, corn, cheese, red bell pepper, and green onions. Mix well.",
-        "Add cumin, chili powder, garlic powder, salt, and pepper to the mixture and stir until evenly distributed.",
-        "Place an eggroll wrapper on a clean surface, spoon about 2 tablespoons of the filling onto the center, and roll tightly, sealing the edges with a little water.",
-        "Heat oil in a deep skillet over medium heat. Once hot, carefully add the eggrolls, frying until golden brown and crispy, about 3-4 minutes per side.",
-        "Remove the eggrolls and drain on paper towels to absorb excess oil.",
-        "Serve warm with your favorite dipping sauce."
+        "First off, heat up some oil in a deep pan over medium heat. You want it hot but not smoking, you know?",
+        "In a mixing bowl, combine shredded chicken, black beans, corn, cheese, red bell pepper, green onions, chili powder, cumin, and season with salt and pepper. Mix it all together. Seriously, it smells so good.",
+        "Now, grab an eggroll wrapper and place about 2 tablespoons of filling in the center. Fold the edges over and roll it tightly. You might wanna seal the edges with a little water.",
+        "Fry those bad boys in the hot oil for about 3-4 minutes on each side until they’re golden brown. Keep an eye on them - nobody wants a burned eggroll, right?",
+        "Once they’re cooked, place them on a paper towel to soak up any excess oil. Let them cool for a minute before serving."
     ],
-    "tips": "To ensure your eggrolls are crispy, make sure the oil is hot enough before frying; test with a small piece of wrapper. For a healthier version, consider baking the eggrolls at 400°F for 15-20 minutes, flipping halfway through. If you're short on time, pre-cooked rotisserie chicken works great as a filling. Avoid overfilling the wrappers to prevent them from bursting during frying. Store any leftovers in an airtight container in the fridge for up to 3 days, and reheat in the oven for best results.",
+    "tips": "When it comes to frying, you may wanna do it in batches to avoid overcrowding the pan. If you’re not into frying, these can also be baked! Preheat your oven to 425°F and place them on a baking sheet with a little oil spray. Bake for about 20 minutes, flipping halfway through. Trust me, they’ll still be crispy. If you want to spice things up, add some jalapeños or taco seasoning to the filling. And don’t forget the dipping sauce – a simple avocado or ranch dressing works wonders! Oh, and if you have leftovers (which is rare), store them in an airtight container in the fridge for up to 3 days. Reheat them in the oven for a crispy finish.",
     "image_keywords": [
         "appetizing",
         "delicious",
         "homemade",
-        "fresh",
+        "crispy",
         "colorful",
-        "comforting",
-        "family-friendly"
+        "snack"
     ],
     "structured_content": [
         {
-            "content": "<p>Experience the delightful crunch of Southwest eggrolls, filled with a medley of savory ingredients. These golden bites are not only visually appealing but also bursting with flavor, making them a perfect appetizer or snack. With a crispy exterior and a cheesy, hearty filling, they are sure to impress at any gathering. Easy to prepare in just 30 minutes, these eggrolls are a delicious way to bring restaurant-quality taste to your home kitchen.<\/p>"
+            "content": "<p>So I've made these southwest eggrolls a few times, and let me tell you, they’re crispy, flavorful, and downright addictive. The aroma of spices and melted cheese fills the kitchen, making it hard to resist sneaking one before they hit the table. They’re the kind of appetizer that’s gone in no time. Seriously, I’ve lost count of how many times my friends have devoured them!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 30 minutes - perfect for busy weeknights or last-minute gatherings.<\/li><li>Restaurant-quality flavors that will impress your family and friends.<\/li><li>Great for parties, game days, or casual get-togethers.<\/li><li>Simple ingredients that are easy to find and prepare.<\/li><li>Kid-approved and a fun way to get them involved in cooking.<\/li><li>Versatile filling options allow for customization based on your preferences.<\/li><\/ul>"
+                "content": "<ul><li>30 minutes from start to finish. Super quick!<\/li><li>Uses ingredients you probably already have (like, no joke).<\/li><li>Great for parties or just a cozy night in.<\/li><li>Kids love them (even my picky eater!).<\/li><li>Leftovers? They taste even better the next day!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>My love for Southwest eggrolls began during a family gathering where a friend brought a batch that disappeared within minutes. The crispy exterior and cheesy filling were a hit! I decided to recreate them at home, adding my own twist with black beans and corn. Now, they are a staple at our parties, and everyone eagerly awaits their arrival. The joy of sharing these delightful bites with loved ones brings a warm feeling that makes every gathering special.<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried these southwest eggrolls at my neighbor Sarah's Super Bowl party last February. The smell of fried goodness wafted through the house, and I was instantly hooked. Sarah said, \"You HAVE to try these!\" One bite, and I was like, \"What is this magic?\" Now I make them for every get-together. My husband literally requests them every month and says, \"Babe, these are the best!\"<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time I made these, I was too eager and overfilled the wrappers. Total disaster. They burst open in the hot oil, and I was left with a mess. Now I know to use just enough filling to keep them sealed tight. Lesson learned!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> Shredded cooked chicken is ideal for these eggrolls, providing a tender texture and rich flavor. Look for rotisserie chicken for convenience, and shred it finely for even distribution in the filling.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Cumin and chili powder are essential for adding depth and warmth to the filling. Use fresh spices for the best flavor, and adjust to your taste preference.<\/li><li><strong>Supporting ingredients:<\/strong> Black beans and corn contribute to the texture and moisture of the filling. Rinse the beans well to remove excess sodium, and use fresh corn for a sweet crunch.<\/li><li><strong>Smart substitutions:<\/strong> For a vegetarian option, swap the chicken for sautéed mushrooms or tofu. You can also use different types of cheese, like pepper jack for a spicy kick.<\/li><li><strong>Equipment needed:<\/strong> A deep skillet is essential for frying the eggrolls evenly. A pair of tongs will help you safely turn them in the hot oil.<\/li><\/ul><\/p>"
-        },
-        {
-            "upload": {
-                "context": "Fresh ingredients for Southwest eggrolls including chicken, black beans, corn, and spices arranged on a wooden cutting board.",
-                "url": "chili-s-southwest-eggrolls-crispy-comfort-for-family\/images\/chili-s-southwest-eggrolls-crispy-comfort-for-family_image_1.webp"
-            }
+            "content": "<p><strong>Main ingredient (protein\/base):<\/strong> Shredded chicken is key here. I usually grab a rotisserie chicken for convenience, but any cooked chicken works. Make sure it’s seasoned well, or you’ll miss that flavor punch. <strong>Key seasonings\/aromatics:<\/strong> Chili powder and cumin are my go-tos for a southwest kick. Try using brands like McCormick for consistent flavor. <strong>Supporting ingredients:<\/strong> Black beans and corn add texture and moisture. Rinsing the beans helps remove excess sodium, giving you a cleaner taste. <strong>Smart substitutions:<\/strong> If you’re out of chicken, you can swap in shredded beef or even tofu for a vegetarian option. Just make sure to adjust the spices accordingly! <strong>Equipment needed:<\/strong> You’ll need a deep frying pan or a Dutch oven for frying. My KitchenAid deep fryer is a game changer for frying evenly.<\/p>"
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before you start cooking, gather all your ingredients and tools to streamline the process. Chop your vegetables and measure out your spices to save time later. Preheat your oil in the skillet while you prepare the eggrolls, ensuring it reaches the right temperature for frying.<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by mixing the filling ingredients in a bowl. This can be done ahead of time, allowing the flavors to meld. Prepare your eggroll wrappers by laying them out on a clean surface.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once your oil is hot, carefully add the eggrolls in batches to avoid overcrowding. Fry them until they are beautifully golden brown, about 3-4 minutes per side. Keep an eye on them to prevent burning.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After frying, let the eggrolls drain on paper towels to remove excess oil. Serve them hot with your favorite dipping sauce, garnished with fresh herbs for an extra touch.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "Frying crispy Southwest eggrolls in a deep skillet with bubbling oil, showcasing the cooking process.",
-                "url": "chili-s-southwest-eggrolls-crispy-comfort-for-family\/images\/chili-s-southwest-eggrolls-crispy-comfort-for-family_image_2.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Maintaining the oil temperature around 350°F is crucial for achieving that perfect crispy texture. Use a thermometer to check, or drop a small piece of wrapper to see if it sizzles.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcrowding the skillet can lower the oil temperature, resulting in soggy eggrolls. Fry in small batches for the best results.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for a deep golden color and a satisfying crunch when you bite into the eggrolls. They should feel firm to the touch.<\/li><li><strong>Storage & reheating:<\/strong> Store leftover eggrolls in an airtight container in the fridge for up to 3 days. Reheat in the oven at 375°F for about 10 minutes to restore crispiness.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing these Southwest eggrolls with friends and family is always a highlight. The moment they take a bite and their eyes light up is priceless. I love watching everyone gather around, dipping their eggrolls into zesty sauces, and enjoying the crunchy texture and cheesy filling. It creates a warm atmosphere filled with laughter and good conversation, making each gathering memorable. These eggrolls have become a symbol of togetherness in our home.<\/p>"
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by gathering everything and prepping your ingredients. Chop the veggies and shred the chicken. This should take about 10 minutes. You can even prep the filling ahead of time and store it in the fridge!<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Heat oil in your pan until it’s hot enough for frying. You’ll know it’s ready when a drop of water sizzles. Carefully add the eggrolls one by one and fry until golden brown on both sides.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once they’re fried, let them rest on paper towels to absorb excess oil. Serve them hot with your favorite dipping sauce!<\/dd><\/dl><\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your Southwest eggrolls, consider these enhancements:<\/p><ul><li>Fresh cilantro adds a burst of herbal freshness. Chop it finely and mix it into the filling or sprinkle on top before serving.<\/li><li>Smoked paprika introduces a subtle smokiness that complements the spices. Use about 1\/2 teaspoon for a delightful twist.<\/li><li>For a gourmet touch, try adding diced jalapeños for heat or roasted red peppers for sweetness.<\/li><li>Experiment with cooking techniques by baking instead of frying for a healthier version, or try air frying for a crispy finish without the oil.<\/li><\/ul><p>These suggestions will inspire you to make the recipe your own!<\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Cilantro adds a fresh kick, sprinkle some on top right before serving.<\/li><li><strong>Spices:<\/strong> A dash of smoked paprika can enhance the flavor profile with a subtle smokiness. Just a pinch goes a long way!<\/li><li><strong>Upgrades:<\/strong> Try adding diced jalapeños for some heat or cream cheese for an extra creamy texture.<\/li><li><strong>Technique variations:<\/strong> Baking these instead of frying? Preheat your oven and bake at 425°F for about 20 minutes, flipping halfway through. They’ll still be crispy!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>These Southwest eggrolls pair beautifully with a variety of sides and drinks:<\/p><ul><li><strong>Side dishes:<\/strong> Serve with a fresh salad or guacamole for a refreshing contrast to the crispy eggrolls. A side of Mexican rice also complements the flavors well.<\/li><li><strong>Beverage pairings:<\/strong> A light lager or a refreshing margarita enhances the festive spirit of the meal, balancing the savory flavors of the eggrolls.<\/li><li><strong>Bread\/starch options:<\/strong> Consider serving with warm tortillas or crusty bread to soak up any leftover sauces.<\/li><li><strong>Occasion ideas:<\/strong> Perfect for game day, family gatherings, or casual get-togethers with friends.<\/li><li><strong>Presentation tips:<\/strong> Arrange the eggrolls on a colorful platter with dipping sauces in small bowls for an inviting display.<\/li><li><strong>Temperature serving note:<\/strong> Serve the eggrolls hot for the best flavor and texture experience.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with a side of guacamole or a fresh salsa for a flavor explosion.<\/li><li><strong>Beverage pairings:<\/strong> A cold beer or a fruity mocktail would complement these eggrolls nicely.<\/li><li><strong>Bread\/starch options:<\/strong> Pair with tortilla chips for an extra crunch.<\/li><li><strong>Occasion ideas:<\/strong> These are great for game nights or casual gatherings with friends.<\/li><li><strong>Presentation tips:<\/strong> Arrange them on a platter with colorful dipping sauces for a beautiful display.<\/li><li><strong>Temperature serving note:<\/strong> Best served hot, right out of the fryer!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations to keep your eggrolls fresh:<\/p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Use gluten-free eggroll wrappers and ensure all ingredients are certified gluten-free for a safe option.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute chicken with sautéed mushrooms or jackfruit, and use vegan cheese for a delicious plant-based version.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> For a spicy kick, add diced serrano peppers to the filling. For Mediterranean flavors, use feta cheese and spinach.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap chicken for shrimp or beef for a different protein experience, adjusting cooking times accordingly.<\/li><\/ul><p>These variations allow you to tailor the recipe to your taste and dietary needs!<\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1:<\/strong> For gluten-free, use rice paper wrappers instead of eggroll wrappers.<\/li><li><strong>Dietary adaptation 2:<\/strong> For a vegan version, swap the chicken for lentils and use vegan cheese.<\/li><li><strong>Flavor variation:<\/strong> Go spicy by adding sriracha to the filling for a kick!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Use ground turkey or shredded pork for a different twist.<\/li><\/ul><\/p>"
         },
         {
-            "upload": {
-                "context": "A beautifully plated dish of crispy Southwest eggrolls garnished with fresh herbs and served with dipping sauces on a vibrant table.",
-                "url": "chili-s-southwest-eggrolls-crispy-comfort-for-family\/images\/chili-s-southwest-eggrolls-crispy-comfort-for-family_image_3.webp"
-            }
+            "headline": "Pro Chef Secrets"
         },
         {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> For extra crunch, double fry the eggrolls by letting them cool after the first fry and then frying them again for a minute.<\/li><li><strong>Ingredient prep secret:<\/strong> Ensure your filling is not too wet; excess moisture can lead to soggy eggrolls. Drain ingredients well before mixing.<\/li><li><strong>Timing strategy:<\/strong> Prepare your filling in advance and store it in the fridge to allow the flavors to develop before wrapping.<\/li><li><strong>Presentation hack:<\/strong> Serve with a colorful array of dipping sauces to make the dish visually appealing and exciting for guests.<\/li><\/ul>"
-            }
+            "content": "<ul><li><strong>Restaurant technique:<\/strong> To get that perfect crunch, double fry the eggrolls. Fry once for cooking, then a second time for crispiness.<\/li><li><strong>Ingredient prep secret:<\/strong> Make sure your filling is cool before wrapping. It helps the wrappers seal better.<\/li><li><strong>Timing strategy:<\/strong> Keep an eye on the oil temperature; if it’s too hot, the outside will burn before the inside cooks.<\/li><li><strong>Presentation hack:<\/strong> Serve with a colorful array of sauces in small bowls to make it a fun experience!<\/li><\/ul>"
         },
         {
-            "content": "<p>Making these Southwest eggrolls is a rewarding experience that brings joy to any occasion. The combination of flavors and textures will delight your taste buds, and the ease of preparation makes it a go-to recipe for gatherings. I encourage you to try this recipe and share your experiences in the comments. Don’t forget to snap a photo and share it on social media! You’ll love how these eggrolls become a favorite in your home, just like they did in mine.<\/p>"
+            "content": "<p>Honestly, these southwest eggrolls are a must-try. They’re fun to make and even more fun to eat. Gather your family or friends around for a tasty treat, and don’t forget to take some pictures to share! I’d love to hear your thoughts, so drop a comment or share your eggroll photos on social media. Happy cooking!<\/p>"
         }
     ],
     "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "voice": "Practical Expert",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:21:43"
+    },
     "author_id": "author_001",
     "images": [
         {
@@ -159,6 +146,6 @@
     "image_dir": "chili-s-southwest-eggrolls-crispy-comfort-for-family\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-09T18:34:53+01:00",
-    "updatedAt": "2025-12-09T18:34:53+01:00"
+    "createdAt": "2026-01-04T16:30:32+01:00",
+    "updatedAt": "2026-01-04T16:30:32+01:00"
 }

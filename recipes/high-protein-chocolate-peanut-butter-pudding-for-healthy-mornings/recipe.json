@@ -1,119 +1,137 @@
 {
-    "id": "recipe_1763862502_164",
-    "slug": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings",
-    "title": "High-Protein Chocolate Peanut Butter Pudding for Healthy Mornings",
-    "promptIMG": "High-Protein Chocolate Peanut Butter Chia Seed Pudding, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "title": "Healthy Protein-Packed Morning Pudding Recipe",
+    "promptIMG": "Professional food photography prompt: \"healthy protein-packed morning pudding, served in a charming bowl, topped with fresh berries and nuts, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Transform your mornings with this indulgent yet healthy pudding! Packed with protein and rich flavors, it's a delightful way to start your day. Try it today for a nutritious boost!",
-    "category_id": "cat_1761230422_512",
-    "author_id": "author_001",
+    "description": "Start your day right with this healthy protein-packed pudding! Made with creamy Greek yogurt, oats, and a hint of honey, it’s a tasty way to fuel your morning. Great for meal prep or a quick breakfast! Save this recipe for later!",
+    "hashtags": "#morningpudding #healthyeating #breakfastideas #proteinpacked #easyrecipes",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
     "ingredients": [
-        "1 cup chia seeds",
-        "4 cups almond milk",
-        "1\/2 cup cocoa powder",
-        "1\/2 cup peanut butter",
-        "1\/4 cup honey or maple syrup",
-        "1 teaspoon vanilla extract",
-        "Pinch of salt"
+        "1 cup Greek yogurt (I prefer FAGE for its creaminess)",
+        "1\/2 cup rolled oats (Bob's Red Mill is my go-to)",
+        "1 tablespoon honey (or maple syrup if you're feeling fancy)",
+        "1\/2 cup almond milk (can use any milk you like)",
+        "1\/2 teaspoon vanilla extract",
+        "Fresh berries for topping (strawberries, blueberries, whatever you have)",
+        "Chopped nuts for crunch (almonds or walnuts work great)"
     ],
     "instructions": [
-        "In a large bowl, whisk together almond milk, cocoa powder, peanut butter, honey or maple syrup, vanilla extract, and salt until smooth.",
-        "Add chia seeds and stir well to combine.",
-        "Cover and refrigerate for at least 4 hours or overnight until thickened.",
-        "Stir again before serving and enjoy chilled."
+        "In a mixing bowl, combine the Greek yogurt, rolled oats, honey, almond milk, and vanilla extract. Stir it all together until smooth.",
+        "Let it sit for about 5 minutes so the oats can soak up some of that creamy goodness.",
+        "Divide the mixture into two bowls or jars. Cover them up and pop them in the fridge for at least an hour, or overnight if you're planning ahead.",
+        "When you're ready to eat, top with fresh berries and chopped nuts. Seriously, the crunch is unreal!",
+        "Dig in! It's like having dessert for breakfast, but you're totally winning at health."
     ],
-    "prep_time": 15,
-    "cook_time": 0,
-    "total_time": 15,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For the best texture, ensure chia seeds are evenly distributed and allow enough time for the pudding to set.",
+    "tips": "Honestly, this pudding is super flexible. You can switch up the yogurt for dairy-free options or add protein powder if you're looking for an extra boost. Don't skip letting it sit; it makes all the difference in texture! Also, if you’re short on time, just mix it up the night before. If you want to mix in flavors, consider a sprinkle of cinnamon or cocoa powder for a twist. And remember, the toppings? Pile them on – it's all about that texture! Oh, and I always make a double batch because it disappears faster than I can say 'breakfast!'",
+    "image_keywords": [
+        "healthy",
+        "protein",
+        "breakfast",
+        "pudding",
+        "fresh",
+        "creamy",
+        "berries"
+    ],
     "structured_content": [
         {
-            "content": "<p>This High-Protein Chocolate Peanut Butter Chia Seed Pudding is a game-changer for your breakfast routine! With its rich chocolate flavor and creamy texture, it’s not only delicious but also packed with nutrients to fuel your day.<\/p>"
+            "content": "<p>So I've made this pudding a bunch of times, and I gotta say, it never gets old. The creamy Greek yogurt combines with the oats to create this wonderfully smooth texture. And the best part? It's packed with protein, so you’ll feel full and ready to tackle your day. Plus, you can mix in your favorite toppings to make it your own! Trust me, once you try this, breakfast will never be boring again.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 15 minutes<\/li><li>Rich in protein and healthy fats<\/li><li>Perfect for busy mornings or as a satisfying snack<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be customized with your favorite toppings<\/li><\/ul>"
+                "content": "<ul><li>Ready in just 10 minutes. Seriously, that’s it!<\/li><li>The kids love it (even my picky one - shocking, right?).<\/li><li>Customizable toppings mean you can switch it up every morning.<\/li><li>Great for meal prep - make it on Sunday and enjoy all week.<\/li><li>Fills you up without weighing you down.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made this pudding; it was a rainy morning, and I needed something comforting yet nutritious. The combination of chocolate and peanut butter brought a smile to my face, and it quickly became a family favorite!<\/p>"
+            "headline": "My Story With This Recipe"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "content": "<p>I first tried this at my friend Rachel's house last January. It was a chilly Saturday morning, and the smell of vanilla wafting through her kitchen caught my attention. Rachel said, \"You HAVE to try this pudding - it's my new breakfast obsession!\" I was skeptical at first, but after that first bite? I was hooked. Now I make it every weekend for my family. My husband even said, \"This is way better than pancakes!\"<\/p>"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Chia seeds are the star here, providing a wonderful texture and health benefits.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cocoa powder adds rich chocolate flavor, while vanilla extract enhances the overall taste.<\/li><li><strong>Supporting ingredients:<\/strong> Almond milk keeps it dairy-free and light, while peanut butter adds creaminess and protein.<\/li><li><strong>Equipment needed:<\/strong> A large bowl for mixing and a whisk for blending.<\/li><\/ul>"
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time I made this, I skipped the resting time. Total disaster! The oats were still crunchy, and honestly, it was a letdown. Now I know letting it sit is key – it’s all about that creamy, dreamy texture.<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><ul><li><strong>Main ingredient:<\/strong> Greek yogurt is what gives this pudding its creamy base. Look for one with a high protein content, like FAGE, for the best results. It also helps keep you full longer.<\/li><li><strong>Key seasonings:<\/strong> Vanilla extract adds warmth and sweetness, making the pudding taste luxurious. Just a splash can transform the flavor!<\/li><li><strong>Supporting ingredients:<\/strong> Rolled oats add texture and fiber, making this pudding not just tasty but filling too. They soak up the liquid beautifully.<\/li><li><strong>Smart substitutions:<\/strong> You can use coconut yogurt for a dairy-free version or swap the honey for agave syrup for a vegan-friendly option.<\/li><li><strong>Equipment needed:<\/strong> A mixing bowl and a whisk are all you really need here. But I love using my KitchenAid mixer for a bit of extra creaminess.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Preparation of chia seeds and other ingredients for pudding.",
-                "url": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_1.webp",
-                "fileName": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_1.webp",
-                "type": "main"
+                "context": "Fresh Greek yogurt, rolled oats, almond milk, and honey arranged on kitchen counter, ready for pudding preparation",
+                "url": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by whisking all the wet ingredients together until smooth, ensuring there are no lumps from the cocoa powder.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Mix in the chia seeds thoroughly and let the mixture sit to absorb the liquid.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Once thickened, stir again and serve with your favorite toppings like fresh fruit or nuts.<\/dd><\/dl>"
+            "content": "<p>Preparation is super easy. Start by measuring out your ingredients and whisking them together in a bowl. It only takes about 5 minutes. If you're short on time, prepare it the night before. The cooking part? There’s none! Just let it chill. The final touch? Add your toppings right before serving for the best crunch. It’s that simple!<\/p>"
         },
         {
             "upload": {
-                "context": "Cooking process of the pudding mixture in the bowl.",
-                "url": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_2.webp",
-                "fileName": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_2.webp",
-                "type": "main"
+                "context": "Mixing Greek yogurt and oats in a bowl with a whisk on a kitchen countertop",
+                "url": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Letting the pudding sit overnight yields the best texture.<\/li><li>A common mistake is not stirring well enough, which can lead to clumping.<\/li><li>It’s ready when it has a thick, pudding-like consistency.<\/li><li>Store in the fridge for up to 5 days; it can be enjoyed cold or at room temperature.<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Always let the pudding chill in the fridge. It helps the oats soften up and absorb the flavors.<\/li><li><strong>Common mistake to avoid:<\/strong> Skipping the resting time will leave you with a less-than-ideal texture. Trust me on this!<\/li><li><strong>Perfect doneness indicator:<\/strong> You'll know it's ready when it’s thick and creamy, with no graininess.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Just give it a good stir before enjoying!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This pudding has become a staple in my home, especially when shared with friends on lazy weekends. The joy of enjoying a healthy treat together makes it even more special!<\/p>"
+            "content": "<p>Sharing this pudding with friends is always a treat! I remember serving it at a brunch last spring, and everyone couldn't get enough. The compliments flowed, and I felt so proud. Watching them enjoy that creamy texture and fresh toppings made my morning. Plus, it’s such a simple way to bring people together over a healthy meal.<\/p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Try adding a sprinkle of cinnamon or a dash of espresso powder for an extra flavor kick. You can also swap peanut butter for almond or cashew butter for a different twist!<\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Try adding mint for a refreshing twist. Just a few leaves chopped finely can brighten up the flavor.<\/li><li><strong>Spices:<\/strong> A dash of cinnamon warms everything up. Use about 1\/4 teaspoon for a subtle kick.<\/li><li><strong>Upgrades:<\/strong> Want to amp it up? Add a scoop of protein powder for an extra boost!<\/li><li><strong>Technique variations:<\/strong> Blend the mixture for a smoother texture if that's your style.<\/li><\/ul><\/p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Pair this pudding with fresh berries, granola, or a dollop of yogurt for a complete breakfast or snack. It also goes well with a cup of coffee or herbal tea.<\/p>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Pair with a light fruit salad for a refreshing contrast. It balances the richness of the pudding beautifully.<\/li><li><strong>Beverage pairings:<\/strong> A nice cup of herbal tea complements this dish well, especially chamomile or mint.<\/li><li><strong>Bread options:<\/strong> Whole grain toast with avocado can round out the meal nicely.<\/li><li><strong>Occasion ideas:<\/strong> This pudding shines at brunches or lazy weekend mornings with family.<\/li><li><strong>Presentation tips:<\/strong> Layer the pudding in a clear jar for a pretty look. Add fresh mint leaves for a pop of color.<\/li><li><strong>Temperature serving note:<\/strong> Serve chilled for the best experience!<\/li><\/ul><\/p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>For a vegan option, use maple syrup instead of honey. You can also experiment with different nut butters or add protein powder for an extra boost!<\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1:<\/strong> For gluten-free, use certified gluten-free oats, and you’re good to go!<\/li><li><strong>Dietary adaptation 2:<\/strong> To make it vegan, switch the Greek yogurt for coconut yogurt and the honey for maple syrup.<\/li><li><strong>Flavor variation:<\/strong> For a tropical twist, add shredded coconut and pineapple chunks.<\/li><li><strong>Protein swap:<\/strong> Use cottage cheese instead of yogurt for a different texture and flavor profile.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Final plated dish of the pudding with toppings.",
-                "url": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_3.webp",
-                "fileName": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_3.webp",
-                "type": "main"
+                "context": "Deliciously plated morning pudding topped with fresh berries and nuts, served on a rustic wooden table",
+                "url": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_3.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Blend the almond milk and peanut butter for an ultra-smooth texture.<\/li><li>Let the pudding sit longer for a creamier consistency.<\/li><li>Use a clear glass to showcase the beautiful layers if adding toppings.<\/li><li>Garnish with a sprinkle of cocoa powder for an elegant touch.<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For extra creaminess, blend the yogurt and oats until smooth before chilling.<\/li><li><strong>Ingredient prep secret:<\/strong> Always use fresh ingredients for the best flavor, especially the berries.<\/li><li><strong>Timing strategy:<\/strong> If you're making a double batch, let it sit overnight for the best results.<\/li><li><strong>Presentation hack:<\/strong> Add a drizzle of honey on top right before serving for that wow factor.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Enjoy making this delicious pudding and feel proud of creating a healthy treat that everyone will love. Happy cooking!<\/p>"
+            "content": "<p>Honestly, you need to try this pudding! It’s not just healthy; it’s satisfying and delicious. Whether you’re meal prepping or just want a quick breakfast, this recipe has your back. Don't forget to share your thoughts in the comments or snap a pic and tag me on social media! Let's make mornings more fun with this protein-packed pudding!<\/p>"
         }
     ],
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "voice": "Enthusiastic Friend",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:23:00"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_1.webp",
@@ -145,11 +163,13 @@
             "type": "template"
         }
     ],
+    "slug": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings",
+    "id": "recipe_1763862502_164",
     "image": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_1.webp",
     "image_path": "recipes\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images\/high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings_image_1.webp",
     "image_dir": "high-protein-chocolate-peanut-butter-pudding-for-healthy-mornings\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-23T02:53:29+01:00",
-    "updatedAt": "2025-11-23T02:53:29+01:00"
+    "createdAt": "2026-01-04T16:29:23+01:00",
+    "updatedAt": "2026-01-04T16:29:23+01:00"
 }

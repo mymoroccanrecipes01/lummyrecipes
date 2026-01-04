@@ -1,123 +1,111 @@
 {
-    "title": "Effortless Creamy Chicken Delight (One-Pot Meal)",
-    "promptIMG": "\"Crockpot Marry Me Chicken, beautifully arranged in a rustic ceramic dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Creamy One-Pot Chicken Dish for Family Dinners",
+    "promptIMG": "Professional food photography prompt: \"Creamy one-pot chicken dish, beautifully arranged in a rustic bowl, natural food photography, vibrant colors, warm kitchen ambiance, with fresh herbs and spices scattered around, inviting presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Whip up a creamy chicken dish in just one pot! This recipe combines rich flavors that will impress anyone. Perfect for cozy family dinners!",
+    "description": "You gotta try this creamy one-pot chicken dish! It's loaded with rich flavors and comforting textures that make family dinners feel special. Made with simple ingredients, it’s a breeze to whip up. Save this recipe for your next cozy night in!",
+    "hashtags": "#creamychickendish #familydinners #easyrecipes #comfortfood #onepotmeal",
     "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 30,
     "servings": 4,
     "ingredients": [
-        "4 boneless, skinless chicken breasts",
-        "1 cup heavy cream",
+        "1 lb chicken breast, diced",
+        "2 tablespoons Kerrygold butter",
         "1 cup chicken broth",
-        "1 cup sun-dried tomatoes, chopped",
-        "1 cup spinach, fresh or frozen",
+        "1 cup heavy cream",
+        "2 cups broccoli florets",
         "1 teaspoon garlic powder",
-        "1 teaspoon Italian seasoning",
         "Salt and pepper to taste",
-        "1 tablespoon olive oil",
-        "Fresh basil for garnish"
+        "1 cup cooked pasta (optional)",
+        "Fresh parsley for garnish"
     ],
     "instructions": [
-        "In a large skillet, heat olive oil over medium heat. Season the chicken breasts with salt, pepper, garlic powder, and Italian seasoning.",
-        "Sear the chicken for about 5-7 minutes on each side until golden brown. Remove from skillet and set aside.",
-        "In the same skillet, add chicken broth and bring to a simmer. Stir in the heavy cream and sun-dried tomatoes, mixing well.",
-        "Return the chicken to the skillet, cover, and let it simmer for 15-20 minutes until the chicken is cooked through and the sauce thickens.",
-        "Add spinach in the last 5 minutes of cooking, allowing it to wilt. Adjust seasoning if needed.",
-        "Serve hot, garnished with fresh basil."
+        "Start by melting Kerrygold butter in a large pot over medium heat. It's gonna smell SO good!",
+        "Add the diced chicken and season with salt, pepper, and garlic powder. Cook until browned, about 5-7 minutes.",
+        "Pour in the chicken broth and bring it to a gentle simmer. Let it bubble for about 10 minutes to soak up all those flavors.",
+        "Stir in the heavy cream and broccoli florets. Cook for another 5-7 minutes until the broccoli is tender and the sauce is creamy.",
+        "If you wanna make it heartier, toss in the cooked pasta now and stir until everything is well mixed.",
+        "Garnish with fresh parsley before serving. Seriously, you’re gonna love how it looks!"
     ],
-    "tips": "To ensure your chicken remains juicy, avoid overcooking it; use a meat thermometer to check for an internal temperature of 165°F. When selecting sun-dried tomatoes, opt for those packed in oil for added flavor. If using frozen spinach, make sure to thaw and drain it well to prevent excess moisture in the dish. For storage, keep leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on the stove or in the microwave, adding a splash of broth if the sauce thickens too much.",
+    "tips": "When it comes to cooking chicken, make sure it’s cut into even pieces so everything cooks evenly. I always check the internal temp – it should hit 165°F. If you want to spice things up, add some red pepper flakes for a kick. And don’t forget, leftovers taste even better the next day! Store any extras in an airtight container for up to 3 days. Reheat gently on the stove, adding a splash of broth if it’s too thick. Pro tip: If your sauce is too thin, let it simmer a bit longer to thicken up. Trust me, you’ll want that creamy goodness!",
     "image_keywords": [
         "appetizing",
-        "delicious",
+        "creamy",
         "homemade",
-        "fresh",
         "colorful",
         "comforting",
         "family-friendly"
     ],
     "structured_content": [
         {
-            "content": "<p>Indulge in the creamy goodness of this Crockpot Marry Me Chicken, a dish that promises to tantalize your taste buds! The aroma of sun-dried tomatoes and garlic fills the air, while the tender chicken simmers in a luscious sauce. This recipe is not only simple but also elevates any meal into a special occasion, making it a perfect choice for busy weeknights or intimate gatherings.<\/p>"
+            "content": "<p>So I've made this creamy one-pot chicken dish a few times now, and let me tell you – it’s a game changer for weeknight dinners! The aroma of the garlic and butter fills the kitchen, making your mouth water before you even sit down. Imagine tender chicken simmering in a rich, creamy sauce with vibrant green broccoli. It’s not just a meal; it’s a hug in a bowl!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 30 minutes - perfect for busy families looking for a delicious meal.<\/li><li>Experience restaurant-quality flavors right at home with minimal effort.<\/li><li>Ideal for cozy dinners, date nights, or impressing guests at gatherings.<\/li><li>Made with simple ingredients that are easy to find, making it budget-friendly.<\/li><li>This dish is a crowd-pleaser, sure to satisfy even the pickiest eaters!<\/li><\/ul>"
+                "content": "<ul><li>30 minutes total – that's it!<\/li><li>Rich and creamy without the fuss (seriously!)<\/li><li>My neighbor Susan loves it (she's picky!)<\/li><li>Everything’s in one pot, so cleanup is a breeze.<\/li><li>Leftovers? Tastes even better!<\/li><li>Great for cozy family dinners or meal prep.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This recipe holds a special place in my heart. I first discovered it during a family gathering, where the aroma wafted through the house, drawing everyone to the kitchen. As we sat down to enjoy the meal, the compliments flowed as freely as the laughter. It’s a dish that brings people together, creating memories around the table, and I love sharing it with friends and family, knowing it will delight their taste buds.<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried this creamy chicken dish at my friend Anna's place last October during a cozy dinner party. The smell of garlic and butter wafted through the air as I walked in. Anna said, \"You have to try this – it’s a hit with my kids!\" First bite? I was hooked! Now, I whip it up for my family every Friday night, and my husband Dave always says, \"This is the best!\"<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>The first time I made this, I totally overcooked the chicken – it was dry and sad. I learned that you gotta keep an eye on it. Now, I check it around the 5-minute mark to make sure it stays juicy. Real talk, timing matters!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><ul><li><strong>Main ingredient (protein\/base):<\/strong> Chicken breasts are ideal for this dish due to their tenderness and ability to absorb flavors. Look for fresh, high-quality cuts for the best results. Searing them first adds a beautiful golden crust.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Garlic powder and Italian seasoning are essential for building depth in flavor. They enhance the dish's aroma and complement the creaminess of the sauce beautifully.<\/li><li><strong>Supporting ingredients:<\/strong> Sun-dried tomatoes add a burst of tangy sweetness, while spinach contributes color and nutritional value. Both ingredients elevate the dish's visual appeal and taste.<\/li><li><strong>Smart substitutions:<\/strong> For a lighter version, use chicken thighs instead of breasts, or substitute heavy cream with coconut milk for a dairy-free option. Both will alter the flavor profile slightly but still yield delicious results.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for searing the chicken and simmering the sauce, while a meat thermometer ensures perfectly cooked chicken every time.<\/li><\/ul><\/p>"
-        },
-        {
-            "upload": {
-                "context": "Fresh chicken breasts, sun-dried tomatoes, and creamy ingredients beautifully arranged on a wooden countertop for preparation.",
-                "url": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_1.webp"
-            }
+            "content": "<p><ul><li><strong>Main ingredient:<\/strong> Chicken breast is great here – look for organic if you can. It keeps the dish tender and juicy. Cut it into even pieces for quicker cooking!<\/li><li><strong>Key seasonings:<\/strong> Garlic powder adds depth. I sometimes use fresh garlic if I have it on hand. It transforms the dish!<\/li><li><strong>Supporting ingredients:<\/strong> Broccoli not only adds color, but also texture. You can use frozen if you're in a pinch!<\/li><li><strong>Smart substitutions:<\/strong> Try using turkey instead of chicken for a lighter option. Heavy cream can be swapped with half-and-half, but it won’t be as rich.<\/li><li><strong>Equipment needed:<\/strong> A large pot is essential – I use my trusty KitchenAid, and it makes everything easier.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Preparation is key to a smooth cooking experience. Start by gathering all your ingredients and measuring them out. Preheat your skillet over medium heat while you season the chicken. This ensures everything is ready to go, making the process seamless.<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Chop the sun-dried tomatoes and measure out the cream and broth. Season the chicken breasts generously with salt, pepper, garlic powder, and Italian seasoning. This can be done up to an hour in advance for enhanced flavor.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once your chicken is seared, add the broth and cream to the skillet. Bring it to a gentle simmer, then return the chicken to the pan. Cover and let it cook until the chicken is tender and the sauce is thickened, about 15-20 minutes.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>In the last few minutes, stir in the spinach until wilted. This adds a vibrant color and boosts the nutritional value. Serve the dish hot, garnished with fresh basil for a pop of flavor.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "Searing chicken breasts in a large skillet, with sun-dried tomatoes and cream bubbling in the background.",
-                "url": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_2.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Cooking chicken to an internal temperature of 165°F ensures it's safe to eat. Use a meat thermometer to check the thickest part of the breast for accuracy.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking the chicken can lead to dryness. Keep an eye on the cooking time and check for doneness early.<\/li><li><strong>Perfect doneness indicator:<\/strong> The chicken should be juicy and no longer pink in the center, with a slight golden crust on the outside.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on the stove or in the microwave, adding a splash of broth to maintain creaminess.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing this dish with loved ones is always a joy. The moment I set the table and serve the creamy chicken, I can see the excitement on their faces. As they take their first bite, the smiles say it all. It’s a dish that sparks conversation and laughter, creating a warm atmosphere that feels like home. I cherish these moments, knowing that food has the power to bring us together.<\/p>"
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by chopping your chicken and broccoli. Measure out your ingredients, and get everything ready. It helps to have everything prepped beforehand, so you’re not scrambling while cooking!<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Heat the pot over medium heat – it should be hot but not smoking. Cook the chicken until golden and cooked through. Add the broth and cream, stirring well.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once the broccoli is tender and the sauce is creamy, serve it up hot in bowls. Maybe add some extra parsley for a pop of color!<\/dd><\/dl><\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Enhance your Crockpot Marry Me Chicken with these ideas:<\/p><ul><li>Fresh herbs like thyme or rosemary can be added during cooking for an aromatic boost. Add them in the last 10 minutes to preserve their flavor.<\/li><li>For a spicy kick, consider adding red pepper flakes to the sauce. Start with a pinch and adjust to your heat preference.<\/li><li>Upgrade your dish by incorporating mushrooms or artichokes for added texture and flavor complexity. Sauté them with the chicken for best results.<\/li><li>Try a different cooking method by grilling the chicken for a smoky flavor or baking it in the oven for a crispy finish.<\/li><\/ul><p>These enhancements allow for personalization, making the dish uniquely yours!<\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh thyme adds a lovely aroma. Add it in with the broth for maximum flavor.<\/li><li><strong>Spices:<\/strong> A pinch of paprika can bring a smoky kick. Use about 1\/2 teaspoon for a warm note.<\/li><li><strong>Upgrades:<\/strong> Want it fancy? Toss in some sun-dried tomatoes for a burst of flavor!<\/li><li><strong>Technique variations:<\/strong> You could grill the chicken first for a different flavor profile. Just cut it into strips before grilling.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your creamy chicken, consider these pairing options:<\/p><ul><li><strong>Side dishes:<\/strong> Creamy mashed potatoes or garlic bread are perfect for soaking up the delicious sauce. Alternatively, serve with a fresh garden salad for a light contrast.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine, such as Sauvignon Blanc, pairs beautifully with the richness of the dish. For a non-alcoholic option, try sparkling water with a slice of lemon.<\/li><li><strong>Bread\/starch options:<\/strong> Crusty baguette or buttery dinner rolls are excellent choices to accompany the meal, enhancing the dining experience.<\/li><li><strong>Occasion ideas:<\/strong> This dish is perfect for family gatherings, romantic dinners, or even potlucks, where it can shine as a crowd-pleaser.<\/li><li><strong>Presentation tips:<\/strong> Serve in a shallow bowl with a sprinkle of fresh basil on top for a pop of color and a touch of elegance.<\/li><li><strong>Temperature serving note:<\/strong> Serve the dish hot for the best flavor and texture, ensuring a delightful experience for your guests.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with a side of garlic bread – it’s a match made in heaven.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine like Sauvignon Blanc works wonders here.<\/li><li><strong>Bread options:<\/strong> Crusty baguette is perfect for sopping up that creamy sauce!<\/li><li><strong>Occasion ideas:<\/strong> This dish shines at family gatherings or cozy weeknights.<\/li><li><strong>Presentation tips:<\/strong> Serve in rustic bowls for that homey feel!<\/li><li><strong>Temperature serving note:<\/strong> It’s best served warm, right off the stove.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations of the dish:<\/p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> Use gluten-free chicken broth and ensure all other ingredients are certified gluten-free for a safe option.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute chicken with tofu or chickpeas, and replace heavy cream with coconut cream for a rich, dairy-free alternative.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean, Asian-inspired):<\/strong> For a Mediterranean twist, add olives and feta cheese, or for an Asian flair, incorporate soy sauce and sesame oil.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Try using pork tenderloin or turkey cutlets for a different protein option that still works well with the creamy sauce.<\/li><\/ul><p>These variations allow you to enjoy the dish in new and exciting ways!<\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation:<\/strong> For gluten-free, use gluten-free pasta or skip it altogether. It’s still hearty!<\/li><li><strong>Vegan option:<\/strong> Swap chicken for chickpeas and use coconut cream for a dairy-free version.<\/li><li><strong>Flavor variation:<\/strong> Try a Mexican twist with taco seasoning and corn!<\/li><li><strong>Protein swap:<\/strong> Shrimp works great too – just cook for less time!<\/li><\/ul><\/p>"
         },
         {
-            "upload": {
-                "context": "A beautifully plated bowl of creamy chicken, garnished with fresh basil, served on a rustic wooden table.",
-                "url": "creamy-marry-me-chicken-for-family\/images\/creamy-marry-me-chicken-for-family_image_3.webp"
-            }
+            "headline": "Pro Chef Secrets"
         },
         {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> For an elevated flavor, consider marinating the chicken in the seasonings for a few hours before cooking. This enhances the depth of flavor.<\/li><li><strong>Ingredient prep secret:<\/strong> Searing the chicken before simmering locks in moisture and creates a delicious crust that adds texture to the dish.<\/li><li><strong>Timing strategy:<\/strong> Plan to prep your ingredients in advance to streamline the cooking process, allowing you to focus on perfecting the sauce.<\/li><li><strong>Presentation hack:<\/strong> Use a ring mold to plate the chicken and sauce for a restaurant-style presentation that impresses guests.<\/li><\/ul>"
-            }
+            "content": "<ul><li><strong>Restaurant technique:<\/strong> Searing your chicken first gives it that lovely color and flavor. Trust me, it’s worth the extra step!<\/li><li><strong>Ingredient prep secret:<\/strong> Let your cream sit out for a bit before using. It blends better when it's not cold!<\/li><li><strong>Timing strategy:<\/strong> Always prep your ingredients before cooking. It makes the process smoother!<\/li><li><strong>Presentation hack:<\/strong> Drizzle a bit of extra cream on top before serving for that restaurant vibe.<\/li><\/ul>"
         },
         {
-            "content": "<p>This Crockpot Marry Me Chicken is a must-try for anyone looking to impress with minimal effort. The creamy sauce and tender chicken create a delightful experience that’s perfect for any occasion. I invite you to try this recipe and share your thoughts in the comments. Don’t forget to post your photos on social media or save it on Pinterest for later. Enjoy the deliciousness of this creamy chicken dish!<\/p>"
+            "content": "<p>Honestly, this creamy one-pot chicken dish is a must-try for any busy weeknight. It’s warm, comforting, and packed with flavor. Don't forget to share your experience in the comments and maybe snap a pic for Instagram! Can't wait for you to make it – it’s gonna be a hit in your house too!<\/p>"
         }
     ],
-    "category_id": "cat_1761230383_494",
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "voice": "Enthusiastic Friend",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:19:55"
+    },
     "author_id": "author_001",
     "images": [
         {
@@ -157,6 +145,6 @@
     "image_dir": "creamy-marry-me-chicken-for-family\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T20:14:12+01:00",
-    "updatedAt": "2025-12-13T20:14:12+01:00"
+    "createdAt": "2026-01-04T16:30:49+01:00",
+    "updatedAt": "2026-01-04T16:30:49+01:00"
 }

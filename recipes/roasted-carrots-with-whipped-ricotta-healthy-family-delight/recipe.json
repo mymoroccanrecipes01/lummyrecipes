@@ -1,120 +1,113 @@
 {
-    "id": "recipe_1763862401_969",
-    "slug": "roasted-carrots-with-whipped-ricotta-healthy-family-delight",
-    "title": "Roasted Carrots with Whipped Ricotta - Healthy Family Delight",
-    "promptIMG": "Roasted carrots with whipped ricotta and hot honey, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "title": "Roasted Carrots with Whipped Ricotta and Hot Honey Recipe",
+    "promptIMG": "Professional food photography prompt: \"Roasted carrots with whipped ricotta and hot honey, beautifully plated on a rustic wooden board, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "These roasted carrots with whipped ricotta and hot honey are a delightful blend of flavors and textures. The creamy ricotta paired with the sweetness of honey elevates this dish to a new level. Try this easy recipe for a healthy family meal that everyone will love!",
-    "category_id": "cat_1761230636_499",
-    "author_id": "author_001",
+    "description": "Looking for a simple yet impressive dish? These roasted carrots with whipped ricotta and a drizzle of hot honey are it! Super easy to whip up, they make a great side for any meal. Trust me, your family will be asking for seconds! Pin this recipe for later!",
+    "hashtags": "#roastedcarrots #whippedricotta #healthyrecipes #easydinner #vegetables",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
     "ingredients": [
         "1 pound carrots, peeled and cut into sticks",
         "2 tablespoons olive oil",
-        "1 cup ricotta cheese",
-        "2 tablespoons honey",
         "Salt and pepper to taste",
-        "Red pepper flakes for garnish"
+        "1 cup ricotta cheese, preferably from Organic Valley",
+        "2 tablespoons honey, plus extra for drizzling",
+        "1 teaspoon chili flakes (adjust to your heat preference)",
+        "Fresh parsley for garnish"
     ],
     "instructions": [
-        "Preheat the oven to 425°F (220°C).",
-        "Toss the carrots with olive oil, salt, and pepper on a baking sheet.",
-        "Roast the carrots for 25-30 minutes until tender and caramelized.",
-        "While the carrots are roasting, whip the ricotta cheese until smooth.",
-        "Drizzle honey into the whipped ricotta and mix until combined.",
-        "Serve the roasted carrots topped with the whipped ricotta and a sprinkle of red pepper flakes."
+        "Preheat your oven to 400°F (200°C). Line a baking sheet with parchment paper. Seriously, it makes cleanup a breeze.",
+        "Toss the carrot sticks in a bowl with olive oil, salt, and pepper. Make sure they're well-coated because flavor is key here.",
+        "Spread the carrots on the baking sheet in a single layer. Roast them for about 25-30 minutes, turning halfway until they're browned and tender.",
+        "While those are roasting, whip up the ricotta. Just throw it in a bowl with honey and a pinch of salt. Use a fork or a hand mixer (my KitchenAid works wonders) until it's smooth and creamy.",
+        "Once the carrots are done, drizzle them with hot honey and sprinkle chili flakes on top. Plate them up with a dollop of the whipped ricotta and garnish with fresh parsley. It's gonna look gorgeous!"
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect results, ensure the carrots are evenly cut for uniform cooking. Don't skip the red pepper flakes for a delightful kick!",
+    "tips": "OK, so here are some pro tips to really nail this dish:\n1. **Ingredient quality matters**: Use fresh carrots for that sweet flavor. I like to grab mine from Whole Foods.\n2. **Honey choice**: Use a good quality honey. I swear by local honey for the best taste.\n3. **Don’t skip the turning**: Flip those carrots halfway through roasting. It makes all the difference for even cooking.\n4. **Make ahead**: You can prep the carrots and ricotta a day in advance. Just roast them right before serving.\n5. **Adjust to your taste**: If you're not into spicy, skip the chili flakes. But if you love a kick, double the amount!\n",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>This roasted carrots with whipped ricotta and hot honey recipe is a vibrant and flavorful dish that brings together the sweetness of carrots and the creaminess of ricotta. The addition of hot honey adds a delightful twist, making it a perfect side for any meal.<\/p>"
+            "content": "<p>So I've made these roasted carrots with whipped ricotta and hot honey a few times now, and let me tell you, they are a game changer! The sweetness of the carrots combined with the creaminess of the ricotta creates this harmony that just hits the spot. And when you drizzle that spicy honey on top? It’s like a flavor explosion! Seriously, these are not your average roasted veggies. They look stunning on the table, too!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for adding a healthy twist to your meals<\/li><\/ul>"
+                "content": "<ul><li>30 minutes from start to finish. That's it.<\/li><li>Tastes way more gourmet than it is (trust me).<\/li><li>You probably have most ingredients already!<\/li><li>My neighbor Susan was shocked at how good these are.<\/li><li>Leftovers? They taste even better the next day.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I remember making this dish for a family gathering, and everyone was surprised by how delicious and simple it was. The combination of flavors was a hit, and it quickly became a favorite!<\/p>"
+            "headline": "My Story With This Recipe"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "content": "<p>I first tried this at my friend Anna’s dinner party last October. The smell of roasted carrots filled her kitchen, and I was instantly intrigued. Anna said, \"You have to try these, they’re so easy!\" First bite? The carrots were tender and sweet, with that creamy ricotta contrasting perfectly. Now I make them for my family every week. My son, who usually avoids vegetables, said, \"Mom, these are actually good!\" What a win!<\/p>"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Carrots are naturally sweet and caramelize beautifully when roasted, enhancing their flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Olive oil, salt, and pepper are essential for bringing out the carrots' natural sweetness.<\/li><li><strong>Supporting ingredients:<\/strong> Ricotta adds creaminess, while honey provides a sweet contrast.<\/li><li><strong>Equipment needed:<\/strong> A baking sheet and mixing bowl are essential for this recipe.<\/li><\/ul>"
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time I made these, I overcooked the carrots. They turned out mushy and sad. Now I know keeping an eye on them during roasting is key. You want them tender but still with a bit of bite. It’s all about the timing!<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><ul><li><strong>Main ingredient (carrots):<\/strong> Look for firm, bright carrots for the best flavor. Organic carrots from your local farmer's market work wonders. Cut them into even sticks for consistent cooking.<\/li><li><strong>Key seasonings:<\/strong> Olive oil and salt are crucial; they enhance the natural sweetness of the carrots. I use a good quality extra virgin olive oil for that richness.<\/li><li><strong>Supporting ingredients:<\/strong> Ricotta adds creaminess and a bit of tang. I prefer Organic Valley because it’s super fresh.<\/li><li><strong>Smart substitutions:<\/strong> You can swap honey for maple syrup if you’re looking for a different flavor. Also, Greek yogurt could work in place of ricotta for a tangy twist.<\/li><li><strong>Equipment needed:<\/strong> A sharp knife for chopping and a good baking sheet are essential. I recommend my trusty Lodge cast iron for optimal roasting.<\/li><\/ul><\/p>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Prepping the carrots only takes about 10 minutes. Peel and chop them into sticks. I like to lay everything out so I can grab it quickly. You can even do this the night before to save time!<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once your oven is hot and the carrots are prepped, it’s time to roast! Keep an eye on them - they should be getting nice and caramelized after about 25 minutes.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After roasting, drizzle with hot honey and plate with whipped ricotta. It’s all about the presentation, so don’t be shy with that parsley garnish!<\/dd><\/dl><\/p>"
+        },
+        {
+            "headline": "Flavor Boosters & Customization Ideas"
+        },
+        {
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh thyme adds an earthy flavor. Toss in some leaves before roasting for a subtle enhancement.<\/li><li><strong>Spices:<\/strong> A sprinkle of cumin can add warmth; use about half a teaspoon mixed with the olive oil before roasting.<\/li><li><strong>Upgrades:<\/strong> Add crumbled feta on top for a salty twist, or try a balsamic reduction for an extra layer of flavor.<\/li><li><strong>Technique variations:<\/strong> Try grilling the carrots for a smoky flavor or serve them cold as a salad with the ricotta on the side.<\/li><\/ul><\/p>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> These carrots pair well with roasted chicken or grilled steak. The sweetness complements savory mains beautifully.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine like Sauvignon Blanc works well to balance the dish.<\/li><li><strong>Bread options:<\/strong> Serve with crusty bread to soak up any extra ricotta and honey. It’s good!<\/li><li><strong>Occasion ideas:<\/strong> Great for weeknight dinners or impressing guests at a casual gathering.<\/li><li><strong>Temperature serving note:<\/strong> Serve warm for the best experience; the flavors are really vibrant that way.<\/li><\/ul><\/p>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p><ul><li><strong>Dietary adaptation (Gluten-Free):<\/strong> This dish is naturally gluten-free, so no swaps needed!<\/li><li><strong>Dairy-Free:<\/strong> Substitute the ricotta with a cashew cream for a vegan option that’s just as creamy.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add a dash of cayenne pepper to the carrots before roasting for a spicy kick.<\/li><li><strong>Swap proteins:<\/strong> Serve with grilled salmon instead of chicken for a delicious twist.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Preparation of carrots and ricotta mixture.",
-                "url": "roasted-carrots-with-whipped-ricotta-healthy-family-delight\/images\/roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_1.webp",
-                "fileName": "roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_1.webp",
-                "type": "main"
+                "context": "Steaming roasted carrots topped with whipped ricotta and drizzled with hot honey on a rustic wooden table.",
+                "url": "roasted-carrots-with-whipped-ricotta-healthy-family-delight\/images\/roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "headline": "Conclusion"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and prepare the carrots by peeling and cutting them into sticks.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Roast the carrots until tender and caramelized, while whipping the ricotta with honey.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Plate the roasted carrots with a generous dollop of whipped ricotta and a sprinkle of red pepper flakes.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "Cooking process of roasting carrots and preparing ricotta.",
-                "url": "roasted-carrots-with-whipped-ricotta-healthy-family-delight\/images\/roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_2.webp",
-                "fileName": "roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_2.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Roasting at a high temperature ensures caramelization for maximum flavor.<\/li><li>A common mistake is overcrowding the baking sheet, which can steam the carrots instead of roasting them.<\/li><li>Carrots are ready when they are fork-tender and slightly browned.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>This dish holds a special place in my heart as it brings my family together around the table, sharing laughter and delicious food.<\/p>"
-        },
-        {
-            "headline": "Flavor Boosters"
-        },
-        {
-            "content": "<p>Try adding fresh herbs like thyme or parsley for an extra layer of flavor, or swap the honey for maple syrup for a different sweetness.<\/p>"
-        },
-        {
-            "headline": "Serving Suggestions"
-        },
-        {
-            "content": "<p>Pair this dish with grilled chicken or fish for a complete meal, and serve with a light salad for a refreshing touch.<\/p>"
-        },
-        {
-            "headline": "Creative Variations"
-        },
-        {
-            "content": "<p>For a vegan version, substitute the ricotta with a plant-based alternative and use agave syrup instead of honey.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Final plated dish of roasted carrots with whipped ricotta.",
-                "url": "roasted-carrots-with-whipped-ricotta-healthy-family-delight\/images\/roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_3.webp",
-                "fileName": "roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_3.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>For restaurant-quality results, use fresh, high-quality ingredients.<\/li><li>Let the ricotta sit at room temperature for a creamier texture.<\/li><li>Keep an eye on the carrots to prevent burning; they should be golden brown.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Enjoy making this dish and feel proud of creating something delicious and healthy for your loved ones!<\/p>"
+            "content": "<p>Honestly, these roasted carrots with whipped ricotta and hot honey are a must-try! They’re quick, easy, and oh-so-delicious. I promise you’ll want to make them again and again. Share your results in the comments, and let me know how it turned out! Can't wait to hear your thoughts on this recipe!<\/p>"
         }
     ],
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "voice": "Honest Cook",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:22:53"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_1.webp",
@@ -146,11 +139,13 @@
             "type": "template"
         }
     ],
+    "slug": "roasted-carrots-with-whipped-ricotta-healthy-family-delight",
+    "id": "recipe_1763862401_969",
     "image": "roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_1.webp",
     "image_path": "recipes\/roasted-carrots-with-whipped-ricotta-healthy-family-delight\/images\/roasted-carrots-with-whipped-ricotta-healthy-family-delight_image_1.webp",
     "image_dir": "roasted-carrots-with-whipped-ricotta-healthy-family-delight\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-23T02:53:38+01:00",
-    "updatedAt": "2025-11-23T02:53:38+01:00"
+    "createdAt": "2026-01-04T16:29:24+01:00",
+    "updatedAt": "2026-01-04T16:29:24+01:00"
 }
