@@ -1,0 +1,104 @@
+{
+    "id": "recipe_1768140549_290",
+    "slug": "easy-cheesy-lasagna-for-cozy-weeknight-dinners",
+    "title": "Easy Cheesy Lasagna for Cozy Weeknight Dinners",
+    "promptIMG": "Food photography: Easy Cheesy Lasagna, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This easy lasagna is a crowd-pleaser, packed with layers of beef, sausage, and gooey cheese. Perfect for a cozy family dinner or a casual gathering with friends!",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "9 lasagna noodles",
+        "1 pound ground beef",
+        "1 pound Italian sausage",
+        "2 cups ricotta cheese",
+        "3 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "1 jar (24 oz) marinara sauce",
+        "1 egg",
+        "1 teaspoon Italian seasoning",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "Cook the lasagna noodles according to package instructions until al dente, then drain and set aside.",
+        "In a large skillet, brown the ground beef and Italian sausage over medium heat until fully cooked. Drain excess fat.",
+        "Stir in the marinara sauce and let it simmer for about 5 minutes.",
+        "In a bowl, mix the ricotta cheese, egg, Italian seasoning, salt, and pepper until well combined.",
+        "In a 9x13 inch baking dish, spread a layer of the meat sauce, followed by three noodles, half of the ricotta mixture, and a third of the mozzarella. Repeat the layers, finishing with meat sauce and the remaining mozzarella and Parmesan on top.",
+        "Cover with foil and bake for 25 minutes. Remove the foil and bake for an additional 15 minutes, or until the cheese is bubbly and golden.",
+        "Let it cool for 10 minutes before slicing and serving."
+    ],
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "servings": 6,
+    "difficulty": "Medium",
+    "tips": "When cooking the meat, ensure it's well browned for maximum flavor. A common mistake is overcooking the noodles; remember, they’ll continue to cook in the oven. This lasagna can be made ahead of time and stored in the fridge for up to 2 days before baking. If you're looking for a lighter version, try substituting ground turkey for the beef and sausage.",
+    "structured_content": [
+        {
+            "content": "<p>Lasagna is one of those comforting dishes that just feels like home, don’t you think? This easy lasagna is perfect for weeknight dinners or casual gatherings. With layers of savory beef, spicy Italian sausage, and gooey cheese, it’s a dish everyone loves. Plus, it’s super simple to make, so you can whip it up without breaking a sweat!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>Quick note: For this recipe, you’ll need lasagna noodles, ground beef, and Italian sausage for that rich flavor. I love using a mix of ricotta and mozzarella cheeses for creaminess and stringy goodness. If you're out of ricotta, cottage cheese works too, just blend it a bit for a smoother texture.</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>One thing I love - Making this lasagna is a breeze! Start by cooking the noodles and browning the meat. Then, layer everything in a baking dish, and let the oven do the magic. You’ll love how the cheese melts and the flavors meld together!</p>"
+        },
+        {
+            "upload": {
+                "context": "Delicious lasagna on a rustic wooden table",
+                "url": "easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+                "fileName": "easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This lasagna is fantastic on its own, but feel free to serve it with a side salad or some garlic bread for a complete meal. If you want to switch things up, try adding veggies like spinach or mushrooms for extra nutrition!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+            "filePath": "recipes/easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+            "relativePath": "easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_2.webp",
+            "filePath": "recipes/easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_2.webp",
+            "relativePath": "easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_3.webp",
+            "filePath": "recipes/easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_3.webp",
+            "relativePath": "easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "easy-cheesy-lasagna-for-cozy-weeknight-dinners_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes/easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_mollykitchendaily-main_image_4.webp",
+            "relativePath": "easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+    "image_path": "recipes/easy-cheesy-lasagna-for-cozy-weeknight-dinners/images/easy-cheesy-lasagna-for-cozy-weeknight-dinners_image_1.webp",
+    "image_dir": "easy-cheesy-lasagna-for-cozy-weeknight-dinners/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-11T15:09:09+01:00",
+    "updatedAt": "2026-01-11T15:09:09+01:00"
+}

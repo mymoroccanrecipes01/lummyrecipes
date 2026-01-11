@@ -1,0 +1,99 @@
+{
+    "id": "recipe_1768143162_106",
+    "slug": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings",
+    "title": "Delicious Strawberry Cheesecake Crunch Bites for Sweet Cravings",
+    "promptIMG": "Food photography: Strawberry Cheesecake Crunch Bites, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "These Strawberry Cheesecake Crunch Bites are the perfect blend of creamy and crunchy. With freeze-dried strawberries and golden Oreos, they're a delightful treat for any occasion, especially in warmer months!",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup cream cheese, softened",
+        "1/2 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup freeze-dried strawberries, crushed",
+        "1 cup golden Oreos, crushed",
+        "1/2 cup whipped cream",
+        "Extra crushed Oreos for coating"
+    ],
+    "instructions": [
+        "In a medium bowl, beat the cream cheese until smooth. Add the powdered sugar and vanilla extract, mixing until well combined.",
+        "Gently fold in the whipped cream until the mixture is fluffy and light.",
+        "Stir in the crushed freeze-dried strawberries and crushed Oreos until evenly distributed.",
+        "Using a small scoop, form the mixture into bite-sized balls and roll them in the extra crushed Oreos.",
+        "Place the bites on a parchment-lined tray and refrigerate for at least 30 minutes to firm up.",
+        "Serve chilled and enjoy the delightful crunch!"
+    ],
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 12,
+    "difficulty": "Easy",
+    "tips": "When making these bites, ensure your cream cheese is at room temperature for easier mixing. A common mistake is overmixing the whipped cream, which can make the bites dense. You can substitute the freeze-dried strawberries with other fruits like raspberries or blueberries for a different flavor. Store any leftovers in an airtight container in the fridge for up to three days.",
+    "structured_content": [
+        {
+            "content": "<p>Spring is finally here, and that means it's time for light and refreshing treats! These Strawberry Cheesecake Crunch Bites are a delightful way to enjoy the flavors of strawberry cheesecake without the fuss of baking. They combine the creamy goodness of cheesecake with the satisfying crunch of Oreos, making them an instant favorite for gatherings or just a sweet snack at home.</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>The star ingredients for these bites are freeze-dried strawberries and golden Oreos. The freeze-dried strawberries lend a concentrated flavor and a unique texture, while the Oreos provide that classic crunch. If you can't find freeze-dried strawberries, feel free to swap them out for crushed graham crackers or any other freeze-dried fruit you love!</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making these bites is a breeze! You'll mix the cream cheese, sugar, and vanilla until smooth, then fold in the whipped cream and strawberries. The key here is to keep it light and airy, so be gentle with your mixing. Once formed, they just need some time in the fridge to set, and they're ready to impress!</p>"
+        },
+        {
+            "upload": {
+                "context": "Strawberry Cheesecake Crunch Bites on a white plate",
+                "url": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+                "fileName": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>One thing I love - These bites are perfect for a picnic or a summer party. You can even serve them with a drizzle of chocolate or a dollop of whipped cream for an extra touch. Want to make them even more festive? Try adding a sprinkle of colorful sprinkles on top before serving!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+            "filePath": "recipes/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+            "relativePath": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_2.webp",
+            "filePath": "recipes/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_2.webp",
+            "relativePath": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_3.webp",
+            "filePath": "recipes/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_3.webp",
+            "relativePath": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_mollykitchendaily-main_image_4.webp",
+            "relativePath": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+    "image_path": "recipes/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images/delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings_image_1.webp",
+    "image_dir": "delicious-strawberry-cheesecake-crunch-bites-for-sweet-cravings/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-11T15:52:42+01:00",
+    "updatedAt": "2026-01-11T15:52:42+01:00"
+}

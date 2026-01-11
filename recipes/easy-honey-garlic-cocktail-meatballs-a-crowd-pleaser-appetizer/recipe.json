@@ -1,0 +1,103 @@
+{
+    "id": "recipe_1768148322_498",
+    "slug": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer",
+    "title": "Easy Honey Garlic Cocktail Meatballs: A Crowd-Pleaser Appetizer",
+    "promptIMG": "Food photography: honey garlic cocktail meatballs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "These honey garlic cocktail meatballs are the ultimate party starter! With a sweet and savory glaze, they’re perfect for gatherings. Serve them warm with toothpicks for a delightful bite-sized treat!",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "1/2 cup breadcrumbs",
+        "1/4 cup grated Parmesan cheese",
+        "1 egg, beaten",
+        "2 cloves garlic, minced",
+        "1/4 cup chopped green onions",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/2 cup honey",
+        "1/4 cup soy sauce",
+        "1 tablespoon apple cider vinegar"
+    ],
+    "instructions": [
+        "Preheat your oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+        "In a large bowl, combine the ground beef, breadcrumbs, Parmesan cheese, beaten egg, minced garlic, green onions, salt, and pepper. Mix until just combined.",
+        "Form the mixture into small meatballs, about 1 inch in diameter, and place them on the prepared baking sheet.",
+        "Bake the meatballs for 15-20 minutes, or until they are browned and cooked through.",
+        "While the meatballs are baking, whisk together honey, soy sauce, and apple cider vinegar in a small saucepan. Heat over medium until it simmers, then reduce the heat and let it thicken slightly.",
+        "Once the meatballs are done, toss them in the honey garlic sauce and serve warm with toothpicks."
+    ],
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "servings": 6,
+    "difficulty": "Easy",
+    "tips": "For extra flavor, try adding a splash of sriracha to the honey garlic sauce for a spicy kick. A common mistake is overmixing the meatball mixture, which can lead to tough meatballs—mix just until combined. If you have leftovers, store them in an airtight container in the fridge for up to three days, and reheat gently in the microwave or on the stovetop.",
+    "structured_content": [
+        {
+            "content": "<p>These honey garlic cocktail meatballs are my go-to for any gathering! They’re super easy to whip up and always a hit with guests. I love how the sweet and savory glaze adds that extra wow factor. Perfect for parties, game nights, or just when you want a tasty snack!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>One thing I love - You'll need simple ingredients for these meatballs. Ground beef is the star, but feel free to swap it with ground turkey for a lighter version. The honey and soy sauce create a delicious glaze that makes these meatballs irresistible!</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making these meatballs is a breeze! Just mix everything together, form the balls, and bake. While they cook, whip up that honey garlic sauce. It’s all about timing, so keep an eye on the oven!</p>"
+        },
+        {
+            "upload": {
+                "context": "Honey garlic cocktail meatballs on a platter with toothpicks",
+                "url": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+                "fileName": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>Honestly, These meatballs are fabulous on their own, but you can also serve them over rice or noodles for a heartier meal. Want a twist? Try adding some crushed red pepper flakes to the sauce for a bit of heat!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+            "filePath": "recipes/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+            "relativePath": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_2.webp",
+            "filePath": "recipes/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_2.webp",
+            "relativePath": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_3.webp",
+            "filePath": "recipes/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_3.webp",
+            "relativePath": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_mollykitchendaily-main_image_4.webp",
+            "relativePath": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+    "image_path": "recipes/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images/easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer_image_1.webp",
+    "image_dir": "easy-honey-garlic-cocktail-meatballs-a-crowd-pleaser-appetizer/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-11T17:18:42+01:00",
+    "updatedAt": "2026-01-11T17:18:42+01:00"
+}

@@ -1,0 +1,102 @@
+{
+    "id": "recipe_1768144623_976",
+    "slug": "savory-ground-beef-enchiladas-for-cozy-dinners",
+    "title": "Savory Ground Beef Enchiladas for Cozy Dinners",
+    "promptIMG": "Food photography: Ground Beef Enchiladas, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "These ground beef enchiladas are a family favorite, bursting with flavor and smothered in rich enchilada sauce. Perfect for a cozy dinner!",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 can (10 oz) enchilada sauce",
+        "8 corn tortillas",
+        "1 cup shredded cheese (cheddar or Mexican blend)",
+        "1\/2 cup diced onion",
+        "1 teaspoon garlic powder",
+        "1 teaspoon cumin",
+        "Salt and pepper to taste",
+        "Fresh cilantro for garnish (optional)"
+    ],
+    "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a skillet over medium heat, cook the ground beef with diced onion until browned, about 5-7 minutes. Drain excess fat.",
+        "Stir in garlic powder, cumin, salt, and pepper, mixing well. Pour in half of the enchilada sauce and stir until combined.",
+        "Warm the tortillas in a dry skillet or microwave until pliable. Fill each tortilla with the beef mixture and a sprinkle of cheese, then roll them up tightly.",
+        "Place the rolled enchiladas seam-side down in a baking dish. Pour the remaining enchilada sauce over the top and sprinkle with the rest of the cheese.",
+        "Bake for 20 minutes, or until the cheese is bubbly and golden.",
+        "Garnish with fresh cilantro before serving. Enjoy!"
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "Medium",
+    "tips": "One key technique is to warm the tortillas before filling them; this prevents them from cracking. A common mistake is overfilling the tortillas, which makes them hard to roll. If you have leftovers, they reheat beautifully in the oven or microwave. You can also swap the ground beef for shredded chicken or beans for a vegetarian option.",
+    "structured_content": [
+        {
+            "content": "<p>These ground beef enchiladas are one of my go-to comfort meals. There's just something about the combination of savory beef, melted cheese, and rich enchilada sauce that warms my heart. I love making them on chilly evenings when all I want is something cozy and satisfying. Plus, they’re super easy to whip up!<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>For this recipe, you’ll need ground beef, which gives a hearty flavor. I like to use corn tortillas for their authentic taste, but flour tortillas work too if you prefer. The enchilada sauce really brings everything together, so don't skip it! You can make your own or use a store-bought version for convenience.<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making these enchiladas is a breeze! Start by browning the beef with onions, then mix in your spices and half the enchilada sauce. After filling and rolling the tortillas, pour the remaining sauce on top and sprinkle with cheese before baking. You'll love how the cheese gets all melty and delicious!<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Ground Beef Enchiladas on a rustic plate with fresh cilantro",
+                "url": "savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+                "fileName": "savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>Honestly, These enchiladas are fantastic on their own, but you can also serve them with a side of Mexican rice or a fresh salad for a complete meal. Want to spice things up? Add some jalapeños to the filling or top with sour cream and avocado slices!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+            "filePath": "recipes\/savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+            "relativePath": "savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "savory-ground-beef-enchiladas-for-cozy-dinners_image_2.webp",
+            "filePath": "recipes\/savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_2.webp",
+            "relativePath": "savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "savory-ground-beef-enchiladas-for-cozy-dinners_image_3.webp",
+            "filePath": "recipes\/savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_3.webp",
+            "relativePath": "savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "savory-ground-beef-enchiladas-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "relativePath": "savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+    "image_path": "recipes\/savory-ground-beef-enchiladas-for-cozy-dinners\/images\/savory-ground-beef-enchiladas-for-cozy-dinners_image_1.webp",
+    "image_dir": "savory-ground-beef-enchiladas-for-cozy-dinners\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-11T16:50:13+01:00",
+    "updatedAt": "2026-01-11T16:50:13+01:00"
+}

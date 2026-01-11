@@ -474,7 +474,7 @@ class RecipeLoader {
                                 background: #007bff; color: white; border: none; padding: 10px 20px; 
                                 border-radius: 5px; cursor: pointer; margin-top: 15px;
                             ">
-                                View all recipes.
+                                Voir toutes les recettes
                             </button>
                         ` : ''}
                     </div>
@@ -879,8 +879,7 @@ createRecipeHTML(recipe) {
     const difficulty = recipe.difficulty || 'Non spécifié';
     const mainImage = recipe.mainImage || 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23f8f9fa"/><text x="200" y="150" font-family="Arial" font-size="18" fill="%236c757d" text-anchor="middle">Image non disponible</text></svg>';
 
-    const recipeUrl = window.createRecipeUrl ? window.createRecipeUrl(slug) : 
-                     `base.html?page=recipe-detail&recipe=${slug}`;
+    const recipeUrl = `recipes/${slug}`;
     
     return `
         <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${difficulty.toLowerCase()}">
@@ -973,9 +972,9 @@ class PageLoadWatcher {
             this.attempts++;
             
             const container = document.getElementById('items');
-            const hasContent = container && container.innerHTML && !container.innerHTML.includes('Loading...');
+            const hasContent = container && container.innerHTML && !container.innerHTML.includes('Chargement des recettes');
             
-            if (container ) {
+            if (container) {
                 this.initializeRecipeLoader();
             } else if (this.attempts >= this.maxAttempts) {
                 // console.warn('Arrêt de la surveillance après', this.maxAttempts, 'tentatives');

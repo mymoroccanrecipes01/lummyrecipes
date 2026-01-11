@@ -1,0 +1,104 @@
+{
+    "id": "recipe_1768144883_574",
+    "slug": "apple-fritter-waffle-donuts-a-cozy-fall-delight",
+    "title": "Apple Fritter Waffle Donuts: A Cozy Fall Delight",
+    "promptIMG": "Food photography: Apple Fritter Waffle Donuts, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "These Apple Fritter Waffle Donuts are the perfect fall treat. With tart apples and a sweet glaze, they bring cozy vibes to your breakfast table. Enjoy them warm on a crisp autumn morning!",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "1\/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1\/4 cup granulated sugar",
+        "1\/2 cup buttermilk",
+        "1\/4 cup milk",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "1 cup peeled and diced apples (like Granny Smith)",
+        "1 cup powdered sugar",
+        "2 tablespoons milk (for glaze)"
+    ],
+    "instructions": [
+        "In a large bowl, whisk together flour, baking powder, salt, cinnamon, and sugar until well combined.",
+        "In another bowl, mix buttermilk, milk, egg, and vanilla extract. Stir this mixture into the dry ingredients until just combined.",
+        "Fold in the diced apples gently, being careful not to overmix.",
+        "Preheat your waffle maker and lightly grease it. Pour the batter into the waffle maker, filling it about halfway, and cook until golden brown (about 4-5 minutes).",
+        "While the waffles are cooking, whisk together powdered sugar and 2 tablespoons of milk to create a glaze.",
+        "Once the waffle donuts are done, drizzle the glaze over them while they’re still warm. Enjoy!"
+    ],
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "servings": 6,
+    "difficulty": "Medium",
+    "tips": "For the best flavor, use tart apples like Granny Smith. If you want a crunch, add some chopped walnuts to the batter. These donuts are best enjoyed fresh but can be stored in an airtight container for a day or two. Just reheat them in the toaster for a quick treat!",
+    "structured_content": [
+        {
+            "content": "<p>When the leaves start to turn and the air gets a bit brisk, I crave cozy treats that warm my soul. That's when these Apple Fritter Waffle Donuts come into play. They're a delightful mashup of two classics: apple fritters and waffles. Each bite is a little piece of fall, with the tartness of the apples perfectly balanced by a sweet glaze. I love making these for weekend brunches or even as a special breakfast for my family on chilly mornings.<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>You'll need some basic pantry staples for these donuts, like flour, sugar, and baking powder. The star of the show is definitely the apples, which add a lovely tartness. I usually go for Granny Smith apples, but Honeycrisp works beautifully too if you prefer a sweeter touch. The buttermilk gives these donuts a rich texture, but if you don’t have any, regular milk will work in a pinch!<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making these waffle donuts is super straightforward. You'll start by mixing your dry ingredients, then combine them with the wet ones. The key here is to fold in the apples gently so they don’t break down too much. Once your waffle maker is preheated, it’s just a matter of pouring in the batter and letting it cook until golden. The smell that fills your kitchen will have everyone gathering around!<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Apple Fritter Waffle Donuts on a rustic wooden table",
+                "url": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+                "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>These donuts are fantastic on their own, but you could also serve them with a side of maple syrup or whipped cream for an extra treat. If you want to get creative, try adding some chopped pecans or walnuts into the batter for a delightful crunch. Trust me, once you make these, they’ll become a staple in your fall recipe rotation!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+            "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+            "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_2.webp",
+            "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_2.webp",
+            "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_3.webp",
+            "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_3.webp",
+            "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
+            "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+    "image_path": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
+    "image_dir": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-11T16:50:10+01:00",
+    "updatedAt": "2026-01-11T16:50:10+01:00"
+}

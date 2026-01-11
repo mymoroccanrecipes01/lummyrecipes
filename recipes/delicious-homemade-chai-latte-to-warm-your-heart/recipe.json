@@ -1,0 +1,99 @@
+{
+    "id": "recipe_1768145131_841",
+    "slug": "delicious-homemade-chai-latte-to-warm-your-heart",
+    "title": "Delicious Homemade Chai Latte to Warm Your Heart",
+    "promptIMG": "Food photography: chai latte, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This homemade chai latte is a hug in a mug, perfect for chilly mornings. With spices that warm your soul, it's a family favorite for cozy weekends!",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups water",
+        "2 cups milk (or almond milk for a dairy-free option)",
+        "2 tablespoons black tea leaves",
+        "2 tablespoons sugar (adjust to taste)",
+        "1 cinnamon stick",
+        "3-4 cardamom pods, crushed",
+        "1 inch fresh ginger, sliced",
+        "1-2 whole cloves"
+    ],
+    "instructions": [
+        "In a saucepan, combine water, cinnamon stick, cardamom pods, ginger, and cloves. Bring to a boil over medium heat.",
+        "Once boiling, reduce heat and add black tea leaves. Let it simmer for about 5 minutes.",
+        "Add the milk and sugar, stirring to combine. Increase the heat and bring it back to a gentle boil.",
+        "Remove from heat and strain the chai into mugs, discarding the spices and tea leaves.",
+        "Serve hot and enjoy the cozy vibes with your family!"
+    ],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "tips": "To enhance the flavor, try adding a pinch of nutmeg or a splash of vanilla extract. Be careful not to overboil the milk, as it can scald quickly. If you prefer a stronger chai, let it steep longer before straining. This chai latte also tastes great iced during warmer months!",
+    "structured_content": [
+        {
+            "content": "<p>One thing I love - There's something truly magical about making a homemade chai latte. As I prepared this warming drink on a chilly Sunday morning, the rich aromas filled the kitchen, bringing my family together. My partner sipped happily, while our kids giggled over frothy milk, creating a cozy moment to cherish. This recipe is super easy and perfect for those lazy weekends when you just want to enjoy a comforting drink.<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>For this chai latte, you'll need a few key ingredients: black tea, a mix of warming spices like cinnamon and cardamom, and your choice of milk. I love using almond milk for a nutty flavor, but whole milk works wonders too. You can also adjust the sugar based on your preference for sweetness.<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making this chai latte is a simple process. Start by boiling the spices to release their flavors, then add the tea and milk. The key is to let it simmer just enough to meld the flavors without boiling over. You’ll know it’s ready when the kitchen smells heavenly!<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Homemade chai latte in a cozy kitchen setting",
+                "url": "delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+                "fileName": "delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>Honestly, This chai latte is perfect for a quiet morning or when friends drop by. Serve it with some cookies or muffins for a delightful treat. You can also experiment with different spices to make it your own—perhaps a dash of nutmeg or even a hint of vanilla!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+            "filePath": "recipes\/delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+            "relativePath": "delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "delicious-homemade-chai-latte-to-warm-your-heart_image_2.webp",
+            "filePath": "recipes\/delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_2.webp",
+            "relativePath": "delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "delicious-homemade-chai-latte-to-warm-your-heart_image_3.webp",
+            "filePath": "recipes\/delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_3.webp",
+            "relativePath": "delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "delicious-homemade-chai-latte-to-warm-your-heart_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_mollykitchendaily-main_image_4.webp",
+            "relativePath": "delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+    "image_path": "recipes\/delicious-homemade-chai-latte-to-warm-your-heart\/images\/delicious-homemade-chai-latte-to-warm-your-heart_image_1.webp",
+    "image_dir": "delicious-homemade-chai-latte-to-warm-your-heart\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-11T16:50:09+01:00",
+    "updatedAt": "2026-01-11T16:50:09+01:00"
+}
