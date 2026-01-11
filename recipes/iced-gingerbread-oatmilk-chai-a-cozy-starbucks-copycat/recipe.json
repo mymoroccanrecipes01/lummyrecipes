@@ -1,60 +1,38 @@
 {
-    "id": "recipe_1768145950_820",
-    "slug": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat",
-    "title": "Iced Gingerbread Oatmilk Chai: A Cozy Starbucks Copycat",
-    "promptIMG": "Food photography: Iced Gingerbread Oatmilk Chai, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "title": "Iced Gingerbread Oatmilk Chai for Cozy Vibes",
+    "promptIMG": "Professional food photography prompt: \"Iced gingerbread oatmilk chai, beautifully garnished with a sprinkle of cinnamon and a gingerbread cookie, served in a clear glass on a rustic wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "This Iced Gingerbread Oatmilk Chai is a delightful twist on a Starbucks favorite. It's creamy, spiced, and perfect for a cozy afternoon pick-me-up or a festive treat!",
-    "category_id": "cat_1761230749_334",
-    "author_id": "author_001",
+    "description": "You’ve gotta try this iced gingerbread oatmilk chai! Packed with cozy spices, it’s a creamy treat that’s great for chilly afternoons or festive gatherings. Perfectly sweetened and super easy to whip up. Save it for when you need a little pick-me-up!",
+    "hashtags": "#icedgingerbreadchai #chai #cozydrinks #easyrecipes #fallflavors",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 5,
+    "servings": 2,
     "ingredients": [
-        "1 cup oat milk",
-        "1 chai tea bag",
-        "1 tablespoon gingerbread syrup",
+        "2 cups oat milk (I love using Oatly)",
+        "1 cup strong brewed chai tea (use your fav brand)",
+        "1 tablespoon gingerbread syrup (you can find this at Trader Joe's)",
+        "1 teaspoon vanilla extract",
+        "1\/2 teaspoon ground cinnamon",
         "Ice cubes",
-        "Ground cinnamon for garnish"
+        "Optional: whipped cream for topping"
     ],
     "instructions": [
-        "Brew the chai tea bag in a cup of hot water for about 5 minutes, then remove the bag.",
-        "In a tall glass, add ice cubes to your desired level.",
-        "Pour in the brewed chai tea, followed by the oat milk.",
-        "Stir in the gingerbread syrup until well combined.",
-        "Sprinkle a pinch of ground cinnamon on top for that extra festive touch."
+        "Brew your chai tea according to package instructions. Make it strong! I usually let it steep for about 5 minutes.",
+        "In a large glass or jar, combine the hot chai tea, oat milk, gingerbread syrup, vanilla extract, and ground cinnamon. Stir it up until everything’s mixed well.",
+        "Let it cool for a minute or two, then pour it over a glass filled with ice cubes. Seriously, the ice is key here.",
+        "If you’re feeling fancy, top it with whipped cream and a sprinkle of cinnamon for that extra vibe.",
+        "Sip and enjoy the cozy warmth of gingerbread spices, even as it’s iced. It’s like a hug in a glass!"
     ],
-    "prep_time": 5,
-    "cook_time": 0,
-    "total_time": 5,
-    "servings": 1,
-    "difficulty": "Easy",
-    "tips": "When making this drink, make sure to use a good quality gingerbread syrup for the best flavor. If you don't have oat milk, almond or regular milk works too! This drink is best enjoyed fresh, but you can store the components separately in the fridge for a quick assembly later.",
-    "structured_content": [
-        {
-            "content": "<p>If you're a fan of Starbucks' seasonal drinks, then this Iced Gingerbread Oatmilk Chai is a must-try! It captures all the warm, spicy flavors of gingerbread while being super easy to make at home. I love whipping this up on a chilly afternoon—it feels like a cozy hug in a glass!<\/p>"
-        },
-        {
-            "headline": "What You Need"
-        },
-        {
-            "content": "<p>For this drink, you'll need oat milk, which gives it a creamy texture without overpowering the spices. Chai tea provides that perfect spice blend, while gingerbread syrup adds the sweetness and warmth. If you're out of oat milk, almond milk works just as well!<\/p>"
-        },
-        {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<p>Quick note: The process is super simple! Brew your chai tea, mix it with oat milk and gingerbread syrup over ice, and you’re good to go. You'll love how quickly it comes together, making it perfect for busy mornings or a quick afternoon treat.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Iced Gingerbread Oatmilk Chai in a tall glass with ice",
-                "url": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_image_1.webp",
-                "fileName": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_image_1.webp",
-                "type": "main"
-            }
-        },
-        {
-            "content": "<p>This drink is fantastic on its own, but you can also pair it with some gingerbread cookies or a slice of pumpkin bread for a delightful seasonal snack. Want to make it a bit richer? Top it with whipped cream and a drizzle of gingerbread syrup!<\/p>"
-        }
-    ],
+    "tips": "So, listen up! Here are some pro tips to nail this drink: \n\n- **Chai Tea Strength**: Make sure to brew your chai strong, like, seriously strong. You want that flavor to shine through all the oat milk.\n- **Gingerbread Syrup**: I use a gingerbread syrup from Starbucks, but you can totally make your own if you're feeling adventurous! Just mix equal parts sugar and water with ginger and spices.\n- **Oat Milk Choices**: Not all oat milks are created equal. I find Oatly gives the creamiest texture. You want that rich mouthfeel, right?\n- **Storage**: If you make extra, you can store it in the fridge for up to 2 days. Just give it a good shake before serving!\n- **Spice It Up**: Feel free to add some nutmeg or even a pinch of clove for a more complex flavor. Trust me, you’ll love it!",
+    "generation_metadata": {
+        "voice": "Enthusiastic Friend",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-11 19:18:22"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_image_1.webp",
@@ -78,19 +56,21 @@
             "order": 3
         },
         {
-            "fileName": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_mollykitchendaily-main_image_4.webp",
-            "relativePath": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_mollykitchendaily-main_image_4.webp",
+            "fileName": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_LummyRecipes_image_4.webp",
+            "relativePath": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat",
+    "id": "recipe_1768145950_820",
     "image": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_image_1.webp",
     "image_path": "recipes\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images\/iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat_image_1.webp",
     "image_dir": "iced-gingerbread-oatmilk-chai-a-cozy-starbucks-copycat\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-01-11T16:50:06+01:00",
-    "updatedAt": "2026-01-11T16:50:06+01:00"
+    "createdAt": "2026-01-11T19:19:18+01:00",
+    "updatedAt": "2026-01-11T19:19:18+01:00"
 }

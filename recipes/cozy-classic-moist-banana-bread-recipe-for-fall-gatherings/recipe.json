@@ -1,66 +1,109 @@
 {
-    "id": "recipe_1768148569_527",
-    "slug": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings",
-    "title": "Cozy Classic Moist Banana Bread Recipe for Fall Gatherings",
-    "promptIMG": "Food photography: banana bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "title": "Moist Banana Bread with Optional Chocolate Chips",
+    "promptIMG": "Professional food photography prompt: \"Moist banana bread loaf, sliced and arranged on a wooden cutting board, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "This Classic Moist Banana Bread is the ultimate comfort food! With buttery goodness and optional chocolate chips, it's perfect for chilly evenings or sharing at gatherings.",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "description": "You're gonna love this moist banana bread that's ready in about an hour! Made with ripe bananas and a hint of vanilla, it's a cozy treat to share. Great for breakfast or dessert. Save this recipe now!",
+    "hashtags": "#bananabread #comfortfood #bakingrecipes #easyrecipes #dessertideas",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
     "ingredients": [
         "3 ripe bananas, mashed",
-        "1\/3 cup melted butter",
+        "1\/3 cup melted Kerrygold butter",
         "1 teaspoon baking soda",
         "Pinch of salt",
-        "3\/4 cup sugar",
+        "3\/4 cup brown sugar",
         "1 large egg, beaten",
         "1 teaspoon vanilla extract",
-        "1 cup all-purpose flour",
-        "Optional: 1\/2 cup chocolate chips or walnuts"
+        "1 cup all-purpose flour from Bob's Red Mill",
+        "Optional: 1\/2 cup chocolate chips"
     ],
     "instructions": [
-        "Preheat your oven to 350°F (175°C) and grease a 4x8 inch loaf pan.",
-        "In a mixing bowl, mash the ripe bananas with a fork until smooth, then mix in the melted butter.",
-        "Stir in the baking soda and salt, followed by the sugar, beaten egg, and vanilla extract.",
-        "Mix in the flour until just incorporated, being careful not to over-mix. If you're adding chocolate chips or walnuts, fold them in now.",
-        "Pour the batter into the prepared loaf pan and smooth the top.",
-        "Bake for 60-65 minutes, or until a toothpick inserted into the center comes out clean.",
-        "Let it cool in the pan for about 10 minutes before transferring to a wire rack to cool completely."
+        "Preheat your oven to 350°F (175°C). Grease a 4x8 inch loaf pan, or line it with parchment paper.",
+        "In a mixing bowl, mash the ripe bananas with a fork until smooth. Stir in the melted Kerrygold butter.",
+        "Add the baking soda and salt to the banana mixture. Then mix in the brown sugar, beaten egg, and vanilla extract until combined.",
+        "Gradually add the flour, mixing just until everything comes together. If you wanna, fold in the chocolate chips for an extra treat.",
+        "Pour the batter into the prepared loaf pan and smooth out the top. Bake for about 50-60 minutes, or until a toothpick inserted comes out clean.",
+        "Let it cool in the pan for about 10 minutes, then transfer to a wire rack to cool completely before slicing."
     ],
-    "prep_time": 15,
-    "cook_time": 60,
-    "total_time": 75,
-    "servings": 12,
-    "difficulty": "Easy",
-    "tips": "For the best flavor, use very ripe bananas. If you don’t have chocolate chips, chopped nuts or dried fruit work great too! This banana bread can be stored wrapped in plastic for up to a week, or frozen for longer enjoyment.",
+    "tips": "Look, here are some pro tips to help you nail this banana bread:\n\n1. Use overripe bananas - the darker, the better. They’re sweeter and mash easier.\n2. Don't overmix the batter! A few lumps are totally fine. You want it to be tender, not tough.\n3. If you’re worried about it sticking, I recommend using a non-stick spray or a good layer of butter.\n4. To store leftovers, wrap it in plastic wrap and keep it at room temp for a few days. It also freezes really well - just slice it up first!\n5. Feel free to experiment with add-ins like nuts or dried fruits. Just keep the proportions the same for best results.",
+    "image_keywords": [
+        "moist",
+        "banana bread",
+        "homemade",
+        "comforting",
+        "sliced",
+        "chocolate chips"
+    ],
     "structured_content": [
         {
-            "content": "<p>There's something truly special about a warm slice of banana bread, especially when the leaves start to turn and the air gets a little crisp. This Classic Moist Banana Bread Recipe is my go-to for cozy fall gatherings or simply enjoying with a cup of tea on a lazy afternoon. It’s buttery, sweet, and so comforting!<\/p>"
+            "content": "<p>So I've made this banana bread a ton of times and each time it just gets better! The aroma of ripe bananas mixed with buttery goodness fills the air, and you can’t help but feel cozy. Seriously, it’s like a warm hug in loaf form. The texture? Soft, tender, and if you add chocolate chips, it’s just like, so good. It’s a classic recipe that you’ll wanna have in your back pocket for those chilly nights or when friends drop by unexpectedly. Plus, you probably have everything you need already.<\/p>"
         },
         {
-            "headline": "What You Need"
-        },
-        {
-            "content": "<p>Quick note: You'll need just a few simple ingredients for this banana bread. Ripe bananas are key—they bring natural sweetness and moisture. I love to add chocolate chips for a little indulgence, but walnuts or even dried cranberries can add a nice crunch and flavor too!<\/p>"
-        },
-        {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<p>Here's the thing - Making this banana bread is a breeze! Start by preheating your oven and mashing those ripe bananas. Mix in the butter and other ingredients, then pour the batter into your loaf pan. The smell while it bakes is heavenly!<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Moist banana bread on a rustic wooden table",
-                "url": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_image_1.webp",
-                "fileName": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_image_1.webp",
-                "type": "main"
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul>\n<li>30 minutes of prep. Yep, that’s it.<\/li>\n<li>Tastes like you spent hours baking (but you didn’t).<\/li>\n<li>My kids love it (no joke!).<\/li>\n<li>Great for breakfast or snacking.<\/li>\n<li>Freezes well for future cravings.<\/li>\n<li>Customizable with your favorite mix-ins.<\/li>\n<\/ul>"
             }
         },
         {
-            "content": "<p>This banana bread is fantastic on its own, but you can also serve it with a dollop of butter or a drizzle of honey for an extra treat. It’s perfect for brunch or as a sweet snack throughout the day. Enjoy it fresh, or toast it for a delightful breakfast!<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried this banana bread at my friend Anna’s house last fall. It was a chilly October evening, and honestly, the smell of it baking was good. When I took a bite, I was like, 'This is amazing!' Now I make it for my family every weekend. My husband Dave always says, 'This is the best banana bread ever!' I mean, who can argue with that?<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time making this, I forgot to add the baking soda. DISASTER! It turned out like a brick, and I was so embarrassed. Now I know that measuring out all my ingredients ahead of time really helps keep me on track. Trust me, it matters!<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><strong>Main ingredient (bananas):<\/strong> Use ripe bananas for the best flavor and sweetness. Look for ones that are heavily speckled. They mash easily and mix well into the batter.<\/p>\n<li><strong>Key seasonings\/aromatics:<\/strong> Vanilla extract really enhances the overall flavor. I use pure vanilla for a richer taste.<\/li>\n<li><strong>Supporting ingredients:<\/strong> The all-purpose flour gives the bread its structure. Sift it for a lighter loaf if you want.<\/li>\n<li><strong>Smart substitutions:<\/strong> You can swap in whole wheat flour for a denser texture. Applesauce can replace some butter for a lower-fat version.<\/li>\n<li><strong>Equipment needed:<\/strong> A good mixing bowl and a whisk are essential for this. My KitchenAid mixer makes it super easy, but a simple fork works too!<\/li>\n<\/p>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p><strong>Preparation phase:<\/strong> Start by gathering everything you need. Preheat your oven to 350°F (175°C) and grease your loaf pan. This is a good time to mash your bananas and measure out your ingredients.<\/p><strong>Cooking process:<\/strong> Mix everything together until combined, but don’t overdo it! Pour the batter into your prepared pan and pop it in the oven. You’ll know it’s done when a toothpick comes out clean, about 50-60 minutes.<\/p><strong>Finishing touches:<\/strong> Once it’s baked, let it cool in the pan for a bit before transferring it to a wire rack. Slice and serve warm with a pat of butter!<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters & Customization Ideas"
+        },
+        {
+            "content": "<p>Want to amp up your banana bread? Try adding chopped nuts like walnuts or pecans for a nice crunch. Cinnamon adds warmth - sprinkle in about half a teaspoon. For a tropical twist, shredded coconut works great too! You can also swap in almond or peanut butter for a nutty flavor. If you’re feeling adventurous, a dash of espresso powder can really amplify the chocolate flavor if you add chips!<\/p>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p><strong>Side dishes:<\/strong> Serve with a dollop of Greek yogurt for a creamy contrast. Fresh fruit, like berries, complements the sweetness nicely.<\/p><strong>Beverage pairings:<\/strong> A cup of coffee or hot tea pairs perfectly with this bread. It balances the sweetness.<\/strong><strong>Bread\/starch options:<\/strong> How about slathering a piece with a bit of peanut butter or Nutella? So good!<\/strong><strong>Occasion ideas:<\/strong> Great for brunch gatherings or cozy family dinners. Perfect for welcoming guests on a chilly night.<\/strong><strong>Presentation tips:<\/strong> Dust with powdered sugar or drizzle some honey on top for a pretty finish.<\/strong><strong>Temperature serving note:<\/strong> Best served warm, right out of the oven! But leftovers are still tasty.<\/p>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use a gluten-free flour blend instead of all-purpose for a gluten-free option. It works just as well!<\/p><strong>Dietary adaptation 2 (Vegan):<\/strong> Swap the egg for a flax egg (1 tablespoon ground flaxseed + 2.5 tablespoons water), and use a non-dairy milk instead.<\/strong><strong>Flavor variation (Spicy):<\/strong> Add a pinch of cayenne or chili powder for a surprising kick!<\/strong><strong>Protein swap:<\/strong> Consider adding protein powder to the batter for an extra boost. Just reduce the flour by the same amount.<\/strong><\/p>"
+        },
+        {
+            "headline": "Conclusion"
+        },
+        {
+            "content": "<p>Honestly, this banana bread is just a must-try! It’s cozy, comforting, and so easy to whip up. Whether you’re sharing it with friends or keeping it all to yourself (no judgment!), you’ll want to make this again and again. Don’t forget to share your experience in the comments or on Instagram. I’d love to see your creations! Happy baking!<\/p>"
         }
     ],
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "voice": "Storyteller",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-11 19:18:02"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_image_1.webp",
@@ -84,19 +127,21 @@
             "order": 3
         },
         {
-            "fileName": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_mollykitchendaily-main_image_4.webp",
-            "relativePath": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_mollykitchendaily-main_image_4.webp",
+            "fileName": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_LummyRecipes_image_4.webp",
+            "relativePath": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings",
+    "id": "recipe_1768148569_527",
     "image": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_image_1.webp",
     "image_path": "recipes\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images\/cozy-classic-moist-banana-bread-recipe-for-fall-gatherings_image_1.webp",
     "image_dir": "cozy-classic-moist-banana-bread-recipe-for-fall-gatherings\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-01-11T18:42:28+01:00",
-    "updatedAt": "2026-01-11T18:42:28+01:00"
+    "createdAt": "2026-01-11T19:19:25+01:00",
+    "updatedAt": "2026-01-11T19:19:25+01:00"
 }

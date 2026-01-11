@@ -1,60 +1,97 @@
 {
-    "id": "recipe_1768145646_154",
-    "slug": "refreshing-iced-vanilla-chai-latte-for-hot-days",
-    "title": "Refreshing Iced Vanilla Chai Latte for Hot Days",
-    "promptIMG": "Food photography: Iced Vanilla Chai Latte, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "title": "Iced Vanilla Chai Latte: Your New Favorite Summer Drink",
+    "promptIMG": "Professional food photography prompt: \"Iced Vanilla Chai Latte in a clear glass with ice, topped with a sprinkle of cinnamon and a cinnamon stick, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "This Easy Iced Vanilla Chai Latte is your new go-to drink for warm afternoons. It combines spiced chai tea with creamy milk and a splash of vanilla for a delightful treat. Perfect for sipping while relaxing at home!",
-    "category_id": "cat_1761230749_334",
-    "author_id": "author_001",
+    "description": "Chill out with this iced vanilla chai latte, ready in just 10 minutes! Made with spiced chai tea, creamy milk, and a hint of vanilla. A refreshing drink for warm afternoons or cozy evenings. Don't miss out - try it today!",
+    "hashtags": "#icedvanillachai #chai #summerdrinks #easyrecipes #refreshingdrinks",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
     "ingredients": [
         "2 cups brewed chai tea, cooled",
-        "1 cup milk (dairy or non-dairy)",
-        "2 tablespoons vanilla syrup",
+        "1 cup milk (any kind you like, I use whole milk)",
+        "1-2 tablespoons vanilla syrup (or vanilla extract)",
         "Ice cubes",
-        "Ground cinnamon for garnish"
+        "Cinnamon for garnish (optional)"
     ],
     "instructions": [
-        "Brew your chai tea according to package instructions and let it cool.",
-        "In a tall glass, add ice cubes to fill halfway.",
-        "Pour in the cooled chai tea, followed by the milk.",
-        "Add the vanilla syrup and stir gently to combine.",
-        "Sprinkle a pinch of ground cinnamon on top for an extra touch."
+        "Brew the chai tea according to package instructions, then let it cool to room temperature (or chill it in the fridge for a bit).",
+        "In a pitcher, combine the cooled chai tea, milk, and vanilla syrup. Stir well to blend all the flavors together.",
+        "Fill two glasses with ice cubes, then pour the chai mixture over the ice until each glass is full.",
+        "Give it a little stir to combine and sprinkle some cinnamon on top if you’re feeling fancy.",
+        "Serve immediately and enjoy the refreshing vibes!"
     ],
-    "prep_time": 5,
-    "cook_time": 5,
-    "total_time": 10,
-    "servings": 2,
-    "difficulty": "Easy",
-    "tips": "When making chai tea, let it steep longer for a stronger flavor. If you want to sweeten it more, feel free to adjust the vanilla syrup to your taste. This drink can be made in larger batches and stored in the fridge for a quick grab-and-go option on busy days.",
+    "tips": "When making this iced chai latte, you can totally adjust the sweetness to your taste. If you prefer a stronger chai flavor, brew your tea a little longer. I like to use Bob's Red Mill organic chai tea bags for a really rich taste. And if you want it creamier, try using half-and-half instead of regular milk. Don't forget - letting the tea cool completely before mixing is key to keeping the ice from melting too fast. Also, I always make a double batch because my kids love it and it disappears faster than you can say 'chai latte'!",
+    "image_keywords": [
+        "refreshing",
+        "iced",
+        "chai latte",
+        "creamy",
+        "spiced"
+    ],
     "structured_content": [
         {
-            "content": "<p>There's something so satisfying about sipping a chilled drink on a hot day, and this Easy Iced Vanilla Chai Latte hits the spot perfectly. I love how simple it is to whip up at home, and it saves me a trip to the coffee shop! With creamy milk, spiced chai, and a hint of vanilla, it's a refreshing treat that feels indulgent but is super easy to make.<\/p>"
+            "content": "<p>This iced vanilla chai latte is like a hug in a glass! When the sun's shining and you wanna chill, this drink is a must. Imagine the warm spices of chai mixed with creamy milk and a sweet vanilla twist - it’s just so good. The best part? You can whip it up in just 10 minutes, making it a total lifesaver for warm afternoons or when friends drop by unexpectedly.<\/p>"
         },
         {
-            "headline": "What You Need"
-        },
-        {
-            "content": "<p>Honestly, For this iced latte, you'll need brewed chai tea, which provides that warm spice flavor we all love. I usually go for a strong brew to ensure the flavor shines through, but feel free to use your favorite brand. You can swap out regular milk for almond or oat milk if you're looking for a dairy-free option.<\/p>"
-        },
-        {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<p>The process is as easy as brewing your tea and mixing! Once the tea is cooled, just combine it with milk and vanilla syrup over ice. You'll love how quickly this comes together, making it perfect for those lazy afternoons when you want something refreshing.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Iced Vanilla Chai Latte in a tall glass with ice and cinnamon on top",
-                "url": "refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_image_1.webp",
-                "fileName": "refreshing-iced-vanilla-chai-latte-for-hot-days_image_1.webp",
-                "type": "main"
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>10 minutes from start to finish. Seriously, that’s it!<\/li><li>Tastes like summer in a glass (trust me).<\/li><li>You probably have most ingredients at home already.<\/li><li>Perfect for sipping while binge-watching your favorite shows.<\/li><li>Great for sharing, but you might wanna keep it all to yourself.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Honestly, This iced chai latte is delightful on its own, but you can also add a splash of caramel or even a sprinkle of nutmeg for a twist. Enjoy it with some cookies or a light snack for a perfect afternoon treat!<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried an iced vanilla chai latte at my friend Emily's house last July during a hot summer BBQ. The smell of the spices wafting from her kitchen was incredible. She said, \"You HAVE to try this!\" And honestly, it blew my mind. Now, I whip it up whenever I need a cool drink. My kids literally beg for it during our backyard hangouts!<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>The first time I made this, I thought I could skip cooling the chai tea. Big mistake! The ice melted so fast, and I ended up with a watery mess. Now I know - patience is key! Let that tea chill for a while, and you'll have a refreshing drink that doesn't turn into a pool party.<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><strong>Main ingredient (chai tea):<\/strong> I love using Bob's Red Mill chai tea for its rich flavor. Look for a blend that includes cardamom and cinnamon for that authentic taste. Brew it strong for the best results!<\/p><ul><li><strong>Key seasonings:<\/strong> The spices in chai are crucial! They build that warm flavor. You can also add a pinch of nutmeg for an extra kick.<\/li><li><strong>Supporting ingredients:<\/strong> Milk adds creaminess. I usually go for whole milk, but almond or oat milk works great too!<\/li><li><strong>Smart substitutions:<\/strong> If you want a lighter version, try using coconut milk or even just water for a refreshing twist.<\/li><li><strong>Equipment needed:<\/strong> A sturdy pitcher and a good tea infuser make the process smooth and easy.<\/li><\/ul>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p><strong>Preparation phase:<\/strong> Start by brewing your chai tea. I usually let it steep for about 5-7 minutes. While that’s happening, get your milk and vanilla syrup ready. You can even prep the night before for an easy morning treat!<\/p><strong>Cooking process:<\/strong> Once your tea is cooled, mix it with the milk and syrup in a pitcher. It should look creamy and inviting. Stir it up and taste; adjust sweetness if needed.<\/strong><strong>Finishing touches:<\/strong> Pour over ice, sprinkle with cinnamon, and voila! You’ve got a refreshing drink ready to enjoy.<\/strong>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p><strong>Dietary adaptation (Dairy-Free):<\/strong> If you're avoiding dairy, almond or oat milk is a fantastic swap. They give a subtle nutty flavor that complements chai well.<\/p><strong>Flavor variation (Spicy):<\/strong> Want a kick? Add a dash of cayenne pepper for some heat!<\/strong><strong>Ingredient swap (different sweetener):<\/strong> Maple syrup can be a fun switch-up for a richer taste.<\/strong>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p><strong>Side dishes:<\/strong> I love pairing this with some homemade cookies. They complement each other perfectly!<\/strong><strong>Beverage pairings:<\/strong> This drink goes well with sparkling water - it helps cleanse the palate.<\/strong><strong>Occasion ideas:<\/strong> It's a great treat for summer parties or just a relaxing afternoon on the porch.<\/strong>"
+        },
+        {
+            "headline": "Conclusion"
+        },
+        {
+            "content": "<p>This iced vanilla chai latte is a refreshing treat that’s super easy to make. Whether you're chillin' after a long day or hanging out with friends, this drink is a must-try. Share your experience in the comments or snap a pic and tag me on Instagram. I can’t wait to see your delicious creations!<\/p>"
         }
     ],
+    "category_id": "cat_1761230749_334",
+    "generation_metadata": {
+        "voice": "Storyteller",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-11 19:18:40"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "refreshing-iced-vanilla-chai-latte-for-hot-days_image_1.webp",
@@ -78,19 +115,21 @@
             "order": 3
         },
         {
-            "fileName": "refreshing-iced-vanilla-chai-latte-for-hot-days_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes\/refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_mollykitchendaily-main_image_4.webp",
-            "relativePath": "refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_mollykitchendaily-main_image_4.webp",
+            "fileName": "refreshing-iced-vanilla-chai-latte-for-hot-days_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_LummyRecipes_image_4.webp",
+            "relativePath": "refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "refreshing-iced-vanilla-chai-latte-for-hot-days",
+    "id": "recipe_1768145646_154",
     "image": "refreshing-iced-vanilla-chai-latte-for-hot-days_image_1.webp",
     "image_path": "recipes\/refreshing-iced-vanilla-chai-latte-for-hot-days\/images\/refreshing-iced-vanilla-chai-latte-for-hot-days_image_1.webp",
     "image_dir": "refreshing-iced-vanilla-chai-latte-for-hot-days\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-01-11T16:50:07+01:00",
-    "updatedAt": "2026-01-11T16:50:07+01:00"
+    "createdAt": "2026-01-11T19:19:14+01:00",
+    "updatedAt": "2026-01-11T19:19:14+01:00"
 }

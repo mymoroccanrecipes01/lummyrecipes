@@ -1,68 +1,114 @@
 {
-    "id": "recipe_1768144883_574",
-    "slug": "apple-fritter-waffle-donuts-a-cozy-fall-delight",
-    "title": "Apple Fritter Waffle Donuts: A Cozy Fall Delight",
-    "promptIMG": "Food photography: Apple Fritter Waffle Donuts, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "title": "Delicious Apple Fritter Waffle Donuts for Fall Mornings",
+    "promptIMG": "Professional food photography prompt: \"Apple fritter waffle donuts, beautifully plated on a rustic wooden surface, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, warm autumn background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "These Apple Fritter Waffle Donuts are the perfect fall treat. With tart apples and a sweet glaze, they bring cozy vibes to your breakfast table. Enjoy them warm on a crisp autumn morning!",
-    "category_id": "cat_1761230422_512",
-    "author_id": "author_001",
+    "description": "Warm and crispy apple fritter waffle donuts that’ll make your mornings cozy. Loaded with tart apples and sweet glaze, they’re a fantastic way to start your day. Enjoy them fresh with a cup of coffee. Save this recipe for your next fall brunch!",
+    "hashtags": "#applefritters #waffledonuts #fallrecipes #cozybreakfast #easyrecipes",
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "servings": 6,
     "ingredients": [
-        "2 cups all-purpose flour",
-        "1 tablespoon baking powder",
-        "1\/2 teaspoon salt",
-        "1 teaspoon ground cinnamon",
-        "1\/4 cup granulated sugar",
-        "1\/2 cup buttermilk",
-        "1\/4 cup milk",
+        "1 cup all-purpose flour (I use Bob's Red Mill)",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1\/2 tsp cinnamon",
+        "1\/4 tsp nutmeg",
+        "1\/2 tsp salt",
+        "1\/2 cup milk (I prefer whole milk for richness)",
         "1 large egg",
-        "1 teaspoon vanilla extract",
-        "1 cup peeled and diced apples (like Granny Smith)",
-        "1 cup powdered sugar",
-        "2 tablespoons milk (for glaze)"
+        "1\/2 cup diced apples (Granny Smith works great)",
+        "1\/4 cup melted Kerrygold butter",
+        "1 cup powdered sugar (for glaze)",
+        "2 tbsp milk (for glaze)",
+        "1\/2 tsp vanilla extract (for glaze)"
     ],
     "instructions": [
-        "In a large bowl, whisk together flour, baking powder, salt, cinnamon, and sugar until well combined.",
-        "In another bowl, mix buttermilk, milk, egg, and vanilla extract. Stir this mixture into the dry ingredients until just combined.",
-        "Fold in the diced apples gently, being careful not to overmix.",
-        "Preheat your waffle maker and lightly grease it. Pour the batter into the waffle maker, filling it about halfway, and cook until golden brown (about 4-5 minutes).",
-        "While the waffles are cooking, whisk together powdered sugar and 2 tablespoons of milk to create a glaze.",
-        "Once the waffle donuts are done, drizzle the glaze over them while they’re still warm. Enjoy!"
+        "OK, so first thing, preheat your waffle maker. I usually set it to medium-high. While that's heating up, mix the dry stuff together in a bowl: flour, sugar, baking powder, cinnamon, nutmeg, and salt.",
+        "In another bowl, whisk the egg, then add the milk and melted butter. Combine these wet ingredients with the dry ones until it’s all just blended. It’s OK if there are a few lumps – don’t overmix!",
+        "Now fold in those diced apples. You want them evenly distributed, but don’t go crazy – just a gentle mix. Trust me, the chunks will be delicious!",
+        "Once your waffle maker is ready, scoop some batter onto it. I usually use about 1\/3 cup per donut. Close the lid and let them cook for about 3-5 minutes. You want them golden brown – like, really golden.",
+        "While those are cooking, mix up your glaze. Just whisk together the powdered sugar, milk, and vanilla until smooth. It should be drizzly but thick enough to coat. Adjust with more milk or sugar as needed.",
+        "When the donuts are done, remove them carefully and drizzle that sweet glaze on top. Serve warm because they taste best fresh out of the waffle maker!"
     ],
-    "prep_time": 15,
-    "cook_time": 20,
-    "total_time": 35,
-    "servings": 6,
-    "difficulty": "Medium",
-    "tips": "For the best flavor, use tart apples like Granny Smith. If you want a crunch, add some chopped walnuts to the batter. These donuts are best enjoyed fresh but can be stored in an airtight container for a day or two. Just reheat them in the toaster for a quick treat!",
+    "tips": "Alright, here are some tips that’ll help you nail these donuts: \n1. **Don’t skip the resting time** - let the batter sit for 5 minutes before cooking. It helps the texture! \n2. **Check your waffle maker’s heat** - if they’re browning too fast, lower the heat a bit. My old one likes to run hot. \n3. **Use fresh apples** - they give the best flavor. I usually go for tart varieties like Granny Smith. \n4. **Make it fun** - try adding some chopped nuts or even a sprinkle of chocolate chips for a twist! \n5. **Storage tip** - these are best eaten fresh, but if you have leftovers, store them in an airtight container for up to 2 days. Reheat in the toaster for a quick warm-up!",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>When the leaves start to turn and the air gets a bit brisk, I crave cozy treats that warm my soul. That's when these Apple Fritter Waffle Donuts come into play. They're a delightful mashup of two classics: apple fritters and waffles. Each bite is a little piece of fall, with the tartness of the apples perfectly balanced by a sweet glaze. I love making these for weekend brunches or even as a special breakfast for my family on chilly mornings.<\/p>"
+            "content": "<p>So, I remember the first time I tried making apple fritter waffle donuts. It was a chilly October morning last year. The smell of cinnamon and baked apples wafted through my kitchen, and honestly, it was magical. These donuts, with their crispy edges and tender centers, are like fall on a plate. I knew I had to share this recipe with everyone, especially since they’re super easy to whip up!<\/p>"
         },
         {
-            "headline": "What You Need"
-        },
-        {
-            "content": "<p>You'll need some basic pantry staples for these donuts, like flour, sugar, and baking powder. The star of the show is definitely the apples, which add a lovely tartness. I usually go for Granny Smith apples, but Honeycrisp works beautifully too if you prefer a sweeter touch. The buttermilk gives these donuts a rich texture, but if you don’t have any, regular milk will work in a pinch!<\/p>"
-        },
-        {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<p>Making these waffle donuts is super straightforward. You'll start by mixing your dry ingredients, then combine them with the wet ones. The key here is to fold in the apples gently so they don’t break down too much. Once your waffle maker is preheated, it’s just a matter of pouring in the batter and letting it cook until golden. The smell that fills your kitchen will have everyone gathering around!<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Apple Fritter Waffle Donuts on a rustic wooden table",
-                "url": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
-                "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
-                "type": "main"
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>30 minutes total. That’s it.<\/li><li>Warm, comforting flavors of fall.<\/li><li>My picky kids asked for seconds! (shocking!)<\/li><li>Most ingredients you probably have at home.<\/li><li>They freeze pretty well for later enjoyment.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>These donuts are fantastic on their own, but you could also serve them with a side of maple syrup or whipped cream for an extra treat. If you want to get creative, try adding some chopped pecans or walnuts into the batter for a delightful crunch. Trust me, once you make these, they’ll become a staple in your fall recipe rotation!<\/p>"
+            "headline": "My Story With This Recipe"
+        },
+        {
+            "content": "<p>I first tried these at my friend Jenna’s house during a cozy brunch last October. The smell of freshly baked donuts filled the air, and I was instantly hooked. Jenna said, \"You HAVE to try these!\" After my first bite, I was like, 'Wow, these are amazing!' Now I make them every fall for my family, and my husband Dave always says, 'You need to make these again!' It’s become our little tradition, and I wouldn’t have it any other way.<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time I whipped these up, I totally forgot to add the apples. (don’t judge me) The dough was bland and honestly, just sad. Now I know - apples are a must because they bring that juicy sweetness and flavor that makes these donuts shine.<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><strong>Main ingredient:<\/strong> Apples are key here. I recommend using tart varieties like Granny Smith. They give a nice contrast to the sweetness of the glaze. Make sure to chop them small so they cook through easily.<br><strong>Key seasonings:<\/strong> Cinnamon and nutmeg add that warm, cozy flavor. I always use freshly grated nutmeg for an extra kick!<br><strong>Supporting ingredients:<\/strong> The flour and eggs help bind everything together, creating that fluffy texture we want. Don't skimp on the butter—it adds richness!<br><strong>Smart substitutions:<\/strong> You can swap out the all-purpose flour for a gluten-free blend if needed. Also, almond milk works just fine instead of regular milk if you're looking for a lactose-free option.<br><strong>Equipment needed:<\/strong> A good quality waffle maker is a must. My KitchenAid mixer really helps get the batter nice and smooth without lumps.<\/p>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p>Preparation phase: Gather your ingredients and start by measuring everything out. It really helps to have everything ready. You can even chop the apples the night before to save time. Cooking process: Once the batter is mixed, it’s all about timing. Keep an eye on the waffles; they’re done when they’re golden brown and crispy on the outside. Finishing touches: Drizzle the glaze right before serving. It makes them look extra tempting and keeps that freshness!<\/p>"
+        },
+        {
+            "headline": "Sharing the Love"
+        },
+        {
+            "content": "<p>There’s something special about sitting around the table with family, sharing these apple fritter waffle donuts. The laughter, the compliments, and those happy faces? It’s the best part! I love watching my kids dive in, their fingers sticky with glaze, and hearing them say, 'Can we have these every weekend?' It’s a simple pleasure that brings us all together, making even the busiest mornings feel like a treat.<\/p>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p><strong>Side dishes:<\/strong> Serve these with crispy bacon or sausage for a savory touch. They balance out the sweetness wonderfully. <strong>Beverage pairings:<\/strong> A hot cup of coffee or spiced cider is just the thing to sip alongside. <strong>Bread\/starch options:<\/strong> If you want to go all out, some fresh biscuits on the side would be amazing. <strong>Occasion ideas:<\/strong> These are great for fall brunches or even cozy family breakfasts on chilly mornings. <strong>Presentation tips:<\/strong> Dust a little extra powdered sugar on top for a nice touch. And don’t forget to serve them warm!<\/p>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p><strong>Dietary adaptation:<\/strong> You can easily make these gluten-free by swapping the flour for a gluten-free blend. Just make sure it’s a good one! <strong>Flavor variation:<\/strong> Try adding some chopped pecans or walnuts for crunch, or even a pinch of cayenne for a spicy kick. <strong>Protein swap:<\/strong> If you want to add some protein, you could mix in some Greek yogurt for a creamier batter.<\/p>"
+        },
+        {
+            "headline": "Conclusion"
+        },
+        {
+            "content": "<p>Honestly, you’re gonna want to make these apple fritter waffle donuts. They’re a simple yet satisfying treat that’ll make your mornings brighter. So, grab your ingredients, gather your friends or family, and whip up a batch! And hey, if you try them out, I’d love to hear how they turn out – drop a comment or share your pics!<\/p>"
         }
     ],
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "voice": "Storyteller",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-11 19:18:10"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
@@ -86,19 +132,21 @@
             "order": 3
         },
         {
-            "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
-            "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_mollykitchendaily-main_image_4.webp",
+            "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
+            "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
+            "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "apple-fritter-waffle-donuts-a-cozy-fall-delight",
+    "id": "recipe_1768144883_574",
     "image": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
     "image_path": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
     "image_dir": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-01-11T16:50:10+01:00",
-    "updatedAt": "2026-01-11T16:50:10+01:00"
+    "createdAt": "2026-01-11T19:19:20+01:00",
+    "updatedAt": "2026-01-11T19:19:20+01:00"
 }
