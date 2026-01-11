@@ -5,21 +5,21 @@
     "promptIMG": "Food photography: French onion meatloaf, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
     "isOnline": true,
     "description": "This French onion meatloaf is a comforting dish that brings warmth to any table. With sweet caramelized onions and a tangy glaze, it's perfect for family dinners or casual gatherings.",
-    "category_id": "cat_1761230594_885",
+    "category_id": "cat_1761230221_583",
     "author_id": "author_001",
     "ingredients": [
         "1 pound ground beef (80% lean)",
-        "1/2 pound ground pork",
+        "1\/2 pound ground pork",
         "1 small onion, finely chopped",
         "1 tablespoon olive oil",
-        "1/2 cup breadcrumbs",
-        "1/4 cup milk",
+        "1\/2 cup breadcrumbs",
+        "1\/4 cup milk",
         "1 large egg",
         "1 teaspoon salt",
-        "1/2 teaspoon black pepper",
+        "1\/2 teaspoon black pepper",
         "1 teaspoon garlic powder",
         "1 tablespoon Worcestershire sauce",
-        "1/4 cup ketchup",
+        "1\/4 cup ketchup",
         "2 tablespoons brown sugar",
         "1 tablespoon Dijon mustard"
     ],
@@ -40,66 +40,66 @@
     "tips": "When caramelizing onions, patience is key; let them cook slowly to develop that sweet flavor. If you want a bit more zing, try adding some finely chopped herbs like thyme or rosemary. Leftovers can be stored in the fridge for up to 3 days and make a great sandwich filling!",
     "structured_content": [
         {
-            "content": "<p>Let me tell you, this French onion meatloaf is a real crowd-pleaser! It's one of those dishes that feels like a warm hug on a chilly evening. The combination of caramelized onions and a tangy glaze makes it a standout at any dinner table. I usually whip this up when I want something comforting yet a bit special. It’s perfect for family gatherings or just a cozy night in!</p>"
+            "content": "<p>Let me tell you, this French onion meatloaf is a real crowd-pleaser! It's one of those dishes that feels like a warm hug on a chilly evening. The combination of caramelized onions and a tangy glaze makes it a standout at any dinner table. I usually whip this up when I want something comforting yet a bit special. It’s perfect for family gatherings or just a cozy night in!<\/p>"
         },
         {
             "headline": "What You Need"
         },
         {
-            "content": "<p>For this recipe, you'll need a good blend of ground beef and pork to keep the meatloaf juicy and flavorful. The caramelized onions add a sweetness that balances beautifully with the tangy glaze. If you're out of breadcrumbs, crushed crackers or oats can work in a pinch!</p>"
+            "content": "<p>For this recipe, you'll need a good blend of ground beef and pork to keep the meatloaf juicy and flavorful. The caramelized onions add a sweetness that balances beautifully with the tangy glaze. If you're out of breadcrumbs, crushed crackers or oats can work in a pinch!<\/p>"
         },
         {
             "headline": "How to Make It"
         },
         {
-            "content": "<p>Making this meatloaf is straightforward! Start by caramelizing the onions for that rich flavor, then mix everything together. The key is to not overmix the meat—just combine until it’s all incorporated. The glaze adds a nice finishing touch, giving it a sweet and savory kick!</p>"
+            "content": "<p>Making this meatloaf is straightforward! Start by caramelizing the onions for that rich flavor, then mix everything together. The key is to not overmix the meat—just combine until it’s all incorporated. The glaze adds a nice finishing touch, giving it a sweet and savory kick!<\/p>"
         },
         {
             "upload": {
                 "context": "French onion meatloaf on a rustic wooden table",
-                "url": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
+                "url": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
                 "fileName": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
                 "type": "main"
             }
         },
         {
-            "content": "<p>Here's the thing - This meatloaf pairs wonderfully with mashed potatoes or a simple green salad. You can also serve it with some crusty bread to soak up the delicious juices. If you have any leftovers, they make for amazing sandwiches the next day!</p>"
+            "content": "<p>Here's the thing - This meatloaf pairs wonderfully with mashed potatoes or a simple green salad. You can also serve it with some crusty bread to soak up the delicious juices. If you have any leftovers, they make for amazing sandwiches the next day!<\/p>"
         }
     ],
     "images": [
         {
             "fileName": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
-            "filePath": "recipes/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
-            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
+            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_2.webp",
-            "filePath": "recipes/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_2.webp",
-            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_2.webp",
+            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_3.webp",
-            "filePath": "recipes/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_3.webp",
-            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_3.webp",
+            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
-            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "relativePath": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_mollykitchendaily-main_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
-    "image_path": "recipes/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
-    "image_dir": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners/images",
+    "image_path": "recipes\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images\/savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners_image_1.webp",
+    "image_dir": "savory-french-onion-meatloaf-with-tangy-glaze-for-cozy-dinners\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-01-11T15:01:23+01:00",
