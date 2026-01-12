@@ -2621,6 +2621,11 @@ nav.nav a img {
     line-height: 1.2;
 }
 
+.recent-recipe-info .recipe-title {
+    font-size: 11px;
+}                
+
+
 .recipe-meta {
     display: flex;
     justify-content: space-between;
