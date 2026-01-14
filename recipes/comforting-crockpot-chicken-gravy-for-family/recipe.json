@@ -1,113 +1,106 @@
 {
-    "title": "Comforting Chicken and Gravy in the Crockpot",
-    "promptIMG": "Professional food photography prompt: \"Crockpot chicken and gravy, served on a rustic plate with creamy mashed potatoes and green beans, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, cozy kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Comforting Chicken and Gravy in the Slow Cooker",
+    "promptIMG": "Professional food photography prompt: \"Slow cooker chicken and gravy, served on a rustic plate with creamy mashed potatoes and green beans, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, cozy kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Hearty chicken and gravy cooked in the crockpot makes dinner a breeze! Juicy chicken simmered in savory gravy, served with mashed potatoes or rice. Try this for your next family dinner!",
-    "hashtags": "#chickenandgravy #crockpotrecipes #easymeals #comfortfood #dinnerideas",
+    "description": "A straightforward slow cooker chicken dish combining tender chicken with a savory, cream-based sauce that's actually manageable weeknight cooking. Built-in flexibility accommodates kitchen schedules and ingredient preferences while delivering consistent results.",
+    "hashtags": "#slowcookerrecipes #chickenrecipes #easydinners #weeknightmeals #comfortfood",
     "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 240,
+    "total_time": 255,
     "servings": 6,
     "ingredients": [
-        "4 boneless, skinless chicken breasts",
-        "1 can (10.5 oz) cream of chicken soup",
+        "2 pounds boneless, skinless chicken breasts (or 2.5 pounds bone-in thighs)",
+        "1 can (10.5 oz) cream of chicken soup (or homemade equivalent)",
         "1 packet (1 oz) ranch dressing mix",
-        "1 cup chicken broth",
-        "1 tablespoon olive oil",
-        "Salt and pepper to taste",
-        "Chopped parsley for garnish"
+        "¾ cup low-sodium chicken broth",
+        "1 teaspoon kosher salt",
+        "½ teaspoon ground black pepper",
+        "½ teaspoon garlic powder",
+        "Fresh parsley for garnish (optional)"
     ],
     "instructions": [
-        "First up, drizzle some olive oil in your crockpot. Just a tablespoon, no need to go crazy.",
-        "Next, season your chicken breasts with salt and pepper. Yeah, you wanna make sure they’re flavorful.",
-        "Add the chicken to the crockpot, then dump in the cream of chicken soup and the ranch dressing mix. Smells good already, right?",
-        "Pour in the chicken broth over everything. It’s like, seriously, this is gonna be so easy.",
-        "Cover and cook on low for about 4 hours. You’ll know it’s done when the chicken is tender and shreddable.",
-        "Shred the chicken right in the pot, mix it all together, and serve it up over mashed potatoes or rice. So good!"
+        "Thaw chicken completely in the refrigerator, ideally 12-24 hours before cooking. This is non-negotiable for even cooking. Frozen chicken will cook unevenly—the exterior overcooks while the interior remains undercooked. Pat thawed chicken dry with paper towels, which helps it retain moisture during the long, slow cooking process.",
+        "Season the chicken on both sides with salt, pepper, and garlic powder. This base seasoning should penetrate the protein before other ingredients are added. Proper seasoning at the beginning distributes flavor throughout rather than sitting on the surface.",
+        "If your slow cooker allows, lightly coat the interior with cooking spray or a thin film of oil. This prevents sticking without adding fat to the final dish. Add the seasoned chicken in a single layer, slightly overlapping if necessary.",
+        "In a small bowl, stir together the cream of chicken soup, ranch dressing mix, and chicken broth until the powdered seasoning is fully dissolved. Breaking apart the dressing mix prevents pockets of concentrated flavor. Pour this mixture evenly over the chicken, making sure everything is partially submerged.",
+        "Cover the slow cooker and set to low heat for 4 hours. The low setting is essential—high heat causes the exterior to overcook while the interior remains tender, creating an unpleasant rubbery texture. At the 3-hour mark, check that liquid is simmering gently around the edges, not boiling vigorously.",
+        "At 4 hours, carefully remove the chicken with tongs and place on a cutting board. It should be completely tender and shred easily when pulled with two forks. If it still resists shredding, return it to the cooker for an additional 15-30 minutes.",
+        "Shred the chicken into bite-sized pieces, removing any thick fat deposits or connective tissue. Return the shredded chicken to the slow cooker and stir thoroughly to distribute the gravy evenly. The residual heat will keep everything warm.",
+        "Taste the mixture and adjust seasoning. The cream soup is mild, so you may need additional salt or a few grinds of black pepper. Remember that slow cooker dishes often need more seasoning than stovetop cooking because flavors concentrate less during the extended cook time.",
+        "Serve immediately over mashed potatoes, egg noodles, or rice. Garnish with chopped fresh parsley if desired, though it's not necessary. The gravy should coat the back of a spoon but remain pourable—if it's too thick, add ¼ cup warm broth to thin it."
     ],
-    "tips": "Now, let me drop some knowledge here. First, using a good quality chicken broth makes a big difference. I like to use KitchenAid to mix my ingredients for a smoother blend. Second, you can totally swap out chicken breasts for thighs if you prefer. They’re juicier, but whatever you go with, just make sure they’re not frozen! Also, if you wanna add some veggies, throw in some carrots or peas halfway through cooking. They’ll add color and nutrition. And trust me, leftovers are even better the next day. Just store them in an airtight container in the fridge for up to 3 days. Reheat gently on the stove or in the microwave. Seriously, this dish is a lifesaver for busy weeknights.",
-    "image_keywords": [
-        "appetizing",
-        "homemade",
-        "comforting",
-        "creamy",
-        "family-friendly"
+    "pro_tips": [
+        "Chicken breasts versus thighs: Thighs contain more fat and connective tissue, which break down during slow cooking and create a more forgiving texture. Breasts are leaner but easier to dry out if you're not careful with timing. For foolproof results, use thighs. If using breasts, don't exceed 4 hours on low.",
+        "The cream soup component matters more than you'd think. While convenient, canned cream soups vary in salt and fat content. Budget brands sometimes taste metallic. Campbell's is reliable, but if you prefer homemade sauce, make a simple béchamel (butter, flour, warm broth) and skip the canned soup entirely.",
+        "Never skip the broth. The liquid ratio prevents the dish from becoming paste-like. Too little liquid and the chicken will dry out; too much and the gravy becomes thin and watery. The ¾-cup measurement balances evaporation with the moisture the chicken releases.",
+        "For a cleaner flavor profile, skip the powdered ranch mix and instead add ½ teaspoon each of dried thyme, dried parsley, and garlic powder. This gives similar savory depth without the salt spike that seasoning packets introduce.",
+        "Slow cookers vary in temperature. Some run hot; others run cool. If your chicken is consistently overdone at 4 hours, reduce to 3.5 hours next time. If it's consistently undercooked, extend to 4.5 hours. Getting to know your specific cooker prevents repeated mistakes.",
+        "Avoid the temptation to lift the lid and stir frequently. Every time you open it, heat escapes and adds 15-20 minutes to total cook time. Check once at the 3-hour mark only to verify simmering action is present."
     ],
-    "structured_content": [
+    "common_mistakes": [
+        "Using frozen chicken is the most frequent error. Frozen poultry takes significantly longer to reach safe internal temperature (165°F), and the texture becomes rubbery. The thaw-from-frozen approach doesn't work here—you'll end up with overcooked exterior and potentially unsafe interior. Always thaw completely beforehand.",
+        "Overcooking chicken breasts beyond 4.5 hours causes the muscle fibers to tighten excessively, squeezing out moisture and creating stringy, unpleasant texture. Breasts need careful timing; thighs forgive overages. If you prefer breasts, set a timer and stick to it rather than leaving the cooker unattended for 6+ hours.",
+        "Adding vegetables directly into the slow cooker without pre-cooking them often results in mushy, flavorless vegetables by hour 4. If including carrots or potatoes, add them only in the final 90 minutes, or sauté them separately and add at serving time.",
+        "Neglecting to season the chicken before adding other ingredients means flavors stay on the surface rather than penetrating the protein. Salt the chicken first, then build layers of flavor with the broth and soup combination. Final taste adjustments happen at the very end."
+    ],
+    "variations": [
+        "Thyme and sage version: Omit the ranch seasoning and instead add 1 teaspoon dried thyme, ½ teaspoon dried sage, and ½ teaspoon smoked paprika to the soup mixture. This creates an earthy, herbaceous gravy that feels less reliant on powdered packets.",
+        "Mushroom addition: Slice 8 ounces of mushrooms (cremini, button, or a mix) and layer them with the chicken. They cook down significantly and contribute umami depth while adding zero calories. The moisture they release enriches the gravy.",
+        "Wine-braised variation: Replace ¼ cup of the broth with dry white wine added before cooking. The alcohol cooks off, leaving subtle acidity and complexity that cream-based soups alone can't achieve. This is genuinely worth the small extra step.",
+        "Dijon and tarragon: Add 1½ tablespoons Dijon mustard and ½ teaspoon dried tarragon to the broth mixture. The mustard adds brightness without heat; the tarragon creates a subtle licorice note. This version pairs exceptionally well with egg noodles.",
+        "Lower-sodium adaptation: Use a low-sodium cream of chicken soup and reduce the dressing mix to ½ packet, then add ½ teaspoon additional garlic powder and ¼ teaspoon paprika for flavor compensation. This approach supports anyone monitoring sodium intake."
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": 285,
+        "protein_grams": 38,
+        "carbohydrates_grams": 7,
+        "fat_grams": 11,
+        "sodium_milligrams": 950,
+        "note": "Values are estimates calculated from standard ingredient databases. Actual nutrition will vary based on specific brands used (cream soups vary significantly in composition) and chicken size. This is provided for informational purposes only and should not be considered medical or dietary advice."
+    },
+    "storage_and_reheating": {
+        "refrigerator": "Store in an airtight container for up to 4 days. The gravy acts as a preservative, extending shelf life compared to plain cooked chicken. After the first day, flavors actually deepen slightly as ingredients continue melding.",
+        "freezer": "Freeze in airtight containers or freezer bags for up to 3 months. The cream-based sauce freezes well without separating. Thaw overnight in the refrigerator before reheating. Do not refreeze after thawing.",
+        "reheating_method": "Stovetop is best: transfer to a pot, add 2-3 tablespoons water if the gravy has thickened, and warm over medium heat, stirring occasionally, until steaming (about 8-10 minutes). Microwave method: place in a microwave-safe bowl, cover loosely, and heat in 2-minute intervals, stirring between each, until warmed through. The stovetop approach prevents the gravy from separating or becoming spongy as often happens with microwave reheating.",
+        "make_ahead_tip": "Prep the broth mixture the night before and refrigerate in an airtight container. In the morning, add it to the slow cooker along with the seasoned chicken and start cooking. This strategy condenses morning prep to 5 minutes—chicken simply needs seasoning and placement in the cooker."
+    },
+    "faq": [
         {
-            "content": "<p>So, I gotta tell you about this chicken and gravy thing. It's like, the ultimate comfort food, right? The aroma wafting through your kitchen is just good. You have tender chicken, smothered in this creamy gravy that makes you feel all warm inside. And the best part? You just toss everything into the crockpot and forget about it. Seriously, you can binge-watch your favorite show while this magic happens. It's one of those meals that warms your soul and fills your belly.<\/p>"
+            "question": "Can I cook this on high heat instead of low?",
+            "answer": "Technically yes, but not recommended. High heat cooks the chicken in 2-2.5 hours but creates a rubbery, stringy texture as the muscle fibers contract excessively. The extended low cooking allows collagen to gradually break down into gelatin, maintaining moisture. If you're extremely short on time, 3 hours on high is the absolute minimum, but quality suffers noticeably."
         },
         {
-            "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>15 minutes of prep time. That's it.<\/li><li>Tender chicken that practically falls apart (no joke).<\/li><li>Great for busy weeknights or cozy family dinners.<\/li><li>Leftovers? They taste even better!<\/li><li>Kid-approved and super easy to make.<\/li><li>Most ingredients you probably already have!<\/li><\/ul>"
-            }
+            "question": "Why is my chicken always dry?",
+            "answer": "This usually happens from cooking too long, even on low. Chicken breasts become dry after 4.5 hours; thighs handle up to 5.5 hours. Also, ensure you're using enough broth—insufficient liquid causes faster moisture loss. Finally, skip pre-searing the chicken; the dry-heat searing removes surface moisture that needs to stay during slow cooking."
         },
         {
-            "headline": "My Story With This Recipe"
+            "question": "Can I substitute the cream soup with something else?",
+            "answer": "Yes. Make a simple sauce by combining 2 tablespoons butter melted with 2 tablespoons flour (creating a roux), then whisking in 1 cup warm broth and ½ cup heavy cream. This tastes fresher than canned soup and gives you complete control over salt content. Add it to the cooker as you would the canned version."
         },
         {
-            "content": "<p>I first tried this at my friend Lisa's house last Thanksgiving. It was a total lifesaver because she was juggling a million dishes. The smell of the chicken simmering in gravy filled the entire house. Lisa said, \"You gotta try this, it’s so easy!\" I was like, wow, this is so comforting! Now I make it for my family every Sunday. My husband always says, \"Babe, this is the best part of the week!\"<\/p>"
+            "question": "What if I forgot to thaw the chicken?",
+            "answer": "Cook it on low for 5-6 hours instead of 4. Frozen chicken takes considerably longer to reach safe internal temperature (165°F). However, texture will likely suffer—the exterior overcooks while the interior finishes. Thawing is always preferable. In future, use the refrigerator method (12-24 hours ahead) or emergency thaw in cold water (1 hour for chicken breasts) rather than cooking from frozen."
         },
         {
-            "headline": "What I Learned The Hard Way"
+            "question": "How can I make the gravy thicker?",
+            "answer": "If the gravy is too thin after cooking, remove the chicken and simmer the liquid on the stovetop over medium heat for 10-15 minutes to reduce it, or whisk in a slurry (1 tablespoon cornstarch mixed with 2 tablespoons water) and simmer for 2 minutes until thickened. Don't use flour-based thickeners in slow cookers as they don't always cook properly in the extended, moist environment."
         },
         {
-            "content": "<p>So, my first attempt at this recipe? A total disaster. I thought I could use frozen chicken breasts directly from the freezer. Big mistake! They came out rubbery and barely cooked. Now I know it matters to thaw them first. Trust me, it makes a world of difference.<\/p>"
-        },
-        {
-            "headline": "Essential Ingredients & Smart Substitutions"
-        },
-        {
-            "content": "<p><strong>Main ingredient (chicken):<\/strong> Boneless, skinless chicken breasts work best here. They cook evenly and absorb the flavors of the broth and gravy nicely. Look for ones that are plump and not too thin. <strong>Key seasonings:<\/strong> The ranch dressing mix is a game changer; it adds a zing that makes the gravy pop. My go-to is Hidden Valley, but any brand will do. <strong>Supporting ingredients:<\/strong> Cream of chicken soup binds everything together and adds a rich creaminess. Trust me, I always opt for Campbell's. <strong>Smart substitutions:<\/strong> You can use turkey instead of chicken if that’s what you have, or even a plant-based chicken alternative for a vegetarian spin. <strong>Equipment needed:<\/strong> A good crockpot is essential; I use my trusty KitchenAid one which is perfect for even cooking.<\/p>"
-        },
-        {
-            "headline": "Step-by-Step Cooking Instructions"
-        },
-        {
-            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by gathering all your ingredients. Chop your chicken into uniform pieces for even cooking. This takes about 5 minutes. If you’re using fresh veggies, chop those too. You can prep this a day in advance to save time.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once everything's in the crockpot, just cover it and set it on low heat. It'll take about 4 hours. You’ll know it’s ready when the chicken shreds easily with a fork. Keep an eye on it for the last hour to avoid overcooking.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Shred the chicken right in the pot and stir everything together. Serve it over fluffy mashed potatoes or rice for the ultimate comfort meal. Garnish with chopped parsley for a pop of color.<\/dd><\/dl><\/p>"
-        },
-        {
-            "headline": "Flavor Boosters & Customization Ideas"
-        },
-        {
-            "content": "<p>Want to jazz it up a bit? <ul><li><strong>Herbs:<\/strong> Fresh thyme or rosemary can make a great addition. Toss in about a teaspoon of each for that aromatic flair.<\/li><li><strong>Spices:<\/strong> Adding some garlic powder or paprika really amps up the flavor. Just a pinch of each will do.<\/li><li><strong>Add-ins:<\/strong> Want to make it heartier? Toss in some diced potatoes or carrots halfway through cooking. They soak up all that gravy goodness.<\/li><li><strong>Technique variations:<\/strong> You could also cook this on high for about 2 hours if you're short on time.<\/li><\/ul><\/p>"
-        },
-        {
-            "headline": "Perfect Pairings & Serving Suggestions"
-        },
-        {
-            "content": "<p>When it comes to sides, <ul><li><strong>Mashed potatoes:<\/strong> You can’t go wrong with creamy mashed potatoes. They soak up the gravy beautifully!<\/li><li><strong>Green beans:<\/strong> A side of sautéed green beans adds a nice crunch and color. Just toss them in a pan with a bit of olive oil.<\/li><li><strong>Rice:<\/strong> White or brown rice works great too – it’s all about what you like.<\/li><li><strong>Occasion ideas:<\/strong> This dish is a winner for family gatherings or those rainy Sundays when you just wanna stay in.<\/li><li><strong>Presentation tips:<\/strong> Serve it in deep bowls for that cozy feel. Top with a sprinkle of parsley for a nice look.<\/li><li><strong>Temperature serving note:<\/strong> Serve this warm, but not scalding. Let it sit for about 5 minutes after cooking.<\/li><\/ul><\/p>"
-        },
-        {
-            "headline": "Creative Variations to Try"
-        },
-        {
-            "content": "<p>If you feel adventurous, <ul><li><strong>Gluten-Free:<\/strong> Use gluten-free ranch mix and cream of chicken soup to keep it safe.<\/li><li><strong>Vegan:<\/strong> Swap the chicken for jackfruit and use a plant-based cream soup. It’s a game changer!<\/li><li><strong>Spicy:<\/strong> Add some diced jalapeños or a splash of hot sauce for a kick.<\/li><li><strong>Protein swap:<\/strong> Try using pork tenderloin or even beef for a twist.<\/li><\/ul><\/p>"
-        },
-        {
-            "upload": {
-                "context": "Delicious chicken and gravy served in a cozy bowl, garnished with parsley, sitting on a rustic wooden table.",
-                "url": "comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_1.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Always sear your chicken before adding it to the crockpot for extra flavor. It’s a small step that makes a big difference.<\/li><li><strong>Ingredient prep secret:<\/strong> Let your cream of chicken soup warm up a bit before adding it to the pot. It mixes in better.<\/li><li><strong>Timing strategy:<\/strong> If you're in a rush, set your crockpot on high for about 2 hours instead of low, but it might not be as tender.<\/li><li><strong>Presentation hack:<\/strong> Use a ladle to serve; it makes everything look more professional and neat!<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Wrapping it up, this chicken and gravy recipe is a total win for weekday dinners. It’s so simple, yet so satisfying. Honestly, you’ll want to make it again and again! Feel free to share your experiences in the comments or pin this for later. Trust me, your family will thank you for this one.<\/p>"
+            "question": "Can I add vegetables like carrots or potatoes?",
+            "answer": "Yes, but timing matters. Hard vegetables like carrots and potatoes need 4+ hours to soften. Add them only if using that full cook time. Alternatively, add vegetables in the final 90 minutes of cooking, or sauté them separately and add at serving time. This prevents them from becoming mushy or flavorless."
         }
     ],
+    "why_this_recipe_works": "This slow cooker dish succeeds because it embraces slow cooking's chemistry rather than fighting it. Low, moist heat gradually breaks down the collagen and connective tissue in chicken, transforming tough structures into gelatin that coats the protein and keeps it moist. This is the opposite of dry-heat cooking, which evaporates moisture and tightens muscle fibers. The cream soup provides fat and starch, both essential for coating the chicken and creating a sauce with body. The ranch seasoning contributes salt and flavor compounds that would take significant time to develop if using whole spices alone. However, this efficiency comes with a cost—you must respect timing. Slow cooker cooking is forgiving about temperature (the extended time accommodates fluctuations), but it's unforgiving about duration. Too long, even on low, and you overcook the protein. Understanding this balance—between moist heat's tenderizing benefits and the risk of overcooking—is what separates consistently good slow cooker meals from rubbery disasters.",
+    "introduction_content": "I've relied on slow cooker chicken for roughly a decade, mostly during seasons when my work schedule gets chaotic and real cooking feels impossible. The appeal is straightforward: load it in the morning, turn it on, and return to something warm and edible without effort. But I've learned that straightforward doesn't mean thoughtless. My first attempts produced either rubbery chicken or watery, underseasoned dishes. I learned why by treating the slow cooker like a miniature braising oven rather than a magical appliance that handles neglect. Once I understood the actual cooking happening inside—how low heat transforms collagen into gelatin, how long cream-based sauces need to develop flavor, how timing matters even though the process looks effortless—the results became reliably good. This version reflects what I've learned through mistakes and adjustments. It's comfortable food built on actual cooking logic, not just convenience marketing.",
     "category_id": "cat_1761229889_885",
     "generation_metadata": {
-        "voice": "Storyteller",
+        "voice": "Experienced Home Cook",
         "complexity": "simple",
-        "target_words": "400-600",
+        "target_words": "1100-1300",
         "temperature": 0.7,
-        "generated_at": "2026-01-04 16:17:55"
+        "generated_at": "2026-01-14 12:00:00"
     },
     "author_id": "author_001",
     "images": [
@@ -116,6 +109,7 @@
             "filePath": "recipes\/comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_1.webp",
             "relativePath": "comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_1.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "alt_text": "Slow cooker filled with chicken and cream sauce mixture, lid partially removed to show cooking progress",
             "order": 1
         },
         {
@@ -123,6 +117,7 @@
             "filePath": "recipes\/comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_2.webp",
             "relativePath": "comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_2.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "alt_text": "Shredded chicken being mixed into the creamy gravy inside the slow cooker",
             "order": 2
         },
         {
@@ -130,6 +125,7 @@
             "filePath": "recipes\/comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_3.webp",
             "relativePath": "comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_3.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "alt_text": "Finished slow cooker chicken and gravy served over fluffy mashed potatoes with steamed green beans",
             "order": 3
         },
         {
@@ -137,6 +133,7 @@
             "filePath": "recipes\/comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_LummyRecipes_image_4.webp",
             "relativePath": "comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_LummyRecipes_image_4.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_LummyRecipes_image_4.webp",
+            "alt_text": "Close-up of creamy chicken and gravy plated in a shallow bowl with fresh parsley garnish",
             "order": 4,
             "type": "template"
         }
@@ -146,8 +143,8 @@
     "image": "comforting-crockpot-chicken-gravy-for-family_image_1.webp",
     "image_path": "recipes\/comforting-crockpot-chicken-gravy-for-family\/images\/comforting-crockpot-chicken-gravy-for-family_image_1.webp",
     "image_dir": "comforting-crockpot-chicken-gravy-for-family\/images",
-    "generated_from_text": true,
+    "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2026-01-04T16:30:56+01:00",
-    "updatedAt": "2026-01-04T16:30:56+01:00"
+    "updatedAt": "2026-01-14T12:00:00+01:00"
 }

@@ -1,153 +1,271 @@
 {
-    "title": "Creamy Green Bean Casserole That Everyone Will Love!",
+    "title": "Green Bean Casserole: Building Proper Texture and Flavor Balance",
     "promptIMG": "Professional food photography prompt: \"Creamy green bean casserole topped with crispy onions, served in a white ceramic dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Creamy green bean casserole, a classic dish that brings warmth to any gathering! Loaded with fresh green beans, a rich sauce, and crispy onions on top. Great for family dinners or holiday feasts. Save this for your next celebration!",
-    "hashtags": "#greenbeancasserole #comfortfood #easyrecipes #holidaydinners #familyfriendly",
+    "description": "A green bean casserole that maintains proper vegetable texture and creamy sauce consistency. This recipe explains the technical reasons behind each step, from blanching green beans to timing the fried onion topping for maximum crunch.",
+    "hashtags": "#greenbeancasserole #holidayrecipe #casserolerecipe #sidedish #homecooking",
     "difficulty": "Easy",
     "prep_time": 15,
-    "cook_time": 30,
+    "cook_time": 25,
+    "total_time": 40,
     "servings": 6,
+    "yield": "One 9x13 inch casserole, 6 servings",
     "ingredients": [
-        "1 pound fresh green beans, trimmed and cut into 1-inch pieces",
-        "1 can (10.5 oz) cream of mushroom soup (I use Campbell's)",
-        "1\/2 cup milk (any kind works, I like whole milk)",
-        "1 cup shredded cheddar cheese (I always use Tillamook)",
-        "1 cup crispy fried onions (like French's)",
-        "Salt and pepper to taste"
+        "1.5 lbs (680g) fresh green beans, trimmed and cut into 1-inch pieces",
+        "1 can (10.5 oz / 298g) cream of mushroom soup, condensed",
+        "1/2 cup (120ml) whole milk",
+        "1 cup (115g) sharp cheddar cheese, shredded",
+        "1.5 cups (45g) crispy fried onions, divided",
+        "1/2 tsp (3g) fine sea salt",
+        "1/4 tsp (0.5g) black pepper",
+        "2 tbsp (30ml) unsalted butter (optional, for sautéing mushrooms if using fresh)"
     ],
+    "why_this_recipe_works": "<p>This casserole succeeds because it balances three distinct textural elements: tender green beans, creamy sauce, and crispy onion topping. The green beans are blanched for exactly five minutes, which softens them slightly while the heat denatures enzymes that would otherwise break down their cell walls and cause them to turn brown and mushy. This brief cook preserves their chlorophyll (the green pigment) and maintains a tender-crisp bite.</p><p>The cream of mushroom soup acts as a thickening agent because it contains starch from the mushrooms and roux already cooked into it. When combined with milk and cheese, the starches gelatinize and create a cohesive sauce that coats the beans without being overly thick or gluey. The cheese adds fat, which enhances creaminess while its milk proteins contribute additional structure to the sauce.</p><p>The fried onions require strategic placement. Adding them at the very end of baking prevents them from absorbing moisture and becoming soggy. If you add them at the start, they lose their crispness by the time the casserole finishes cooking. The technique of reserving some onions to add at the end provides a textural contrast that makes the dish more interesting than a monolithic casserole.</p>",
     "instructions": [
-        "Preheat your oven to 350°F (175°C). Get that warmth going while you prep!",
-        "In a large pot of boiling salted water, cook the green beans for about 5 minutes until they're bright green but still crisp. Drain and set aside.",
-        "In a mixing bowl, whisk together the cream of mushroom soup and milk until smooth. Add in the cheddar cheese and stir until blended. Season with salt and pepper to your liking.",
-        "Combine the cooked green beans with the soup mixture in a large casserole dish. Mix until the beans are well coated.",
-        "Top the casserole with crispy fried onions. You can either sprinkle them on lightly or pile them high (I usually go for high!).",
-        "Bake for about 25 minutes or until the edges are bubbly and the top is golden brown. Let it cool for a few minutes before serving."
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and prepare a 9x13 inch (23x33 cm) baking dish by lightly coating it with butter or oil. Position an oven rack to the middle position.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven reaches 350°F, baking dish is ready"
+        },
+        {
+            "step": 2,
+            "instruction": "Fill a large pot with salted water (about 1 teaspoon of salt per quart) and bring it to a rolling boil over high heat. Place the trimmed green beans in the boiling water and set a timer for exactly 5 minutes. During this blanching step, the beans' cell walls soften slightly while heat denatures polyphenol oxidase, the enzyme that causes vegetables to brown. At 5 minutes, the beans transition from raw to tender-crisp without becoming limp or losing their vibrant green color. Longer than 5 minutes risks the beans becoming too soft and potentially discolored.",
+            "timing": "5 minutes",
+            "doneness_cue": "Beans are bright green, fork easily pierces but they still have slight resistance, water returns to boil quickly"
+        },
+        {
+            "step": 3,
+            "instruction": "Drain the beans immediately in a colander and set them aside. Do not rinse them—the residual starch on their surface helps the sauce cling to them during baking. Cold water rinsing would also stop the cooking process abruptly, which can cause the beans to develop an unwanted gray-green tone.",
+            "timing": "1 minute",
+            "doneness_cue": "All water drained, no pooling liquid remaining"
+        },
+        {
+            "step": 4,
+            "instruction": "In a medium mixing bowl, whisk together the condensed cream of mushroom soup and milk until you achieve a smooth consistency with no visible lumps. The soup contains flour and starch already, so you're essentially thinning it to the proper consistency rather than creating a roux from scratch. Whisk for about 30 seconds until the mixture is homogeneous. Avoid whisking too vigorously, which can incorporate excess air and create an undesirably foamy texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is smooth, no flour streaks or lumps visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the shredded cheddar cheese to the soup mixture and stir with a wooden spoon or spatula until the cheese melts and incorporates fully. The residual heat from the soup is enough to soften the cheese, and the fat in the cheese will help create a velvety texture. Season with salt and pepper. Taste a small spoonful to verify seasoning; the soup itself contains sodium, so you may need less additional salt than you'd expect.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is fully melted, no visible shreds remaining, sauce is smooth"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the drained green beans to the prepared baking dish and pour the creamy soup mixture over them. Gently fold the beans and sauce together using a rubber spatula, ensuring all beans are coated with the sauce. The coating is important because it prevents the beans from drying out during baking and ensures even flavor distribution. Fold for about 1 minute until everything is evenly combined. Avoid aggressive stirring, which can break the beans into pieces.",
+            "timing": "2 minutes",
+            "doneness_cue": "All beans are coated with sauce, no pools of liquid at bottom, mixture is uniform"
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle 3/4 cup (about 22g) of the crispy fried onions evenly across the top of the casserole. Reserve the remaining 3/4 cup for adding near the end of baking. This two-stage approach ensures you have both cooked-through onions that have absorbed some sauce flavor and fresh onions that remain maximally crispy. If all onions go in at the beginning, they'll absorb moisture and lose their textural appeal by the time the casserole finishes cooking.",
+            "timing": "1 minute",
+            "doneness_cue": "Onions are distributed evenly across the surface"
+        },
+        {
+            "step": 8,
+            "instruction": "Place the casserole in the preheated oven and bake for 20 minutes. At the 20-minute mark, open the oven carefully and sprinkle the reserved 3/4 cup of crispy onions over the top of the casserole. This timing places fresh onions on top for the final 5 minutes of cooking, which is long enough for them to warm through but short enough that they don't absorb significant moisture and become soft.",
+            "timing": "25 minutes total (20 minutes, then add onions, then 5 more minutes)",
+            "doneness_cue": "First onions are golden brown, sauce bubbles around the edges, beans are heated through"
+        },
+        {
+            "step": 9,
+            "instruction": "Return the casserole to the oven for the final 5 minutes. The casserole is finished when the sauce bubbles gently around the edges and the top onions have warmed and taken on a light golden color. At this point, remove the casserole from the oven and let it rest for 3 minutes before serving. This resting period allows the sauce to set slightly, making it less likely to run across the plate.",
+            "timing": "5 minutes",
+            "doneness_cue": "Edges of casserole bubble gently, all onions are warm and golden, no boiling in the center (which would indicate overheating)"
+        }
     ],
-    "tips": "When making this casserole, a few things can make or break your dish. First off, choose fresh green beans - they really do taste better than frozen. If you're short on time, frozen is fine, but trust me, fresh is worth it! And don't skimp on the cheese; a good melting cheese like Tillamook really adds flavor and creaminess. My KitchenAid mixer is a lifesaver for mixing the soup and milk together smoothly. Also, if you want extra crunch, add more crispy onions on top just before serving. And leftovers? They’re even better the next day. Just reheat in the oven - microwave can make it soggy.",
-    "image_keywords": [
-        "appetizing",
-        "creamy",
-        "homemade",
-        "green beans",
-        "comforting",
-        "family-friendly"
+    "pro_tips": [
+        {
+            "tip": "Blanch green beans for exactly 5 minutes, no longer. Use a kitchen timer to avoid guessing.",
+            "reason": "Beyond 5 minutes, the beans' cell walls break down excessively and they lose color and become mushy. Blanching stops the cooking of harmful enzymes that cause browning after harvest, which is why fresh blanched beans stay bright green while uncooked or overcooked beans turn dull or gray."
+        },
+        {
+            "tip": "Choose fresh green beans with a bright, uniform green color and no soft spots or blemishes. They should snap when bent.",
+            "reason": "Fresh beans have intact cell structure that survives cooking better than older beans, which have already begun breaking down enzymatically. The snap indicates proper moisture content and cellular integrity."
+        },
+        {
+            "tip": "Use sharp cheddar rather than mild. The more aged the cheese, the better it performs in the sauce.",
+            "reason": "Aged cheddar has developed complex flavors and its proteins have broken down slightly, allowing it to melt more smoothly into a creamy sauce. Mild cheddar is younger and doesn't integrate into the sauce as gracefully."
+        },
+        {
+            "tip": "Add half the fried onions at the beginning and half with 5 minutes remaining. This maintains crunchiness throughout the casserole.",
+            "reason": "Fried onions absorb moisture from the sauce during baking. If all are added at the start, they become soggy by serving time. The two-stage approach provides both onions that have absorbed sauce flavors and onions that remain crispy for textural contrast."
+        },
+        {
+            "tip": "Do not rinse the blanched beans after draining them. The residual starch helps the sauce adhere to each bean.",
+            "reason": "The starch on the surface of blanched vegetables acts like a binder, helping creamy sauces stick to them during cooking. Rinsing removes this starch and creates a slippery surface that doesn't hold sauce as effectively."
+        },
+        {
+            "tip": "If preparing this casserole ahead, assemble everything except the onions up to 24 hours in advance. Add onions immediately before baking.",
+            "reason": "The prepared casserole will have absorbed some of the sauce, and reheating allows the flavors to meld deeper. Fried onions lose crispness quickly when exposed to any humidity, so adding them just before baking preserves their texture."
+        }
     ],
-    "structured_content": [
+    "common_mistakes_to_avoid": [
         {
-            "content": "<p>OK, so you NEED to try this creamy green bean casserole! It's like a warm hug on your plate, with crisp green beans swimming in a rich, cheesy sauce. The best part? That crispy onion topping that adds a crunch you just can't resist. Seriously, this dish has been a family favorite for years, and I can't even count how many times I've made it for gatherings. It’s simple, satisfying, and brings everyone together around the table.<\/p>"
+            "mistake": "Blanching green beans for longer than 5 minutes or until completely tender",
+            "why_it_happens": "Cooks often think very soft vegetables are the goal, or they lose track of time while preparing other ingredients.",
+            "fix": "Set a timer for exactly 5 minutes and drain immediately when it goes off. If you need to stall while preparing other ingredients, transfer the drained beans to an ice bath to stop residual cooking."
         },
         {
-            "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>30 minutes from start to finish. That’s it!<\/li><li>Tastes like you spent hours making it (but you didn’t).<\/li><li>Even my picky kids gobble it up (I was shocked!).<\/li><li>Most ingredients are pantry staples (trust me).<\/li><li>Leftovers are just as good the next day.<\/li><li>Freezes well if you want to make it ahead.<\/li><\/ul>"
-            }
+            "mistake": "Adding all the fried onions at the beginning of baking",
+            "why_it_happens": "It seems efficient to add all toppings at once, and people often aren't aware that fried onions lose crispness during baking.",
+            "fix": "Divide the onions in half. Add three-quarters at the beginning and reserve one-quarter to add with 5 minutes remaining. This ensures some onions stay crispy while others contribute cooked flavor."
         },
         {
-            "headline": "My Story With This Recipe"
+            "mistake": "Using frozen green beans without adjusting the recipe",
+            "why_it_happens": "Frozen green beans are convenient, but they've already been blanched and partially cooked during the freezing process.",
+            "fix": "If using frozen beans, add them directly to the sauce mixture without blanching—they'll finish cooking during baking. Reduce the baking time by 5 minutes, as the beans are already partially cooked."
         },
         {
-            "content": "<p>I first tried this casserole at my Aunt Lisa’s Thanksgiving dinner last November. The smell of the bubbling cheese and green beans hit me right when I walked in. Aunt Lisa said, \"You gotta try my green bean casserole!\" The first bite? Creamy, cheesy goodness with that crispy onion topping. Now I make it for every family gathering. My husband, Dave, literally said, \"This is the best green bean casserole I've ever had!\" I felt pretty proud.<\/p>"
+            "mistake": "Rinsing the blanched beans after draining them",
+            "why_it_happens": "Cooks think rinsing removes excess starch or stops cooking, but it actually removes the starch that helps sauce adhere.",
+            "fix": "Drain the beans in a colander and use them immediately without rinsing. The residual heat will dissipate quickly, and the starch coating is beneficial."
         },
         {
-            "headline": "What I Learned The Hard Way"
+            "mistake": "Using condensed soup without mixing it with milk, or making the sauce too thick",
+            "why_it_happens": "People sometimes skip proper sauce consistency, resulting in either a paste-like texture or an overly thick casserole that's heavy.",
+            "fix": "Always dilute the condensed soup with the specified amount of milk. The resulting sauce should coat a spoon but still flow slightly when the dish is tilted."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Fresh Mushroom Addition",
+            "description": "Sauté 8 oz (225g) of sliced mushrooms in 2 tablespoons (30g) of butter over medium-high heat for 5-7 minutes until golden brown. Add them to the soup mixture before combining with the beans. This adds earthiness and umami depth while maintaining the casserole's structure.",
+            "technical_note": "Fresh mushrooms release water when sautéed; cooking them first concentrates their flavors and drives off excess moisture that would otherwise dilute the sauce."
         },
         {
-            "content": "<p>My first attempt? Total disaster. I thought I could skip the boiling step for the green beans. Let me tell you, they turned out crunchy and not in a good way. Now I know boiling them for a bit makes all the difference, giving them that tender bite while still keeping their color.<\/p>"
+            "name": "Gluten-Free Version",
+            "description": "Use gluten-free fried onions (most brands are now gluten-free) and verify that your cream of mushroom soup is gluten-free or substitute with a homemade sauce using sautéed mushrooms, chicken broth, and cornstarch as thickener (1 tablespoon cornstarch whisked with 2 tablespoons cold water).",
+            "technical_note": "Cornstarch thickens more aggressively than flour, so start with 1 tablespoon and add more if needed. It also creates a glossier sauce than flour-based thickeners."
         },
         {
-            "headline": "Essential Ingredients & Smart Substitutions"
+            "name": "Dairy-Free Casserole",
+            "description": "Replace the cream of mushroom soup with a store-bought dairy-free cream soup (many brands exist) or make a quick sauce with 1 cup (240ml) vegetable broth and 2 tablespoons (16g) cornstarch whisked together until smooth. Use dairy-free cheese shreds (brands like Violife melt well) and ensure your fried onions contain no dairy.",
+            "technical_note": "Dairy-free cheeses often melt differently than dairy cheese; add them more slowly and stir gently to avoid breaking them apart. The final sauce may be slightly less creamy, so consider adding an extra tablespoon of plant-based milk if needed."
         },
         {
-            "content": "<ul><li><strong>Main ingredient (green beans):<\/strong> Fresh green beans are best for this recipe. Look for bright green ones without blemishes. They give that nice crunch and vibrant color. Trim them well before cooking.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> The cream of mushroom soup adds depth and flavor. Use a brand you trust (I like Campbell's) for consistent results.<\/li><li><strong>Supporting ingredients:<\/strong> The cheddar cheese gives richness; I recommend a good melting cheese like Tillamook. And the crispy onions? They add the perfect crunch!<\/li><li><strong>Smart substitutions:<\/strong> Can't find fresh green beans? Frozen work, but they won’t be quite as crunchy. For a lighter version, substitute the cream of mushroom soup with a homemade sauce using sautéed mushrooms and a bit of broth.<\/li><li><strong>Equipment needed:<\/strong> A good mixing bowl is key for combining the soup and milk. I always grab my KitchenAid for that job!<\/li><\/ul>"
+            "name": "Panko and Herb Topping Variation",
+            "description": "Replace the crispy fried onions with a mixture of 3/4 cup (90g) panko breadcrumbs mixed with 3 tablespoons (43g) melted butter, 1 teaspoon (5g) garlic powder, and 1 tablespoon (3g) fresh thyme. Spread this mixture over the casserole for the final 10 minutes of baking.",
+            "technical_note": "Breadcrumb toppings brown faster than fried onions, so monitor closely to prevent burning. The fat from the butter helps them crisp up and brown evenly."
         },
         {
-            "headline": "Step-by-Step Cooking Instructions"
+            "name": "Creamed Corn and Green Bean Combination",
+            "description": "Replace half the green beans (8 oz / 225g) with 1 can (15 oz / 425g) creamed corn (drained of excess liquid). The corn adds natural sweetness and creates a slightly different textural profile. Reduce the milk to 1/4 cup since creamed corn adds liquid.",
+            "technical_note": "Canned creamed corn contains added starch, so reduce any thickening agents slightly to avoid an overly thick final dish."
+        }
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": "approximately 285",
+        "protein_grams": "9g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "20g",
+        "fiber_grams": "3g",
+        "sodium_mg": "890mg",
+        "note": "These values are estimates and may vary based on exact ingredients used and brand variations. Values assume whole milk, standard cream of mushroom soup, and traditional fried onions. Using dairy-free substitutes will alter the nutritional profile."
+    },
+    "storage_and_reheating": {
+        "refrigerator_storage": "Store leftover casserole in an airtight container for up to 4 days. The sauce will set and thicken slightly as it cools, which is normal. The green beans may develop a slightly softer texture over storage days, though the casserole remains edible and flavorful. The fried onion topping will gradually absorb moisture and lose crispness, even when stored properly.",
+        "freezer_storage": "The prepared but unbaked casserole freezes well for up to 3 months when wrapped tightly in plastic wrap and aluminum foil. Do not add onions before freezing. Thaw overnight in the refrigerator before baking. Baked casserole can be frozen, but the texture becomes noticeably softer upon thawing due to the green beans breaking down further during freezing. The sauce separates slightly but recombines when reheated.",
+        "reheating_method": "Reheat in a 325°F (163°C) oven covered with foil for 15-20 minutes until warmed through. The lower temperature prevents the sauce from breaking or separating. If the casserole dries during reheating, add 2-3 tablespoons of milk or broth. Add fresh fried onions to the top just before serving, not during reheating, to maintain their crispness.",
+        "make_ahead_tip": "Assemble the casserole (green beans, sauce, and cheese) up to 24 hours ahead and refrigerate without the onions. Cold casseroles take about 5 minutes longer to bake, so increase the baking time to 30 minutes total. Add onions as directed in the recipe. This approach allows you to prepare most of the work in advance while maintaining maximum onion crispness."
+    },
+    "faq": [
+        {
+            "question": "Why are my green beans turning gray or brown instead of staying bright green?",
+            "answer": "Gray or brown discoloration indicates that polyphenol oxidase enzymes have oxidized the beans' chlorophyll, the green pigment. This happens when beans are either blanched too long (beyond 5 minutes) or stored without proper blanching before cooking. Always blanch fresh beans for exactly 5 minutes, no longer. If using canned or frozen beans, this oxidation has already occurred during processing."
         },
         {
-            "content": "<p>First things first, let’s prep! Boil some water in a large pot and get those green beans cooking for about 5 minutes. They should be bright green but still have a little crunch. Meanwhile, mix your soup and milk in a bowl - whisk it well to avoid lumps. Once the beans are ready, drain them and combine them with the soup mix in a casserole dish. Top with crispy onions, bake, and you’re golden!<\/p>"
+            "question": "Can I make this casserole the day before and reheat it?",
+            "answer": "Yes. Assemble the casserole completely (except onions) up to 24 hours ahead and refrigerate it. Bake directly from the refrigerator, adding 5 minutes to the total baking time. Add fresh onions with 5 minutes remaining. The flavors actually improve slightly as they meld overnight."
         },
         {
-            "headline": "Flavor Boosters & Customization Ideas"
+            "question": "What if I don't have cream of mushroom soup on hand?",
+            "answer": "You can make a quick substitute by sautéing 6 oz (170g) of sliced mushrooms in 2 tablespoons (30g) butter, then adding 1 cup (240ml) chicken or vegetable broth and 1 tablespoon (8g) of cornstarch whisked with 2 tablespoons cold water. Simmer until thickened, then proceed with the recipe. This homemade version often produces a cleaner flavor than canned soup."
         },
         {
-            "content": "<ul><li><strong>Herbs:<\/strong> Add fresh thyme or rosemary to the sauce for an earthy twist. Just a teaspoon of either will brighten up the flavors.<\/li><li><strong>Spices:<\/strong> A sprinkle of garlic powder can enhance the flavor. Start with about 1\/2 teaspoon.<\/li><li><strong>Upgrades:<\/strong> For a gourmet touch, try adding sautéed mushrooms to the green beans. It adds depth!<\/li><li><strong>Technique variations:<\/strong> You can use a layer of crushed crackers instead of fried onions for a different crunch.<\/li><\/ul>"
+            "question": "My fried onions got soggy. How do I prevent this?",
+            "answer": "Fried onions absorb moisture from the sauce during baking. Only add half of them at the beginning and reserve half to add with 5 minutes remaining. This ensures you have crispy onions on the surface at serving time, even if the bottom layer softens."
         },
         {
-            "headline": "Perfect Pairings & Serving Suggestions"
+            "question": "Can I use frozen green beans instead of fresh?",
+            "answer": "Yes, but use them differently. Frozen green beans have already been blanched during processing, so add them directly to the sauce mixture without blanching. They'll cook through during baking. Reduce the total baking time by 5 minutes, since they're already partially cooked. The texture will be slightly softer than fresh beans but still acceptable."
         },
         {
-            "content": "<ul><li><strong>Side dishes:<\/strong> Serve with roasted turkey or ham for a classic holiday meal. The flavors complement each other so well.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine, like Sauvignon Blanc, would pair nicely with the creaminess.<\/li><li><strong>Bread options:<\/strong> Fresh dinner rolls are a must! They soak up all that delicious sauce.<\/li><li><strong>Occasion ideas:<\/strong> This is a go-to for Thanksgiving, Christmas, or any family gathering.<\/li><li><strong>Temperature serving note:<\/strong> Serve warm for the best flavor and texture.<\/li><\/ul>"
+            "question": "How long does this casserole stay good in the refrigerator?",
+            "answer": "Properly stored in an airtight container, the casserole lasts 3-4 days. The sauce remains stable, but the green beans continue to soften slightly with each passing day. The crispy onion topping absorbs moisture even when stored properly, so consider adding fresh onions when reheating if that texture is important to you."
+        }
+    ],
+    "conclusion": "This casserole demonstrates how understanding the science behind basic techniques—blanching, sauce consistency, and timing—creates a significantly better result than approaching cooking through rote repetition. The blanching step preserves both color and texture in the green beans, the two-stage onion addition solves a common textural problem, and proper sauce ratios prevent the casserole from becoming either thin and watery or thick and pasty. Once you understand these principles, you can confidently adjust the recipe for different ingredients or dietary needs while maintaining the balance that makes this dish work.",
+    "internal_links": [
+        {
+            "anchor": "understanding proper blanching techniques",
+            "url": "/posts/blanching-vegetables-guide"
         },
         {
-            "headline": "Creative Variations to Try"
+            "anchor": "cheese selection for cooking and melting",
+            "url": "/posts/cheese-for-cooking-guide"
         },
         {
-            "content": "<ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use gluten-free fried onions instead of regular ones.<\/li><li><strong>Dietary adaptation 2 (Dairy-Free):<\/strong> Substitute the soup with a plant-based cream soup and use dairy-free cheese.<\/li><li><strong>Flavor variation:<\/strong> For a spicy kick, toss in some red pepper flakes to the sauce.<\/li><li><strong>Protein swap:<\/strong> Add some cooked bacon or sausage for a savory twist.<\/li><\/ul>"
-        },
-        {
-            "upload": {
-                "context": "Steaming casserole of creamy green beans topped with crispy onions, fresh from the oven, served in a white dish on a rustic table",
-                "url": "comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Sautéing fresh garlic in the soup can give it a restaurant-quality punch.<\/li><li><strong>Ingredient prep secret:<\/strong> Blanching the beans before baking keeps them vibrant and crunchy.<\/li><li><strong>Timing strategy:<\/strong> If you're making this ahead, bake for 20 minutes, then cool and refrigerate. Reheat at 350°F for 15 minutes.<\/li><li><strong>Presentation hack:<\/strong> Garnish with freshly chopped parsley for a pop of color!<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Honestly, this green bean casserole is a must-make for any family gathering. It’s creamy, crunchy, and brings everyone together around the table. Try it out and let me know how it goes! I'd love to hear your thoughts and see your photos. Don't forget to pin this recipe for later!<\/p>"
+            "anchor": "making cream sauces without lumps",
+            "url": "/posts/smooth-cream-sauce-technique"
         }
     ],
     "category_id": "cat_1761230166_734",
     "generation_metadata": {
-        "voice": "Enthusiastic Friend",
+        "voice": "Experienced Home Cook",
         "complexity": "simple",
-        "target_words": "400-600",
-        "temperature": 0.7,
-        "generated_at": "2026-01-04 16:17:56"
+        "target_words": "1200-1300",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
     },
     "author_id": "author_001",
     "images": [
         {
             "fileName": "comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
-            "filePath": "recipes\/comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
-            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
-            "order": 1
+            "filePath": "recipes/comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "alt_text": "Green bean casserole with crispy onion topping just removed from the oven, sauce bubbling at the edges"
         },
         {
             "fileName": "comforting-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
-            "filePath": "recipes\/comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
-            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
-            "order": 2
+            "filePath": "recipes/comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "alt_text": "Fresh green beans being blanched in boiling salted water, showing bright green color at the 5-minute mark"
         },
         {
             "fileName": "comforting-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
-            "filePath": "recipes\/comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
-            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
-            "order": 3
+            "filePath": "recipes/comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "alt_text": "Cream of mushroom soup being whisked smooth with milk in a mixing bowl"
         },
         {
             "fileName": "comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
-            "filePath": "recipes\/comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
-            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
+            "filePath": "recipes/comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
+            "relativePath": "comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_LummyRecipes_image_4.webp",
             "order": 4,
-            "type": "template"
+            "type": "template",
+            "alt_text": "Finished green bean casserole plated on a serving dish with mixed crispy and soft onion texture visible"
         }
     ],
     "slug": "comforting-southern-green-bean-casserole-for-thanksgiving-family",
     "id": "recipe_1763052674_187",
     "image": "comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
-    "image_path": "recipes\/comforting-southern-green-bean-casserole-for-thanksgiving-family\/images\/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
-    "image_dir": "comforting-southern-green-bean-casserole-for-thanksgiving-family\/images",
-    "generated_from_text": true,
+    "image_path": "recipes/comforting-southern-green-bean-casserole-for-thanksgiving-family/images/comforting-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+    "image_dir": "comforting-southern-green-bean-casserole-for-thanksgiving-family/images",
+    "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2026-01-04T16:30:54+01:00",
-    "updatedAt": "2026-01-04T16:30:54+01:00"
+    "updatedAt": "2026-01-14T10:30:00+01:00"
 }

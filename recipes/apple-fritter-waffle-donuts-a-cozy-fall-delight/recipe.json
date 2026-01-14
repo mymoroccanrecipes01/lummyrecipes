@@ -1,112 +1,141 @@
 {
-    "title": "Delicious Apple Fritter Waffle Donuts for Fall Mornings",
+    "title": "Apple Fritter Waffle Donuts",
     "promptIMG": "Professional food photography prompt: \"Apple fritter waffle donuts, beautifully plated on a rustic wooden surface, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, warm autumn background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Warm and crispy apple fritter waffle donuts that’ll make your mornings cozy. Loaded with tart apples and sweet glaze, they’re a fantastic way to start your day. Enjoy them fresh with a cup of coffee. Save this recipe for your next fall brunch!",
-    "hashtags": "#applefritters #waffledonuts #fallrecipes #cozybreakfast #easyrecipes",
+    "description": "Crispy-on-the-outside, fluffy apple fritter waffle donuts made in a standard waffle maker. This recipe balances tart Granny Smith apples with warm spices and a simple glaze, taking about 30 minutes total from start to table.",
+    "hashtags": "#applefritters #waffledonuts #fallrecipes #breakfastrecipe #fallapples",
     "difficulty": "Medium",
     "prep_time": 20,
     "cook_time": 15,
     "servings": 6,
     "ingredients": [
-        "1 cup all-purpose flour (I use Bob's Red Mill)",
-        "2 tbsp sugar",
-        "1 tsp baking powder",
-        "1\/2 tsp cinnamon",
-        "1\/4 tsp nutmeg",
-        "1\/2 tsp salt",
-        "1\/2 cup milk (I prefer whole milk for richness)",
+        "1 cup all-purpose flour",
+        "2 tablespoons granulated sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon freshly grated nutmeg",
+        "1/2 teaspoon salt",
+        "1/2 cup whole milk",
         "1 large egg",
-        "1\/2 cup diced apples (Granny Smith works great)",
-        "1\/4 cup melted Kerrygold butter",
-        "1 cup powdered sugar (for glaze)",
-        "2 tbsp milk (for glaze)",
-        "1\/2 tsp vanilla extract (for glaze)"
+        "1/2 cup diced Granny Smith apple (about 1 medium apple)",
+        "1/4 cup unsalted butter, melted",
+        "1 cup powdered sugar",
+        "2 tablespoons whole milk (for glaze)",
+        "1/2 teaspoon vanilla extract"
     ],
     "instructions": [
-        "OK, so first thing, preheat your waffle maker. I usually set it to medium-high. While that's heating up, mix the dry stuff together in a bowl: flour, sugar, baking powder, cinnamon, nutmeg, and salt.",
-        "In another bowl, whisk the egg, then add the milk and melted butter. Combine these wet ingredients with the dry ones until it’s all just blended. It’s OK if there are a few lumps – don’t overmix!",
-        "Now fold in those diced apples. You want them evenly distributed, but don’t go crazy – just a gentle mix. Trust me, the chunks will be delicious!",
-        "Once your waffle maker is ready, scoop some batter onto it. I usually use about 1\/3 cup per donut. Close the lid and let them cook for about 3-5 minutes. You want them golden brown – like, really golden.",
-        "While those are cooking, mix up your glaze. Just whisk together the powdered sugar, milk, and vanilla until smooth. It should be drizzly but thick enough to coat. Adjust with more milk or sugar as needed.",
-        "When the donuts are done, remove them carefully and drizzle that sweet glaze on top. Serve warm because they taste best fresh out of the waffle maker!"
+        "Heat your waffle maker to medium-high heat (around 375°F if your model displays temperature). This usually takes about 3-4 minutes. While it preheats, combine the flour, sugar, baking powder, cinnamon, nutmeg, and salt in a medium bowl, whisking them together to distribute the leavening agent evenly.",
+        "In a separate bowl, crack the egg and whisk it lightly, then pour in the milk and melted butter, stirring just until combined. Pour the wet mixture into the dry ingredients and fold together using a spatula with about 12-15 folds. The batter should look shaggy with visible flour streaks—stop mixing here. Overmixing develops gluten and creates tough, dense donuts.",
+        "Gently fold in the diced apples, using about 8-10 folds to distribute them throughout without crushing the fruit. If you're using apple pieces cut into 1/4-inch dice, they'll cook through in the time it takes the waffle to bake. Let the batter rest for 3 minutes while your waffle maker finishes heating.",
+        "Lightly spray or brush the waffle maker grids with nonstick spray. Scoop approximately 1/3 cup batter into each compartment, filling until it reaches just below the rim. Close the lid gently and cook for 3-5 minutes, watching for steam to subside from the sides—this signals the donuts are approaching done.",
+        "Open the waffle maker carefully and check for golden brown color on the edges. If the waffle doesn't release easily when you lift the lid, close it for another 30 seconds. Tip: if your waffle maker locks down firmly, the donuts will likely need about 4-5 minutes total. More loosely hinged models may finish in 3-4 minutes.",
+        "While the last batch cooks, whisk together the powdered sugar, 2 tablespoons milk, and vanilla extract in a small bowl. Stir for about 30 seconds until the glaze reaches a consistency that flows easily but still coats the back of a spoon. If it's too thick, add milk one teaspoon at a time. If too thin, sift in more powdered sugar.",
+        "Transfer each finished waffle donut to a wire cooling rack set over a sheet of parchment paper. This prevents the glaze from pooling underneath and making the bottoms soggy. Once all donuts are cooked, drizzle the glaze over each one using a fork or small spoon, working relatively quickly while they're still warm so the glaze sets lightly."
     ],
-    "tips": "Alright, here are some tips that’ll help you nail these donuts: \n1. **Don’t skip the resting time** - let the batter sit for 5 minutes before cooking. It helps the texture! \n2. **Check your waffle maker’s heat** - if they’re browning too fast, lower the heat a bit. My old one likes to run hot. \n3. **Use fresh apples** - they give the best flavor. I usually go for tart varieties like Granny Smith. \n4. **Make it fun** - try adding some chopped nuts or even a sprinkle of chocolate chips for a twist! \n5. **Storage tip** - these are best eaten fresh, but if you have leftovers, store them in an airtight container for up to 2 days. Reheat in the toaster for a quick warm-up!",
+    "tips": "These donuts are best eaten within 2-3 hours of cooking, when the exterior is still crisp. That said, here's what I've learned from making them repeatedly: Start by checking if your waffle maker runs hot—mine cooks about 25% faster than the manufacturer's estimate, so I've had to dial back the heat setting. If your first batch browns too quickly or too darkly, you'll know to adjust immediately rather than waste batter. The apple size matters more than you'd think. Pieces larger than 1/2 inch won't cook through the center and will stay hard when you bite into them, while tiny dice sometimes disappear entirely into the batter. Aim for roughly 1/4-inch cubes. Don't prep the apples more than 15 minutes before cooking, as they'll oxidize and brown around the edges, which affects both color and texture slightly. The resting period before cooking really does improve texture—the flour fully hydrates and the baking powder has time to react slightly with the liquid. If you forget this step, the donuts tend to be slightly denser. Fresh spices make a noticeable difference here. Nutmeg especially loses its volatile oils over time, so if your container is older than six months, consider replacing it. Finally, these freeze well for up to two weeks if you skip the glaze. Wrap cooled, unglazed donuts individually in plastic wrap, then place in a freezer bag. Reheat unglazed in a 350°F oven for 5 minutes to restore the crispy exterior, then glaze while warm.",
     "image_keywords": [
-        "appetizing",
-        "delicious",
-        "homemade",
-        "fresh",
-        "colorful",
-        "comforting",
-        "family-friendly"
+        "homemade waffle donuts",
+        "apple fritter recipe",
+        "fall breakfast",
+        "crispy donuts",
+        "breakfast made easy"
     ],
     "structured_content": [
         {
-            "content": "<p>So, I remember the first time I tried making apple fritter waffle donuts. It was a chilly October morning last year. The smell of cinnamon and baked apples wafted through my kitchen, and honestly, it was magical. These donuts, with their crispy edges and tender centers, are like fall on a plate. I knew I had to share this recipe with everyone, especially since they’re super easy to whip up!<\/p>"
+            "content": "<h1>Apple Fritter Waffle Donuts</h1><p>The first time I made these, it wasn't intentional. I had a waffle maker and leftover fritter batter from an experiment with frying, and I thought, why not? Twenty minutes later, I had something better than the fried version—crispy edges with almost no oil splatter, and a more tender crumb. That was about three years ago, and I've made them countless times since, particularly in fall when I seem to buy Granny Smith apples by the bag.</p><p>What makes this version work is respecting the batter's simplicity. There's no buttermilk, no fancy technique, just good timing and temperature control. The waffle maker creates a textured exterior that stays crisp for hours, while the interior stays surprisingly soft. If you've had dense, rubbery homemade donuts before, this recipe handles both problems by avoiding overmixing and using the right ratio of leavening to flour.</p><p>These work best as an occasional breakfast or weekend brunch item rather than something you make multiple times a week. The recipe yields six donuts, which feels right for a family breakfast or four people if you're serving with bacon and eggs. For larger gatherings, you can easily double the recipe—just be prepared for a longer cooking window.</p>"
         },
         {
-            "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>30 minutes total. That’s it.<\/li><li>Warm, comforting flavors of fall.<\/li><li>My picky kids asked for seconds! (shocking!)<\/li><li>Most ingredients you probably have at home.<\/li><li>They freeze pretty well for later enjoyment.<\/li><\/ul>"
-            }
+            "content": "<h2>Ingredients and Substitutions</h2>"
         },
         {
-            "headline": "My Story With This Recipe"
+            "content": "<h3>Dry Ingredients</h3><p>All-purpose flour is the foundation here. I've tested this with both standard grocery store brands and higher-protein bread flour. Standard all-purpose (around 10-12% protein) gives you the tender crumb you want. Bread flour produces slightly chewier donuts, which some people prefer but which I find less delicate. The baking powder is your leavening—it needs to be fresh for best results. If it's been open for more than a few months, replace it. Salt enhances the apple and spice flavors, preventing everything from tasting flat. Don't omit it even though it seems like a small amount.</p><p>Cinnamon and nutmeg are doing real work here, not just providing abstract flavor. Ground cinnamon varies significantly in quality. Buying it from the spice section rather than the baking aisle usually means better, fresher spice. Nutmeg should be freshly grated from whole nutmegs if possible—pre-ground versions lose their volatile oils quickly and can taste dusty. If you only have pre-ground, use it, but know that fresh will be noticeably warmer and more complex.</p>"
         },
         {
-            "content": "<p>I first tried these at my friend Jenna’s house during a cozy brunch last October. The smell of freshly baked donuts filled the air, and I was instantly hooked. Jenna said, \"You HAVE to try these!\" After my first bite, I was like, 'Wow, these are amazing!' Now I make them every fall for my family, and my husband Dave always says, 'You need to make these again!' It’s become our little tradition, and I wouldn’t have it any other way.<\/p>"
+            "content": "<h3>Wet Ingredients and Apples</h3><p>Whole milk is worth using here because the fat contributes to tenderness. Skim milk will work but produces a slightly less rich crumb. The egg binds everything while also contributing to structure. One large egg is sufficient—adding more makes the batter too wet and creates a denser final product. Unsalted butter lets you control salt content and gives you butter flavor without the salty notes that can overpower the delicate apple taste.</p><p>Granny Smith apples are my choice because their tartness balances the sweetness of the glaze and sugar in the batter. Honeycrisp or Gala apples are too sweet and tend to make these cloyingly sugary. Pink Lady works as a substitute if Granny Smith isn't available. Cut your apple into roughly 1/4-inch dice—consistent sizing matters because uneven pieces cook unevenly. A medium apple yields approximately 1/2 cup diced, which is exactly what this recipe needs.</p>"
         },
         {
-            "headline": "What I Learned The Hard Way"
+            "content": "<h3>Glaze</h3><p>Powdered sugar (also called confectioners' sugar) dissolves instantly into the milk, creating a smooth glaze. Vanilla extract adds subtle depth without making the donuts taste like vanilla specifically. Whole milk in the glaze works better than skim because it creates a slightly silkier texture, though the difference is subtle. The glaze should be thin enough to flow easily when drizzled but thick enough to set slightly as it cools, creating a light coating rather than a thick frosting.</p>"
         },
         {
-            "content": "<p>First time I whipped these up, I totally forgot to add the apples. (don’t judge me) The dough was bland and honestly, just sad. Now I know - apples are a must because they bring that juicy sweetness and flavor that makes these donuts shine.<\/p>"
+            "content": "<h2>Step-by-Step Instructions</h2>"
         },
         {
-            "headline": "Essential Ingredients & Smart Substitutions"
+            "content": "<h3>Setting Up and Mixing the Batter</h3><p>Preheating your waffle maker is essential—a properly heated grid cooks the exterior quickly, locking in steam that creates the tender interior. If you use a cold or barely warm waffle maker, the batter spreads too much and the texture becomes dense. If your waffle maker doesn't have a temperature readout, look for a light that goes off when preheating is complete, then wait another 30-45 seconds after that signal.</p><p>Whisking your dry ingredients together distributes the baking powder evenly throughout the flour, preventing any dense pockets in the finished donuts. This takes about 30 seconds with a whisk. Creating the wet mixture separately means you can pour it into the dry ingredients and fold without overworking the batter. Overmixing develops gluten, which creates a tough, chewy donut—the opposite of what you want. Fold until you see just a few flour streaks remaining, then stop. The batter will look slightly rough, and that's correct.</p>"
         },
         {
-            "content": "<p><strong>Main ingredient:<\/strong> Apples are key here. I recommend using tart varieties like Granny Smith. They give a nice contrast to the sweetness of the glaze. Make sure to chop them small so they cook through easily.<br><strong>Key seasonings:<\/strong> Cinnamon and nutmeg add that warm, cozy flavor. I always use freshly grated nutmeg for an extra kick!<br><strong>Supporting ingredients:<\/strong> The flour and eggs help bind everything together, creating that fluffy texture we want. Don't skimp on the butter—it adds richness!<br><strong>Smart substitutions:<\/strong> You can swap out the all-purpose flour for a gluten-free blend if needed. Also, almond milk works just fine instead of regular milk if you're looking for a lactose-free option.<br><strong>Equipment needed:<\/strong> A good quality waffle maker is a must. My KitchenAid mixer really helps get the batter nice and smooth without lumps.<\/p>"
+            "content": "<h3>Adding Apples and Cooking</h3><p>Once you fold in the apples, handle the batter gently. Those dice soften quickly and can become mushy if you overwork them. The batter should rest for three minutes while your waffle maker finishes heating. This rest allows the flour to fully absorb the liquid, which improves the texture and gives the baking powder a few more moments to activate. You'll notice the batter becoming slightly thicker as it rests—this is exactly what you want.</p><p>When scooping batter, use a measuring cup or ice cream scoop to ensure consistent portions. About 1/3 cup per waffle compartment is right—enough to fill the grid when closed but not so much that batter spills out. Cooking time varies significantly based on waffle maker design. Older, clamping-style makers typically need 4-5 minutes. Modern rotating or hinged models often finish in 3-4 minutes. The visual cue is more reliable than time: steam stops flowing from the sides, and when you crack the lid slightly, the donuts should release easily from the grid. If they stick, close the lid for 30 more seconds.</p>"
         },
         {
-            "headline": "Step-by-Step Cooking Instructions"
+            "content": "<h3>Glazing</h3><p>Make your glaze while the last batch cooks so it's ready when you finish. The consistency matters—too thick and you're essentially frosting the donuts; too thin and it runs off. You're looking for the consistency of heavy cream, something that flows slowly from a spoon. The donuts themselves should still be warm when you glaze them because warm surfaces allow the glaze to set into a light, crispy shell. If donuts cool completely before glazing, the glaze stays sticky rather than setting.</p><p>Apply the glaze while donuts are still on the cooling rack set over parchment paper. This prevents pooling underneath and keeps the bottoms crisp. Use a fork or spoon to drizzle back and forth across each donut. Wait about 10 minutes for the glaze to set before serving.</p>"
         },
         {
-            "content": "<p>Preparation phase: Gather your ingredients and start by measuring everything out. It really helps to have everything ready. You can even chop the apples the night before to save time. Cooking process: Once the batter is mixed, it’s all about timing. Keep an eye on the waffles; they’re done when they’re golden brown and crispy on the outside. Finishing touches: Drizzle the glaze right before serving. It makes them look extra tempting and keeps that freshness!<\/p>"
+            "content": "<h2>Pro Tips From Experience</h2><p><strong>Temperature control is your biggest variable.</strong> Waffle makers heat inconsistently, and not all models run at the same actual temperature despite similar settings. The first batch from a newly preheated waffle maker might cook faster than the second batch. I keep notes on my specific machine—knowing it runs hot means I can adjust proactively rather than discovering it mid-recipe.</p><p><strong>Apple consistency changes everything.</strong> Apples cooked in pieces hold their structure better than applesauce or grated apple would. The small chunks also mean every bite contains apple—large pieces create inconsistent results where some donuts are apple-heavy and others have barely any. Aim for uniform 1/4-inch cubes as your sizing target.</p><p><strong>Fresh spices improve the result noticeably.</strong> I've made these with old nutmeg and fresh nutmeg side by side, and the difference is striking. Fresh nutmeg tastes warm and complex; old nutmeg tastes bitter and dusty. If your spices have been in the cabinet for longer than six months, consider replacing them for recipes where spices are prominent.</p><p><strong>The three-minute rest matters more than it seems.</strong> When I skip this step thinking it won't make a difference, the donuts are slightly denser with a more tender crust. With the rest, they're lighter inside while maintaining that crispy exterior. The difference is subtle but real if you've made them both ways.</p><p><strong>Don't prep apples too far in advance.</strong> Cut apples oxidize quickly, turning brown at the edges and losing some of their crisp texture. If you're prepping ingredients ahead, cut your apple within about 15 minutes of cooking.</p><p><strong>Cooling racks prevent soggy bottoms.</strong> If you set hot donuts directly on a plate, steam condenses underneath and softens the exterior. A cooling rack with parchment below lets air circulate and keeps the bottom crisp.</p>"
         },
         {
-            "headline": "Sharing the Love"
+            "content": "<h2>Variations and Substitutions</h2>"
         },
         {
-            "content": "<p>There’s something special about sitting around the table with family, sharing these apple fritter waffle donuts. The laughter, the compliments, and those happy faces? It’s the best part! I love watching my kids dive in, their fingers sticky with glaze, and hearing them say, 'Can we have these every weekend?' It’s a simple pleasure that brings us all together, making even the busiest mornings feel like a treat.<\/p>"
+            "content": "<h3>Dietary Modifications</h3><p><strong>Gluten-free version:</strong> Substitute the all-purpose flour with a 1:1 gluten-free flour blend. Most commercial blends work directly without adjusting other ingredients. The texture will be slightly more delicate, and you might want to reduce mixing time even further to avoid toughness. The batter may be slightly thicker—if it seems drier than described, add milk one tablespoon at a time until it reaches the right consistency.</p><p><strong>Dairy-free version:</strong> Use unsweetened oat milk or almond milk in place of whole milk, and dairy-free butter for the melted butter. The texture will be slightly less rich, but the recipe still works well. Some people find that reducing the baking powder slightly (to 3/4 teaspoon) prevents the batter from rising too much without enough fat to support it, though this is optional.</p>"
         },
         {
-            "headline": "Perfect Pairings & Serving Suggestions"
+            "content": "<h3>Flavor Variations</h3><p><strong>Spiced version:</strong> Add 1/8 teaspoon of ground ginger and a pinch of ground cloves to the dry ingredients. This pushes the spice profile closer to apple pie, making them taste more autumnal. Reduce the cinnamon slightly to 1/4 teaspoon if you're sensitive to cinnamon, as the additional spices layer nicely without needing as much.</p><p><strong>Brown sugar version:</strong> Replace the granulated sugar with packed brown sugar in a 1:1 ratio. This adds molasses notes that complement both the apples and spices. The batter will be slightly moister because brown sugar retains water, so you may need to reduce the milk by one tablespoon.</p><p><strong>Nutty version:</strong> Toast 1/3 cup chopped pecans or walnuts in a dry skillet over medium heat for about 3 minutes until fragrant, then fold them in with the apples. Toast the nuts before adding so they remain crisp rather than becoming soft during cooking. This adds pleasant texture contrast and a subtle toasted note.</p>"
         },
         {
-            "content": "<p><strong>Side dishes:<\/strong> Serve these with crispy bacon or sausage for a savory touch. They balance out the sweetness wonderfully. <strong>Beverage pairings:<\/strong> A hot cup of coffee or spiced cider is just the thing to sip alongside. <strong>Bread\/starch options:<\/strong> If you want to go all out, some fresh biscuits on the side would be amazing. <strong>Occasion ideas:<\/strong> These are great for fall brunches or even cozy family breakfasts on chilly mornings. <strong>Presentation tips:<\/strong> Dust a little extra powdered sugar on top for a nice touch. And don’t forget to serve them warm!<\/p>"
+            "content": "<h3>Seasonal Adaptations</h3><p><strong>Pear version:</strong> Substitute half the apple with diced pear (Bartlett or Bosc work well). Pears are softer than apples, so cut them slightly larger—closer to 1/2-inch dice. The flavor becomes milder and more delicate, with less tartness from the fruit. You might want to add a tablespoon of lemon juice to the batter to brighten the flavors.</p>"
         },
         {
-            "headline": "Creative Variations to Try"
+            "content": "<h2>Common Mistakes and How to Avoid Them</h2>"
         },
         {
-            "content": "<p><strong>Dietary adaptation:<\/strong> You can easily make these gluten-free by swapping the flour for a gluten-free blend. Just make sure it’s a good one! <strong>Flavor variation:<\/strong> Try adding some chopped pecans or walnuts for crunch, or even a pinch of cayenne for a spicy kick. <strong>Protein swap:<\/strong> If you want to add some protein, you could mix in some Greek yogurt for a creamier batter.<\/p>"
+            "content": "<h3>Dense, Tough Texture</h3><p>This usually comes from either overmixing the batter or using old baking powder. When you stir the wet and dry ingredients together, you're developing gluten in the flour. More gluten means tougher donuts. The solution is folding gently rather than stirring vigorously, stopping when you see just a few flour streaks. If your baking powder has been open for months, it's lost some potency, and you'll need fresh to achieve the rise needed for a tender crumb.</p>"
         },
         {
-            "headline": "Conclusion"
+            "content": "<h3>Soggy Bottom or Unevenly Crispy Exterior</h3><p>Hot donuts release steam, which condenses and softens the underside if they sit on an impermeable surface. Using a cooling rack with parchment paper underneath solves this. The steam escapes instead of pooling. Uneven crispiness usually means your waffle maker wasn't fully preheated when you started cooking—the first donut often comes out less crispy than subsequent ones. Budget an extra minute or two for preheating, or look for a preheat indicator light and wait 30 seconds after it turns off.</p>"
         },
         {
-            "content": "<p>Honestly, you’re gonna want to make these apple fritter waffle donuts. They’re a simple yet satisfying treat that’ll make your mornings brighter. So, grab your ingredients, gather your friends or family, and whip up a batch! And hey, if you try them out, I’d love to hear how they turn out – drop a comment or share your pics!<\/p>"
+            "content": "<h3>Apple Pieces That Are Hard or Mushy</h3><p>Hard apples come from pieces cut too large—they don't cook through in the 3-5 minute window. Mushy apples come from cutting them too small (nearly mincing them) or prepping them far in advance and letting them break down in the batter. Stick with consistent 1/4-inch dice and prep them shortly before cooking. If you're working with naturally softer apples like Gala, use slightly larger pieces to prevent them from completely breaking down.</p>"
+        },
+        {
+            "content": "<h3>Glaze That Stays Sticky Instead of Setting</h3><p>This happens when you glaze cold donuts. The glaze needs warm surface to set into a light shell—on cool donuts, it stays tacky. Always glaze while donuts are still warm from cooking. If your donuts cool before you finish the batch, you can refresh them in a 300°F oven for 2 minutes just before glazing.</p>"
+        },
+        {
+            "content": "<h2>Storage and Reheating</h2>"
+        },
+        {
+            "content": "<p><strong>Room temperature storage:</strong> Glazed donuts stay reasonably crisp for about 2-3 hours at room temperature if kept uncovered or loosely covered. After that, they continue to taste fine but soften noticeably. Covering them tightly in plastic wrap accelerates softening by trapping steam.</p><p><strong>Refrigerator storage:</strong> Place cooled, unglazed donuts in an airtight container for up to 3 days. They firm up when chilled but can be refreshed. Glazed donuts don't hold as well because the glaze becomes brittle and can separate from the donut surface.</p><p><strong>Freezer storage:</strong> Wrap individual unglazed donuts in plastic wrap and place them in a freezer bag. They'll keep for 2-3 weeks. Don't freeze glazed donuts—the glaze becomes grainy and unappealing as it thaws.</p><p><strong>Reheating in the oven:</strong> This is the best method for restoring crispness. Place unglazed donuts on a sheet pan and warm in a 350°F oven for 5 minutes. This revives the exterior without drying out the inside. Then glaze while still warm. You can also reheat glazed donuts this way if you're willing to sacrifice a tiny bit of glaze texture.</p><p><strong>Toaster oven method:</strong> For single donuts, a toaster oven works well. Heat to 350°F and warm for 3-4 minutes, watching to prevent over-browning. The more direct heat means timing is shorter than in a conventional oven.</p><p><strong>Microwave reheating:</strong> This is last resort only because it makes the exterior soft rather than crisp. If you must use a microwave, wrap the donut in a damp paper towel and heat for 15-20 seconds. The damp towel prevents the donut from drying out, but you won't restore crispness this way.</p>"
+        },
+        {
+            "content": "<h2>Frequently Asked Questions</h2>"
+        },
+        {
+            "content": "<h3>Can I make the batter ahead of time?</h3><p>You can mix the dry ingredients the night before and store them in an airtight container at room temperature. Mix the wet ingredients just before cooking—the batter doesn't hold well because the baking powder starts reacting with the liquid immediately. If you wait more than 15 minutes after combining wet and dry, you'll lose some rise and the texture won't be as tender. For meal prep specifically, you're better off cooking the donuts in advance and reheating them rather than trying to store batter.</p>"
+        },
+        {
+            "content": "<h3>Why did my waffle maker drip batter?</h3><p>This usually means you filled the grid more than 1/3 cup, or the batter was too wet. If you're using fresh apples that are juicier than expected, they can add extra moisture. The solution is using slightly less batter per waffle (closer to 1/4 cup plus 2 tablespoons) until you see how your specific waffle maker handles the mixture. Most dripping happens on the first batch—you'll quickly learn the right amount for your equipment.</p>"
+        },
+        {
+            "content": "<h3>What if my apples aren't very tart?</h3><p>Sweeter apple varieties mean the batter becomes less balanced in flavor. You can add 1/2 teaspoon of lemon juice or lemon zest to the batter to brighten it. Alternatively, reduce the sugar in the glaze by a tablespoon if your donuts taste too sweet overall. You could also increase the cinnamon and nutmeg slightly (add another 1/8 teaspoon of each) to add complexity that counterbalances sweetness.</p>"
+        },
+        {
+            "content": "<h3>Can I use a different type of waffle maker?</h3><p>Yes, though cooking time varies. Classic grid waffle makers work perfectly. Belgian waffle makers with larger compartments need proportionally more batter—you'll get fewer donuts per batch, but the larger surface area might require similar cooking time. Rotating waffle makers often cook faster because both sides cook simultaneously. American waffle makers (thinner, crisper texture) work best with this recipe. Specialty waffle makers with different grid patterns still work, just expect slightly different shapes and possibly different cooking times.</p>"
+        },
+        {
+            "content": "<h3>Is there a way to make these less sweet?</h3><p>Reduce the sugar in the batter from 2 tablespoons to 1 tablespoon, and make the glaze with just enough powdered sugar to reach drizzling consistency—you could use as little as 3/4 cup instead of the full cup. The apples provide sweetness, so you don't need as much added sugar once you reduce it here. Skip the glaze entirely if you want something less sweet—the donuts stand well on their own.</p>"
+        },
+        {
+            "content": "<h3>Can I double the recipe?</h3><p>Yes, this recipe doubles cleanly. Simply double all ingredients and mix in two batches of batter to avoid overmixing. Or, if you're comfortable with larger batches, you can mix it all together, though be extra careful to fold gently since the larger volume makes it easier to overmix accidentally. The cooking time doesn't change—each donut still takes 3-5 minutes regardless of total batch size. You'll simply be cooking more batches back-to-back.</p>"
+        },
+        {
+            "content": "<h2>Final Thoughts</h2><p>These waffle donuts occupy a specific niche in my cooking rotation—they're simple enough to make on a casual morning but special enough to feel intentional. They don't require any technique you don't already have, just a bit of attention to timing and a willingness to let the ingredients be what they are without trying to fancy them up. The apples provide tartness, the spices provide warmth, and the waffle maker provides the texture. Everything else is just respecting those fundamentals. If you've had disappointing homemade donuts in the past, this approach often fixes those problems. I'd love to hear how they turn out for you.</p>"
         }
     ],
     "category_id": "cat_1761230422_512",
     "generation_metadata": {
-        "voice": "Storyteller",
-        "complexity": "simple",
-        "target_words": "400-600",
+        "voice": "Experienced home cook",
+        "complexity": "straightforward",
+        "target_words": "1200-1400",
         "temperature": 0.7,
-        "generated_at": "2026-01-11 19:18:10"
+        "rewritten_at": "2026-01-14"
     },
     "author_id": "author_001",
     "images": [
@@ -115,21 +144,24 @@
             "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
             "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
-            "order": 1
+            "order": 1,
+            "altText": "Golden-brown apple fritter waffle donuts arranged on a rustic wooden board"
         },
         {
             "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_2.webp",
             "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_2.webp",
             "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_2.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
-            "order": 2
+            "order": 2,
+            "altText": "Pouring glaze over warm waffle donuts with a fork"
         },
         {
             "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_3.webp",
             "filePath": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_3.webp",
             "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_3.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
-            "order": 3
+            "order": 3,
+            "altText": "Close-up of waffle maker with apple fritter batter showing apple pieces"
         },
         {
             "fileName": "apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
@@ -137,7 +169,8 @@
             "relativePath": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_LummyRecipes_image_4.webp",
             "order": 4,
-            "type": "template"
+            "type": "template",
+            "altText": "Finished apple fritter waffle donuts with glossy glaze on a cooling rack"
         }
     ],
     "slug": "apple-fritter-waffle-donuts-a-cozy-fall-delight",
@@ -145,8 +178,8 @@
     "image": "apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
     "image_path": "recipes\/apple-fritter-waffle-donuts-a-cozy-fall-delight\/images\/apple-fritter-waffle-donuts-a-cozy-fall-delight_image_1.webp",
     "image_dir": "apple-fritter-waffle-donuts-a-cozy-fall-delight\/images",
-    "generated_from_text": true,
+    "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2026-01-11T19:19:20+01:00",
-    "updatedAt": "2026-01-11T19:19:20+01:00"
+    "updatedAt": "2026-01-14T10:30:00+01:00"
 }

@@ -1,0 +1,101 @@
+{
+    "id": "recipe_1768395283_432",
+    "slug": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights",
+    "title": "Creamy Keto Garlic Mushroom Chicken Casserole for Cozy Nights",
+    "promptIMG": "Food photography: Keto Garlic Mushroom Chicken Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This Keto Garlic Mushroom Chicken Casserole is a creamy, low-carb delight! Packed with protein and healthy fats, it’s perfect for family dinners or quick weeknight meals. You’ll love how easy it is to make!",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 lb chicken breast, diced",
+        "2 cups mushrooms, sliced",
+        "1 cup heavy cream",
+        "1 cup shredded mozzarella cheese",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a large skillet, heat olive oil over medium heat. Add the diced chicken and cook until browned, about 5-7 minutes.",
+        "Add the sliced mushrooms and minced garlic to the skillet. Sauté for another 5 minutes until mushrooms are tender.",
+        "Stir in the heavy cream, mozzarella cheese, thyme, salt, and pepper. Mix well and let it simmer for 2-3 minutes.",
+        "Transfer the mixture to a greased baking dish and spread it evenly.",
+        "Bake in the preheated oven for 20 minutes, until bubbly and golden on top.",
+        "Let it cool for a few minutes before serving. Enjoy!"
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 6,
+    "difficulty": "Easy",
+    "tips": "One key tip is to let the casserole sit for a few minutes after baking; it helps the flavors meld together beautifully. A common mistake is overcooking the chicken, so keep an eye on it while sautéing! If you're out of mozzarella, feel free to substitute with cheddar or a cheese blend for a different flavor twist.",
+    "structured_content": [
+        {
+            "content": "<p>There's something so comforting about a creamy casserole, especially on chilly nights. This Keto Garlic Mushroom Chicken Casserole has quickly become one of my go-to recipes. It’s not just delicious; it’s also low-carb, making it perfect for those nights when I want something hearty but healthy. Plus, it’s a breeze to whip up!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>This dish features chicken and mushrooms as the star ingredients, creating a savory base that pairs perfectly with the creamy sauce. I love using fresh mushrooms, but if you're in a pinch, canned ones work too! The heavy cream adds richness, while mozzarella gives that gooey, satisfying texture.</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>The cooking process is straightforward and quick. First, you’ll sauté the chicken until it's golden brown, then add mushrooms and garlic for that aromatic flavor. The heavy cream and cheese create a luscious sauce that ties everything together. It all comes together in one dish, making cleanup a breeze!</p>"
+        },
+        {
+            "upload": {
+                "context": "Keto Garlic Mushroom Chicken Casserole on a rustic wooden table",
+                "url": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+                "fileName": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This casserole is fantastic on its own, but I like to serve it with a side of steamed broccoli or a fresh salad for a balanced meal. You could also sprinkle some fresh herbs on top for an extra pop of flavor. If you want to make it spicier, try adding a pinch of red pepper flakes!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+            "filePath": "recipes/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+            "relativePath": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_2.webp",
+            "filePath": "recipes/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_2.webp",
+            "relativePath": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_3.webp",
+            "filePath": "recipes/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_3.webp",
+            "relativePath": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_LummyRecipes_image_4.webp",
+            "filePath": "recipes/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_LummyRecipes_image_4.webp",
+            "relativePath": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_LummyRecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+    "image_path": "recipes/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images/creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights_image_1.webp",
+    "image_dir": "creamy-keto-garlic-mushroom-chicken-casserole-for-cozy-nights/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-14T13:54:43+01:00",
+    "updatedAt": "2026-01-14T13:54:43+01:00"
+}
