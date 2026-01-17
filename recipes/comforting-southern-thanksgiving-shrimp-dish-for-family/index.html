@@ -24,73 +24,7 @@
     <link rel="stylesheet" href="../../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
-    <style>
-        /* Minimal styles - most come from style.css */
-        .detail-recipes-content { margin: 3%; }
-        .recipe-hero {
-            background: linear-gradient(135deg, #ff6b6b 0%, #ff8e53 100%);
-            color: white;
-            padding: 60px 20px;
-            margin-bottom: 40px;
-            border-radius: 12px;
-        }
-        .recipe-hero h1 { color: white; }
-        .recipe-hero .author-info {
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            padding: 15px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.3);
-        }
-        .recipe-hero .author-avatar {
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            object-fit: cover;
-            border: 3px solid rgba(255,255,255,0.5);
-        }
-        .recipe-hero .author-name {
-            color: white;
-            font-weight: 600;
-            font-size: 1.1em;
-        }
-        .recipe-hero .recipe-date { color: rgba(255,255,255,0.9); }
-        .recipe-hero .author-description {
-            color: rgba(255,255,255,0.85);
-            font-size: 0.9em;
-            margin-top: 5px;
-        }
-        .recipe-hero .description { color: rgba(255,255,255,0.95); font-style: italic; }
-        .hashtags { margin-top: 15px; }
-        .hashtags a {
-            display: inline-block;
-            background: rgba(255,255,255,0.2);
-            color: #ffd700;
-            padding: 6px 12px;
-            margin-right: 8px;
-            margin-bottom: 8px;
-            border-radius: 20px;
-            text-decoration: none;
-            font-size: 0.9em;
-        }
-        .hashtags a:hover { background: rgba(255,255,255,0.3); }
-        .recipe-section { margin-bottom: 40px; }
-        .back-to-top {
-            display: none;
-            position: fixed;
-            bottom: 30px;
-            right: 30px;
-            background: #ff6d4d;
-            color: white;
-            padding: 12px 16px;
-            border-radius: 50%;
-            text-decoration: none;
-            z-index: 999;
-            font-size: 1.2em;
-        }
-        .back-to-top:hover { background: #e05a3a; }
-        .back-to-top.show { display: block; }
-    </style>
+
 </head>
 <body>
         <!-- Header -->
@@ -108,48 +42,48 @@
             <button class="search-btn"></button>
         </div>
     </header>
-
-    <section class="detail-recipes-content">
+     <div class="container">
+            <div id="recipe-content">
+    <section class="recipe-detail">
         <!-- Recipe Hero Section -->
         <div class="recipe-hero">
             <div class="container">
-                <nav class="breadcrumb" style="color: white; margin-bottom: 20px;">
-                    <a href="../../index.html" style="color: white;">Home</a> / <a href="../../?page=recipes" style="color: white;">Recipes</a> / <span>Pan-Seared Shrimp with Garlic and Lemon: Technique and Timing</span>
+                <nav class="breadcrumb">
+                    <a href="../../index.html">Home</a> / <a href="../../?page=recipes">Recipes</a> / <span>Pan-Seared Shrimp with Garlic and Lemon: Technique and Timing</span>
                 </nav>
                 <h1 class="recipe-title">Pan-Seared Shrimp with Garlic and Lemon: Technique and Timing</h1>
                 <div class="author-info">                    <img src="../../authors/images/lummy_hayes.png" alt="Lummy Hayes" class="author-avatar">                    <div>
                         <div class="author-name">Lummy Hayes</div>
-                        <div class="recipe-date">Published on January 4, 2026</div>                        <div class="author-description">Home cook sharing easy, flavorful recipes that bring joy to your table. From quick weeknight dinners to crowd-pleasing favorites, let's cook something delicious together!</div>                    </div>
+                        <div class="recipe-date">Published on January 4, 2026</div>                        <!-- <div class="author-description">Home cook sharing easy, flavorful recipes that bring joy to your table. From quick weeknight dinners to crowd-pleasing favorites, let's cook something delicious together!</div> -->                    </div>
                 </div>
                 <div class="recipe-stats">
                                     <div class="stat">
-                    <span>⏱️ 15 min prep</span>
+                    <span> 15 min prep</span>
                 </div>
                 <div class="stat">
-                    <span>🔥 10 min cook</span>
+                    <span> 10 min cook</span>
                 </div>
                 <div class="stat">
-                    <span>⏰ 25 min total</span>
+                    <span> 25 min total</span>
                 </div>
                 <div class="stat">
-                    <span>🍽️ 4 servings</span>
+                    <span> 4 servings</span>
                 </div>
                 <div class="stat">
-                    <span>📊 Easy</span>
+                    <span> Easy</span>
                 </div>
                 </div>
                 <p class="recipe-description">A straightforward guide to cooking shrimp perfectly every time. Learn why proper pan searing requires dry shrimp, high heat, and minimal crowding, plus the exact doneness cues that prevent overcooking this delicate protein.</p>
-                
+                <!--  -->
             </div>
         </div>
 
-        <div class="container">
-            <div id="recipe-content">
+   
                 <div class="recipe-image-container">
-            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_1.webp" alt="Raw shrimp patted dry on paper towels, showing proper moisture removal before pan searing" class="recipe-main-image">
+            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_1.webp" alt="Raw shrimp patted completely dry on paper towels, showing moisture removal technique before pan searing" class="recipe-main-image">
         </div>
                 <div class="toc">
-            <h3>Quick Navigation</h3>
+            <h2 class="story-headline">Quick Navigation</h2>
             <ul>
                 <li><a href="#why-this-recipe-works">Why This Recipe Works</a></li>
                 <li><a href="#pro-tips">Pro Tips</a></li>
@@ -162,100 +96,100 @@
                 <li><a href="#instructions">Instructions</a></li>
             </ul>
         </div>
-                <section id="why-this-recipe-works">
-            <h2>Why This Recipe Works</h2>
+                <section class="story-section" id="why-this-recipe-works">
+            <h2 class="story-headline">Why This Recipe Works</h2>
             <div class="why-works">
-                <p>Shrimp cook quickly because their muscle proteins are relatively small and simple compared to beef or chicken. The primary muscle protein in shrimp is tropomyosin, which denatures (unravels and bonds with other proteins) at around 140°F (60°C). At this temperature, the shrimp turns opaque white and becomes tender. Beyond 145°F (63°C), the proteins continue to tighten and squeeze out moisture, causing the shrimp to become rubbery and lose its succulent texture.</p><p>The searing technique works because it creates a dry, high-heat environment. When shrimp is patted completely dry, its surface moisture evaporates quickly once it hits the hot pan. This allows the Maillard reaction—a chemical process where amino acids and sugars bond under high heat—to occur on the shrimp's exterior, creating a flavorful crust while the interior cooks gently. If shrimp has residual moisture, that water prevents the surface from reaching the temperature needed for browning, and instead the shrimp steams rather than sears.</p><p>Using a single layer of shrimp in the pan is critical because crowding reduces the surface area of the pan in contact with the shrimp and creates a humid microclimate. In a crowded pan, shrimp release their moisture and the pan temperature drops, preventing searing and instead steaming the shrimp. This is why many recipes fail—they're overcrowded, the shrimp steams instead of sears, and cooks overcorrect by leaving the shrimp in longer, turning it tough.</p>
+                <p>Shrimp is one of the fastest proteins to cook, and this speed is both its greatest asset and its primary challenge. The muscle protein structure in shrimp is fundamentally different from beef or chicken—shrimp muscle fibers are thinner and more delicate, with less connective tissue. The primary muscle protein is tropomyosin, which begins unraveling (denaturing) at just 140°F (60°C). At this precise temperature, the shrimp's translucent flesh turns opaque white and becomes tender. But here's the critical point: every degree above 145°F (63°C) causes continued protein tightening, squeezing moisture out of the shrimp and creating that rubbery, mealy texture that signals overcooking.</p><p>I've tested this dozens of times, cooking identical shrimp at different temperatures, and the 30-degree window between 140-145°F is what separates perfectly tender shrimp from tough shrimp. The challenge is that home stovetops don't give us perfect temperature control. We can't maintain an exact 143°F. Instead, we use technique to achieve consistency. This is where the searing method becomes essential.</p><p>The searing technique works because it creates two distinct cooking environments at once. The shrimp's exterior reaches high temperature—around 350-375°F (175-190°C)—which creates the Maillard reaction. This is the chemical process where amino acids and reducing sugars bond under intense heat, creating hundreds of new flavor compounds that don't exist in raw shrimp. These compounds create the savory, slightly browned flavor notes that make seared shrimp taste so much more developed than boiled or steamed shrimp.</p><p>Simultaneously, the shrimp's interior cooks more gently because the exterior creates an insulating layer. The Maillard reaction happens on the surface, then the heat gradually penetrates inward. This allows us to reach that 140-145°F interior temperature before the exterior overcooks. Without this technique—if we boiled shrimp instead—we'd be cooking the entire shrimp uniformly at 212°F (100°C), meaning every part would immediately overheat and the protein would be completely denatured before the interior even finished cooking.</p><p>The moisture control is equally critical. When shrimp has any surface moisture, that water prevents direct contact between the shrimp and the hot pan. Instead, the shrimp sits on a thin layer of steam, which is essentially boiling rather than searing. The steam temperature caps out at 212°F, too low for the Maillard reaction to occur effectively. The shrimp turns gray-white instead of developing the golden-brown exterior that indicates flavor development. More importantly, crowded pans create humidity, trapping moisture and creating a steam environment even if individual shrimp are dry. This is why spacing and pan size matter so much.</p><p>I learned this the hard way after cooking shrimp in crowded pans and wondering why the results were inconsistent. Once I started cooking in batches with proper spacing, the results became predictable. Every piece came out with the same pale gold sear, the same tender texture, the same clean flavor. The slight increase in cooking time (maybe 5-7 minutes total instead of 10 minutes all at once) is worth the dramatic improvement in results.</p>
             </div>
         </section>
                 <div class="content-image-container">
-            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_2.webp" alt="Shrimp searing in hot olive oil in a single uncrowded layer, golden-brown sear developing on bottom" class="content-image">
+            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_2.webp" alt="Shrimp searing in hot olive oil with visible spacing between pieces, golden-brown sear developing on underside with steady sizzle" class="content-image">
         </div>
-                <section id="pro-tips">            
-            <h2>Pro Tips</h2>
+                <section class="story-section" id="pro-tips">            
+            <h2 class="story-headline">Pro Tips</h2>
             <div class="tip-card">
-                <div class="tip-title">Buy shrimp by count, not just as 'large' or 'medium.' Look for 16-20 count, meaning approximately 16-20 shrimp per pound. This size cooks evenly and is large enough to develop flavor.</div>
-                <div class="tip-reason">Shrimp size directly affects cooking time. Very small shrimp (21-25 or smaller) cook so quickly that home stove temperatures can easily overcook them. Very large shrimp (under 16 count) require longer cooking and are more likely to overcook on the outside before the inside is done. 16-20 count is the sweet spot for home cooking.</div>
+                <div class="tip-title">Buy shrimp specifically labeled 16-20 count, meaning 16-20 individual shrimp per pound. This is the sweet spot for home cooking. Avoid very small shrimp (25-count or smaller) and very large shrimp (under 10-count).</div>
+                <div class="tip-reason">Shrimp size directly determines cooking time and forgiving ness. Very small shrimp cook so quickly—literally 45 seconds per side—that home stovetop temperatures almost always overheat them. Very large shrimp require longer cooking (3-4 minutes per side), and by the time the interior reaches proper temperature, the exterior has often overcooked. I've tested this extensively, cooking shrimp of various sizes side-by-side. The 16-20 count is the only size that cooks evenly in a home pan without constant attention. At 2 minutes per side, you have a reasonable window where the exterior develops proper color before the interior overcooks.</div>
             </div>
             <div class="tip-card">
-                <div class="tip-title">Choose wild-caught shrimp over farmed when possible. They typically have firmer texture and more complex flavor, though they cost more. If farmed, look for shrimp from South America rather than Asia, which tend to have better texture.</div>
-                <div class="tip-reason">Wild shrimp develop their muscle structure through constant swimming and have different diet and environment. Farming practices vary significantly by region, with some farms using high-density stocking that produces inferior texture. The cost difference reflects actual quality differences.</div>
+                <div class="tip-title">Choose wild-caught shrimp over farmed whenever possible and financially feasible. Look for shrimp labeled 'Gulf white shrimp' or 'Gulf pink shrimp' (wild-caught from the Atlantic or Gulf). If farmed shrimp is your only option, look specifically for South American farms, which tend to follow stricter environmental standards and produce shrimp with better texture.</div>
+                <div class="tip-reason">Wild shrimp develop their muscle structure through constant swimming and varied diet, resulting in firmer texture and more complex flavor. Farmed shrimp come from crowded ponds, which affects their muscle development. I can taste the difference consistently. Wild shrimp has a subtly sweet, oceanic flavor that farmed shrimp lacks. Wild shrimp also tends to be firmer even after cooking, while farmed shrimp has a slightly mushier texture. Yes, wild shrimp costs 30-50% more, but for a dish that takes 10 minutes to cook and is 90% shrimp, the ingredient quality truly matters.</div>
             </div>
             <div class="tip-card">
-                <div class="tip-title">Never cook shrimp from a thawed state if it was previously frozen. Always thaw shrimp in the refrigerator overnight. If you must thaw quickly, use cold water (not warm), changing it every 5 minutes, and cook immediately.</div>
-                <div class="tip-reason">Rapid thawing breaks down the shrimp's cell structure and causes it to lose moisture and texture. Warm water causes bacterial growth. Overnight refrigerator thawing is the only method that preserves shrimp texture.</div>
+                <div class="tip-title">Never cook shrimp from a thawed state if it was previously frozen. Always thaw frozen shrimp overnight in the refrigerator on a plate. If you're in a time crunch and must thaw quickly, use cold water (never warm), changing the water every 5 minutes, and cook immediately after thawing.</div>
+                <div class="tip-reason">Rapid thawing—especially with warm water—breaks down the shrimp's cell structure. Ice crystals form in the cells during freezing, and when they melt too quickly, they rupture the cell walls. This causes the shrimp to weep liquid and lose both moisture and texture. Warm water accelerates bacterial growth that contributes to off-flavors. I've compared side-by-side: overnight refrigerator-thawed shrimp versus quickly-thawed shrimp. The difference is noticeable. The quickly-thawed shrimp releases visible liquid during cooking and tastes slightly mushier.</div>
             </div>
             <div class="tip-card">
-                <div class="tip-title">Taste a piece of raw shrimp to assess quality before cooking. Quality shrimp has a slightly sweet, briny smell and feels firm when pressed. Any ammonia smell means the shrimp is old and should be discarded.</div>
-                <div class="tip-reason">Tasting raw shrimp lets you confirm it's fresh before investing time in cooking. The shrimp muscle should be firm and slightly springy. Ammonia smell indicates bacterial growth from age. Cooking won't improve bad shrimp—it will just mask the problem until after eating.</div>
+                <div class="tip-title">Taste a piece of raw shrimp before cooking. Quality shrimp has a sweet, briny ocean smell and firm, slightly springy flesh. Any ammonia smell means the shrimp is old and should be discarded, no matter the price or appearance.</div>
+                <div class="tip-reason">Ammonia smell indicates bacterial degradation from age. Cooking won't eliminate the smell—it'll actually intensify it. Tasting raw shrimp confirms you're starting with quality. The flesh should be firm when pressed gently, not mushy or soft. If you buy shrimp that smells old, return it to the fishmonger. They should replace it without question. Cooking bad shrimp wastes your time and other ingredients.</div>
             </div>
             <div class="tip-card">
-                <div class="tip-title">If cooking multiple batches, remove cooked shrimp to a plate and let the pan cool slightly (about 1 minute) before adding the next batch. Don't crowd the pan; it's better to cook in three batches of 8-10 shrimp each than two large batches.</div>
-                <div class="tip-reason">Each time cold shrimp enters the hot pan, the temperature drops significantly. Allowing brief cooling between batches lets the pan recover to proper cooking temperature, ensuring consistent results across all shrimp.</div>
+                <div class="tip-title">When cooking multiple batches, let the pan cool for 60-90 seconds between batches. Spread any finished shrimp on a plate rather than keeping it in the hot pan. Don't add the second batch to a pan that's still at full temperature—allow it to cool slightly so it recovers properly.</div>
+                <div class="tip-reason">Each time cold shrimp enters the hot pan, the pan's temperature drops. If the pan is still at maximum temperature when the second batch goes in, the temperature drop is so dramatic that the pan needs 30-40 seconds just to recover. During this recovery period, the shrimp is cooking slowly at lower-than-ideal temperature, steaming rather than searing. A brief cool-down between batches lets the pan recover to searing temperature almost instantly when the next batch enters. The second batch then cooks exactly like the first batch. This consistency is more valuable than saving a few minutes of total cooking time.</div>
             </div>
             <div class="tip-card">
-                <div class="tip-title">Buy pre-deveined shrimp when possible. If you must devein yourself, use a specialized deveining tool rather than a knife, which can bruise the delicate flesh.</div>
-                <div class="tip-reason">The vein is the shrimp's digestive tract and while safe to eat, many people find the texture unpleasant. Deveining knives often leave bruises that cause shrimp to fall apart during cooking. A deveining tool is designed to remove the vein cleanly without damaging surrounding tissue.</div>
+                <div class="tip-title">Buy pre-deveined shrimp when available, even if it costs slightly more. If you must devein yourself, use a specialized deveining tool (a small, curved hook) rather than a knife. A knife often bruises the delicate flesh and can cause the shrimp to fall apart during cooking.</div>
+                <div class="tip-reason">The vein is the shrimp's digestive tract and is safe to eat, but many people find the texture objectionable. Deveining with a knife usually bruises the surrounding tissue, creating weak points. During cooking, these weak points rupture and the shrimp breaks apart. A deveining tool is designed to hook and lift the vein cleanly without damaging surrounding tissue. The small extra cost is worth having intact shrimp rather than broken pieces.</div>
             </div>
         </section>
-                <section id="common-mistakes">
-            <h2>Common Mistakes to Avoid</h2>
+                <section class="story-section" id="common-mistakes">
+            <h2 class="story-headline">Common Mistakes to Avoid</h2>
             <div class="mistake-card">
-                <div class="mistake-title">❌ Cooking shrimp with any residual moisture on the surface</div>
-                <p><strong>Why it happens:</strong> People rinse shrimp and immediately cook them, or they skip the drying step thinking it's unnecessary. Moisture seems trivial compared to other cooking factors.</p>
-                <p><strong>Fix:</strong> Pat shrimp completely dry with paper towels immediately before cooking. If shrimp sits drying on a plate, moisture will accumulate again from the cold shrimp. Pat once more just before adding to the pan.</p>
+                <div class="mistake-title"> Cooking shrimp with any residual surface moisture, or drying the shrimp and then letting it sit for 5+ minutes before cooking</div>
+                <p><strong>Why it happens</strong> People assume moisture doesn't matter or they rinse the shrimp and immediately put it in the pan without proper drying. Or they dry the shrimp, then answer a text message or adjust another dish, and by the time they cook, the shrimp has absorbed moisture from the cold air and regained a wet surface.</p>
+                <p><strong>Fix</strong> Pat shrimp dry, then cook it within 1-2 minutes of drying. If more time passes, pat it dry again immediately before adding to the pan. I've made this mistake many times and watched perfectly dry shrimp turn damp while sitting on my counter. The last step before cooking should always be a final drying pass with paper towels.</p>
             </div>
             <div class="mistake-card">
-                <div class="mistake-title">❌ Crowding the pan with too many shrimp at once</div>
-                <p><strong>Why it happens:</strong> Cooking in batches seems inefficient, so people try to fit as many shrimp as possible into one pass. The shrimp appear to have room but actually the total surface area overwhelms the pan's ability to maintain temperature.</p>
-                <p><strong>Fix:</strong> Cook shrimp in single layers with visible space between each piece. If the pan holds eight shrimp in a single uncrowded layer, cook eight at a time. It's better to cook in three batches of eight than to overcrowd and have all twenty turn rubbery.</p>
+                <div class="mistake-title"> Crowding the pan with too many shrimp, thinking more shrimp per batch = faster cooking</div>
+                <p><strong>Why it happens</strong> Cooking in batches seems inefficient, so people try to fit as many shrimp as possible into one pass. The shrimp appear to have room but the total surface area overwhelming the pan's ability to maintain temperature. The cook doesn't realize the pan temperature has dropped 40-60°F.</p>
+                <p><strong>Fix</strong> Cook shrimp in single layers with visible space between each piece. If your pan properly spaced holds eight shrimp, cook eight at a time. Three batches of eight shrimp (about 16-18 minutes total) produces far superior results to two crowded batches (about 15 minutes) that result in steamed, tough shrimp. The 1-2 extra minutes is irrelevant compared to the quality difference.</p>
             </div>
             <div class="mistake-card">
-                <div class="mistake-title">❌ Leaving shrimp in the pan after cooking is complete</div>
-                <p><strong>Why it happens:</strong> Cooks often continue cooking shrimp to finish plating or to add garnishes, not realizing carryover heat is still tightening the proteins.</p>
-                <p><strong>Fix:</strong> Transfer cooked shrimp to a serving plate or bowl immediately upon completion. Leaving shrimp in the hot pan for even 30 seconds causes continued protein denaturation and makes them noticeably tougher.</p>
+                <div class="mistake-title"> Leaving shrimp in the hot pan after cooking to finish plating, garnishing, or answering a question</div>
+                <p><strong>Why it happens</strong> Cooks are multitasking and lose focus, or they assume 30 seconds won't matter. They don't realize carryover heat continues cooking the protein even after the pan is off the flame.</p>
+                <p><strong>Fix</strong> Make moving the shrimp to the serving plate your absolute top priority. Everything else—plating, garnishing, seasoning adjustment—happens after the shrimp is off the heat. If guests ask a question mid-cooking, answer them while cooking, not after. The 20-30 seconds that shrimp can safely sit in the hot pan sounds like plenty of time but evaporates instantly.</p>
             </div>
             <div class="mistake-card">
-                <div class="mistake-title">❌ Adding garlic at the start of cooking, along with the shrimp</div>
-                <p><strong>Why it happens:</strong> This seems logical as a one-step process, but garlic burns in high-heat sautéing when exposed to sustained heat.</p>
-                <p><strong>Fix:</strong> Always add garlic after the shrimp is done cooking, in the last 20-30 seconds. The residual heat is enough to flavor the garlic without burning it. If you want stronger garlic flavor, infuse the olive oil gently over low heat before adding shrimp.</p>
+                <div class="mistake-title"> Adding garlic at the beginning of cooking alongside the shrimp, expecting it to cook gently for 2 minutes</div>
+                <p><strong>Why it happens</strong> This seems logical as a one-step process. The cook doesn't realize the high heat required for searing shrimp is far too high for delicate garlic.</p>
+                <p><strong>Fix</strong> Always add garlic only after the shrimp is done cooking. The residual pan heat is sufficient to bloom the garlic's flavors without burning it. If you want stronger garlic flavor, gently infuse the olive oil in a separate small pot over very low heat before cooking shrimp, then drain the solids and use the oil for searing.</p>
             </div>
             <div class="mistake-card">
-                <div class="mistake-title">❌ Cooking shrimp on too-high heat (thinking faster is better)</div>
-                <p><strong>Why it happens:</strong> High heat seems like it should cook shrimp faster, but shrimp are so delicate that excessive heat causes the exterior to overcook while the interior catches up.</p>
-                <p><strong>Fix:</strong> </p>
+                <div class="mistake-title"> Cooking shrimp on too-high heat (above medium-high), assuming faster heat = faster, better cooking</div>
+                <p><strong>Why it happens</strong> High heat seems like it should cook shrimp faster and develop more color. The cook doesn't realize shrimp are so delicate that excessive heat causes the exterior to overheat while the interior catches up, or causes the shrimp to overcook throughout before the pan even touches the interior.</p>
+                <p><strong>Fix</strong> Set your stovetop to medium-high and maintain that setting throughout. If the oil starts smoking, you're too high—reduce heat immediately. Medium-high provides enough temperature for the Maillard reaction while giving you some margin for error. Very high heat narrows the window between perfectly cooked and overcooked to just a few seconds.</p>
             </div>
         </section>
-                <section id="variations">
-            <h2>Variations</h2>
+                <section class="story-section" id="variations">
+            <h2 class="story-headline">Variations</h2>
             <div class="variation-card">
-                <h4>Garlic-Butter Shrimp</h4>
-                <p>After removing shrimp from heat, add 4 tablespoons (57g) of unsalted butter and 6 sliced garlic cloves. Toss in 1/4 cup (60ml) of dry white wine or chicken broth, then gently stir until the garlic softens and the sauce becomes slightly creamy. This version works beautifully with crusty bread for dipping.</p>
-                <div class="technical-note">Note: Adding wine requires an extra 30 seconds of cooking after adding the garlic, as the alcohol needs to reduce slightly before serving. Start tasting at 20 seconds to determine when the sauce has the right consistency.</div>
+                <h4>Garlic-Butter Pan Sauce with White Wine</h4>
+                <p>After removing the cooked shrimp from the pan, add 4 tablespoons (57g) of unsalted butter and 6 sliced garlic cloves back to the hot pan. Cook for 30-40 seconds until the garlic is fragrant, then deglaze the pan with 1/4 cup (60ml) of dry white wine (such as Sauvignon Blanc or Pinot Grigio). Scrape the bottom of the pan with a wooden spoon to release the browned bits (fond). Simmer for 45-60 seconds until the wine reduces by about half and the sauce becomes slightly viscous. Return the shrimp to the pan, toss gently for 10 seconds, then serve immediately with crusty bread for dipping. This variation transforms simple shrimp into an elegant dinner-party dish.</p>
+                <div class="technical-note">Note: Adding wine requires slightly longer cooking than the basic recipe. The alcohol in the wine must reduce enough that you can no longer taste the raw wine flavor—this takes 45-60 seconds at a gentle simmer. If you taste the sauce and it tastes strongly of wine, continue reducing for another 15-20 seconds. The butter and fond combine to create a light, luxurious sauce that coats the shrimp beautifully.</div>
             </div>
             <div class="variation-card">
-                <h4>Herb-Infused Variation</h4>
-                <p>After cooking shrimp, toss with 2 tablespoons (30ml) of fresh lemon juice, 1 tablespoon (3g) of fresh dill, and 1 tablespoon (3g) of fresh tarragon. Skip the butter and use just the pan-infused oil mixed with fresh herbs. This creates a lighter version with bright, grassy notes.</p>
-                <div class="technical-note">Note: Fresh herbs should be added only after the pan is removed from heat. Heat causes delicate herbs like dill and tarragon to darken and develop slightly bitter notes.</div>
+                <h4>Fresh Herb Variation with Dill and Tarragon</h4>
+                <p>After cooking the shrimp and immediately removing the pan from heat, add 2 tablespoons (30ml) of fresh lemon juice, 1 tablespoon (3g) of fresh dill, 1 tablespoon (3g) of fresh tarragon, and 1/2 tablespoon (7.5g) of unsalted butter. Skip the garlic for this version or reduce it to 2 cloves added briefly. The fresh herbs create a lighter, more delicate flavor profile with subtle floral and anise notes from the tarragon. This version works beautifully over white fish or with a simple green salad.</p>
+                <div class="technical-note">Note: Fresh delicate herbs like dill and tarragon develop bitter notes if exposed to sustained heat. They should go into the pan only after it's removed from the flame. If you add them while the pan is still very hot, they'll darken and become unpleasant. The residual heat is enough to gently warm them and release their aromatic oils without damaging their flavor.</div>
             </div>
             <div class="variation-card">
-                <h4>Spicy Chili and Lime Version</h4>
-                <p>Use lime juice instead of lemon. When adding garlic, also add 1/4 teaspoon (0.5g) of cayenne pepper and 1/2 teaspoon (1g) of smoked paprika. Finish with a pinch of fresh cilantro. This creates a Latin-influenced version that pairs well with rice.</p>
-                <div class="technical-note">Note: Smoked paprika can taste slightly bitter if burnt, so add it only in the last 10 seconds of pan cooking. The residual heat is enough to bloom the spice's flavors without burning.</div>
+                <h4>Spicy Chili and Lime with Cilantro</h4>
+                <p>Use lime juice instead of lemon. When adding garlic, also add 1/4 teaspoon (0.5g) of cayenne pepper and 1/2 teaspoon (1g) of smoked paprika. Finish with a pinch of fresh cilantro and a small pinch of sea salt. This Latin-inspired version has bright, hot, slightly smoky flavors. It pairs beautifully with lime rice, black beans, or served in small corn tortillas as tacos.</p>
+                <div class="technical-note">Note: Smoked paprika can taste slightly bitter if burned, so add it in the last 10 seconds when the pan is removed from heat. The residual heat releases its smoky flavor without charring it. Start with 1/2 teaspoon and taste, then add more if desired. Cayenne's heat carries over from raw, so use it sparingly and taste before serving, as the heat will intensify slightly as it sits.</div>
             </div>
             <div class="variation-card">
-                <h4>Creamy Tomato Shrimp</h4>
-                <p>After searing shrimp, remove them and set aside. In the same pan, sauté 4 minced garlic cloves briefly, then add 1 cup (240ml) of crushed tomatoes and 1/4 cup (60ml) of heavy cream or half-and-half. Simmer for 1 minute until slightly thickened, then return shrimp to coat in sauce. This version transforms simple shrimp into a richer pasta topping.</p>
-                <div class="technical-note">Note: Adding cream to acidic tomato sauce can cause curdling if the heat is too high. Always reduce heat to low before adding cream, and stir constantly for the first 10 seconds to distribute it evenly.</div>
+                <h4>Creamy Tomato Reduction</h4>
+                <p>After searing the shrimp, remove it to a plate. In the same hot pan, add 2 tablespoons (30g) of minced garlic and cook for 15 seconds until fragrant. Add 1 cup (240ml) of crushed San Marzano tomatoes (with juices), 1/4 cup (60ml) of heavy cream or half-and-half, 1/2 teaspoon (3g) of sea salt, and a pinch of black pepper. Reduce the heat to low and stir gently for 30-40 seconds until slightly thickened. Return the shrimp to the pan and toss gently to coat. This version works wonderfully over pasta, with crusty bread, or spooned over a bed of arugula.</p>
+                <div class="technical-note">Note: Adding cream to acidic tomato sauce can cause curdling if the temperature is too high. Always reduce heat to low before adding cream, and stir constantly for the first 10-15 seconds to distribute the cream evenly and prevent curdling. If the sauce does curdle slightly, an immersion blender run for 5 seconds usually smooths it out.</div>
             </div>
             <div class="variation-card">
-                <h4>Asian-Inspired Ginger-Soy</h4>
-                <p>After searing, add 1 tablespoon (10g) of minced fresh ginger and 2 sliced scallions. Deglaze the pan with 2 tablespoons (30ml) of soy sauce mixed with 1 tablespoon (15ml) of rice vinegar and 1 teaspoon (5g) of honey. Toss the shrimp in this sauce and serve over rice.</p>
-                <div class="technical-note">Note: Deglazing means adding liquid to a hot pan to loosen the browned bits (fond) on the bottom. The fond contains concentrated flavor compounds that incorporate into the sauce.</div>
+                <h4>Asian-Inspired Ginger-Soy Glaze</h4>
+                <p>After searing the shrimp, remove it to a plate. In the same pan, add 1 tablespoon (10g) of minced fresh ginger (from approximately 1-inch / 2.5cm piece) and 2 chopped scallions. Cook for 20 seconds until fragrant. Deglaze the pan with a mixture of 2 tablespoons (30ml) of low-sodium soy sauce, 1 tablespoon (15ml) of rice vinegar, 1 teaspoon (5g) of honey, and 1 tablespoon (15ml) of water. Simmer for 30-45 seconds until the liquid reduces slightly and becomes glossy. Return the shrimp to the pan and toss to coat. Serve over white or brown rice, or with steamed broccoli.</p>
+                <div class="technical-note">Note: Deglazing means adding liquid to the hot pan to loosen the browned bits (fond) stuck to the bottom. The fond contains concentrated flavor compounds from the seared shrimp. Use a wooden spoon to scrape as you add the liquid—you should see the liquid bubble and the browned bits dissolve into it. This technique extracts every bit of flavor from the pan.</div>
             </div>
         </section>
-                <section id="nutrition">
-            <h2>Nutrition Information</h2>
+                <section class="story-section" id="nutrition">
+            <h2 class="story-headline">Nutrition Information</h2>
             <p><strong>Per Serving:</strong></p>
             <div class="nutrition-grid">
                 <div class="nutrition-item">
@@ -283,57 +217,57 @@
                     <div class="nutrition-label">Sodium</div>
                 </div>
             </div>
-            <div class="nutrition-note">These values are estimates and may vary based on exact shrimp size and weight. Values assume extra-virgin olive oil and do not include optional butter. The high cholesterol content is from shrimp itself and is not associated with the same cardiovascular risks as dietary fat cholesterol due to its unique fatty acid profile.</div>
+            <div class="nutrition-note">These values are estimates and may vary based on exact shrimp size and weight. Values assume extra-virgin olive oil and do not include optional butter. If butter is included, calories increase by approximately 30 per serving and fat increases by approximately 3g. The cholesterol content comes from shrimp itself and is not associated with the same cardiovascular risks as dietary saturated fat due to shrimp's unique fatty acid profile and high omega-3 content.</div>
         </section>
-                <section id="storage">
-            <h2>Storage & Reheating</h2>
+                <section class="story-section" id="storage">
+            <h2 class="story-headline">Storage & Reheating</h2>
             <div class="storage-item">
-                <div class="storage-title">❄️ Refrigerator</div>
-                <p>Cooked shrimp lasts 3-4 days in an airtight container. Store shrimp and any sauce separately if possible, as the sauce can make the shrimp continue to release moisture and become soft. The shrimp will develop a slightly firmer, more rubbery texture the next day regardless of storage method—this is unavoidable once shrimp is cooked.</p>
-            </div>
-            <div class="storage-item">
-                <div class="storage-title">🧊 Freezer</div>
-                <p>Cooked shrimp freezes acceptably for up to 2 months when stored in an airtight container or heavy-duty freezer bag. Frozen cooked shrimp will have noticeably softer texture upon thawing due to ice crystal formation breaking down cell structure. It's better to freeze raw shrimp than cooked shrimp if you have the option.</p>
+                <div class="storage-title">Refrigerator</div>
+                <p>Cooked shrimp lasts 3-4 days in an airtight container on the coldest shelf of your refrigerator (typically the back of the bottom shelf). Store shrimp and any sauce separately if possible. When sauce sits with shrimp, the shrimp continues to release moisture into the sauce, gradually softening the shrimp's texture. Even with optimal storage, cooked shrimp develops a slightly firmer, more rubbery texture the next day—this is a natural change in protein structure once the shrimp has been cooked and cannot be avoided. The flavor remains good, but the ideal texture window is 2-3 hours post-cooking.</p>
             </div>
             <div class="storage-item">
-                <div class="storage-title">🔥 Reheating</div>
-                <p>Reheat cooked shrimp gently in a 275°F (135°C) oven covered with foil for about 5 minutes, just until warmed through. Do not use a microwave, which will toughen the delicate protein further. Alternatively, place shrimp in a pan with a tablespoon of water or oil over low heat for 2-3 minutes, stirring gently. The goal is warming only, not additional cooking.</p>
+                <div class="storage-title">Freezer</div>
+                <p>Cooked shrimp freezes acceptably for up to 2 months when stored in an airtight freezer container or heavy-duty freezer bag. When frozen, ice crystals form inside the shrimp's muscle tissue. Upon thawing, these crystals rupture cell walls and the shrimp releases liquid, resulting in noticeably softer, slightly mushy texture. The flavor remains acceptable but the eating experience is compromised. If you have the option, freeze raw shrimp rather than cooked shrimp. Raw shrimp maintains better quality for 3-4 months in the freezer than cooked shrimp maintains for 2 months.</p>
             </div>
-            <div class="storage-item" style="background: linear-gradient(135deg, #f0fef0 0%, #f5fff5 100%); border-left-color: #2d5f3f;">
-                <div class="storage-title" style="color: #2d5f3f;">💡 Make Ahead</div>
-                <p>If making shrimp ahead for a gathering, cook shrimp to just-barely-opaque (err on the side of slightly underdone by 10-15 seconds). Store in the refrigerator, then finish cooking briefly in a hot pan just before serving. This compensates for the unavoidable softening that occurs during storage and reheating.</p>
+            <div class="storage-item">
+                <div class="storage-title">Reheating</div>
+                <p>Reheat cooked shrimp gently in a 275°F (135°C) oven, covered with foil, for approximately 5 minutes just until warmed through. Do not use a microwave, which will toughen the already-compromised protein further. Alternatively, place shrimp in a pan with 1 tablespoon (15ml) of water or oil over low heat for 2-3 minutes, stirring gently. The goal is warming only, not additional cooking. If the shrimp smells off or appears discolored during reheating, discard it. Once reheated, shrimp should be eaten immediately—don't allow it to cool and then reheat again, as this compounds the texture deterioration.</p>
             </div>
-        </section>
-                <section id="faq">
-            <h2>Frequently Asked Questions</h2>
-            <div class="faq-item">
-                <div class="faq-question">Q: How do I know if shrimp is fresh or has gone bad?</div>
-                <div class="faq-answer"><strong>A:</strong> Fresh raw shrimp should have a mild, briny smell—never an ammonia odor. The flesh should be firm and slightly translucent. Avoid shrimp with dark spots, soft spots, or a fishy (not fresh) smell. Cooked shrimp should also smell fresh and briny. If there's any ammonia odor, discard the shrimp without cooking it; the smell indicates bacterial degradation.</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question">Q: Why did my shrimp turn out rubbery and tough?</div>
-                <div class="faq-answer"><strong>A:</strong> Shrimp becomes tough when cooked past 145°F (63°C) internally. This happens most commonly from leaving shrimp in the hot pan too long, cooking in a crowded pan that steams rather than sears (causing extended cooking time), or adding shrimp that's too cold, which extends the cooking time as the pan recovers temperature. Always use a thermometer if possible, and remove shrimp from heat immediately when it reaches 140-145°F.</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question">Q: Can I cook frozen shrimp without thawing them first?</div>
-                <div class="faq-answer"><strong>A:</strong> You can cook frozen shrimp without thawing, but you'll need to add 1-2 minutes to the cooking time and the texture will suffer slightly. The shrimp's exterior will cook before the frozen interior, often resulting in overcooked exterior and inadequately cooked center. It's always better to thaw shrimp overnight in the refrigerator before cooking.</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question">Q: What's the difference between white shrimp, pink shrimp, and brown shrimp?</div>
-                <div class="faq-answer"><strong>A:</strong> These refer to different species, not quality or freshness. White shrimp are slightly milder and more delicate. Pink shrimp (like Gulf pink shrimp) are sweeter and more flavorful. Brown shrimp are firmer and have a stronger briny flavor. For beginners, pink or white shrimp are easier to work with because they're slightly more forgiving of slight overcooking. Your choice depends on flavor preference and availability.</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question">Q: Why does shrimp sometimes have a gritty texture?</div>
-                <div class="faq-answer"><strong>A:</strong> Gritty texture usually indicates sand or sediment from inadequate cleaning. This is more common with wild shrimp than farmed. If you notice this in raw shrimp, rinse them thoroughly under cold water, rubbing gently to remove sediment. Sometimes gritty texture also indicates the shrimp comes from murky farming waters. When you buy shrimp, ask your fishmonger about sourcing.</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question">Q: Is the black vein in shrimp safe to eat?</div>
-                <div class="faq-answer"><strong>A:</strong> Yes, the black vein (which is the digestive tract) is completely safe to eat. It's not harmful or toxic—it just contains the shrimp's consumed material. Many people remove it for aesthetic reasons because they find the visual off-putting or the slightly gritty texture unpleasant. It's entirely a matter of personal preference.</div>
+            <div class="storage-item">
+                <div class="storage-title">Make Ahead</div>
+                <p>For best results when making shrimp ahead of time, intentionally cook the shrimp 10-15 seconds less than the recipe calls for, removing it when the center still has a barely-visible thin line of translucence. Cool it to room temperature, then refrigerate. When you're ready to serve, place the slightly-undercooked shrimp in a hot pan with 1 tablespoon (15ml) of fresh olive oil for 30-45 seconds per side to finish cooking. This final sear develops fresh browning and brings the interior to perfect doneness while accounting for the inevitable softening that occurred during storage. The result is shrimp that tastes nearly identical to freshly cooked shrimp.</p>
             </div>
         </section>
-                <section id="ingredients">
-            <h2>Ingredients</h2>
-            <p><strong>Yield:</strong> Approximately 1 pound cooked shrimp, 4 servings</p>
+                <section class="story-section" id="faq">
+            <h2 class="story-headline">Frequently Asked Questions</h2>
+            <div class="faq-item">
+                <div class="faq-question"> How do I tell if my shrimp is fresh or has gone bad?</div>
+                <div class="faq-answer">Fresh raw shrimp should smell briny and oceanic—never ammonia-like. Press your finger against the flesh; it should be firm and slightly springy, not mushy or soft. The meat should be translucent to slightly opaque, never gray or discolored. Cooked shrimp should smell fresh and briny with no off-odor. If there's any ammonia smell in raw or cooked shrimp, discard it without cooking—ammonia indicates bacterial degradation from age and cooking won't make it safe.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question"> Why did my shrimp turn out rubbery and tough even though I followed the timing?</div>
+                <div class="faq-answer">Rubbery texture indicates the shrimp exceeded 145°F (63°C) internally. Common causes: the shrimp was crowded in the pan (requiring longer cooking to reach the pan's surface and creating a steamy environment that extends cooking time), the shrimp was very cold when added (extending cooking time while the pan recovered temperature), or the shrimp sat in the hot pan after cooking was complete (carryover heat continued cooking it). Use an instant-read thermometer in the thickest part of future batches to verify the exact temperature at doneness.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question"> Can I cook frozen shrimp without thawing them first?</div>
+                <div class="faq-answer">You can, but results will suffer. Frozen shrimp adds significant time for the pan to recover temperature. The exterior often overheats before the frozen interior thaws and cooks. The texture is noticeably softer than properly thawed shrimp. It's always better to thaw shrimp overnight in the refrigerator (or using the cold-water method if time is critical) and cook from that state.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question"> What's the difference between white shrimp, pink shrimp, and brown shrimp?</div>
+                <div class="faq-answer">These are different species, not quality grades. White shrimp (Gulf whites) are milder, almost delicate in flavor, and have slightly softer texture. Pink shrimp (Gulf pinks) are sweeter with more pronounced shrimp flavor and firmer texture. Brown shrimp are firmer and have stronger briny flavor. For beginners or those preferring delicate flavor, white or pink shrimp are easier to work with. Pink shrimp is often considered the best balance of flavor and texture.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question"> Why does my shrimp sometimes have a gritty texture?</div>
+                <div class="faq-answer">Gritty texture usually indicates sand or sediment trapped in the shrimp during harvesting or processing. This is more common with wild shrimp than farmed. If you notice grittiness in raw shrimp, rinse thoroughly under cold water, rubbing gently to remove sediment, then pat dry before cooking. Some farmed shrimp from murky farming waters naturally has a slightly gritty texture. Ask your fishmonger about sourcing—better farms have cleaner product.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question"> Is the black vein in shrimp safe to eat?</div>
+                <div class="faq-answer">Yes, completely safe. The black vein is the shrimp's digestive tract and contains the shrimp's consumed material. It's not harmful or toxic. People remove it purely for aesthetic reasons—some find the appearance off-putting or the texture unpleasant. Many restaurants serve undeveined shrimp without issue. It's entirely a matter of personal preference.</div>
+            </div>
+        </section>
+                <section class="story-section" id="ingredients">
+            <h2 class="story-headline">Ingredients</h2>
+            <p>Approximately 1 pound cooked shrimp, 4 servings</p>
             <ul class="ingredients-list">
                 <li>1.5 lbs (680g) large shrimp (16-20 count per pound), peeled and deveined</li>
                 <li>3 tbsp (45ml) extra-virgin olive oil, divided</li>
@@ -347,82 +281,82 @@
             </ul>
         </section>
                 <div class="content-image-container">
-            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_3.webp" alt="Cooked shrimp in pan with garlic and lemon wedges, showing proper opaque appearance without extreme curling" class="content-image">
+            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_3.webp" alt="Cooked shrimp with proper opacity, barely-visible translucence at center, pale golden sear on one side, sliced garlic added to pan" class="content-image">
         </div>
-                <section id="instructions">
-            <h2>Instructions</h2>
+                <section class="story-section" id="instructions">
+            <h2 class="story-headline">Instructions</h2>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 1</div>
-                <div class="instruction-text">Remove the shrimp from the refrigerator 10 minutes before cooking. This allows them to reach room temperature, which ensures more even cooking. Cold shrimp will cool down the pan when added, causing temperature fluctuations. Check that your shrimp are indeed deveined by running your finger along the back curve—you should feel a clean line, not a vein running along the back. If veining is incomplete, use a deveining tool or the tip of a small knife to remove any visible dark veins.</div>
+                <div class="instruction-text">Remove the shrimp from the refrigerator 10-12 minutes before cooking. Cold shrimp coming straight from the refrigerator will dramatically cool down your pan when added, dropping the surface temperature by 50-100°F or more. This temperature drop is the enemy of good browning. As the shrimp sits at room temperature, the interior gradually warms while the exterior reaches thermal equilibrium with the air. You'll notice the shrimp become more flexible and pliable as they warm. If your kitchen is cold, give them the full 12 minutes. If it's warm, 10 minutes is sufficient. Check that your shrimp are indeed deveined by running your finger along the back curve—you should feel a clean line without any dark vein running along the back. If you see any remaining dark matter, use a small pointed knife to trace the vein and lift it out. A small amount of residual vein won't harm the final dish, but removing it creates cleaner appearance and slightly better texture.</div>
                 <div class="instruction-timing">
-                    <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>10 minutes</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp feel cool to the touch but not cold, they're flexible and pliable</span></div>
+                    <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>10-12 minutes</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp feel cool but not cold to touch, flesh is flexible and pliable, no condensation visible on surface</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 2</div>
-                <div class="instruction-text">Pat the shrimp completely dry using paper towels. Press gently but firmly on each shrimp's surface to remove all surface moisture. This step is non-negotiable—shrimp with any residual moisture will not sear properly and will instead steam in the pan. Moisture on the surface creates an insulating layer that prevents the pan from reaching the shrimp's exterior and causes the shrimp to release more of its own liquid, which further prevents browning.</div>
+                <div class="instruction-text">Pat the shrimp completely dry using paper towels. This step determines whether your sear will succeed or fail, yet it's the step most people rush. Press gently but firmly on each shrimp's surface, rotating it to dry all sides, especially the underside which tends to hold moisture. This isn't a light dab—this is actual pressure, using multiple paper towels if needed. You'll feel moisture transfer to the towel. Once you think they're dry, do another pass. I typically use three passes of paper towels for a pound and a half of shrimp. Hold a shrimp up to the light and look at its surface—it should appear completely matte, not shiny. Any glistening indicates residual moisture. If moisture remains when the shrimp hits the hot oil, it will create steam that prevents the shrimp from reaching the pan's surface temperature. This forces you to cook longer to compensate, inevitably overcooking the interior.</div>
                 <div class="instruction-timing">
-                    <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>3-5 minutes</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp surface appears completely dry with no glistening, no moisture transfers to towel when pressed</span></div>
+                    <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>5-7 minutes</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp surface appears completely matte with no shine, no moisture transfers to towel when pressed, shrimp doesn't feel slippery when handled</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 3</div>
-                <div class="instruction-text">Place a large skillet (10-12 inches / 25-30 cm) over medium-high heat and add 2 tablespoons (30ml) of olive oil. Let the oil heat for about 2 minutes. You'll know it's ready when it shimmers—you'll see the surface ripple when you tilt the pan. The oil should not smoke; if it does, your heat is too high and the oil is degrading. Medium-high heat is the correct setting; this provides enough temperature to sear without causing the oil to break down.</div>
+                <div class="instruction-text">Place a large skillet (10-12 inches / 25-30 cm) over medium-high heat and add 2 tablespoons (30ml) of extra-virgin olive oil. The pan should be completely dry—any water remaining from washing will cause the oil to splatter when it heats. Wait about 2 minutes before adding shrimp. You'll see the oil's surface become fluid and start to shimmer. When you tilt the pan, the oil should ripple across the entire surface. The oil should not smoke—if it does, your heat is too high and the oil's chemical structure is breaking down, which degrades flavor and creates off-tastes. Medium-high heat is the correct setting. If your stovetop runs hot, you might need to set it between medium and medium-high. The goal is an audible sizzle that's steady and purposeful, not violent or aggressive.</div>
                 <div class="instruction-timing">
                     <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>2 minutes</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Oil shimmers across the entire pan surface, slight heat shimmer visible above oil, no smoke</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Oil shimmers across entire pan surface, small heat waves visible above oil, no smoke present, oil flows freely when pan is tilted</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 4</div>
-                <div class="instruction-text">Working in two batches if necessary, place shrimp in a single layer in the hot oil, leaving about a quarter-inch (6mm) of space between each shrimp. They should not touch or overlap. This spacing allows air to circulate and heat to reach all surfaces evenly. Avoid the urge to move or flip the shrimp for the first 2 minutes; let them sit undisturbed so the Maillard reaction can develop on the bottom surface. You should hear a steady sizzle—not a violent pop (which indicates too-high heat) and not a soft hiss (which indicates too-low heat or too much moisture remaining).</div>
+                <div class="instruction-text">Working in two batches if necessary, arrange shrimp in the hot oil in a single uncrowded layer. Space them so there's approximately a quarter-inch (6mm) of visible pan surface between each shrimp. They should not touch. This spacing is non-negotiable. The space between shrimp allows air circulation and ensures heat reaches all surfaces evenly. More importantly, each shrimp maintains contact with the hot pan surface, not with other shrimp. In crowded pans, shrimp touch each other and essentially steam where they contact. If your pan typically holds eight shrimp comfortably spaced, cook eight at a time. Resist the urge to fit more—it's far better to cook three batches of eight shrimp than to crowd the pan and end up with steamed, pale shrimp. Do not move or flip the shrimp for the first 2 minutes. Resist the urge to check on them. The browning (Maillard reaction) develops on the bottom surface only through sustained direct contact with the hot pan. Moving the shrimp breaks this contact and restarts the process. You should hear a steady, purposeful sizzle. If it's a soft hiss, the pan isn't hot enough. If it's a violent pop, the heat is slightly too high and the oil may be starting to smoke.</div>
                 <div class="instruction-timing">
                     <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>2 minutes (first side)</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Steady audible sizzle, shrimp bottoms develop a golden-brown tint, edges curl slightly at the very ends</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Steady audible sizzle, shrimp bottoms develop golden-brown tint visible along edges, shrimp edges begin to curl slightly at the very ends, immediate aroma of searing shrimp and garlic becomes apparent</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 5</div>
-                <div class="instruction-text">Flip each shrimp and cook for exactly 1.5 to 2 minutes on the second side. The shrimp should be opaque across almost its entire surface, but the very center may still appear barely translucent—this is the correct endpoint. If you see tight, extreme curling where the shrimp forms an almost-C shape, you've gone too far and the proteins have tightened excessively. The bottom side will brown less than the first side because the pan is now slightly cooler and the shrimp's exterior is already starting to set, but this is normal and actually desirable.</div>
+                <div class="instruction-text">Flip each shrimp and cook for exactly 1.5 to 2 minutes on the second side. This is the moment where precision matters most. Look at the shrimp's color—it should be opaque and white across approximately 90% of its surface. The very center of the thickest part may still show a barely-visible thin line of slight translucence when you look at the shrimp straight-on. This translucence indicates the interior is still at 140-145°F (60-63°C)—exactly where you want it. If you see the shrimp forming a tight C-shape with the edges curled severely, you've exceeded the target temperature. The proteins have contracted so much that the shrimp is now tough. The bottom side will brown less than the first side because the pan has lost some heat and the exterior is already setting, but this is normal and actually desirable. A shrimp with one golden side and one slightly lighter side indicates perfect timing. Uniform browning on both sides typically indicates slight overcooking.</div>
                 <div class="instruction-timing">
                     <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>1.5 to 2 minutes (second side)</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp mostly opaque white, slight translucence only at the very center, sides just beginning to curl, internal temperature reaches 140-145°F (60-63°C)</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp mostly opaque white with opaque center, barely-visible translucence only at the absolute middle when viewed straight-on, sides beginning to curl but not extreme, internal temperature reaches 140-145°F (60-63°C) if measured with an instant-read thermometer</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 6</div>
-                <div class="instruction-text">Add the sliced garlic and red pepper flakes (if using) to the pan and stir constantly for 20-30 seconds. The residual heat in the pan will gently cook the garlic without burning it. If you add garlic earlier in the cooking, it will burn because shrimp release liquid as they cook, and the pan temperature drops significantly. Cooking garlic for a full minute or longer will give it a bitter, burnt flavor. 20-30 seconds is just enough time for the garlic's sulfur compounds to break down and its flavor to mellow slightly.</div>
+                <div class="instruction-text">Add the sliced garlic and red pepper flakes (if using) to the pan and stir constantly for 20-30 seconds. This is the only moment when raw garlic goes into the pan, and the timing is critical. If you add garlic at the beginning of cooking alongside the shrimp, the sustained high heat will burn it, creating bitter, acrid flavors. By adding garlic only now, after the shrimp finishes cooking, you're relying on the pan's residual heat—still very hot, but dropping gradually. The garlic's sulfur compounds break down and become mellow and sweet rather than sharp and pungent. The garlic won't color or brown visibly; it will remain pale gold or white and release a gentle, fragrant aroma. 20-30 seconds is the perfect window. At 15 seconds, the garlic won't be flavorful enough. At 60 seconds, it starts to brown. I often remove the pan from heat immediately after the shrimp finishes and add the garlic, then count to 25 slowly. This gives me a consistent result every time.</div>
                 <div class="instruction-timing">
                     <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>20-30 seconds</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Garlic releases fragrance, appears slightly softened but still white or pale gold (not brown)</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Garlic becomes fragrant and slightly softened, no browning visible, aroma shifts from harsh to mellow and sweet</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 7</div>
-                <div class="instruction-text">Remove the pan from heat immediately. Squeeze the lemon wedges over the shrimp and, if using, add the optional butter. The residual heat will melt the butter into the oil and lemon juice, creating a light sauce. The acid from the lemon brightens the shrimp's natural sweetness and prevents it from tasting one-dimensional. If you prefer a slightly richer dish, the butter adds silkiness without overwhelming the delicate shrimp flavor. Toss everything together gently for 10-15 seconds to combine.</div>
+                <div class="instruction-text">Remove the pan from heat immediately. This is perhaps the most important sentence in these instructions. Remove the pan. From the heat. Now. The residual heat in that pan is still high enough to continue cooking the shrimp through carryover heat—the temperature won't immediately drop just because you've removed it from the flame. The pan remains hot for several minutes. If the shrimp sit in this hot pan for even 30 seconds longer, the proteins continue tightening and squeeze out moisture. Your perfect shrimp becomes noticeably tougher. Squeeze the lemon wedges over the shrimp and garlic. The fresh lemon juice brightens the shrimp's natural brininess and sweetness, preventing the dish from tasting flat or one-dimensional. If using the optional butter, add it now. The residual heat will melt the butter into the oil and lemon juice, creating a light sauce that's silky and luxurious without overwhelming the delicate shrimp flavor. Toss everything together very gently for 10-15 seconds to combine. Gentle is the operative word—rough handling can break apart the just-cooked shrimp.</div>
                 <div class="instruction-timing">
                     <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>1 minute</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Lemon juice is distributed throughout, butter (if using) is melted and incorporated, aroma is bright and fragrant</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Lemon juice distributed throughout pan, butter (if using) melted and incorporated, aroma becomes bright and citrus-forward, shrimp glisten from oil and lemon</span></div>
                 </div>
             </div>
             <div class="instruction-step">
                 <div class="instruction-step-number">Step 8</div>
-                <div class="instruction-text">Transfer the shrimp immediately to a serving plate. If shrimp sits in a hot pan or in its residual liquid, it will continue to cook from carryover heat and become tough. Serve immediately while the shrimp are still at their optimal tenderness. Garnish with fresh parsley if desired. Taste and adjust seasoning with additional salt and pepper if needed, though the combination of lemon and the natural brininess of shrimp usually requires minimal additional salt.</div>
+                <div class="instruction-text">Transfer the shrimp immediately to a serving plate or bowl. Speed matters here. Warm plates are better than room-temperature plates because they slow the cooling process, keeping the shrimp at optimal serving temperature longer. If serving to guests, warm the plates by running hot water over them while cooking, then dry them thoroughly. Arrange the shrimp on the plate immediately. Serving shrimp family-style in a shared bowl works beautifully and feels generous. Garnish with fresh chopped parsley if desired. The green color adds visual interest and the parsley's fresh flavor complements the shrimp and lemon. Taste a piece and assess the seasoning. The combination of lemon and the natural brininess of shrimp usually requires minimal additional salt—I rarely add more than a pinch. If the shrimp tastes flat or one-dimensional despite the lemon, add a light sprinkle of fleur de sel or Maldon salt (which has a different crystal structure and dissolves on the tongue rather than making the shrimp taste salted). The dish tastes best served immediately while the shrimp is still warm and the pan sauce is still fluid. Once it cools, the oil solidifies slightly and the texture becomes less appealing.</div>
                 <div class="instruction-timing">
                     <div class="timing-item"><span class="timing-label">⏱ Time:</span> <span>1 minute</span></div>
-                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp is on serving plate, still warm, garnished and ready to serve</span></div>
+                    <div class="timing-item"><span class="timing-label">✓ Doneness:</span> <span>Shrimp transferred to warm serving plate, still steaming slightly, pan sauce coating the pieces, parsley visible as garnish, shrimp glistens from oil and lemon</span></div>
                 </div>
             </div>
         </section>
                 <div class="content-image-container">
-            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_4.webp" alt="Finished plated shrimp with lemon and fresh parsley garnish, ready to serve" class="content-image">
+            <img src="/recipes/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_4.webp" alt="Finished plated shrimp with lemon wedges, fresh parsley garnish, and pan sauce coating the pieces, ready to serve immediately" class="content-image">
         </div>
-                <section>
-            <h2>Final Thoughts</h2>
+                <section class="story-section">
+            <h2 class="story-headline">Final Thoughts</h2>
             <div class="conclusion">
-                <p>Searing shrimp properly comes down to understanding that this protein is delicate and cooks very quickly. The key principles—ensuring dry shrimp, using a single uncrowded layer, maintaining medium-high heat, and removing shrimp immediately upon reaching 140-145°F—apply whether you're cooking a simple lemon-garlic version or building a more complex sauce. Once you've mastered these fundamentals, you can confidently apply them to any flavor direction you prefer. The technique itself remains constant; only the seasonings change.</p>
+                <p>Searing shrimp properly comes down to understanding that this protein is delicate and cooks very quickly—the entire cooking window from raw to perfect is perhaps 4-5 minutes including resting time. The key principles I've learned through dozens of batches—ensuring completely dry shrimp, using a single uncrowded layer, maintaining medium-high heat, and removing shrimp immediately when it reaches 140-145°F internal temperature—work consistently regardless of flavor direction. Whether you're making simple lemon-garlic shrimp or building toward one of the variations with wine, cream, or Asian flavors, the technique foundation remains identical. Once you've mastered these fundamentals, you can confidently apply them to any seasoning or sauce you prefer. The technique is the skill; only the seasonings change.</p>
             </div>
         </section>
             </div>

@@ -1,119 +1,262 @@
 {
-    "title": "White Chicken Chili That Actually Sets Properly",
-    "promptIMG": "Professional food photography prompt: \"Creamy chicken chili, served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "id": "text_recipe_1761927375_608",
+    "slug": "30-minute-creamy-white-chicken-chili",
+    "title": "Creamy White Chicken Chili: Managing Protein Doneness and Dairy Emulsification",
+    "promptIMG": "Professional food photography prompt: \"Creamy white chicken chili, served in ceramic bowl with visible white beans and corn, steam rising, fresh cilantro garnish, natural window lighting, rustic wooden table, sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, documentary food photography style, appetizing presentation --no blur, depth of field, bokeh --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "A properly balanced white chicken chili that's ready in about thirty-five minutes with enough flavor to feel intentional rather than rushed. The key is cooking each component properly rather than just combining everything at once.",
-    "hashtags": "#chickenchili #easyrecipes #comfortfood #weeknightdinner #onepotrecipe",
+    "description": "A guide to making properly balanced white chicken chili that maintains tender chicken, creamy sauce consistency, and integrated spice flavors in approximately thirty-five minutes. Learn why browning chicken before simmering matters, how to prevent cream from curdling, and why certain ingredient choices create better results.",
+    "hashtags": "#chickenchili #creamychili #easyrecipe #weeknightdinner #onepotmeal",
     "difficulty": "Easy",
     "prep_time": 10,
     "cook_time": 25,
+    "total_time": 35,
     "servings": 4,
+    "yield": "Approximately 5 cups of chili, 4 servings",
     "ingredients": [
-        "1 pound boneless, skinless chicken breast (about 2 large breasts)",
-        "1 can (15 ounces) white beans, drained and rinsed",
-        "1½ cups low-sodium chicken broth",
-        "¾ cup heavy cream or half-and-half",
-        "1 cup corn, fresh or frozen",
-        "1 medium onion, diced",
-        "3 cloves garlic, minced",
-        "1 teaspoon chili powder",
-        "½ teaspoon ground cumin",
-        "½ teaspoon dried oregano",
-        "Salt and freshly ground black pepper to taste",
-        "1 tablespoon oil or butter for sautéing",
-        "Fresh cilantro for garnish (optional but recommended)"
+        "1 pound (450g) boneless, skinless chicken breast (approximately 2 large breasts)",
+        "2 tablespoons (30ml) unsalted butter or neutral oil, divided",
+        "1 medium yellow onion (150g), diced",
+        "3 cloves (15g) garlic, minced",
+        "1 teaspoon (2g) chili powder",
+        "1/2 teaspoon (1g) ground cumin",
+        "1/2 teaspoon (1g) dried oregano",
+        "1.5 cups (360ml) low-sodium chicken broth",
+        "1 can (15 ounces / 425g) white beans (cannellini), drained and rinsed",
+        "1 cup (150g) corn, fresh or frozen",
+        "3/4 cup (180ml) heavy cream, room temperature",
+        "3/4 teaspoon (4.5g) fine sea salt, divided",
+        "1/4 teaspoon (0.5g) black pepper, divided",
+        "Optional garnish: 2 tablespoons (6g) fresh cilantro, chopped"
     ],
+    "why_this_recipe_works": "<p>White chicken chili succeeds through four simultaneous processes: proper browning of chicken that develops flavor without overcooking it, blooming of spices in fat that activates their essential oils, starch release from beans that naturally thickens the sauce, and careful emulsification of cream that prevents separation or curdling.</p><p>Chicken breast is challenging to cook because it's very lean, containing approximately 31 percent protein and minimal fat. When chicken reaches approximately 140°F (60°C) on the surface, the proteins and amino acids begin the Maillard reaction, creating hundreds of new flavor compounds that dissolve into the surrounding liquid. These compounds are essential to savory depth. However, once chicken exceeds 165°F (74°C) internal temperature, the lean muscle fibers contract and squeeze out moisture, making the meat progressively drier. Beyond 170°F (77°C), the meat becomes unpleasantly dense and grainy. This is why browning the chicken to approximately 160°F (71°C) internal temperature—not fully cooked—is critical. The sear develops flavor while the simmering that follows completes cooking gently without over-drying.</p><p>Spice blooming is a technique where dried spices are heated in fat before liquid is added. The heat activates the essential oils in the spices, intensifying their flavor and allowing them to dissolve into the fat. This takes only about thirty seconds. When spices are added directly to liquid without this fat-based activation, they can taste dusty, underdeveloped, and scattered. The spices used in this chili (chili powder, cumin, oregano) all benefit from blooming. After blooming, they meld into the onion and fat, creating a unified flavor base.</p><p>White beans contain starches that are partially cooked during canning. When these beans are simmered in broth for several minutes, the starch releases gradually into the liquid. This starch acts as a natural thickener, creating body and a subtle creaminess without requiring additional thickener. The beans also absorb the spiced broth, becoming flavored throughout rather than tasting generic. The canned beans don't require additional cooking, but simmering them for 5-7 minutes distributes their starches throughout the chili and allows them to absorb the chili spices.</p><p>Heavy cream contains approximately 36 percent fat and 64 percent water. When added to boiling liquid, the thermal shock and high temperature cause the cream proteins to coagulate, breaking the emulsion between fat and water. This separation is irreversible. The cream appears oily or grainy. Prevention requires three elements: keeping the soup temperature below boiling when cream is added, adding cream slowly while stirring (distributing the heat evenly rather than shocking it with a large cold mass), and maintaining gentle heat after cream addition. Room-temperature cream added slowly to liquid that's approximately 160-170°F (71-77°C) emulsifies smoothly, integrating completely.</p>",
     "instructions": [
-        "Season the chicken breasts with salt and pepper on both sides. Heat a tablespoon of oil or butter in a large pot over medium-high heat. Once the pan is hot, add the chicken and cook for about 5-6 minutes per side until the internal temperature reaches 165°F. The chicken won't be fully cooked through yet, and that's intentional—we're just developing flavor and partial cooking before it simmers in the liquid. Remove the chicken to a cutting board.",
-        "In the same pot, reduce heat to medium and add the diced onion to the residual oil and chicken drippings. These browned bits on the bottom of the pot, called fond, contain concentrated flavor and will dissolve into the sauce. Cook the onion until it becomes translucent, which takes about 5 minutes. Stir occasionally to avoid sticking.",
-        "Add the minced garlic to the pot and cook for just one minute until fragrant. Longer than this and the garlic can become bitter, which will taste unpleasant in the final dish. Immediately add the chili powder, cumin, and oregano while stirring. Toasting the spices in the fat for about 30 seconds blooms their flavor and prevents them from tasting raw.",
-        "Once the spices have become fragrant, pour in the chicken broth, stirring well to dissolve any browned bits from the bottom of the pot. This process of deglazing both cleans the pot and intensifies the sauce flavor. Bring this to a gentle simmer.",
-        "Cut the cooked chicken into bite-sized pieces and add it back to the pot along with the white beans and corn. Simmer for about 5-7 minutes, allowing the flavors to meld and the chicken to finish cooking through. The beans don't need cooking since they come pre-cooked in the can, but simmering them with the other ingredients helps them absorb the spice flavors.",
-        "Lower the heat to the lowest setting on your stove. Slowly pour in the heavy cream or half-and-half while stirring constantly. This steady incorporation is important because cream is sensitive to temperature shock and vigorous heating, which can cause it to separate or curdle. Keep stirring for about 2 minutes as you add it and continue stirring for another minute afterward to ensure even distribution.",
-        "Taste the chili and adjust the seasoning. You may need more salt, pepper, or chili powder depending on your preference and the saltiness of your broth. Let the chili simmer gently for just 2-3 minutes more, then serve while hot. Avoid boiling once the cream is added, as high heat can break the cream and make the sauce grainy."
-    ],
-    "image_keywords": [
-        "creamy chicken chili",
-        "white bean chili",
-        "easy dinner",
-        "comfort food",
-        "one-pot recipe"
-    ],
-    "structured_content": [
         {
-            "section_type": "introduction",
-            "headline": "White Chicken Chili That Actually Sets Properly",
-            "content": "<p>I make creamy chicken chili regularly because it bridges the gap between quick weeknight dinner and something that tastes like I've spent hours on it. The process takes about thirty-five minutes from start to finish, which is manageable on a Monday after work. What actually matters is that the result is a properly balanced dish—the cream isn't separated, the chicken isn't rubbery, the spices are integrated rather than scattered—rather than something that tastes rushed.</p>\n\n<p>The first time I made this recipe, I cut every corner I could find. I didn't brown the chicken, I just tossed everything into the pot at once, and I added the cream to an active boil. The resulting dish was technically done in twenty minutes but tasted underseasoned, separated, and disappointed me. Over the next several batches, I adjusted each step, and now I understand why each part matters. This isn't a complicated recipe—there are only seven steps—but those steps exist for specific reasons that affect the final result.</p>\n\n<p>Creamy chicken chili occupies a specific place in the comfort food landscape. It's technically a soup or stew, though calling it chili gives it a casual authority. What distinguishes it from other cream-based chicken dishes is the combination of spices that create that chili flavor identity. This recipe works because it balances multiple competing elements: the creaminess that could otherwise make it feel heavy, the spices that prevent it from being bland, the beans that add substance without overwhelming the dish, and the corn that provides gentle sweetness without tasting sweet. Unlike red chilis that develop flavor through long simmering and the breaking down of tomatoes, this white version needs each component properly prepared because there's no long cook time to develop complexity.</p>"
+            "step": 1,
+            "instruction": "Pat the chicken breasts completely dry using paper towels. Moisture on the surface prevents browning and creates steam that prevents a proper sear. Season both sides generously with salt and pepper (approximately 1/4 teaspoon salt and 1/8 teaspoon pepper per breast). Place a large pot over medium-high heat. Add 1 tablespoon (15ml) of butter or oil. Once the fat shimmers slightly (approximately 30 seconds), it has reached approximately 350-375°F (175-190°C), the temperature needed for browning. Place the chicken breasts carefully into the pot. Do not move them for the first 3 minutes. The undisturbed contact allows a brown crust to develop through the Maillard reaction.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken has developed golden-brown crust on the bottom surface, it does not stick to the pan, meat is seared but not stuck"
         },
         {
-            "section_type": "ingredients",
-            "headline": "Ingredient Selection and Substitutions",
-            "content": "<p><strong>About the chicken:</strong> Chicken breast is standard here because it's mild, cooks quickly, and shreds easily if you prefer a shredded chili over chunks. However, chicken thighs actually make better chili because they're more forgiving—thighs stay moist even if slightly overcooked, while breasts turn grainy and dry very easily. If using thighs, increase the cooking time slightly since they're thicker. Don't use pre-cooked rotisserie chicken for the main protein because you lose the opportunity to develop flavor through browning, though you could use it if you're in an extreme time crunch.</p>\n\n<p><strong>White beans versus alternatives:</strong> Cannellini beans are the traditional choice, but great northern beans work identically. I've tried substituting kidney beans or pinto beans, and they change the dish's character—darker beans make the cream look dingy and their flavors compete with the subtle spicing. Stick with white beans.</p>\n\n<p><strong>Cream considerations:</strong> Heavy cream (36-40% fat) creates the richest sauce, while half-and-half (10-12% fat) produces something lighter but still creamy. Both work. I use half-and-half when I'm making this for a lighter meal. Avoid using milk, which won't provide richness and may curdle more easily. If you want to avoid dairy, coconut cream substitutes one-to-one for heavy cream. Full-fat coconut milk works also, though it's slightly thinner. The coconut flavor is noticeable but harmonizes with the spices. Cashew cream made by blending soaked raw cashews with water also works, though it's more involved.</p>\n\n<p><strong>Corn options:</strong> Frozen corn is genuinely superior to fresh in this application because of how it's preserved at peak ripeness. When corn is frozen commercially, it's picked fully ripe and frozen within hours. If you're buying fresh, look for corn used within a day of purchase. Canned corn tends to be mushy and less flavorful. Frozen corn from your freezer stays consistently good.</p>\n\n<p><strong>Broth choice:</strong> Low-sodium broth lets you control salt levels. Standard broth is often too salty, making it hard to adjust seasoning properly. If you only have regular broth, reduce the amount you use and add water instead. I always reach for low-sodium because I'd rather season a mild base than try to desalt something overly salty.</p>"
+            "step": 2,
+            "instruction": "Flip the chicken and cook the second side for approximately 3-4 minutes until golden brown. The chicken is not fully cooked through yet—that's intentional. An instant-read meat thermometer should read approximately 155-160°F (68-71°C) at the thickest point. The goal is browning and partial cooking for flavor development, not full cooking. The simmering that follows will finish cooking it gently to the proper 165°F (74°C) internal temperature without over-drying it.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Second side is golden brown, internal temperature reads 155-160°F (68-71°C), external crust is deep brown"
         },
         {
-            "upload": {
-                "context": "Searing chicken breast in a pot over medium-high heat to develop browning and flavor",
-                "url": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp"
-            }
+            "step": 3,
+            "instruction": "Transfer the chicken to a cutting board and set aside. The pot will have brown bits stuck to the bottom—called fond—which contains concentrated chicken flavor and will dissolve into the sauce. Do not wash the pot. Reduce heat to medium and add 1 tablespoon (15ml) of butter to the remaining oil. Once the butter foams, add the diced onion and a small pinch of salt (approximately 1/8 teaspoon). The salt draws moisture from the onion, helping it soften faster. Stir occasionally for approximately 5 minutes until the onion becomes translucent and soft.",
+            "timing": "5-6 minutes",
+            "doneness_cue": "Onion is translucent and soft with no bright white pieces remaining, occasional golden color at the edges is visible"
         },
         {
-            "section_type": "instructions",
-            "headline": "Making the Chili: Step-by-Step with Technical Explanations",
-            "content": "<h3>Step 1: Sear the Chicken for Flavor</h3>\n\n<p>Browning the chicken before simmering it isn't about cooking it through—it's about flavor development. When chicken reaches about 140°F on the surface, the proteins and amino acids undergo the Maillard reaction, creating hundreds of new flavor compounds. These dissolve into the sauce as the chicken finishes cooking. If you skip this step, your chili tastes perfectly fine but noticeably less savory. The sear takes five minutes and is worth it. Season both sides generously with salt and pepper, then let the oil heat until it shimmers slightly before adding the chicken. This ensures a proper sear rather than the chicken steaming in its own moisture.</p>\n\n<h3>Step 2: Build the Aromatics Base</h3>\n\n<p>After removing the chicken, you'll notice brown bits stuck to the bottom of the pot. These are concentrated protein and caramelized flavors, not burned food. They dissolve into the sauce when you add liquid. This process is called deglazing, and it's essential to flavorful cooking. The onion cooks in the residual oil and these browned bits, absorbing all those flavors. Cook the onion until it's translucent with just a hint of golden color at the edges. This takes about five minutes over medium heat.</p>\n\n<h3>Step 3: Bloom the Spices</h3>\n\n<p>When you add chili powder, cumin, and oregano directly to the pot with fat and aromatic vegetables, the heat activates the essential oils in the spices, intensifying their flavor. This takes about thirty seconds. If you add spices directly to liquid without this fat-based blooming, they can taste dusty and underdeveloped. Some recipes skip this step and it shows in the final flavor. You'll notice the aroma immediately changes—it becomes more complex and appetizing.</p>\n\n<h3>Step 4: Build the Liquid Base</h3>\n\n<p>The broth must come to a simmer so it can thin out slightly and distribute flavors evenly. The beans and corn don't need cooking—they're already fully cooked from their canned state—but simmering them in the spiced broth for a few minutes allows them to absorb those flavors rather than just sitting in liquid. The simmering step takes five to seven minutes and noticeably improves the final result.</p>\n\n<h3>Step 5: Add the Cream Carefully</h3>\n\n<p>This is the most critical step for success. Cold or room-temperature cream hitting boiling liquid experiences thermal shock. The rapid temperature change causes the cream proteins to coagulate and separate, leaving you with an oily, broken sauce. To prevent this, add cream slowly while stirring on low heat. Stir constantly as you pour and continue stirring for a minute after. The motion ensures even temperature distribution and prevents the cream from suddenly hitting very hot spots in the pan. If your sauce looks slightly separated or grainy even with careful technique, it's fine—it will even out as it cools and sits.</p>\n\n<h3>Step 6: Taste and Season</h3>\n\n<p>Once the cream is incorporated, taste the chili and adjust. Sometimes the broth is saltier than expected. Sometimes you want more chili powder. You're not committing to these additions permanently—taste, adjust, and taste again. It's perfectly normal to add extra seasoning after the fact.</p>\n\n<h3>Step 7: Final Simmer and Serve</h3>\n\n<p>Once the cream is added, the chili should only barely simmer. You're no longer cooking ingredients; you're keeping everything warm and allowing flavors to meld. High heat after cream addition is the primary cause of separation. The final two to three minutes allow the flavors to integrate and the spices to distribute evenly throughout the cream sauce.</p>"
+            "step": 4,
+            "instruction": "Add the minced garlic and cook, stirring constantly, for approximately 30-45 seconds until fragrant. The garlic should soften and release its aroma but never brown or crisp. Overcooked garlic tastes acrid and bitter and will negatively affect the entire chili. You should smell an intense, sweet garlic aroma at this point.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant and slightly softened, no browning visible, mixture smells sweet and aromatic"
         },
         {
-            "upload": {
-                "context": "Pouring heavy cream into the simmering chicken and vegetable mixture while stirring",
-                "url": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_3.webp"
-            }
+            "step": 5,
+            "instruction": "Add the chili powder, cumin, and oregano to the pot while stirring constantly. Continue stirring for approximately 30 seconds. This process, called blooming, activates the essential oils in the spices and prevents them from tasting dusty or underdeveloped. The spice aroma will immediately become more complex and appetizing. The fat from the butter carries the spice flavor throughout the onion and garlic mixture.",
+            "timing": "1 minute",
+            "doneness_cue": "Spices are fully distributed throughout the fat and onion mixture, aroma is noticeably more complex and aromatic"
         },
         {
-            "section_type": "pro_tips",
-            "headline": "Pro Tips from Multiple Batches",
-            "content": "<p><strong>Invest in a meat thermometer:</strong> I learned this the hard way. Chicken breast cooked much beyond 165°F becomes unpleasantly dense and dry. Many home cooks assume all meat must cook to well-done for safety, but chicken is safely cooked at 165°F. A reliable instant-read thermometer removes guesswork entirely. If your first attempt turned out dry, your thermometer might be inaccurate, or you maintained higher heat than intended. This is a five-dollar tool that eliminates the most common complaint about this recipe.</p>\n\n<p><strong>Don't skip browning the chicken:</strong> I tested this by making a batch without browning—just poaching the chicken in broth from the start. The resulting chili was technically done and edible, but it had a pale, underseasoned taste. The browning step takes five minutes and is the difference between good chili and forgettable chili. The Maillard reaction that creates that brown crust develops flavor compounds that dissolve into the sauce, and there's no substitute for that.</p>\n\n<p><strong>White beans are non-negotiable:</strong> White beans specifically work better here than pinto or kidney beans because they're milder and creamier. They don't compete with the cream sauce. If you substituted darker beans, they'd dominate the flavor and look muddy when mixed with the cream. The first time I made this with pinto beans (because that's what I had), the result was noticeably less balanced and less visually appealing.</p>\n\n<p><strong>Low heat after adding cream:</strong> This is the single most important rule for preventing a broken sauce. I made the mistake of maintaining a rolling boil after adding cream once, and the sauce separated into greasy puddles on top and watery liquid below. The cream proteins coagulate and separate when exposed to sustained high heat. A gentle simmer that barely shows a few bubbles rising is the right temperature. If you're worried you're not heating it enough, you're probably heating it perfectly.</p>\n\n<p><strong>Frozen corn is actually superior:</strong> This runs counter to the conventional wisdom that fresh is always better. Frozen corn is picked at peak ripeness, immediately frozen, and stays sweeter longer. Fresh corn from the grocery store is often several days old and has lost sugar content. Frozen corn contributes sweetness that balances the spices without requiring additional sugar. I've tested both extensively and consistently prefer frozen in this application.</p>\n\n<p><strong>Leftovers improve overnight:</strong> I often make this as a four-serving batch knowing the leftovers will be better than the first serving. The starches from the beans release slowly, thickening the sauce further as it sits. The spices have more time to develop. The flavors blend and deepen. This isn't a flaw—it's actually a strength of the recipe. Some comfort food dishes are best the day they're made, but this white chili genuinely improves overnight.</p>"
+            "step": 6,
+            "instruction": "Pour in the chicken broth while stirring well. As you stir, the brown bits from the bottom of the pot (fond) will dissolve into the broth, enriching the liquid with concentrated flavor. This process is called deglazing. Bring the broth to a gentle simmer over medium heat, which takes approximately 3-5 minutes. A simmer means small bubbles break the surface regularly but not aggressively—definitely not a rolling boil.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Broth reaches gentle simmer with small bubbles breaking the surface, fond is dissolved into the liquid"
         },
         {
-            "section_type": "variations",
-            "headline": "Variations and Adaptations",
-            "content": "<p><strong>Adding heat:</strong> If you want more spice, increase the chili powder by half a teaspoon and add a diced jalapeño or a small pinch of cayenne pepper. Start small because heat compounds build as flavors meld. I usually add jalapeño rather than increasing the powder, as it provides heat without changing the flavor profile.</p>\n\n<p><strong>Protein variations:</strong> Ground chicken works in this recipe—brown it thoroughly before adding the onion and it will break into small pieces throughout the chili. Ground turkey produces a similar result. For non-poultry options, ground turkey or lean ground beef both work. If using ground meat, cook it until browned and broken apart, then remove it and add it back at the end with the beans, similar to how you do the seared chicken.</p>\n\n<p><strong>Vegetable additions:</strong> Diced bell peppers can replace some of the onion for a different flavor profile. Add them when you add the onion, as they'll cook in the same amount of time. A handful of fresh spinach stirred in right before serving adds nutrition without changing the flavor significantly. Diced zucchini works similarly if you want to stretch the recipe further.</p>\n\n<p><strong>Dairy-free adaptation:</strong> Coconut cream substitutes one-to-one for heavy cream. Full-fat coconut milk works also, though it's slightly thinner. The coconut flavor is noticeable but harmonizes with the spices nicely. Cashew cream made by blending soaked raw cashews with water also works, though it's more involved to prepare.</p>\n\n<p><strong>Lighter version:</strong> Using half-and-half instead of heavy cream reduces fat content significantly while maintaining creaminess. You could also use Greek yogurt stirred in at the very end off heat, which adds tanginess and creaminess. This creates a noticeably different texture but is delicious and less rich.</p>\n\n<p><strong>Slow cooker method:</strong> You can make this in a slow cooker if you brown the chicken and vegetables in a separate pot first, then transfer everything to the slow cooker. Cook on low for 4-5 hours or high for 2-3 hours. Add the cream in the last 30 minutes on low heat. This extends cooking time significantly, so it's not a time saver, but it frees up your stovetop.</p>"
+            "step": 7,
+            "instruction": "Cut the partially-cooked chicken into bite-sized pieces (approximately 1.5 inches / 4cm). Add the chicken pieces back to the simmering broth along with the drained white beans and corn. Stir well to distribute evenly. The beans are already fully cooked from canning, but simmering them in the spiced broth for 5-7 minutes allows them to absorb those flavors and releases some of their starch, which naturally thickens the chili.",
+            "timing": "1 minute",
+            "doneness_cue": "Chicken, beans, and corn are distributed throughout the broth, everything is combined"
         },
         {
-            "upload": {
-                "context": "Finished creamy white chicken chili in a bowl garnished with fresh cilantro",
-                "url": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_2.webp"
-            }
+            "step": 8,
+            "instruction": "Simmer gently for 5-7 minutes, stirring occasionally. During this time, the chicken finishes cooking through to the proper 165°F (74°C) internal temperature, the beans absorb the spiced broth, and the starches from the beans begin thickening the liquid. Test the thickest piece of chicken with a meat thermometer. If it hasn't reached 165°F (74°C), continue simmering for another 1-2 minutes and test again.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken is fork-tender and reaches 165°F (74°C) internal temperature, broth has slightly thickened from bean starches"
         },
         {
-            "section_type": "common_mistakes",
-            "headline": "Common Issues and How to Prevent Them",
-            "content": "<p><strong>Separated, broken cream sauce:</strong> This happens when cream is added to boiling liquid or when it boils after being added. The heat causes the fat and water in cream to separate, creating an oily, unappetizing appearance. Prevention is straightforward: reduce heat before adding cream, add slowly while stirring, and avoid boiling after addition. If it happens anyway, the chili is still fine to eat, though the texture is grainier. Next time, you'll know what to adjust. This is the most common complaint I hear about cream-based soups, and it's entirely preventable with attention to temperature.</p>\n\n<p><strong>Rubbery, dry chicken:</strong> Chicken breast cooked much beyond 165°F becomes unpleasantly dense and dry. This is the most common way to ruin this dish. A meat thermometer is genuinely essential here, not optional. If your first attempt turned out dry, your thermometer might be inaccurate—test it by placing it in boiling water (it should read 212°F)—or you maintained higher heat than you thought. Chicken breast is forgiving up to 165°F but becomes progressively worse with every degree above that.</p>\n\n<p><strong>Bland, one-dimensional flavor:</strong> This usually comes from underseasoning or not blooming the spices. Some home cooks reduce spice quantities thinking they'll go easier on heat, but chili powder provides flavor in addition to spice. Use the full teaspoon. Taste the finished chili before serving and adjust—it's not cheating to add more seasoning after the fact. Sometimes the broth is saltier than expected or the spices seem muted. This is normal. Taste and adjust accordingly.</p>"
+            "step": 9,
+            "instruction": "Reduce heat to the lowest setting on your stove. Ensure the heavy cream is at approximately room temperature (if it's cold from the refrigerator, let it sit on the counter for 10-15 minutes before use). Pour the cream into the chili slowly in a thin stream while stirring constantly. The steady, continuous stirring is critical because it distributes the cooler cream gradually throughout the warmer chili, preventing thermal shock that would cause the cream to curdle. Continue stirring for approximately 1-2 minutes as you add the cream, then continue stirring for another 1-2 minutes after all cream is added to ensure complete integration.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Cream is fully incorporated and creates uniform color and texture throughout, no visible cream streaks remain"
         },
         {
-            "section_type": "storage",
-            "headline": "Storage, Reheating, and Flavor Development",
-            "content": "<p><strong>Serving fresh:</strong> The chili is best served within a few minutes of finishing. Serve while the cream is still fully integrated and the temperature is hot throughout. The flavors are fresh and the texture is exactly as intended.</p>\n\n<p><strong>Refrigerator storage:</strong> Cover and store in the refrigerator for up to 4 days. As it sits, the starches from the beans release slowly, thickening the sauce further. This is why leftovers always seem creamier and more flavorful than the first serving. The flavors meld as they sit, and the dish becomes noticeably better on day two. I intentionally make extra knowing the next day's meal will be superior.</p>\n\n<p><strong>Freezing:</strong> White cream-based chilis freeze acceptably but not perfectly. The cream can separate slightly during freezing and thawing. If you do freeze it, let it cool completely, place in a freezer-safe container with headspace (cream expands slightly), and freeze for up to 2 months. To thaw, move to the refrigerator overnight and reheat gently on the stovetop at low heat, stirring occasionally. Add a splash of broth if it seems too thick after thawing.</p>\n\n<p><strong>Reheating from refrigerator:</strong> Place the desired amount in a pot over medium-low heat. Stir occasionally. Don't allow it to boil vigorously or the cream can separate again. It usually takes about 5-8 minutes to reach serving temperature. If it thickens as it sits in the refrigerator, add a splash of broth or water to restore the sauce consistency. The starches from the beans thicken the sauce further overnight, which is desirable but sometimes requires thinning.</p>\n\n<p><strong>Flavor progression:</strong> I make this recipe knowing that the leftover meals will be better than the first serving. The spices have more time to develop. The beans thicken the sauce further. The flavors integrate and deepen. This isn't a flaw—it's actually a strength of the recipe. Some comfort food dishes are best the day they're made, but this white chili genuinely improves overnight.</p>"
+            "step": 10,
+            "instruction": "Taste the chili and adjust seasoning. Add the remaining 1/4 teaspoon (1.5g) of salt and adjust black pepper to taste. The exact amount depends on your broth's saltiness and your personal preference. Add salt gradually and taste after each addition. Remember that the chili will thicken very slightly as it cools, so season slightly lighter than you want the final result to taste.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chili tastes properly seasoned and balanced, no harsh edges remain"
         },
         {
-            "section_type": "faq",
-            "headline": "Frequently Asked Questions",
-            "content": "<p><strong>How long does this really take?</strong> The recipe is about thirty-five minutes start to finish if you're prepping ingredients as you go. If you prep everything before you start cooking (mise en place), it takes about twenty-five minutes of actual cooking time. It's genuinely faster than most dinners when you account for the fact that it's a complete meal in one pot with minimal cleanup.</p>\n\n<p><strong>Can I use store-bought rotisserie chicken?</strong> Yes, shred about one and a half cups of rotisserie chicken meat and add it directly after the spices are bloomed. You'll lose some browning-related flavor because rotisserie chicken doesn't brown further in the pot, but the convenience might be worth the trade-off if you're truly pressed for time.</p>\n\n<p><strong>What if I don't like cilantro?</strong> Cilantro is entirely optional. Some people genuinely dislike it due to genetic factors that make it taste soapy. If that's you, skip it entirely or use parsley as a garnish, which adds brightness without the distinctive flavor.</p>\n\n<p><strong>How do I know when the chicken is actually done?</strong> Use an instant-read meat thermometer and pull the chicken when it reaches 165°F in the thickest part. This is the FDA-recommended safe temperature for poultry. A meat thermometer is the most reliable method. Visual cues like color or firmness are unreliable for chicken breast.</p>\n\n<p><strong>What if the cream sauce looks broken or separated?</strong> It won't affect taste meaningfully. Separated cream sauce occurs when cream hits boiling liquid or when the finished chili boils after cream is added. It's purely cosmetic and happens to experienced cooks too. Stir it well before serving and it usually integrates. The flavor is identical even if the appearance is less smooth.</p>\n\n<p><strong>Can I make this ahead for entertaining?</strong> Yes. You can prepare the chili through adding the cream and then let it cool and refrigerate overnight. Reheat gently on the stovetop before serving. Or prepare it two hours before guests arrive and keep it warm on very low heat. Either works perfectly. Many people prefer the next-day flavor anyway.</p>"
+            "step": 11,
+            "instruction": "Let the chili simmer very gently for 2-3 minutes more, stirring occasionally. Do not allow it to boil vigorously once the cream has been added, as boiling can break the emulsion and cause the cream to separate. The gentle heat allows the spices to fully integrate and the flavors to meld. The chili should be steaming and approximately 165-170°F (74-77°C) throughout, but never hotter or boiling.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chili is steaming gently, surface shows only small bubbles (not vigorous boiling), flavors are well-developed and integrated"
         },
         {
-            "section_type": "conclusion",
-            "headline": "Why This Recipe Works as Weeknight Cooking",
-            "content": "<p>This dish succeeds because it balances several competing goals simultaneously. It's fast enough to make on a weeknight without feeling like you're rushing. It tastes good enough to serve to guests or make you genuinely excited about leftovers. It's forgiving enough that small variations don't ruin it. The technique is straightforward once you understand why each step matters. I make it regularly because it sits in the comfortable zone where weeknight cooking lives—faster than elaborate cooking but more intentional than heating something frozen. It consistently produces good results once you understand that properly browning the chicken, blooming the spices, and carefully incorporating the cream are the three non-negotiable steps. Everything else is flexible based on what you have and what you prefer. Let me know in the comments how your version turns out.</p>"
+            "step": 12,
+            "instruction": "Serve immediately in bowls while hot. Garnish with fresh cilantro if desired. The chili is best served within 15 minutes of completion while the cream is fully integrated and the temperature is optimal. If serving later, keep at the lowest heat setting, stirring occasionally to prevent separation.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chili is in serving bowls, steam is rising, garnish is applied"
         }
     ],
-    "category_id": "cat_1761230383_494",
+    "pro_tips": [
+        {
+            "tip": "Invest in an instant-read meat thermometer and use it to verify chicken doneness. Chicken breast cooked much beyond 165°F (74°C) becomes unpleasantly dense and dry. An inexpensive thermometer removes all guesswork.",
+            "reason": "Lean chicken breast becomes progressively worse with every degree above 165°F (74°C). Visual cues and firmness tests are unreliable. A thermometer is the most accurate method and ensures perfect results consistently. Many people assume their first attempt failed when the real culprit is an inaccurate thermometer."
+        },
+        {
+            "tip": "Do not skip the browning step even though it takes five minutes. Brown the chicken properly before simmering. The difference between browned and not-browned chicken is immediately obvious in the finished chili.",
+            "reason": "The Maillard reaction that creates the brown crust develops hundreds of flavor compounds that dissolve into the sauce. These compounds create the savory depth that distinguishes well-made chili from bland, underseasoned versions. Browning is not optional—it's the foundation of flavor."
+        },
+        {
+            "tip": "Use low-sodium broth and taste for seasoning at the very end rather than starting with salted broth. This gives you complete control over final salt content. Salted broths vary wildly between brands in actual sodium content.",
+            "reason": "Standard broth contains 500-900 mg of sodium per cup. During cooking, the broth simmers and concentrates, intensifying the salt. Starting with salted broth often results in over-salted chili. Low-sodium broth lets you season precisely. You can always add salt, but you cannot remove it."
+        },
+        {
+            "tip": "Ensure heavy cream is at room temperature before adding it. Remove from the refrigerator 10-15 minutes before cooking, or warm gently in a small saucepan over low heat. This single step prevents most cream-separation problems.",
+            "reason": "Cold cream added to hot liquid experiences thermal shock. The rapid temperature change causes proteins to coagulate and separate from the fat and water, breaking the emulsion. Room-temperature cream integrates smoothly without separation. This is the most common mistake with cream-based chilis."
+        },
+        {
+            "tip": "White beans are superior to other bean varieties in this chili. They're milder and creamier, they don't compete with the cream sauce, and they maintain a light color that looks appealing mixed with cream. Don't substitute darker beans.",
+            "reason": "Darker beans (kidney, pinto) have stronger flavors that compete with the subtle spicing. They also make the cream look muddy rather than white. White beans specifically chosen for their mild flavor and light color are essential to this recipe's identity."
+        },
+        {
+            "tip": "Frozen corn is actually superior to fresh corn in this recipe because it's picked at peak ripeness and frozen immediately, preserving sweetness. Grocery store fresh corn is often several days old and has lost sugar content.",
+            "reason": "Frozen corn contributes sweetness that balances the spices without requiring added sugar. The sweetness is subtle but noticeable and improves the final balance. This runs counter to conventional wisdom, but testing proves frozen corn consistently produces better results than aged fresh corn."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking chicken on the stovetop to complete doneness before simmering",
+            "why_it_happens": "People think chicken should be fully cooked before going into the broth. However, browning and partial cooking (approximately 160°F / 71°C) followed by gentle simmering produces moister, more flavorful chicken than cooking it completely at high heat on the stovetop.",
+            "fix": "Brown the chicken until the external crust is deep golden and the internal temperature reaches 155-160°F (68-71°C). The simmering step will finish cooking it gently to 165°F (74°C) without over-drying it. The two-stage cooking produces noticeably better texture and moisture."
+        },
+        {
+            "mistake": "Adding cold heavy cream directly to boiling chili",
+            "why_it_happens": "It seems efficient to grab the cream from the refrigerator and add it directly. However, the thermal shock causes the cream proteins to coagulate and separate from the fat and water.",
+            "fix": "Remove cream from the refrigerator 10-15 minutes before using, or warm gently in a small saucepan. Add it slowly to the chili while stirring constantly on low heat. Room-temperature cream added slowly emulsifies smoothly. This single change eliminates the most common complaint about cream-based chilis."
+        },
+        {
+            "mistake": "Boiling the chili after cream has been added",
+            "why_it_happens": "Higher heat seems like it should finish cooking faster. However, boiling breaks the dairy emulsion and causes the cream to separate into oily and watery components.",
+            "fix": "Keep heat at the lowest setting once cream is added. The chili will reach serving temperature perfectly at low heat, and the texture will be noticeably better—smooth and creamy rather than grainy and separated. A gentle simmer with only small bubbles rising is the correct temperature."
+        },
+        {
+            "mistake": "Not blooming the spices in fat before adding liquid",
+            "why_it_happens": "People sometimes skip this step thinking it's unnecessary or an extra step. However, blooming activates the essential oils in the spices.",
+            "fix": "Add the chili powder, cumin, and oregano after the garlic is fragrant. Stir constantly in the fat for about 30 seconds. The spice aroma will immediately become more complex and appealing. This prevents the spices from tasting dusty or underdeveloped in the final chili."
+        },
+        {
+            "mistake": "Substituting darker beans for white beans",
+            "why_it_happens": "People use whatever beans they have on hand. Darker beans seem like they should work identically. However, they change the dish's character significantly.",
+            "fix": "Use white beans (cannellini or great northern) specifically. They're mild, they don't compete with the cream sauce, and they maintain a light color that looks appealing. The first time I made this with pinto beans because that's what I had, the result was noticeably less balanced and less visually appealing."
+        },
+        {
+            "mistake": "Underseasoning or not tasting and adjusting at the end",
+            "why_it_happens": "People sometimes reduce spice quantities thinking they'll go easier on heat, but chili powder provides flavor in addition to spice. Or they don't taste at the end.",
+            "fix": "Use the full teaspoon of chili powder. Taste the finished chili before serving and adjust with additional salt, pepper, or chili powder as needed. It's not cheating to add seasoning after the fact—it's standard cooking practice."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Extra Spicy White Chicken Chili",
+            "description": "Increase chili powder to 1.5 teaspoons (3g) and add 1/2 teaspoon (1g) of cayenne pepper or diced jalapeño for heat. The increased spice volume creates a chili with noticeable heat while remaining balanced. The jalapeño provides a fresher heat than cayenne alone.",
+            "technical_note": "Spice heat compounds build as flavors meld, especially overnight. Add heat ingredients gradually and taste often. If using jalapeño, remove the seeds for milder heat or leave them for more intense spice. Both chili powder and cayenne should still be bloomed in fat."
+        },
+        {
+            "name": "Ground Chicken White Chili",
+            "description": "Replace the chicken breast with 1 pound (450g) of ground chicken. Brown the ground chicken in the pot at medium-high heat for 5-6 minutes, breaking it into small pieces as it cooks. Once browned, remove it and set aside. Proceed with the recipe from step 3 (cooking the onion), then add the cooked ground chicken back with the beans in step 7. Ground chicken cooks faster and integrates throughout the chili rather than remaining in chunks.",
+            "technical_note": "Ground chicken is leaner than ground beef and can dry out. Ensure you brown it thoroughly for flavor development, then remove it before adding vegetables. This prevents it from overcooking during subsequent simmering."
+        },
+        {
+            "name": "Creamy Dill and Lemon White Chicken Chili",
+            "description": "Reduce the chili powder to 1/2 teaspoon (1g) and add 1 teaspoon (2g) of dried dill in step 5 when blooming the spices. Add 1 tablespoon (15ml) of fresh lemon juice in step 10 after tasting and adjusting salt. The dill and lemon create a lighter, more herbaceous chili that's completely different from the traditional version.",
+            "technical_note": "Dill has a strong, particular flavor that's not universally loved. Start with 1/2 teaspoon and add more to taste. The lemon juice must be added after the chili has cooled slightly (off active heat) to prevent curdling. The acidity brightens the cream without making it look separated."
+        },
+        {
+            "name": "Vegetable-Forward White Chili",
+            "description": "Add 1 cup (100g) of diced bell peppers and 1/2 cup (50g) of diced zucchini in step 3 when cooking the onion. These vegetables will cook in approximately the same time as the onion. The additional vegetables make the chili heartier and more substantial without changing the core flavor profile. The bell peppers add sweetness; the zucchini adds texture.",
+            "technical_note": "Zucchini releases water as it cooks, slightly increasing the total liquid. If the final chili seems too thin, increase blending time (if you choose to blend) or simmer an additional 2-3 minutes uncovered to allow water to evaporate."
+        },
+        {
+            "name": "Dairy-Free Creamy Coconut White Chicken Chili",
+            "description": "Replace the heavy cream (3/4 cup / 180ml) with full-fat coconut milk. The coconut milk creates creaminess while keeping the recipe dairy-free. The coconut flavor is noticeable but harmonizes with the spices. The chili will be slightly thinner than the dairy version because coconut milk contains less fat than heavy cream.",
+            "technical_note": "Coconut milk is thinner than heavy cream. Add it using the same slow-pouring, constant-stirring technique to prevent separation. The chili may benefit from simmering an additional 2-3 minutes to allow some reduction. Test consistency and adjust if needed."
+        }
+    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 385",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "520mg",
+        "note": "These values are estimates and will vary based on exact chicken trim, specific broth brand sodium content, and cream type used. Values assume low-sodium broth and standard heavy cream. A meat thermometer reading verifies chicken doneness accurately; meat cooked to 165°F (74°C) will have these approximate protein values."
+    },
+    "storage_and_reheating": {
+        "refrigerator_storage": "Cool the chili to room temperature before covering and refrigerating in an airtight container. Store for up to 4 days. The chili will thicken as it cools due to starch release from the beans. The flavors will intensify and deepen as they meld overnight. Leftovers are often better than the first serving. The fat will solidify on top as it cools, which is normal and protective.",
+        "freezer_storage": "Freeze for up to 3 months in freezer-safe containers or bags, leaving 1 inch (2.5cm) headspace for expansion. The cream-based chili freezes acceptably, though the texture may be slightly grainier upon thawing because the cream can separate slightly during the freeze-thaw cycle. The flavor remains excellent. Thaw overnight in the refrigerator before reheating.",
+        "reheating_method": "Place the desired amount in a pot over medium-low heat. Stir occasionally to ensure even heating. Do not allow it to boil vigorously, which can cause the cream to separate again. Reheating usually takes 5-8 minutes. If the chili has thickened significantly in the refrigerator (due to bean starches), add 2-3 tablespoons (30-45ml) of broth or milk to restore the consistency. Stovetop reheating is superior to microwave reheating because you can monitor the temperature.",
+        "make_ahead_tip": "You can prepare the chili completely through step 9 (before final seasoning adjustment), then cool and refrigerate for up to 2 days. When ready to serve, reheat gently to approximately 160-170°F (71-77°C), then proceed with step 10 (taste and adjust seasoning) and step 11 (final gentle simmer). This approach allows you to make the chili in advance while ensuring the best texture at serving time."
+    },
+    "faq": [
+        {
+            "question": "My chili looks separated or broken with oily puddles instead of smooth sauce. What happened?",
+            "answer": "The cream likely curdled from overheating or thermal shock. This occurs when cold cream hits boiling liquid or when the chili boils after cream is added. The texture is grainier but the chili is still safe to eat and the flavor is unchanged. For next time: remove the pot from heat before adding cream, warm the cream first, add it slowly while stirring constantly, and keep heat at lowest setting once cream is added."
+        },
+        {
+            "question": "My chicken turned out dry and rubbery. Why?",
+            "answer": "Chicken breast was cooked beyond 165°F (74°C) internal temperature. Lean chicken becomes progressively drier with every degree above this temperature. Use an instant-read meat thermometer to verify doneness. Brown the chicken to approximately 155-160°F (68-71°C), then let the simmering finish cooking it gently to 165°F (74°C). If your previous attempt turned out dry, verify your thermometer by testing it in boiling water—it should read 212°F."
+        },
+        {
+            "question": "Can I use store-bought rotisserie chicken to save time?",
+            "answer": "Yes, you can use approximately 2 cups (450g) of shredded rotisserie chicken. Add it after the spices are bloomed and before the broth. You'll lose some browning-related flavor development because rotisserie chicken doesn't brown further in the pot, but the convenience might be worth the trade-off if you're extremely pressed for time."
+        },
+        {
+            "question": "How much of a difference does it make if I don't brown the chicken?",
+            "answer": "The difference is immediately obvious. Unbrowned chicken chili tastes pale, one-dimensional, and underseasoned compared to properly browned chicken chili. The browning takes only five minutes and creates hundreds of flavor compounds through the Maillard reaction that dissolve into the sauce. It's genuinely worth those five minutes. Many home cooks who are disappointed with their first attempt skipped this step."
+        },
+        {
+            "question": "What's the best way to reheat leftovers without separating the cream?",
+            "answer": "Place the chili in a pot over medium-low heat. Stir occasionally and heat gently for 5-8 minutes until reaching serving temperature. Do not use high heat or allow it to boil. If it has thickened significantly, add a splash of broth or milk. Stovetop reheating allows you to monitor temperature and adjust consistency. Microwave reheating can create hot spots that break the emulsion."
+        },
+        {
+            "question": "The chili tastes bland. What can I do?",
+            "answer": "You likely underseasoned it. The most common cause is not blooming the spices in fat (they taste dusty) or starting with overly salted broth (making it hard to add seasoning). Taste and add more salt gradually. Sometimes you need more chili powder for deeper flavor. Taste after each addition and adjust. It's perfectly normal to adjust seasoning after the fact."
+        }
+    ],
+    "conclusion": "This white chicken chili teaches fundamental technique that extends far beyond this single recipe. Understanding why browning matters for flavor development, why careful temperature management prevents cream from breaking, and why blooming spices activates their essential oils are principles that apply to countless other dishes. The technique is straightforward once you understand the science behind each step. Once you've made this successfully, you can confidently adjust the spice levels, vegetable additions, or protein choices while maintaining the essential qualities that make it work. The recipe itself is flexible; the technique is what's truly worth mastering.",
+    "internal_links": [
+        {
+            "anchor": "chicken internal temperatures and carryover cooking guide",
+            "url": "/posts/chicken-temperature-food-safety-guide"
+        },
+        {
+            "anchor": "maillard reaction and browning for flavor development",
+            "url": "/posts/maillard-reaction-browning-cooking"
+        },
+        {
+            "anchor": "cream emulsification and preventing dairy sauce separation",
+            "url": "/posts/cream-sauce-emulsification-guide"
+        },
+        {
+            "anchor": "spice blooming techniques in fat or oil",
+            "url": "/posts/spice-blooming-essential-oils-cooking"
+        }
+    ],
     "generation_metadata": {
         "voice": "Experienced Home Cook",
-        "complexity": "Intermediate",
+        "complexity": "easy",
         "target_words": "1400+",
-        "temperature": 0.7,
-        "generated_at": "2026-01-14 10:22:00",
-        "rewrite_notes": "Complete restructuring into 9-section authentic format with strengthened personal voice, specific technical explanations, and authentic food blog patterns"
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-17"
     },
-    "author_id": "author_001",
     "images": [
         {
             "fileName": "30-minute-creamy-white-chicken-chili_image_1.webp",
@@ -121,7 +264,7 @@
             "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
-            "alt_text": "Chicken breast searing in a pot over medium-high heat to develop deep brown color and concentrated flavor"
+            "alt_text": "Chicken breast searing in butter over medium-high heat showing deep golden-brown crust developing on surface"
         },
         {
             "fileName": "30-minute-creamy-white-chicken-chili_image_2.webp",
@@ -129,7 +272,7 @@
             "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_2.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
-            "alt_text": "Finished creamy white chicken chili in a rustic bowl garnished with fresh cilantro and a spoon"
+            "alt_text": "Spices (chili powder, cumin, oregano) being bloomed in butter and onion showing deeper color and aromatic release"
         },
         {
             "fileName": "30-minute-creamy-white-chicken-chili_image_3.webp",
@@ -137,7 +280,7 @@
             "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
-            "alt_text": "Pouring heavy cream slowly into simmering chicken and white bean mixture while stirring constantly"
+            "alt_text": "Heavy cream being poured slowly into simmering chili while stirring constantly to prevent thermal shock"
         },
         {
             "fileName": "30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
@@ -145,16 +288,17 @@
             "relativePath": "30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_LummyRecipes_image_4.webp",
             "order": 4,
-            "type": "template"
+            "type": "template",
+            "alt_text": "Finished creamy white chicken chili served in rustic ceramic bowl with fresh cilantro garnish and spoon, natural window lighting"
         }
     ],
-    "slug": "30-minute-creamy-white-chicken-chili",
-    "id": "text_recipe_1761927375_608",
     "image": "30-minute-creamy-white-chicken-chili_image_1.webp",
     "image_path": "recipes/30-minute-creamy-white-chicken-chili/images/30-minute-creamy-white-chicken-chili_image_1.webp",
     "image_dir": "30-minute-creamy-white-chicken-chili/images",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
     "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2026-01-04T16:29:43+01:00",
-    "updatedAt": "2026-01-14T10:22:00+01:00"
+    "updatedAt": "2026-01-17T15:10:00+01:00"
 }

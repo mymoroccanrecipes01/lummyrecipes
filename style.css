@@ -888,6 +888,7 @@ nav.nav a img {
     padding: 25px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin: 2% 0%;
 }
 
 .faq-item h3 {
@@ -2590,7 +2591,7 @@ nav.nav a img {
 .recipe-detail {
     max-width: 900px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0px;
     background: white;
 }
 
@@ -2649,6 +2650,7 @@ p strong {
     display: flex;
     align-items: center;
     gap: 12px;
+    margin: 3% 0%;
 }
 
 .author-avatar {
