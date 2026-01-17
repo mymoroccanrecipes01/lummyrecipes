@@ -1,122 +1,264 @@
 {
-    "title": "Southern Pecan Pie Recipe with a Perfectly Set Filling",
+    "title": "Southern Pecan Pie: Achieving the Perfect Custard-Set Filling",
     "promptIMG": "Professional food photography prompt: \"Southern pecan pie, beautifully plated on a rustic wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "A properly balanced Southern pecan pie with a custard-like filling that sets without the gummy center or crystallized edges. This recipe uses the right ratio of corn syrup to eggs and includes techniques I've refined over years of holiday baking.",
-    "hashtags": "#southernpecanpie #holidayrecipe #pecanpiefromscratch #thanksgivinsdessert #classicdessert",
+    "description": "A properly balanced Southern pecan pie with a custard-like filling that sets cleanly without the gummy center or crystallized edges. Learn the correct egg-to-syrup ratio and cooling techniques that create the ideal texture, based on fifteen years of holiday baking.",
+    "hashtags": "#southernpecanpie #holidayrecipe #pecanpiefromscratch #thanksgivingdessert #classicdessert",
     "difficulty": "Medium",
     "prep_time": 15,
     "cook_time": 50,
     "total_time": 65,
     "servings": 8,
-    "yield": "One 9-inch pie",
+    "yield": "One 9-inch pie, 8 slices",
     "ingredients": [
         "1 unbaked 9-inch pie crust (store-bought or homemade)",
         "1 cup light corn syrup",
         "1 cup brown sugar, packed",
         "4 large eggs",
         "2 tablespoons unsalted butter, melted",
-        "1 teaspoon vanilla extract",
+        "1 teaspoon pure vanilla extract",
         "1 cup pecan halves (about 4 ounces)",
         "¼ teaspoon fine sea salt"
     ],
+    "introduction": "I've been making pecan pie since my grandmother handed me her handwritten recipe card about fifteen years ago, though I've made substantial adjustments since then. The original version had a gummy center that never quite set properly and edges that crystallized after a day or two, becoming unpleasantly grainy. Over years of holiday baking—and honestly, quite a few failures—I discovered that the ratio of eggs to syrup makes all the difference between a pie that sets into a proper custard texture and one that stays vaguely wet in the middle. The version I use now produces that ideal result: a slightly yielding surface that's set enough to slice cleanly, with pecans suspended throughout rather than sunken to a wet bottom layer. This is the pie I make when I need reliable results that impress without requiring constant adjustments or crossed fingers while it bakes.",
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Formula Succeeds",
+        "content": "The success of this recipe depends on understanding what each ingredient actually does rather than simply following steps. The corn syrup provides sweetness and creates that characteristic custard-like texture as it bakes. The brown sugar adds depth and acts as a binder for the filling. The eggs are the setting agents—they're what transforms the liquid filling into something with actual structure. I use four large eggs specifically because fewer leaves the filling loose, while more creates a dense, cake-like texture. The butter adds richness without overwhelming the pecans' natural flavor. Many home bakers add extra butter thinking it improves the pie, but excess butter actually makes the filling greasy and prevents proper setting.\n\nThe vanilla extract should be pure rather than imitation because the flavor compounds in pure vanilla contribute complexity rather than just sweetness. Salt is the secret ingredient most people skip or forget. Just a quarter teaspoon cuts through the sweetness and makes everything taste more intentional rather than one-note sugary. You'll notice people commenting that something makes the pie taste better without being able to identify what—that's the salt doing its job quietly in the background.",
+        "ingredient_notes": {
+            "pie_crust": "Use an unbaked crust—either store-bought (thawed completely) or homemade. A quality store-bought crust should list actual butter in the ingredients rather than vegetable shortening, which browns less evenly and imparts an off-flavor. Ensure it's fully thawed before use; a partially frozen crust tears easily during unrolling and patches don't look clean.",
+            "corn_syrup": "Light corn syrup is essential here. Dark corn syrup has molasses added, which changes the flavor profile and darkens the filling to an unappealing brown. Don't substitute honey or agave—they have different water content and affect how the filling sets. If you truly can't find corn syrup, maple syrup works as a substitute (use slightly less since it's thicker), though the flavor becomes noticeably more autumnal.",
+            "brown_sugar": "Packed brown sugar contains built-in moisture, which is why you must actually pack it down when measuring. If you use loose brown sugar or just break up hardened brown sugar without repacking, you'll end up with insufficient liquid in the filling. The extra moisture is intentional. Store brown sugar with a piece of bread to keep it soft, or microwave hardened brown sugar with a damp paper towel for 30 seconds to soften it.",
+            "eggs": "The size genuinely matters. Standard large eggs work best for this recipe. If your eggs are jumbo, use one fewer; if they're medium, use one more. This adjusts for the binding power you need. One large egg provides roughly consistent setting power across a batch.",
+            "butter": "Unsalted butter lets you control salt level precisely since the recipe includes measured salt. Melted butter incorporates evenly into the filling without creating lumps. Use real butter, not margarine or plant-based alternatives, which have different melting points and water content that affect the final texture.",
+            "pecans": "Pecan halves look more attractive and cook more evenly than pieces. Buy from a store with good turnover—old pecans taste rancid and bitter, which ruins the pie regardless of execution. Check package dates if available. Pecans go rancid faster than most nuts because of their oil content.",
+            "salt": "Fine sea salt dissolves faster than kosher salt and distributes evenly through the filling. Table salt works in a pinch but fine sea salt is preferable."
+        }
+    },
     "instructions": [
-        "Preheat your oven to 350°F (175°C) and position the rack to the lower-middle position—this puts the pie closer to the heat source at the bottom, which ensures the crust bakes through instead of staying pale and slightly underdone. I learned this the hard way after making seven pecan pies with soggy bottoms in a row.",
-        "Roll out your pie crust and fit it into the pie dish, then trim the edges to about half an inch overhang. Poke the bottom with a fork in 4-5 places—not frantically, just a few scattered pricks that create tiny steam vents. This prevents the crust from puffing up during baking without creating channels for the filling to seep through.",
-        "In a large bowl, whisk together the corn syrup, brown sugar, eggs, melted butter, vanilla, and salt. Before you start whisking, use your fingers to break apart any clumps in the brown sugar—pressing them against the bowl with the back of your whisk works well. The finished mixture should be smooth with no visible sugar granules, which takes about 1-2 minutes of steady whisking. Lumpy brown sugar creates grainy spots in the baked filling, so don't skip this step.",
-        "Stir in the pecans until they're evenly distributed throughout the filling. Some bakers spread pecans on the bottom of the crust first, but I prefer stirring them in because this prevents the bottom layer from becoming a pecan raft floating in syrup. The pecans should be suspended throughout rather than settled at the very bottom.",
-        "Pour the filling into the crust slowly, distributing the pecans as evenly as you can as you go. Fill it to about half an inch from the rim—pouring too forcefully disturbs the crust and can cause filling to seep underneath. Make sure your oven rack is level before you slide it in; even a slight tilt causes filling to pool on one side.",
-        "Bake for 45-50 minutes. Start checking at 40 minutes by gently shaking the dish—not violently, just a simple side-to-side motion. You're looking for the outer edges to be completely set with no jiggle, while the center about 2 inches across still has a barely perceptible wave. This carryover cooking is crucial. The residual heat will set that center perfectly as it cools, transforming it from liquid to custard.",
-        "Remove from the oven and place on a wire rack. Don't be tempted to bake it longer just because the center still jiggles slightly—that's actually what you want. Let it cool at room temperature for at least 3-4 hours before slicing. This cooling time is non-negotiable. I used to slice into pies after 2 hours, and the filling was still too soft. Three to four hours transforms the texture from liquid to proper custard. If you're in a hurry, refrigerating it for 2 hours works even better than room temperature cooling alone."
+        {
+            "step": 1,
+            "instruction": "Position the oven rack to the lower-middle position and preheat to 350°F (175°C). The lower-middle position puts the pie closer to the heat source at the bottom, ensuring the crust bakes through instead of staying pale and underbaked. This position keeps the pie away from side heating elements that can overbake the edges before the center sets.",
+            "timing": "10-15 minutes for preheating",
+            "doneness_cue": "Oven reaches 350°F, indicated by preheat signal or thermometer"
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the pie crust from packaging and unroll it gently into a 9-inch pie dish. Press it into the dish without stretching. Trim the overhang to about half an inch and crimp the edges decoratively if desired. Using a fork, poke the bottom of the crust in four or five scattered places—not frantically, just a few pricks that create tiny steam vents. This prevents the crust from puffing dramatically during baking without creating channels for filling to seep through.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Crust is evenly fitted with no air pockets, edges are trimmed, bottom has 4-5 small fork pricks visible"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, use your fingers to break apart any clumps in the brown sugar, pressing them against the bowl. This step is crucial because grainy spots in the baked filling come from undissolved brown sugar. Once the sugar is completely broken down, add the corn syrup, eggs, melted butter, vanilla, and salt to the bowl.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Brown sugar is completely free of lumps, all ingredients are in the bowl"
+        },
+        {
+            "step": 4,
+            "instruction": "Whisk the filling mixture steadily for 1-2 minutes until completely smooth. You're looking for a mixture with no visible brown sugar granules and uniform color throughout. You'll actually hear the difference as you whisk—it changes from a slightly grainy sound to a silky, smooth sound. This aeration also contributes slightly to a lighter, less dense final texture.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Mixture is completely smooth with no visible granules, color is uniform throughout, whisking sounds silky rather than grainy"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the pecan halves, distributing them evenly throughout the filling. Stirring them in now, rather than scattering them on the crust bottom, prevents them from forming a single pecan layer at the bottom. Instead, they'll be suspended throughout the filling, creating better texture distribution.",
+            "timing": "1 minute",
+            "doneness_cue": "Pecans are scattered throughout the filling, none are clustered in one area"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the filling into the pie crust slowly and deliberately, distributing the pecans as you pour by occasionally stirring the bowl. Fill to approximately half an inch from the rim—filling to the very top causes it to seep out during baking and over-fill the dish. Before sliding the pie into the oven, make absolutely certain your oven rack is level. Even a slight tilt causes filling to pool on one side and seep underneath the crust.",
+            "timing": "2 minutes",
+            "doneness_cue": "Filling reaches approximately half inch below rim, pecans are distributed throughout, crust is not disturbed, rack is visibly level"
+        },
+        {
+            "step": 7,
+            "instruction": "Carefully place the pie on the preheated oven rack at the lower-middle position. Close the oven door gently to avoid jostling the filling. Set a timer for 40 minutes. The pie will bake undisturbed for this initial period, during which the edges and filling will begin to set.",
+            "timing": "40 minutes",
+            "doneness_cue": "Pie is safely on the rack, oven door is closed, timer is set for 40 minutes"
+        },
+        {
+            "step": 8,
+            "instruction": "When the timer reaches 40 minutes, perform the jiggle test. Open the oven door carefully and gently shake the pie dish with a side-to-side motion—not violently, just a simple gentle shake. You're evaluating the filling's movement. The outer edges should be completely set with zero jiggle. The center area, approximately 2 inches across, should have a barely perceptible wave, similar to Jello that's almost set but not quite finished. This carryover cooking stage is crucial. The residual heat will set that center perfectly as it cools, transforming it from liquid to proper custard.",
+            "timing": "40 minutes total cooking time",
+            "doneness_cue": "Outer edges of filling show no movement when dish is shaken, center 2-inch area has slight wave (not dramatic wobble), crust edges are golden brown"
+        },
+        {
+            "step": 9,
+            "instruction": "If the entire filling jiggles like water, the pie needs more time. If nothing moves at all, you've likely reached the edge of overbaking and edges may develop graininess. If the jiggle test indicates more cooking is needed, bake for an additional 5-10 minutes and retest. The filling's internal temperature should reach approximately 170°F, though most home bakers assess doneness by the jiggle test rather than using a thermometer.",
+            "timing": "5-10 additional minutes if needed",
+            "doneness_cue": "If edges are set and center has slight wave, proceed to step 10; if more cooking is needed, retest after 5 minutes"
+        },
+        {
+            "step": 10,
+            "instruction": "Once the pie passes the jiggle test, remove it from the oven using oven mitts. Place it on a wire cooling rack rather than directly on the countertop. The rack allows air to circulate underneath, promoting even cooling. Do not cover the pie. Leave it undisturbed at room temperature for at least 3 to 4 hours before slicing. This cooling time is non-negotiable. The filling transforms from liquid to proper custard as it cools, and slicing into a warm pie releases steam that prevents this critical transformation. I learned this the hard way after slicing into pies after only 2 hours and finding the filling was still too soft.",
+            "timing": "3-4 hours",
+            "doneness_cue": "Pie cools at room temperature, surface gradually becomes more opaque, pie reaches room temperature after 3+ hours"
+        },
+        {
+            "step": 11,
+            "instruction": "After 3 to 4 hours of cooling, the pie is ready to slice and serve. For the cleanest cuts, use a long, thin knife dipped in hot water and dried between cuts. This prevents the filling from sticking to the blade and dragging through the pie, which tears the structure and makes slices look messy. A damp cloth helps clean the blade quickly between cuts. The filling should now be firm enough to slice while maintaining its tender, custard-like texture.",
+            "timing": "0 minutes (serving time)",
+            "doneness_cue": "Pie is completely cooled to room temperature, filling is firm enough to slice cleanly, slices maintain their shape"
+        }
     ],
-    "structured_content": [
+    "pro_tips": [
         {
-            "type": "introduction",
-            "content": "<p>I've been making pecan pie since my grandmother handed me her handwritten recipe card about fifteen years ago, though I've made significant adjustments since then. The original version had a gummy center that never quite set properly, and the edges crystallized after a day or two, becoming unpleasantly grainy. Over years of holiday baking—and honestly, quite a few failures—I discovered that the ratio of eggs to syrup makes all the difference between a pie that sets into a proper custard and one that stays vaguely wet in the middle. The version I use now produces that ideal texture: a slightly yielding surface that's set enough to slice cleanly, with pecans suspended throughout rather than sunken to a wet bottom layer. This is the pie I make when I want reliable results that impress without requiring constant adjustments or crossed fingers while it bakes.</p>"
+            "tip": "Use beef chuck specifically. Avoid leaner cuts like sirloin or tenderloin.",
+            "reason": "Beef chuck contains high collagen content that becomes gelatin during cooking, creating the stew's characteristic body and silky mouthfeel. Leaner cuts have minimal connective tissue and become tough when braised because there's no collagen breakdown to keep them tender. Chuck's high fat content also contributes to flavor development."
         },
         {
-            "type": "section",
-            "heading": "Why This Pecan Pie Formula Works",
-            "level": "h2",
-            "content": "<p>The success of this recipe comes down to understanding what each ingredient actually does rather than just following steps blindly. The corn syrup provides sweetness and creates that characteristic custard-like texture as it bakes. The brown sugar adds depth and helps bind the filling together. The eggs are the setting agents—they're what transforms the liquid filling into something with actual structure. I use four large eggs because fewer and the filling stays loose, more and it becomes dense and cake-like. The butter adds richness without overwhelming the pecans' natural flavor. Many home bakers make the mistake of adding extra butter thinking it improves the pie, but it actually makes the filling greasy and prevents proper setting.</p><p>The vanilla extract should be pure, not imitation, because the flavor compounds in pure vanilla actually contribute to the filling's complexity rather than just adding sweetness. Salt is the secret ingredient that most people skip or forget. Just a quarter teaspoon cuts through the sweetness and makes everything taste more intentional rather than one-note sugary. You'll notice people commenting that they can't quite identify what makes the pie taste better—that's the salt doing its job.</p>"
+            "tip": "Toast the pecans separately before adding them to the filling for noticeably deeper flavor.",
+            "reason": "Raw pecans don't brown much in the oven and taste mild and slightly raw. Toasting them separately for 8-10 minutes at 325°F brings out their natural oils and sweetness. Lay them on a baking sheet, toast until fragrant but not darkened, then cool slightly before stirring into the filling. This step isn't mandatory but creates a noticeably more sophisticated and complex pie that people remember and request again."
         },
         {
-            "type": "section",
-            "heading": "Understanding Your Ingredients",
-            "level": "h2",
-            "content": "<p><strong>The pie crust:</strong> You can use store-bought frozen crusts, thawed completely, or make your own. I use store-bought when time is tight and homemade when I'm planning ahead. A quality store-bought crust should list actual butter in the ingredients—if it has vegetable shortening instead, it won't brown as evenly and will have a slightly off flavor. Don't use a pre-baked crust for this recipe; you need an unbaked one.</p><p><strong>Corn syrup considerations:</strong> Light corn syrup is essential here. Dark corn syrup has molasses added, which changes the flavor profile and darkens the filling to an unappealing brown. Don't substitute honey or agave syrup—they have different water content and will affect how the filling sets and the final texture. If you truly can't find corn syrup, maple syrup works as a substitute (use slightly less since it's thicker), though the flavor will be noticeably different and more autumnal.</p><p><strong>Brown sugar matters:</strong> Packed brown sugar has moisture built in, which is why you need to actually pack it down when measuring. If you use loose brown sugar or if your brown sugar has hardened and you just break it up, you'll end up with insufficient liquid in your filling. The extra moisture in packed brown sugar is intentional. Store brown sugar with a piece of bread to keep it soft, or microwave hardened brown sugar with a damp paper towel for 30 seconds to soften it.</p><p><strong>Eggs:</strong> The size matters more than you'd think. Standard large eggs work best for this recipe. If your eggs are jumbo, use one fewer egg; if they're medium, use one more. This adjusts for the binding power you need. One large egg adds roughly the same amount of setting power—you want that consistency.</p><p><strong>Butter:</strong> Unsalted butter lets you control the salt level precisely since the recipe already includes measured salt. Melted butter mixes more evenly into the filling than cold butter, and it's easier to incorporate without creating lumps. Use a real butter, not margarine or plant-based butter alternatives, which have different melting points and water content.</p><p><strong>Pecans:</strong> Pecan halves work better than pieces because they look more attractive and cook more evenly. Buy them from a store with decent turnover—old pecans taste rancid and bitter, which will ruin your pie no matter how perfectly you execute everything else. Check the package date if available. Pecans go rancid faster than most nuts because of their oil content.</p><p><strong>Salt:</strong> Fine sea salt dissolves faster than kosher salt and distributes more evenly through the filling. Table salt can work in a pinch, though fine sea salt is preferable.</p>"
+            "tip": "Invest in an oven thermometer if you don't already have one.",
+            "reason": "Most ovens are off by at least 25°F in either direction. If yours runs hot, reduce temperature to 325°F and add 5-10 minutes to baking time. If it runs cool, increase to 375°F. Knowing your oven's actual temperature solves most baking mysteries and prevents underbaking (gummy center) or overbaking (crystallized edges)."
         },
         {
-            "type": "image",
-            "context": "Whisking the corn syrup, brown sugar, and eggs together in a large mixing bowl until smooth and well combined, showing the proper texture of the filling mixture",
-            "url": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
-            "alt_text": "Whisking corn syrup, brown sugar, eggs, and butter together in a large bowl for the pecan pie filling"
+            "tip": "Chill the pie crust for at least 15 minutes after fitting it into the dish if using store-bought, or 30 minutes if homemade.",
+            "reason": "Cold dough has relaxed gluten that won't spring back and shrink up the sides of the dish as dramatically during baking. This prevents that annoying problem where the crust shrinks down the sides, leaving gaps that expose the crust's edge to overbaking."
         },
         {
-            "type": "section",
-            "heading": "Step-by-Step Instructions with Technique Notes",
-            "level": "h2",
-            "content": "<p><strong>Setting up for success:</strong> The oven position matters more than most recipes mention. The lower-middle rack position puts the pie closer to the heat source at the bottom, which ensures the crust bakes through instead of staying pale and slightly underdone. If your oven has heating elements on the sides, the lower-middle position keeps the pie away from those lateral heat sources that can overbake the edges before the center sets.</p><p><strong>Preparing the crust:</strong> When you poke holes in the bottom with a fork, you're creating tiny steam vents that prevent the crust from puffing up dramatically during baking. Don't create a full pattern of holes—just 4-5 scattered pricks are sufficient. If you over-poke, the filling can seep through and create a wet bottom crust. These aren't decorative; they're functional.</p><p><strong>Making the filling:</strong> Whisking the ingredients together properly matters because you're incorporating just a bit of air, which helps create a slightly lighter, less dense texture. Whisk until you don't see any brown sugar granules—the mixture should be smooth and even in color. You'll actually hear a difference when the mixture becomes smooth; the sound changes from grainy to silky. This prevents those annoying grainy spots in the baked filling.</p><p><strong>Adding the pecans:</strong> Stir them into the filling right before pouring because this distributes them more evenly throughout rather than having them all sink to the bottom. As you pour the filling into the crust, try to position pecans as you go so they're scattered rather than clustered.</p><p><strong>Baking temperature and timing:</strong> The 350°F temperature is crucial. If your oven runs hot—and many do—it can cause the surface to set before the interior heats through, creating cracks across the top. If your oven runs cool, the filling takes longer to set and can become overcooked around the edges, developing that grainy texture. I check doneness by gently shaking the pie dish after 40 minutes. The outer ring should be visibly set with no jiggle at all. The center about 2 inches across should still have a slight wave, like Jello that's almost set. This is the hardest part to judge without experience, so check it a few times if you're new to making pecan pie.</p><p><strong>The cooling phase:</strong> This is where most home bakers make critical mistakes. Slicing into a warm pie releases steam that keeps the filling from setting properly. You need at least 3 hours at room temperature for the filling to transform from liquid to custard. The structure develops as the eggs and syrup interact while cooling. If you refrigerate immediately after removing from the oven, it can set faster—usually in 2 hours cold versus 3+ hours at room temperature. Cold pie is actually easier to slice cleanly because the filling is firmer.</p>"
+            "tip": "The jiggle test requires practice and honest assessment.",
+            "reason": "Start checking at 40 minutes by gently shaking the dish. The outer edges should be completely still. The center should have a slight wave, not a dramatic wobble. If the entire top jiggles like water, it needs more time. If nothing moves at all, you've likely overbaked it and edges will be slightly grainy. This is genuinely the trickiest part to master without experience, so don't hesitate to check it a few times."
         },
         {
-            "type": "section",
-            "heading": "Pro Tips from Making This Pie Repeatedly",
-            "level": "h2",
-            "content": "<p><strong>Crust selection and preparation:</strong> If you're using a store-bought crust, don't skip the thawing step. A crust that's still partially frozen tears easily when you unroll it, and those tears are hard to patch neatly. For homemade crust, chill it after fitting into the pie dish. Cold dough resists the filling's moisture better during the initial baking phase, and the gluten is more relaxed so it won't shrink up the sides as dramatically.</p><p><strong>Brown sugar lumps destroy texture:</strong> Before you start whisking, use your fingers to break apart any large clumps. If you skip this, you'll have grainy spots scattered throughout the filling. Press the clumps against the side of the bowl with the back of your whisk until they break down completely. This is tedious but genuinely matters.</p><p><strong>Toast the pecans for deeper flavor:</strong> Toasting the pecans before adding them deepens their flavor significantly. Lay them on a small baking sheet and toast at 325°F for 8-10 minutes until fragrant but not darkened. Let them cool slightly before stirring into the filling. This step isn't essential, but it's the difference between a good pie and one people specifically remember and ask for again.</p><p><strong>Invest in an oven thermometer:</strong> Oven thermometers are one of the best $8 investments a baker can make. Most ovens are off by at least 25°F. If yours runs hot, reduce the temperature to 325°F and add 5-10 minutes to baking time. If it runs cool, increase the temperature to 375°F. Knowing your oven's actual temperature solves so many baking mysteries.</p><p><strong>The jiggle test requires practice:</strong> Start checking at 40 minutes. Shake the dish gently—not violently. The outer edges should be completely still. The center should have a slight wave, not a dramatic wobble. If the entire top jiggles like water, it needs more time. If nothing moves at all, you've likely overbaked it and the edges will be slightly grainy. This is genuinely the trickiest part of the recipe to nail without experience.</p><p><strong>Position the cooling rack properly:</strong> Place the pie on a cooling rack rather than directly on the counter. This allows air to circulate under the pie and helps it cool evenly. If you have a place in your home that stays around 68-70°F with minimal air current, that's ideal. A warmer house means slower setting.</p><p><strong>Slice with precision:</strong> Use a long, thin knife dipped in hot water and dried between cuts. This prevents the filling from sticking to the blade and dragging through the pie, which tears the structure and makes slices look messy. A damp cloth helps you clean the knife between cuts.</p>"
+            "tip": "Use hot water and a dry cloth to clean your knife between slices for presentation.",
+            "reason": "Hot water prevents the filling from sticking to the blade and dragging through the pie, which tears the structure and makes slices look messy. Clean the knife quickly between each cut. This simple technique creates professional-looking slices that maintain their shape."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Slicing into the pie before it has cooled for at least 3 hours, or serving it while still warm.",
+            "why_it_happens": "Warm pie smells amazing and looks baked through, making it seem ready to serve. People get impatient and want to enjoy it sooner rather than waiting.",
+            "fix": "Commit to the full 3-4 hour cooling period at room temperature. The filling continues to set as residual heat dissipates and the eggs continue to coagulate. Slicing warm pie releases steam that prevents this transformation, resulting in a filling that's still soft and won't slice cleanly. If you need to serve sooner, refrigerate it instead, which accelerates setting to about 2 hours cold versus 3+ at room temperature."
         },
         {
-            "type": "image",
-            "context": "A perfectly baked pecan pie with golden brown crust, sliced to show the set custard filling with pecans distributed throughout",
-            "url": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
-            "alt_text": "Sliced pecan pie showing a golden crust and evenly set custard filling with pecans distributed throughout"
+            "mistake": "Under-whisking the brown sugar, leaving lumps in the filling mixture.",
+            "why_it_happens": "Whisking brown sugar until completely smooth takes 1-2 minutes, which feels tedious. People often stop whisking early thinking they've mixed enough, not realizing lumps remain.",
+            "fix": "Break apart brown sugar lumps with your fingers before whisking, then whisk steadily for 1-2 minutes until the mixture is completely smooth with no visible granules. You'll hear the difference—it changes from grainy to silky sounding. Lumpy brown sugar creates grainy spots scattered throughout the baked filling, which ruins the texture."
         },
         {
-            "type": "section",
-            "heading": "Common Mistakes and How to Avoid Them",
-            "level": "h2",
-            "content": "<p><strong>Gummy center that never sets:</strong> This is usually caused by underbaking or insufficient cooling time. The filling needs to reach about 170°F internally to set properly. If you slice into it before 3 hours have passed, it will be too soft. Also check that you're using the correct amount of eggs. Some older recipes call for 3 eggs, which doesn't provide enough setting power. This recipe uses 4, which is the right amount for this ratio of syrup to sugar. If you've waited the full time and it's still very soft, your oven likely runs cool.</p><p><strong>Crystallized edges or grainy texture:</strong> This happens when the pie overbakes, especially around the edges. The filling's sugar crystals separate from the liquid and create that unpleasant grainy mouthfeel. Prevent this by reducing oven temperature if your oven tends to run hot, and by pulling the pie out the moment the center reaches the jiggle stage. If the edges are browning too much before the center is done, cover loosely with foil for the last 10-15 minutes of baking. This blocks direct heat while still allowing the center to cook.</p><p><strong>Crust shrinks up the sides:</strong> This occurs when you use warm pie dough or when you don't chill it adequately before baking. Cold dough has gluten that's relaxed and won't spring back as much during heating. Always chill for at least 15 minutes after fitting into the dish. If you're using a homemade crust, chill it for 30 minutes. Pre-baked or par-baked crusts aren't appropriate here because they'll be overcooked by the time the filling sets.</p><p><strong>Filling seeps under the crust and creates a wet bottom:</strong> This occurs when you use too much filling or pour it in too forcefully, which disturbs the crust. Fill to about half an inch from the rim, and pour slowly. Also ensure your oven rack is level—even a slight tilt can cause filling to pool on one side and seep out underneath. This is annoying to fix mid-bake.</p><p><strong>Pale pecans and weak nut flavor:</strong> Raw pecans don't brown much in the oven and taste mild and slightly raw. Toasting them separately for 8-10 minutes brings out their natural oils and sweetness. This is optional but noticeably improves the final pie. Pre-toasted pecans from the grocery store are also fine if you don't want to toast them yourself.</p>"
+            "mistake": "Gummy center that never sets, even after waiting the full time.",
+            "why_it_happens": "This is usually caused by underbaking or using too few eggs. Some older recipes call for 3 eggs, which doesn't provide enough setting power. This recipe uses 4, which is correct for this ratio of syrup to sugar. Or your oven may run cool, preventing the filling from reaching the temperature needed for proteins to coagulate.",
+            "fix": "Use exactly 4 large eggs for this ingredient ratio. Verify your oven temperature with a thermometer—if it runs cool, increase the temperature to 375°F and add 5-10 minutes. Make sure you're waiting the full 3+ hours for cooling before serving. If it's still very soft after all these corrections, next time bake until the very center shows almost no jiggle, even though it seems overdone at that point."
         },
         {
-            "type": "section",
-            "heading": "Variations and Substitutions",
-            "level": "h2",
-            "content": "<p><strong>Bourbon pecan pie:</strong> Replace ½ teaspoon of the vanilla with 1 tablespoon of bourbon whiskey. Add it to the filling just before pouring. The alcohol cooks off during baking, leaving only the vanilla and oak notes. This is traditional in Kentucky and changes the pie's flavor profile from purely sweet to slightly complex. Use a bourbon you'd actually drink; cheap bourbon creates an unpleasant taste.</p><p><strong>Walnut version:</strong> Use walnut halves instead of pecans in a 1:1 substitution. Walnuts are slightly more bitter and create a different texture than pecans. Toast them as well. This creates a more earthy flavor profile that some people prefer to the sweetness of pecans.</p><p><strong>Chocolate-pecan pie:</strong> Add ½ cup of semi-sweet chocolate chips or chopped chocolate to the filling just before pouring. The chocolate will melt slightly during baking and distribute throughout. This creates a richer, more decadent pie that's genuinely different from the classic version. Use good-quality chocolate; cheap chocolate creates an artificial flavor.</p><p><strong>Maple version:</strong> Replace half the corn syrup with pure maple syrup. You'll need to reduce the total liquid slightly because maple syrup is thicker than corn syrup. Use about ½ cup corn syrup plus ½ cup maple syrup instead of a full cup of corn syrup. This creates a subtly different flavor that works especially well in fall and appeals to people who find regular pecan pie too sweet.</p><p><strong>Brown butter version:</strong> Instead of regular melted butter, brown the butter first by heating it over medium heat until the milk solids turn golden and fragrant, about 5-7 minutes. Use 2 tablespoons of this brown butter in the filling. The nutty flavor it adds is sophisticated and noticeable. Let the brown butter cool slightly before whisking into the filling.</p><p><strong>Gluten-free adaptation:</strong> Use any reputable gluten-free pie crust from the freezer section, following the package directions. The filling is naturally gluten-free, so only the crust needs substitution. Most gluten-free crusts bake and brown similarly to regular crusts.</p><p><strong>Dairy-free adaptation:</strong> This is trickier because butter is integral to the recipe. You can use the same amount of coconut oil, though the flavor will be slightly different and more coconut-forward. Use a dairy-free pie crust as well. The texture and baking time should remain similar.</p>"
+            "mistake": "Crystallized edges or grainy texture in the finished pie.",
+            "why_it_happens": "This occurs when the pie overbakes, especially around the edges. The filling's sugar crystals separate from the liquid and create that unpleasant grainy mouthfeel.",
+            "fix": "Pull the pie out the moment the center reaches the jiggle stage. If the edges are browning too much before the center is done, cover loosely with foil for the last 10-15 minutes of baking. This blocks direct heat while still allowing the center to cook. Also verify your oven temperature with a thermometer—ovens that run hot cause excessive browning. If yours runs consistently hot, reduce temperature to 325°F and add time."
         },
         {
-            "type": "section",
-            "heading": "Storage, Reheating, and Make-Ahead Options",
-            "level": "h2",
-            "content": "<p><strong>Storing at room temperature:</strong> A freshly baked pie keeps well at room temperature for about 2 days, covered with a cake dome or loosely with plastic wrap. Don't seal it too tightly or condensation will collect on top and make the crust soggy. Keep it away from direct sunlight and warm spots in your kitchen.</p><p><strong>Refrigerator storage:</strong> Covered, it lasts up to 5 days in the refrigerator. The filling becomes firmer when cold, which some people actually prefer because it's easier to slice cleanly. The flavor is slightly less pronounced when cold, so let it come to room temperature for 30 minutes before serving if you want the full flavor experience.</p><p><strong>Freezing:</strong> Pecan pie freezes beautifully for up to 3 months. Cool it completely, then wrap tightly in plastic wrap and then in foil to prevent freezer burn. Freeze it whole or sliced—both work fine. Thaw at room temperature for 2-3 hours before serving. The texture remains virtually identical to fresh.</p><p><strong>Reheating chilled pie:</strong> Place a slice on a plate and microwave for 15-20 seconds to warm it back to eating temperature without drying it out. Alternatively, place the whole pie in a 275°F oven for about 15 minutes to warm through gently. Reheating returns the filling to that slightly yielding texture. Don't overheat or the filling can separate.</p><p><strong>Make-ahead strategy:</strong> You can prepare the unbaked pie up to 24 hours in advance. Assemble it completely, cover with plastic wrap, and refrigerate. Bake directly from the refrigerator, adding 5-10 minutes to the baking time since it's starting cold. This is perfect for holiday planning when oven space is tight and you need to coordinate multiple dishes.</p><p><strong>Pre-made filling option:</strong> You can mix the filling ingredients ahead and store in the refrigerator for up to 24 hours. Pour into the unbaked crust just before baking. The pecans might sink to the bottom slightly if they sit in the filling too long, but this doesn't affect flavor or texture meaningfully. Give it a quick stir before pouring if you've stored it overnight.</p>"
+            "mistake": "Crust shrinks up the sides of the dish during baking.",
+            "why_it_happens": "This occurs when you use warm pie dough or don't chill it adequately before baking. Warm dough has tense gluten that springs back and contracts as it heats.",
+            "fix": "Always chill the fitted crust for at least 15 minutes (store-bought) to 30 minutes (homemade) before filling. Cold dough has relaxed gluten and won't spring back as dramatically. If using a homemade crust, chill the dough before fitting into the dish as well."
         },
         {
-            "type": "section",
-            "heading": "Frequently Asked Questions",
-            "level": "h2",
-            "content": "<p><strong>Can I make pecan pie the day before Thanksgiving or the holiday I'm serving it for?</strong> Yes, absolutely. Bake it fully, cool to room temperature, and cover loosely with plastic wrap. It will keep at room temperature for 2 days or in the refrigerator for up to 5 days. Reheat gently in a 275°F oven if you prefer it warm. This is actually my preferred method because it gives you one less thing to manage on the day you're serving.</p><p><strong>How do I know when it's really done baking?</strong> The edges should be set with no jiggle when you gently shake the dish. The center about 2 inches across should have a barely perceptible wave. This takes about 45-50 minutes at 350°F in most ovens. Start checking at 40 minutes to account for oven variations. The internal temperature should be around 170°F, though most home bakers don't bother with a thermometer.</p><p><strong>Why is my pie still soft and loose after I've let it cool for what feels like forever?</strong> If you haven't waited at least 3 hours, the filling simply hasn't set yet. The carryover cooking as it cools is essential and can't be rushed. If it's been 3+ hours and it's still very soft, you likely underbaked it. Next time, bake until the very center shows almost no jiggle, even though it will seem overdone at that point. Trust the jiggle test more than the clock.</p><p><strong>Can I substitute the corn syrup with something else?</strong> Partially. Honey creates a different texture and dark corn syrup changes the flavor unpleasantly. Maple syrup works as a substitute (reduce total syrup to ¾ cup maple syrup plus ¼ cup corn syrup). Honey isn't ideal because of its thickness and distinct flavor. Brown rice syrup is too thin. Corn syrup really is the ingredient that creates the proper custard texture.</p><p><strong>Should I refrigerate it immediately after baking or let it cool at room temperature?</strong> Room temperature cooling produces the best texture and flavor. The filling develops properly as it cools slowly. If you need to serve it sooner, refrigerating it will set the filling faster—usually in 2 hours cold versus 3+ hours at room temperature. Cold pie is actually easier to slice cleanly because the filling is firmer, so both options have advantages depending on your timeline.</p><p><strong>How do I prevent the crust from browning too much before the center is done?</strong> If the edges are browning rapidly before the center is set, cover loosely with foil for the last 15 minutes of baking. Make sure your oven rack is at the lower-middle position and your oven temperature is accurate—check with a thermometer. Ovens that run hot cause excessive browning. If your oven runs consistently hot, reduce the temperature to 325°F and add time to the baking period.</p>"
+            "mistake": "Filling seeps under the crust and creates a wet, soggy bottom.",
+            "why_it_happens": "This occurs when you fill too near the rim or pour too forcefully, which disturbs the crust. Or your oven rack is slightly tilted, causing filling to pool on one side and seep out underneath.",
+            "fix": "Fill to about half an inch from the rim, and pour slowly without jostling. Before putting the pie in the oven, double-check that your oven rack is visibly level. Even a slight tilt causes problems."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Bourbon Pecan Pie",
+            "description": "Replace ½ teaspoon of the vanilla with 1 tablespoon of bourbon whiskey. Add it to the filling just before pouring. The alcohol cooks off during baking, leaving only the vanilla and oak notes that add complexity. This variation is traditional in Kentucky and transforms the pie's flavor profile from purely sweet to subtly sophisticated. Use a bourbon you'd actually drink; cheap bourbon creates an unpleasant taste. This works beautifully when serving to adults after a meal.",
+            "technical_note": "Alcohol evaporates at approximately 173°F, which is below your filling's final temperature, so the alcohol completely cooks off while the flavor compounds remain. The bourbon's vanilla and wood notes complement the pecans and custard beautifully."
         },
         {
-            "type": "section",
-            "heading": "Why This Recipe Works for the Holidays",
-            "level": "h2",
-            "content": "<p>Pecan pie occupies a specific place in holiday traditions. It's expected, it's comforting, and it's somehow both simple and impressive when executed properly. This version has become my standard because it produces consistent results regardless of the day or oven, and because the flavor is balanced rather than aggressively sweet. The pecans stay intact and contribute their natural nuttiness. The crust browns evenly. The filling sets to that perfect custard consistency that's just firm enough to slice cleanly but still tender.</p><p>I've made this pie at sea level and at 6,000 feet, in old ovens and new ones, in kitchens with good air circulation and those without. The recipe adapts without requiring constant adjustments or desperate troubleshooting. That's really what matters when you're making dessert for people you care about—you want something that works reliably so you can focus on enjoying the gathering rather than worrying about whether the pie will turn out. After fifteen years and more pies than I can count, this is the one I reach for when accuracy matters.</p>"
+            "name": "Maple Pecan Pie",
+            "description": "Replace half the corn syrup with pure maple syrup. Use ½ cup corn syrup plus ½ cup pure maple syrup instead of a full cup of corn syrup. You may need to reduce total liquid slightly because maple syrup is thicker than corn syrup. This variation creates a subtly different flavor that works especially well in fall and appeals to people who find traditional pecan pie too aggressively sweet. The maple notes complement the pecans' natural nuttiness.",
+            "technical_note": "Maple syrup's thickness requires slight adjustment. If your filling seems too thick before baking, add ¼ teaspoon of water and whisk well. Monitor the jiggle test carefully since the texture may set slightly faster with maple syrup."
         },
         {
-            "type": "image",
-            "context": "Unbaked pie crust fitted in a 9-inch pie dish, showing proper fitting and trimming",
-            "url": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
-            "alt_text": "Unbaked pie crust fitted in a 9-inch pie dish, ready for filling"
+            "name": "Brown Butter Pecan Pie",
+            "description": "Instead of regular melted butter, brown the butter first by heating it over medium heat until the milk solids turn golden and fragrant, about 5-7 minutes. Listen for a nutty aroma and watch until the solids at the bottom turn light brown. Let the brown butter cool slightly before whisking into the filling. Use the same 2 tablespoons quantity. The nutty flavor it adds is sophisticated and noticeably deepens the pie's overall complexity.",
+            "technical_note": "Brown butter adds a depth of flavor that elevates the pie without changing the texture or baking time. The only difference is the enhanced flavor profile. Be careful not to burn the butter—stop when the solids are golden, not dark brown."
+        },
+        {
+            "name": "Chocolate-Pecan Pie",
+            "description": "Add ½ cup of semi-sweet chocolate chips or roughly chopped good-quality chocolate to the filling just before pouring. The chocolate will melt slightly during baking and distribute throughout, creating a richer, more decadent pie that's genuinely different from the classic version. Use good-quality chocolate; cheap chocolate creates an artificial flavor that overwhelms the delicate balance. This variation appeals to people who want more chocolate flavor integrated into the pie.",
+            "technical_note": "The chocolate adds richness but may slightly increase the final denseness. Monitor the jiggle test carefully. The texture should remain custard-like, not cake-like. If the chocolate is finely chopped, it will melt better and distribute more evenly."
+        },
+        {
+            "name": "Walnut Pecan Pie Variation",
+            "description": "Use walnut halves instead of pecans in a 1:1 substitution. Walnuts are slightly more bitter and create a different texture profile than pecans. Toast them as well for maximum flavor development. This creates a more earthy flavor profile that some people prefer to the sweetness of traditional pecan pie. The earthiness complements the custard filling nicely.",
+            "technical_note": "Walnuts are slightly denser than pecans and cook at the same rate. Toast them at 325°F for 8-10 minutes until fragrant but not darkened. The flavor is noticeably more complex and less sugary than traditional versions."
+        },
+        {
+            "name": "Gluten-Free Adaptation",
+            "description": "Use any reputable gluten-free pie crust from the freezer section, following the package directions carefully. The filling is naturally gluten-free, so only the crust needs substitution. Most quality gluten-free crusts bake and brown similarly to regular crusts with minimal adjustment. The texture and baking time remain the same as the traditional recipe.",
+            "technical_note": "Check that your gluten-free crust brand doesn't have significantly different binding ingredients. Some specialty crusts brown faster or slower depending on their composition. Monitor the crust's browning and adjust oven position if needed."
+        }
+    ],
+    "nutrition": {
+        "servings": 8,
+        "calories_per_serving": "approximately 485",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "62g",
+        "fat_grams": "24g",
+        "fiber_grams": "2g",
+        "sodium_mg": "280mg",
+        "note": "These values are estimates based on standard ingredients and will vary depending on exact brand selections, pecan size, and crust composition. Values are calculated for one slice (1/8 of pie). Nutritional information is approximate and provided for informational purposes only."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "A freshly baked, fully cooled pie keeps well at room temperature for about 2 days, covered with a cake dome or loosely with plastic wrap. Don't seal it too tightly or condensation will collect on top and make the crust soggy. Keep it away from direct sunlight and warm spots in your kitchen. The flavor remains most vibrant at room temperature.",
+        "refrigerator": "Covered, the pie lasts up to 5 days in the refrigerator. The filling becomes noticeably firmer when cold, which some people actually prefer because it's easier to slice cleanly. The flavor is slightly less pronounced when served cold, so let it come to room temperature for 30 minutes before serving if you want the full flavor experience.",
+        "freezer": "Pecan pie freezes beautifully for up to 3 months. Cool it completely, then wrap tightly in plastic wrap and then in foil to prevent freezer burn. Freeze it whole or sliced—both work equally well. Thaw at room temperature for 2-3 hours before serving. The texture remains virtually identical to fresh pie.",
+        "reheating": "Place a slice on a plate and microwave for 15-20 seconds to warm it to eating temperature without drying it out. Alternatively, place the whole pie in a 275°F oven for about 15 minutes to warm through gently. Reheating returns the filling to that slightly yielding texture. Avoid overheating, which can cause the filling to separate.",
+        "make_ahead_strategy": "You can prepare the unbaked pie up to 24 hours in advance. Assemble it completely, cover with plastic wrap, and refrigerate. Bake directly from the refrigerator, adding 5-10 minutes to the baking time since it's starting cold. This is perfect for holiday planning when oven space is tight and you need to coordinate multiple dishes. The cool filling may take slightly longer to reach the jiggle stage.",
+        "premixed_filling": "You can mix the filling ingredients ahead and store in the refrigerator for up to 24 hours. Pour into the unbaked crust just before baking. The pecans might sink to the bottom slightly if they sit in the filling too long, but this doesn't meaningfully affect flavor or texture. Give the filling a quick stir before pouring if you've stored it overnight."
+    },
+    "faq": [
+        {
+            "question": "Can I make pecan pie the day before serving it, such as for Thanksgiving?",
+            "answer": "Yes, absolutely. Bake it fully, cool to room temperature, and cover loosely with plastic wrap. It will keep at room temperature for 2 days or in the refrigerator for up to 5 days. Reheat gently in a 275°F oven for about 15 minutes if you prefer it warm. This is actually my preferred method because it gives you one less thing to manage on the day you're serving a meal."
+        },
+        {
+            "question": "How do I know when the pie is really done baking?",
+            "answer": "The edges should be set with no jiggle when you gently shake the dish. The center about 2 inches across should have a barely perceptible wave. This takes about 45-50 minutes at 350°F in most ovens. Start checking at 40 minutes to account for oven variations. The internal temperature should reach around 170°F, though most home bakers rely on the jiggle test rather than using a thermometer."
+        },
+        {
+            "question": "Why is my pie still soft and loose after cooling for hours?",
+            "answer": "If you haven't waited at least 3 hours, the filling simply hasn't set yet. The carryover cooking as it cools is essential and cannot be rushed. If it's been 3+ hours at room temperature and still very soft, you likely underbaked it. Next time, bake until the very center shows almost no jiggle, even though it will seem overdone at that point. Your oven may also run cool—verify with a thermometer."
+        },
+        {
+            "question": "Can I substitute corn syrup with something else?",
+            "answer": "Partially. Dark corn syrup changes the flavor unpleasantly. Maple syrup works as a substitute (reduce total syrup to ¾ cup maple syrup plus ¼ cup corn syrup for better consistency). Honey isn't ideal because of its distinct flavor and different thickness. Brown rice syrup is too thin. Corn syrup really is the ingredient that creates the proper custard texture and the specific flavor profile."
+        },
+        {
+            "question": "Should I refrigerate immediately after baking or let it cool at room temperature?",
+            "answer": "Room temperature cooling produces the best texture and flavor. The filling develops properly as it cools slowly over 3+ hours. If you need to serve sooner, refrigerating it will set the filling faster—usually in 2 hours cold versus 3+ hours at room temperature. Cold pie is actually easier to slice cleanly because the filling is firmer, so both options have advantages depending on your timeline."
+        },
+        {
+            "question": "How do I prevent the crust from browning too much before the center sets?",
+            "answer": "If the edges are browning rapidly before the center reaches the jiggle stage, cover loosely with foil for the last 15 minutes of baking. Ensure your oven rack is at the lower-middle position and verify your oven temperature with a thermometer—ovens that run hot cause excessive browning. If your oven runs consistently hot, reduce the temperature to 325°F and add 5-10 minutes to the baking time."
+        }
+    ],
+    "conclusion": "Pecan pie occupies a specific place in holiday traditions. It's expected, it's comforting, and it's somehow both simple and impressive when executed properly. This version has become my standard because it produces consistent results regardless of the day or oven, and because the flavor is balanced rather than aggressively sweet. The pecans stay intact and contribute their natural nuttiness. The crust browns evenly. The filling sets to that perfect custard consistency that's just firm enough to slice cleanly but still tender. I've made this pie at sea level and at 6,000 feet, in old ovens and new ones, in kitchens with good air circulation and those without. The recipe adapts without requiring constant adjustments or desperate troubleshooting. That's really what matters when you're making dessert for people you care about—you want something that works reliably so you can focus on enjoying the gathering rather than worrying about whether the pie will turn out.",
+    "internal_links": [
+        {
+            "text": "Southern comfort food desserts",
+            "anchor": "southern_desserts_collection"
+        },
+        {
+            "text": "Holiday pie recipes",
+            "anchor": "holiday_pies"
+        },
+        {
+            "text": "Baking temperature and doneness guide",
+            "anchor": "baking_basics"
         }
     ],
     "category_id": "cat_1761230294_638",
     "generation_metadata": {
         "voice": "Experienced Home Cook",
-        "complexity": "Intermediate",
-        "target_words": "1450+",
-        "temperature": 0.7,
-        "generated_at": "2026-01-14 10:15:00",
-        "authenticity_score": "9.2/10",
-        "e_e_a_t_compliance": "Full",
-        "ai_detection_resistance": "High"
+        "complexity": "Medium",
+        "target_words": "1400+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-17"
     },
     "author_id": "author_001",
     "author_name": "Lummy Hayes",
@@ -127,7 +269,7 @@
             "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
-            "alt_text": "Whisking corn syrup, brown sugar, eggs, and butter together in a large bowl for the pecan pie filling"
+            "alt_text": "Whisking corn syrup, brown sugar, eggs, and melted butter together in a large bowl until mixture is smooth and uniform in color"
         },
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
@@ -135,7 +277,7 @@
             "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
-            "alt_text": "Sliced pecan pie showing a golden crust and evenly set custard filling with pecans distributed throughout"
+            "alt_text": "Sliced pecan pie showing golden crust, evenly set custard filling with pecans suspended throughout, clean slice edges"
         },
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
@@ -143,7 +285,7 @@
             "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
-            "alt_text": "Unbaked pie crust fitted in a 9-inch pie dish, ready for filling"
+            "alt_text": "Unbaked pie crust fitted in 9-inch pie dish, showing even fit against sides and bottom without air pockets"
         },
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_LummyRecipes_image_4.webp",
@@ -151,7 +293,8 @@
             "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_LummyRecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_LummyRecipes_image_4.webp",
             "order": 4,
-            "type": "template"
+            "type": "template",
+            "alt_text": "Whole baked pecan pie with golden crust in ceramic pie dish, ready to cool and set"
         }
     ],
     "seo": {
@@ -162,21 +305,22 @@
             "how to make pecan pie",
             "best pecan pie recipe",
             "easy pecan pie",
-            "traditional pecan pie"
+            "traditional pecan pie",
+            "custard pecan pie"
         ],
         "internal_links": [
             {
-                "text": "best pie recipes",
-                "anchor": "pie_recipes_collection"
+                "text": "Southern comfort food desserts",
+                "anchor": "southern_desserts"
             },
             {
-                "text": "holiday dessert ideas",
-                "anchor": "holiday_desserts"
+                "text": "Holiday pie recipes",
+                "anchor": "holiday_pies"
             }
         ],
-        "focus_keyword_density": "1.2%",
+        "focus_keyword_density": "1.3%",
         "reading_level": "8th grade",
-        "word_count_total": 1847
+        "word_count_total": "approximately 1,550"
     },
     "slug": "best-classic-southern-pecan-pie-for-holiday-gatherings",
     "id": "recipe_1765300025_593",
@@ -187,5 +331,5 @@
     "has_rich_structure": true,
     "schema_type": "Recipe",
     "createdAt": "2026-01-04T16:30:33+01:00",
-    "updatedAt": "2026-01-14T10:15:00+01:00"
+    "updatedAt": "2026-01-17T14:45:00+01:00"
 }

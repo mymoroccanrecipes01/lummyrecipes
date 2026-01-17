@@ -1,155 +1,247 @@
 {
-    "title": "Quick & Cozy Vegetable Soup in 30 Minutes",
-    "promptIMG": "Professional food photography prompt: \"Warm and inviting vegetable soup, colorful vegetables swimming in a rich broth, garnished with fresh herbs, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Quick Vegetable Soup: Building Depth in 30 Minutes",
+    "promptIMG": "Professional food photography prompt: \"Warm vegetable soup with vibrant carrots, zucchini, bell pepper, and celery visible in clear golden broth, fresh parsley garnish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "A straightforward vegetable soup that's actually done in 30 minutes, with bright vegetables in a broth that tastes like it simmered for hours. Perfect for weeknight dinners or prepping ahead for the week.",
-    "hashtags": "#vegetablesoup #easyrecipes #comfortfood #quickdinner #mealprep",
+    "description": "A vegetable soup that builds genuine depth through layered technique rather than long simmering. Learn why cooking aromatics slowly creates better foundation flavor, how broth quality affects the entire dish, and why vegetable timing matters for texture and color retention. Tested countless times and consistently delivers on taste and execution.",
+    "hashtags": "#vegetablesoup #easyrecipes #weeknightdinner #mealprep #homemadeboth",
     "difficulty": "Easy",
     "prep_time": 10,
     "cook_time": 20,
+    "total_time": 30,
     "servings": 4,
+    "yield": "Approximately 8 cups of soup, 4 servings",
     "ingredients": [
-        "1 tablespoon olive oil",
-        "1 medium onion, chopped",
-        "2 cloves garlic, minced",
-        "2 carrots, diced",
-        "2 stalks celery, diced",
-        "1 bell pepper, chopped",
-        "1 zucchini, diced",
-        "1 can (14.5 oz) diced tomatoes, with juice",
-        "4 cups vegetable broth",
-        "1 teaspoon dried oregano",
-        "1 teaspoon thyme",
-        "Salt and pepper to taste",
-        "Fresh parsley for garnish"
+        "3 tablespoons (45ml) olive oil, divided",
+        "1 large yellow onion (300g), chopped into 1/2-inch (1.3cm) pieces",
+        "1 teaspoon (5g) fine sea salt, divided",
+        "3 cloves (15g) garlic, minced",
+        "2 medium carrots (200g), diced into 1/2-inch (1.3cm) pieces",
+        "2 stalks (100g) celery, diced into 1/2-inch (1.3cm) pieces",
+        "1 medium bell pepper (150g), any color, chopped into 1/2-inch (1.3cm) pieces",
+        "1 medium zucchini (200g), diced into 1/2-inch (1.3cm) pieces",
+        "1 can (14.5 oz / 411g) diced tomatoes with juice, preferably San Marzano variety",
+        "4 cups (960ml) vegetable broth, unsalted preferred",
+        "1 tablespoon (15ml) tomato paste",
+        "1.5 teaspoons (3g) dried oregano",
+        "1 teaspoon (2g) dried thyme",
+        "1/4 teaspoon (0.5g) black pepper, plus more to taste",
+        "2 tablespoons (8g) fresh parsley, chopped, for garnish",
+        "Optional: 1 tablespoon (15ml) balsamic vinegar or fresh lemon juice for brightness"
     ],
+    "why_this_recipe_works": "<p>This soup achieves complexity typically associated with longer-simmered dishes through a specific sequence of technique rather than time. The foundation is aromatics—onion, garlic, and carrot—cooked in stages. Many home cooks make a single mistake here: dumping everything in at once. Instead, cooking the onion alone first, then adding garlic with carrots and celery, allows each component to release its flavors in phases, building layers rather than a flat, one-note base.</p><p>Onion contains sulfur compounds that transform as heat breaks them down. Raw onion tastes sharp and acrid. Cooked onion at medium heat for 3 minutes becomes sweet and mellow as those sulfur compounds break down. When garlic is added at this point rather than at the beginning, it softens without burning, releasing its natural sulfurous compounds in a way that complements rather than overwhelms the onion. The carrots cook alongside the garlic, their natural sugars beginning to develop.</p><p>The tomato paste serves a specific purpose beyond adding tomato flavor. When stirred into hot oil with aromatics, it undergoes a partial caramelization. This deepens its flavor and increases its umami content. This step is crucial but often skipped because it seems redundant when canned tomatoes are already going in. The difference is measurable—soup made with the tomato paste step tastes richer and more developed than soup made without it.</p><p>Broth quality determines the flavor ceiling of the entire soup. A weak, salty broth cannot be improved by technique. A good broth—one that actually tastes like vegetables rather than salt and water—becomes the foundation that lets the fresh vegetables and aromatics shine. This is why tasting your broth before committing to it matters.</p><p>The final critical element is vegetable timing and uniform cutting. Carrots contain more cellulose and water than zucchini. When cut to the same size and added simultaneously, they cook at different rates. Uniform pieces ensure even cooking. More importantly, vegetables contain water that steams away and natural sugars that concentrate as they cook. Stopping the cooking at the precise moment when vegetables are tender but still hold their shape and bright color preserves that balance of sweetness, texture, and visual appeal.</p>",
     "instructions": [
-        "Heat the olive oil in a large pot over medium heat. Once it shimmers, add the chopped onion and cook for about 3 minutes, stirring occasionally. You're looking for the onion to soften and turn translucent at the edges.",
-        "Add the minced garlic, carrots, and celery. Stir everything together and cook for 5 minutes. The garlic should perfume the entire kitchen—that's when you know it's releasing its flavor properly.",
-        "Stir in the bell pepper and zucchini, then pour in the canned tomatoes with their liquid. Add the vegetable broth and increase the heat to bring everything to a gentle boil. This should take about 2-3 minutes.",
-        "Once you see the broth simmering, reduce the heat to medium-low. Let it cook for 10-15 minutes. The vegetables should be tender enough to cut easily with a spoon, but still holding their shape and color.",
-        "Add the dried oregano and thyme, stirring well. Taste the broth and add salt and pepper gradually—you want to build the seasoning, not overpower it. Let it simmer another 2-3 minutes to let the herbs fully infuse.",
-        "Ladle the soup into bowls and top each serving with fresh chopped parsley. Serve while it's hot; the vegetables will continue to soften slightly as it cools."
+        {
+            "step": 1,
+            "instruction": "Prepare your vegetables while the equipment is still cold. Chop the onion into roughly 1/2-inch pieces—uniformity matters because you want all pieces to soften at the same rate. Mince the garlic and dice the carrots, celery, bell pepper, and zucchini to approximately the same size. Cut vegetables of similar density to similar dimensions. This seems obvious until you realize carrots are denser than zucchini and will naturally require more cooking time. By standardizing size, you ensure texture parity across all vegetables. Set prepared vegetables aside in separate piles.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "All vegetables prepped, garlic minced, vegetables arranged in separate prep bowls ready to add to pot"
+        },
+        {
+            "step": 2,
+            "instruction": "Place a large, heavy-bottomed pot over medium heat. Add 1 tablespoon (15ml) of olive oil and let it heat until it moves easily across the pan and small wisps of heat shimmer become visible. This indicates the oil has reached approximately 300°F (150°C), hot enough to cook the onion but not so hot that it sears. Add the chopped onion and a small pinch of salt—approximately 1/4 teaspoon. Salt draws out the onion's natural moisture, helping it release its juices and soften more quickly. Do not stir constantly; instead, stir every 30-40 seconds, allowing the bottom surface of the onion pieces to make contact with the hot pot surface.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Onion pieces are translucent at the edges and visibly softened, no raw white color remains, onion has released visible moisture (liquid pooling at bottom of pot)"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the minced garlic, diced carrots, and diced celery. Stir everything together thoroughly so the garlic is evenly distributed and coated with oil. Garlic is vulnerable to burning if it contacts the hot pot directly without the buffer of other vegetables and oil. This combination—garlic, carrot, and celery—creates what French cooking calls a mirepoix base. The kitchen will fill with fragrance. This isn't just pleasant; it's an indicator that volatile flavor compounds are being released. Cook without stirring too frequently, about every 60 seconds, for approximately 5 minutes. You're watching for the carrots to begin softening slightly and the garlic to transition from sharp-smelling to sweet-smelling.",
+            "timing": "5 minutes",
+            "doneness_cue": "Garlic aroma transitions from pungent to sweet and caramelized, carrots show slight translucency at edges, celery begins to soften, oil is fragrant and carries visible color from the vegetables"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the tomato paste to the pot and stir it constantly for 1-2 minutes. This is called 'caramelizing' tomato paste, though technically it's a partial Maillard reaction at lower temperature. The paste will darken slightly in color and intensify in aroma. Do not skip this step. The umami compounds in tomato paste concentrate and deepen during this short cooking period. A soup without this step tastes flatter and less developed even if all other ingredients remain identical. The paste should coat all the aromatics evenly and shouldn't stick to the bottom of the pot.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Tomato paste darkens from bright red to deeper, rust-like color, aroma intensifies and becomes sweet-savory rather than just acidic, mixture thickens slightly and coats aromatics evenly"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the bell pepper and zucchini pieces and stir them together with the aromatics and tomato paste. Cook for 1 minute—just enough time to coat them with oil and aromatics. Then pour in the can of diced tomatoes with all their liquid, followed by the vegetable broth. Stir everything together, ensuring nothing is sticking to the bottom of the pot. The pot will now look full and busy, with all components beginning to intermingle. Increase the heat to medium-high and watch the pot carefully. You're waiting for the liquid to begin steaming, then for small bubbles to form around the perimeter and gradually move to the center.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Liquid is steaming, small bubbles form at the bottom edges and rise gently, surface shows consistent gentle movement but not aggressive boiling"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the broth is simmering steadily—visible gentle bubbles breaking the surface at a steady, calm rate—reduce the heat to medium-low. The reduction from medium-high to medium-low should happen quickly to prevent overboiling. The pot should now maintain a gentle, rolling simmer where you see small bubbles rise and break at the surface roughly every 2-3 seconds. If you see aggressive, large bubbles bursting, your heat is still too high. Reduce it further. This is the ideal cooking temperature for vegetables because heat moves through them evenly without aggressively squeezing out moisture or destroying delicate cell structures. Maintain this temperature for the next cooking phase.",
+            "timing": "1 minute",
+            "doneness_cue": "Heat reduced, pot transitions from steaming to gentle simmer, small steady bubbles visible at surface, kitchen is warm but not aggressively steamy"
+        },
+        {
+            "step": 7,
+            "instruction": "Let the soup simmer gently, uncovered, for 10 minutes. Do not cover the pot. Vegetables release moisture as they cook, and an uncovered pot allows this steam to escape, which concentrates flavors in the remaining liquid. The uncovered simmer also allows you to monitor the vegetables' progress. At the 10-minute mark, test a piece of carrot with a fork by piercing it. The fork should slide through with slight resistance—the carrot should be tender but not mushy. Similarly, test a piece of zucchini; it should be soft but still hold its shape when lifted on the fork. The bell pepper should be mostly softened but retain some texture. If any vegetable still feels firm, continue simmering for 1-2 more minutes. The window between perfectly cooked and overcooked vegetables in a 30-minute soup is narrow—maybe 3-4 minutes—so checking at 10 minutes is essential.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Carrot fork-tender with slight resistance, zucchini soft but holding shape, bell pepper tender, onion has completely softened and distributed throughout broth, vegetables retain bright colors (zucchini is still green, carrots are bright orange, peppers are vibrant)"
+        },
+        {
+            "step": 8,
+            "instruction": "Add the dried oregano and thyme to the pot and stir well. Dried herbs need a few minutes of contact with hot liquid to rehydrate fully and release their essential oils into the broth. Let the soup continue simmering for 2-3 minutes to allow this infusion. The aroma in the kitchen will intensify—this is the herbs releasing their volatile compounds into the steam. Now taste the soup. The broth should taste good but not yet seasoned to your preference. The vegetables have released some of their natural sodium, but the soup is still relatively neutral in salt content. Add salt in small pinches—approximately 1/4 teaspoon at a time—stirring after each addition, tasting, and then deciding whether to add more. Grind black pepper directly into the pot, approximately 1/8 teaspoon to start, then taste again. Remember you already added 1 teaspoon of salt earlier; additional salt should be conservative and gradual.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Dried herbs fully hydrated and fragrant, broth is fully hot, flavors taste integrated and developed, seasoning tasted and adjusted"
+        },
+        {
+            "step": 9,
+            "instruction": "For optional brightness, add either 1 tablespoon (15ml) of balsamic vinegar or a squeeze of fresh lemon juice. This optional addition can transform the soup's character by adding acidity that brightens all the other flavors. Without it, the soup is good—warm, vegetable-forward, satisfying. With the acid, the soup becomes more dynamic and alive-tasting. Taste after adding just 1 teaspoon (5ml) of acid first; you can always add more, but you cannot remove it. If adding acid, let the soup simmer an additional minute for the acid to integrate into the broth.",
+            "timing": "1 minute",
+            "doneness_cue": "Acid added and incorporated, soup tastes bright rather than flat, all flavors feel more pronounced"
+        },
+        {
+            "step": 10,
+            "instruction": "Remove from heat and ladle the soup into bowls immediately. Top each bowl with approximately 1/2 tablespoon (2g) of fresh chopped parsley. The fresh herb adds a note that no dried herb can provide—immediate, bright, fresh flavor that contrasts with the warm, developed broth. Serve while still steaming. The soup is best consumed within 20-30 minutes of completion, though it holds heat well in bowls for longer than many expect. Crusty bread or a simple green salad alongside makes this a complete meal.",
+            "timing": "2 minutes",
+            "doneness_cue": "Soup is steaming, parsley is vibrant green, soup is ready to serve immediately"
+        }
     ],
-    "tips": [
-        "Cut your vegetables to similar sizes so they cook evenly. I aim for roughly 1/2-inch pieces for vegetables like carrots and bell pepper—small enough to cook through quickly, but large enough to stay recognizable in the bowl.",
-        "Don't skip the step of cooking the onion and garlic separately. This slow-builds the foundation flavor for the entire soup. The Maillard reaction between these aromatics and the oil creates complexity that you can't replicate by just dumping everything in at once.",
-        "If you prefer a thicker soup, reserve 1 cup of the cooked vegetables, blend them until smooth, and stir the puree back into the pot. This gives you body without making it feel heavy.",
-        "Taste and adjust seasonings at the very end. Fresh herbs, a squeeze of lemon juice, or even a pinch of red pepper flakes can completely transform the flavor profile if something tastes flat.",
-        "Make this on Sunday for the week—it actually improves after sitting overnight as flavors continue to meld. Store it in the refrigerator and reheat gently on the stove.",
-        "I use whatever vegetables are in season or on sale. Summer versions include more zucchini and summer squash; winter versions swap in diced sweet potato or butternut squash."
+    "pro_tips": [
+        {
+            "tip": "Taste your vegetable broth straight from the container before buying it, if possible. A weak or low-quality broth cannot be improved later. You need a broth that tastes genuinely like vegetables, not primarily salty or flat.",
+            "reason": "Broth is the liquid that comprises approximately 80% of the final soup's volume. Poor-quality broth means poor-quality soup regardless of ingredient quality or technique. This single decision—choosing excellent broth over mediocre broth—affects flavor more than any technique adjustment can compensate for."
+        },
+        {
+            "tip": "Cut all vegetables to uniform size, roughly 1/2-inch (1.3cm) pieces. This is not about appearance; it's about ensuring all components finish cooking simultaneously.",
+            "reason": "Vegetables of different sizes cook at different rates. A carrot piece twice as large as a zucchini piece will remain firm while the zucchini becomes mushy. Uniformity ensures you can cook for a single time window rather than having to fish out pieces and set them aside as they finish."
+        },
+        {
+            "tip": "Build your flavor foundation through layering: cook onion alone, then add garlic with carrot and celery, then add remaining vegetables. Do not dump everything in simultaneously.",
+            "reason": "Each aromatic component releases flavor compounds at different temperatures and rates. Cooking them in sequence allows each to fully develop its flavors without competing with others. A single addition results in a flatter-tasting base. This layering technique costs just 5-6 extra minutes but significantly impacts the final flavor quality."
+        },
+        {
+            "tip": "Do not cover the pot while vegetables cook. An uncovered pot allows steam to escape, which concentrates the broth's flavors and prevents the soup from becoming watery.",
+            "reason": "Vegetables release water as they cook. If this water stays in the pot, the broth becomes diluted. An uncovered pot allows this water to evaporate, leaving behind more concentrated flavors. The uncovered surface also lets you monitor vegetables' progress visually."
+        },
+        {
+            "tip": "Add salt early but season conservatively at the end. You add salt to the onion at the beginning, then taste and adjust after herbs are added. Avoid the temptation to salt heavily at the end.",
+            "reason": "Salt in the early phase penetrates vegetables as they cook, seasoning them throughout rather than just on the surface. Tasting at the end and adjusting allows you to dial in final flavor without oversalting. This approach gives you better control over final seasoning."
+        },
+        {
+            "tip": "Consider adding acid at the very end. Even just a splash of balsamic vinegar or fresh lemon juice can transform a good soup into a dynamic one by brightening all the other flavors.",
+            "reason": "Acid acts as a flavor amplifier, making other tastes more pronounced without adding calories or significant volume. Adding it at the end preserves its brightness; cooking it for long periods can mute its effect."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Dumping all vegetables and aromatics into the pot simultaneously",
+            "why_it_happens": "It seems more efficient to prepare everything and add it all at once. This saves a few minutes of cooking time upfront but costs you significantly in flavor complexity.",
+            "fix": "Commit to building your base in stages. Cook onion alone, then add garlic with slower-cooking vegetables, then add remaining vegetables. This takes just 6-7 extra minutes and produces a substantially better-tasting soup. The time investment pays for itself immediately."
+        },
+        {
+            "mistake": "Boiling the soup instead of simmering it gently",
+            "why_it_happens": "Higher heat seems like it should cook vegetables faster and more thoroughly. Vigorous boiling also looks more active and productive than a gentle simmer.",
+            "fix": "Maintain a steady, gentle simmer where you see small bubbles breaking the surface regularly but not aggressively. If you see large bubbles bursting violently, reduce heat. The vegetables will cook in the same time window but will retain better texture and brighter color."
+        },
+        {
+            "mistake": "Overcooking vegetables until they lose color and become mushy",
+            "why_it_happens": "In a 30-minute soup, there's a limited time window. Many cooks wait too long to check vegetables, then find they're overcooked. There's also a psychology of 'the longer I cook, the better it will be,' which isn't true for vegetable soup.",
+            "fix": "Set a timer for 10 minutes after bringing the soup to a simmer. Test vegetables at that point by piercing them with a fork. If firm, cook 1-2 more minutes and check again. This prevents the situation where vegetables go from perfectly cooked to mushy while you're distracted."
+        },
+        {
+            "mistake": "Using a weak or inferior vegetable broth as the foundation",
+            "why_it_happens": "People often buy the cheapest broth option or use whatever they have in the pantry. The cost difference between mediocre broth and good broth is minimal (usually 50 cents to $1).",
+            "fix": "Taste broth options if your store allows it. Buy a broth that tastes like vegetables, not primarily salt. This single ingredient decision impacts flavor more than any technique adjustment. If you're unsure about available brands, homemade broth is worth making in batches and freezing."
+        },
+        {
+            "mistake": "Forgetting to caramelize the tomato paste or omitting it entirely",
+            "why_it_happens": "Tomato paste seems redundant when canned tomatoes are already going into the soup. Skipping it saves perhaps 2 minutes of cooking time.",
+            "fix": "The tomato paste caramelization step deepens umami significantly. Soup made with this step tastes richer and more developed. The 1-2 minutes spent here pays dividends in flavor. Do not skip it."
+        }
     ],
     "variations": [
         {
-            "title": "Creamy Version",
-            "description": "After cooking, blend half the soup until smooth, then stir it back into the pot. Finish with a splash of cream or coconut milk if you like extra richness. This works particularly well with zucchini-heavy batches."
+            "name": "Creamy Vegetable Soup",
+            "description": "After cooking vegetables and herbs completely (step 8), remove the pot from heat and blend one-third to one-half of the soup using an immersion blender until smooth. The blended portion reintegrates into the whole soup, creating a naturally creamy texture without adding dairy. This variation works particularly well if your soup contains more zucchini, which naturally creates a silky consistency when blended. Alternatively, stir in 1/4 cup (60ml) of heavy cream or full-fat coconut milk at the very end. Start with 2 tablespoons (30ml) and taste; add more if you want additional richness. This transformation changes the soup from a brothy preparation to a more substantial, restaurant-quality presentation.",
+            "technical_note": "Blending releases starch from vegetables, naturally thickening the liquid. Adding dairy at the end requires gentle reheating afterward if the soup has cooled. Avoid boiling dairy-based soup, which can cause separation and curdling. Heat gently over low to medium-low heat."
         },
         {
-            "title": "Protein-Boosted Version",
-            "description": "Stir in 1 can of drained chickpeas or white beans during the last 5 minutes of cooking, or add shredded rotisserie chicken for a non-vegetarian option. This doubles the staying power of the soup and makes it more suitable as a main course."
+            "name": "Protein-Enhanced Version",
+            "description": "Add either 1 can (15 oz / 425g) of white beans or chickpeas, drained and rinsed, or 2 cups (280g) of shredded rotisserie chicken during the last 3 minutes of cooking. The beans or chicken need minimal cooking time—just enough to heat through in the hot broth. This variation transforms the soup from a side dish into a complete meal with meaningful protein content. The beans contribute additional texture and slight creaminess as they break down slightly. Chicken adds richness and makes the soup more substantial for heavier appetites.",
+            "technical_note": "If using canned beans, rinsing removes excess sodium that would concentrate in the soup. Rotisserie chicken should be added only long enough to heat through; extended cooking can make it stringy. Taste the soup after adding protein and adjust seasoning—the additional ingredients may require slight salt adjustments."
         },
         {
-            "title": "Spiced Version",
-            "description": "Replace the oregano and thyme with 1 teaspoon cumin and 1/2 teaspoon smoked paprika. Add a pinch of cayenne if you want heat. This gives the soup a completely different character without changing the base technique."
+            "name": "Mediterranean Version with Pasta",
+            "description": "Add 1/2 cup (50g) of small pasta shapes (orzo, ditalini, or small shells) and 1/2 cup (120ml) additional broth when you bring the soup to a simmer. Reduce simmer time to 8-10 minutes total (vegetables and pasta together cook in this time). Additionally, replace oregano and thyme with 1 teaspoon (2g) of dried Italian seasoning and add 2 tablespoons (20g) of sun-dried tomato pieces and 1/4 cup (35g) of kalamata olives, chopped. The pasta absorbs broth as it cooks, creating a thicker consistency. This variation transforms a clear soup into a minestrone-like preparation with more body and texture complexity.",
+            "technical_note": "Pasta continues absorbing liquid after cooking, so account for thickening. The additional broth compensates for this absorption. Sun-dried tomatoes add concentrated tomato flavor and texture variation. Olives contribute saltiness—reduce added salt by half initially, then taste and adjust."
         },
         {
-            "title": "Grain-Included Version",
-            "description": "Stir in 1/2 cup cooked farro, barley, or rice in the last 5 minutes of cooking. This adds heartiness and texture, though you might need an extra 1/2 cup of broth to account for the grain absorbing liquid."
+            "name": "Roasted Vegetable Version",
+            "description": "Instead of cooking vegetables raw in the pot, roast all vegetables (except onion and garlic) on a sheet pan at 425°F (220°C) for 12-15 minutes before adding to soup. Toss vegetables with 2 tablespoons (30ml) of olive oil and a pinch of salt before roasting. After roasting, add them to the pot during the last 5 minutes of cooking (after aromatics have developed). Roasting concentrates vegetable sugars through the Maillard reaction, adding caramelized depth. This version tastes richer than the fresh version despite minimal additional time investment. The finished roasted vegetables contribute a slightly different texture—firmer but more intensely flavored.",
+            "technical_note": "Roasting happens during aromatics' development time, so total cooking time remains approximately 30 minutes. Roasted vegetables require less simmering time since they're partially cooked. Add them when you would normally add herbs (step 8). This variation requires additional oven use, which may not be practical for quick-cooking scenarios but is worth considering for flavor-focused versions."
         },
         {
-            "title": "Asian-Inspired Version",
-            "description": "Replace the oregano and thyme with 1 tablespoon soy sauce and 1 teaspoon grated fresh ginger added when you cook the garlic. Add a splash of rice vinegar at the end. Serve with a drizzle of sesame oil and chopped green onions."
+            "name": "Asian-Inspired Version",
+            "description": "Replace oregano and thyme with 1 tablespoon (15g) of fresh ginger, minced, added with the garlic. Include 1 tablespoon (15ml) of soy sauce and 1/2 teaspoon (2.5ml) of sesame oil added at the end. Add 1 cup (150g) of sliced bok choy or similar Asian greens during the last 2 minutes of cooking. Finish with 2 tablespoons (10g) of sliced green onions and 1 teaspoon (5ml) of rice vinegar drizzled over each bowl. This variation completely transforms the flavor profile from Mediterranean/European to East Asian. The soy sauce adds umami depth; sesame oil contributes nutty aromatics. Green vegetables at the end add fresh contrast.",
+            "technical_note": "Fresh ginger releases more complex flavors than dried ginger. Soy sauce is salty, so reduce initial salt significantly—add perhaps half the usual amount, then taste and adjust. Delicate Asian greens (bok choy, mizuna, young spinach) need only 1-2 minutes in hot broth to become tender. Rice vinegar's acidity brightens the savory soy-based broth beautifully."
         }
     ],
-    "common_mistakes": [
-        {
-            "mistake": "Overcooking the vegetables until they're mushy",
-            "why": "It's tempting to simmer longer to soften everything, but most of these vegetables need only 10-15 minutes of actual simmer time. After that, they start breaking down and losing their texture and color.",
-            "fix": "Set a timer. I check vegetables at 10 minutes by piercing a carrot piece with a fork—it should have slight resistance, not melt."
-        },
-        {
-            "mistake": "Not seasoning the base (onion and garlic) properly before adding everything else",
-            "why": "The aromatics are where your flavor foundation lives. If you don't let them develop with salt and oil first, they'll taste raw and sharp.",
-            "fix": "Add a small pinch of salt when you add the onion. This draws out moisture and helps them cook down properly instead of just sweating."
-        },
-        {
-            "mistake": "Using vegetable broth that's past its prime or low-quality",
-            "why": "Since broth is the base liquid for the entire soup, old or bland broth will make the whole pot taste off. You can't season your way out of weak broth.",
-            "fix": "Check your broth dates. I prefer brands like [LINK: best vegetable broths] that actually taste like vegetables. Homemade broth is best if you have it."
-        },
-        {
-            "mistake": "Adding all the salt at the beginning and then having to dilute it later",
-            "why": "Salt concentrates as liquid reduces, so what tastes right at first will taste too salty in the finished soup.",
-            "fix": "Season conservatively at the beginning, then taste and adjust in the last few minutes. You can always add more salt, but you can't remove it."
-        }
-    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 195",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "24g",
+        "fat_grams": "11g",
+        "fiber_grams": "5g",
+        "sodium_mg": "780mg",
+        "note": "These values are estimates and will vary based on exact broth sodium content and specific vegetable sizes. Values calculated using medium-sized vegetables and unsalted broth. If using salted broth or adding additional salt, sodium content will increase."
+    },
     "storage_and_reheating": {
-        "refrigerator": "Store in an airtight container for up to 4 days. The flavors actually deepen on day two, so don't hesitate to make this early in the week.",
-        "freezer": "This soup freezes beautifully for up to 3 months. Cool it completely first, then freeze in 2-cup portions in freezer containers (glass or plastic). Leave about an inch of headspace since liquid expands.",
-        "reheating": "On the stovetop is best—use medium-low heat and stir occasionally, adding a splash of broth or water if it's gotten too thick. If you're reheating from frozen, let it thaw in the refrigerator overnight first, then reheat gently. Microwaving works if you're in a hurry, but you lose some of that fresh vegetable taste."
+        "refrigerator_storage": "Store cooled soup in airtight glass or plastic containers for up to 4 days. Flavor develops and melds as the soup sits, making it taste noticeably better on day two or three than immediately after cooking. The longer the vegetables sit in the broth, the more they absorb the seasoning, creating a more cohesive flavor. Separate vegetables from broth if you prefer to prevent them from becoming overly soft during storage, though this is optional.",
+        "freezer_storage": "Freeze soup for up to 3 months in freezer-safe containers, leaving approximately 1 inch (2.5cm) of headspace for expansion. Soups freeze exceptionally well because the liquid protects the vegetables from oxidation and texture degradation. Thaw overnight in the refrigerator before reheating. Soup that is partially thawed can be reheated directly from partial-freeze state by warming over low to medium-low heat, stirring occasionally.",
+        "reheating_method": "Reheat gently on the stovetop over medium-low heat, stirring occasionally, until the soup reaches serving temperature. This takes approximately 15-20 minutes depending on quantity. Avoid boiling, which can cause vegetables to break down further and broth to taste less cohesive. If reheating from frozen, add a splash of vegetable broth or water at the beginning to prevent the pot from drying before the soup thaws. Microwave reheating works but can create hot spots and uneven warming; stir frequently if using microwave. A slow cooker set to warm is ideal if reheating slowly over time without active monitoring.",
+        "make_ahead_tip": "This soup can be assembled through step 7 (vegetables fully cooked) up to 24 hours ahead and refrigerated. Cool completely before refrigerating. The next day, reheat gently until simmering, then proceed with step 8 (adding herbs and final seasoning). Alternatively, prepare all components and store separately—aromatics in one container, cut vegetables in another, broth in a third—then combine and cook fresh when ready. This modular approach saves significant time on cooking day while maintaining maximum flavor from fresh cooking."
     },
     "faq": [
         {
-            "question": "Can I make this soup ahead for meal prep?",
-            "answer": "Absolutely. I make a double batch on Sunday and portion it into containers. It reheats beautifully and actually tastes better the next day once everything has time to meld. Just store it in the refrigerator for the week or freeze it for longer storage."
+            "question": "Why does my vegetable soup taste flat even though I've added all the ingredients?",
+            "answer": "Flat-tasting soup typically indicates weak broth as the foundation or inadequate seasoning. Taste your broth straight from the container—if it tastes thin or primarily salty, that's your culprit. If broth is good, add acid gradually (lemon juice or balsamic vinegar) to brighten flavors. Even one tablespoon (15ml) of acid can transform a dull soup into one that tastes vibrant. Ensure you've allowed aromatics sufficient time to develop (the full 5 minutes after adding garlic, carrot, and celery) and that you've tasted and adjusted salt after herbs are added, not before."
         },
         {
-            "question": "What if I don't have all these vegetables on hand?",
-            "answer": "The core technique doesn't change. Use whatever vegetables you have—green beans, peas, spinach, mushrooms, tomatoes, potatoes, or diced squash all work. Keep the onion, garlic, and broth the same, and you'll get soup that tastes good. The proportions can shift based on what you're using."
+            "question": "My vegetables are mushy and have lost their color. What went wrong?",
+            "answer": "Vegetables became overcooked, which caused their cell walls to break down and their pigments to leach into the broth. This happens when soup simmers longer than needed or heat is too high, causing water to evaporate from vegetables faster than heat can penetrate them. For future batches, check vegetables at 10 minutes by piercing with a fork—if still firm, cook only 1-2 more minutes before checking again. The window between perfect tenderness and mushiness is narrow (maybe 2-3 minutes). Additionally, ensure you're maintaining a gentle simmer (small, steady bubbles) rather than a boil (aggressive, large bubbles), which cooks vegetables more gently and preserves color and texture."
         },
         {
-            "question": "Is this naturally vegan and gluten-free?",
-            "answer": "Yes to both, assuming your vegetable broth is vegan. If you're concerned about gluten, check your broth label—most are naturally gluten-free, but some thickened versions might have issues. The recipe itself contains no gluten."
+            "question": "Can I use frozen vegetables instead of fresh?",
+            "answer": "Yes, frozen vegetables work perfectly and actually cook faster than fresh because the freezing process partially breaks down cell walls, reducing cooking time needed. If substituting frozen vegetables, reduce the simmering time to 6-8 minutes instead of 10 minutes. Add them after aromatics have fully developed so they don't cool the pot temperature and interrupt cooking of the base. Note that frozen vegetables often release more water than fresh, potentially resulting in a thinner broth; you might need to reduce the initial broth amount slightly to 3.5 cups (840ml). Frozen vegetables work especially well for this soup because you're not eating them raw where their thawed texture would be obvious."
         },
         {
-            "question": "How do I make this taste less watery?",
-            "answer": "Two options: simmer it longer to reduce the broth naturally (add 10-15 extra minutes), or blend a portion of the cooked soup and stir it back in to add body. Don't add cornstarch or flour unless you want to change the texture entirely—the vegetables themselves thicken the soup as they break down slightly."
+            "question": "How can I make this recipe vegetarian or vegan?",
+            "answer": "This recipe is already fully vegetarian and vegan as written. It uses only vegetables, olive oil, vegetable broth, and dried herbs. Ensure your vegetable broth is vegan—most are, but some use chicken base or animal products. Check the label or make your own vegetable broth by simmering vegetable scraps in water. All variations and additions mentioned in the FAQ can be adapted to vegan specifications by using plant-based protein sources like beans, chickpeas, or tofu instead of chicken."
         },
         {
-            "question": "Can I use fresh herbs instead of dried?",
-            "answer": "Yes, but use about three times as much (so roughly 3 teaspoons fresh instead of 1 teaspoon dried). Add fresh herbs in the last couple of minutes of cooking rather than at the beginning, or they'll lose their vibrancy."
+            "question": "What's the best way to meal prep this soup for the week?",
+            "answer": "Cook a double or triple batch on Sunday and portion immediately after cooking into 2-cup (480ml) containers. Cool containers to room temperature, then refrigerate. Use these portions throughout the week for grab-and-heat meals. Alternatively, store the broth and vegetables separately—this prevents vegetables from overcooking during refrigeration, though it requires slightly more effort. Label containers with the date. Most people find that soup tastes noticeably better on day two or three than immediately after cooking, so don't hesitate to make it several days before you plan to eat it. If you're storing for more than 4 days, freeze portions instead of refrigerating."
         },
         {
-            "question": "What's the best way to meal prep this for the week?",
-            "answer": "Cool the soup completely, then divide it into portions. I use 2-cup glass containers so I can see what I have. It stays fresh in the fridge for 4 days, and you can reheat portions individually."
+            "question": "Can I use a slow cooker or pressure cooker instead of stovetop?",
+            "answer": "A slow cooker fundamentally changes the approach and timing. Brown aromatics on the stovetop following steps 1-3, then transfer everything to the slow cooker on low for 4-6 hours or high for 2-3 hours. The long, gentle heat develops good flavor, but the 30-minute timing vanishes. A pressure cooker (Instant Pot) can work: brown aromatics using sauté function, add vegetables and liquid, pressure cook at high for 5 minutes, then quick-release pressure. This takes approximately 20-25 minutes total compared to 30 minutes stovetop, without saving significant time. For maximum flavor and texture retention, the stovetop method is ideal because you maintain precise heat control and can check vegetables visually as they cook."
         }
     ],
-    "structured_content": [
+    "conclusion": "This soup teaches that speed doesn't require sacrificing depth. Thirty minutes of intentional cooking—with proper technique, quality ingredients, and careful attention to timing—produces results that feel like much longer work. The foundations you learn here—layering aromatics, maintaining gentle heat, checking doneness precisely, adjusting seasoning thoughtfully—apply far beyond soup. These are fundamental cooking techniques that make you reliably successful in any kitchen. I hope you'll make this soup, experiment with variations, and find it becomes a regular fixture of your cooking rotation. I'd genuinely appreciate hearing how it turns out for you or what variations you've discovered work in your kitchen. Leave a comment and let me know.",
+    "internal_links": [
         {
-            "content": "<h2>Why I Keep Coming Back to This Soup</h2><p>When I need something warming and real for a cold evening, this soup is my default. I've made it probably fifty times in the last two years, and I keep coming back because it actually delivers on the promise—it's genuinely quick, genuinely tasty, and genuinely better than the sum of its parts.</p><p>The reason it works is straightforward. Rather than trying to be fancy, it leans on solid technique and good basic ingredients. You're building flavor through patience with the onion and garlic, letting the vegetables cook just enough to soften without turning to mush, and using a good broth as your foundation. The herbs are there to support, not to shout.</p><p>This is weeknight cooking that doesn't require special equipment or obscure ingredients. It's the kind of soup you can modify based on what's in your crisper drawer, what you're craving, or what's on sale at the grocery store. It's soup you actually want to eat, not soup you feel obligated to finish.</p>"
+            "anchor": "understanding vegetable broth quality and selection",
+            "url": "/posts/best-vegetable-broth-brands-buying-guide"
         },
         {
-            "content": "<h2>Ingredients Explained</h2><p><strong>The aromatics: onion, garlic, and oil.</strong> These three things are your entire foundation. The onion and garlic develop flavor as they cook, creating a base note for everything else. If you skip the slow cook at the beginning, you'll taste raw garlic throughout the soup, which isn't pleasant. The olive oil carries flavor and helps the vegetables cook evenly.</p><p><strong>The vegetables: carrots, celery, bell pepper, and zucchini.</strong> These aren't arbitrary choices—they balance sweetness (carrot, bell pepper), earthiness (celery), and tenderness (zucchini). The combination gives you flavor diversity and varying textures in a single bite. Buy them fresh if you can; frozen vegetables work for texture but often lose the bright color you're after.</p><p><strong>Canned tomatoes with their liquid.</strong> This adds acidity that brightens the whole soup and prevents it from tasting one-dimensional. The juice matters too—don't drain it. I look for tomatoes labeled simply \"diced\" rather than ones with added seasonings or spices. San Marzano varieties are worth the extra dollar or two if you can find them.</p><p><strong>Vegetable broth as your liquid.</strong> This makes or breaks the soup. Weak broth means weak soup. Taste your broth straight from the container before you buy it if the store lets you. You want something that tastes genuinely like vegetables, not salty water. The four cups isn't fixed—you can adjust based on how thick or thin you like your soup.</p><p><strong>Dried oregano and thyme.</strong> These are classic vegetable soup seasonings for good reason. Oregano brings a slightly peppery warmth; thyme is more subtle and earthy. They're not flashy, but they're reliable. Fresh herbs are lovely but use them differently—see the FAQ for guidance.</p><p><strong>Salt and pepper to taste.</strong> Don't skip this last seasoning step. Kosher salt works better than table salt because you have more control over how much you're actually using. Season gradually and taste as you go.</p>"
+            "anchor": "building flavor through layered aromatics technique",
+            "url": "/posts/aromatics-cooking-technique-onion-garlic-celery"
         },
         {
-            "content": "<h2>Step-by-Step Instructions</h2><p><strong>Step 1: Cook the onion first, alone.</strong> Heat your olive oil over medium heat until it shimmers—you should be able to see the oil move across the pan. Add the chopped onion and let it sit for about 30 seconds before stirring. This initial high heat starts softening the onion without browning it. Stir occasionally, and you'll notice the onion going from white to translucent at the edges within 3 minutes. This is your cue that it's releasing its natural sugars.</p><p><strong>Step 2: Add garlic, carrots, and celery.</strong> When the onion is translucent, add the minced garlic and the diced carrots and celery. Stir everything together so the garlic is coating with oil. This is important—garlic exposed directly to high heat can burn and taste bitter, but if it's mingled with the other vegetables and oil, it softens beautifully. Cook for 5 minutes, stirring occasionally. The entire kitchen will smell incredible, and that's exactly right.</p><p><strong>Step 3: Add remaining vegetables and broth.</strong> The bell pepper and zucchini go in now, along with the canned tomatoes and their liquid. Then pour in the vegetable broth. Stir everything together so nothing's sticking to the bottom of the pot. Increase the heat to medium-high and watch for the broth to start steaming and eventually bubble gently around the edges.</p><p><strong>Step 4: Bring to a gentle boil, then reduce heat.</strong> You're looking for small, steady bubbles breaking the surface, not a rolling boil that splashes broth on your stove. Once you reach this point (usually 2-3 minutes), reduce the heat to medium-low and let it simmer quietly. Check that the broth is still gently simmering—you should see occasional bubbles, not just steam.</p><p><strong>Step 5: Simmer and test vegetables.</strong> Let this cook for about 10 minutes, then test a carrot piece by piercing it with a fork. You want slight resistance—it should cut easily but not fall apart. If it's still firm, cook for 2-3 more minutes and check again. This is where timing matters. Stop cooking as soon as the vegetables are tender throughout but still hold their shape.</p><p><strong>Step 6: Season with herbs and salt.</strong> Once the vegetables are cooked, add the oregano and thyme. Stir well and let the pot continue simmering for 2-3 minutes so the dried herbs have time to soften and fully hydrate. Now taste the broth carefully. It should taste good but not salty yet. Add salt in small pinches, stir, taste again, then repeat until it tastes right to you. Grind in some black pepper.</p><p><strong>Step 7: Serve.</strong> Ladle the soup into bowls and top each with a small handful of fresh chopped parsley. The parsley adds a fresh note that cuts through the richness of the broth and makes the whole thing feel bright.</p>"
+            "anchor": "mirepoix and soup foundations",
+            "url": "/posts/mirepoix-soffritto-holy-trinity-cooking-bases"
         },
         {
-            "content": "<h2>Pro Tips from Making This Soup Regularly</h2><p><strong>Prep your vegetables uniformly.</strong> This isn't about looks—it's about cooking. If your carrot chunks are twice the size of your celery chunks, the carrot will still be firm while the celery is falling apart. I use a measuring knife sometimes, marking where I'll cut. Once you find the size you like, replicate it across all vegetables.</p><p><strong>Don't skip building your base.</strong> Cooking the onion alone, then the garlic with carrots and celery, costs you maybe 8 minutes but creates flavor you can't rush. It's the difference between soup that's pleasant and soup that tastes like you actually made it.</p><p><strong>Keep your broth warm.</strong> If you're adding cold broth to hot vegetables, it drops the temperature and adds extra cooking time. I warm my broth in a separate pot while I'm prepping vegetables, or at least pour it into a measuring cup and microwave it for a minute.</p><p><strong>Taste frequently near the end.</strong> The last 5 minutes of cooking are where you dial in the flavor. The soup concentrates as it simmers, so what tasted right at 10 minutes might taste different at 15 minutes. This is also where you add any extra seasonings or acid (like a squeeze of lemon) if something tastes flat.</p><p><strong>Have a plan for leftovers before you make it.</strong> I often double this recipe on Sunday with the intention of eating it three or four times during the week. Cool it completely, portion it into containers, and store it. This is genuinely easier cooking than starting fresh on a random Tuesday evening.</p><p><strong>Fresh parsley makes a real difference.</strong> It sounds like a small thing, but that fresh herb on top changes the eating experience. It adds flavor brightness and makes the whole bowl look intentional rather than accidental.</p>"
-        },
-        {
-            "upload": {
-                "context": "Bowl of vibrant vegetable soup with visible carrots, zucchini, bell pepper, and celery in clear broth, garnished with fresh parsley, steam rising gently, seated on rustic table with bread on the side.",
-                "url": "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp"
-            }
-        },
-        {
-            "content": "<h2>When and How to Customize This Soup</h2><p>This recipe is more of a framework than a rigid formula, which is actually why I keep making it. The technique stays the same, but you can adjust based on what you have, what's in season, or what you're craving.</p><p><strong>Seasonal swaps:</strong> In summer, when zucchini is everywhere, lean into it—use more zucchini and fresh dill instead of thyme. In fall and winter, try diced sweet potato or butternut squash for sweetness. Spring calls for fresh peas and asparagus if you have them on hand.</p><p><strong>Adding protein:</strong> A can of white beans or chickpeas stirred in at the end makes this a complete meal. Shredded rotisserie chicken works if you eat meat. The soup doesn't change its character, just becomes more substantial.</p><p><strong>Making it creamy:</strong> Blend a third of the cooked soup and stir it back in for a naturally creamy texture, or add a splash of heavy cream or coconut milk at the very end. Start small—a quarter cup—and taste as you go.</p><p><strong>Adding grains:</strong> Cooked farro, barley, rice, or even pasta stirred in at the last minute adds heartiness. Account for the fact that grains absorb broth, so you might need an extra 1/2 cup of liquid.</p>"
-        },
-        {
-            "content": "<h2>What to Serve Alongside This Soup</h2><p>A good crusty bread is almost mandatory—something with structure that can support the broth without falling apart. A decent sourdough or baguette does the job. Toast it lightly if you want it more sturdy.</p><p>A simple green salad with vinaigrette cuts through the richness of the broth and provides textural contrast. Something with peppery greens like arugula works particularly well.</p><p>Grilled cheese is obvious but correct. The richness of the cheese against the bright vegetable broth is genuinely satisfying.</p><p>A wedge of sharp cheese on the side—Parmesan, aged Manchego, or even good sharp cheddar—means people can adjust the richness of each spoonful to their preference.</p>"
-        },
-        {
-            "content": "<h2>Conclusion</h2><p>This isn't complicated cooking, but it is honest cooking. You're building flavor through technique rather than through fanciness, and the result is soup that tastes like someone who knows how to cook made it. I hope you'll try it, and I'd genuinely like to hear how it turns out for you. Did you change anything? What vegetables did you use? Let me know in the comments—that's how I learn what variations work best for other people.</p>"
+            "anchor": "proper vegetable cooking times and doneness cues",
+            "url": "/posts/vegetable-cooking-guide-doneness-temperatures"
         }
     ],
     "category_id": "cat_1761230166_734",
     "generation_metadata": {
-        "voice": "Storyteller",
-        "complexity": "simple",
-        "target_words": "400-600",
-        "temperature": 0.7,
-        "generated_at": "2026-01-11 18:53:45"
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1,250+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_trustworthiness_authority",
+        "rewritten_at": "2026-01-17",
+        "technique_emphasis": "layered_aromatics_timing_precision",
+        "previous_version": "generated_thin_content"
     },
     "author_id": "author_001",
     "images": [
@@ -158,29 +250,33 @@
             "filePath": "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
             "relativePath": "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
-            "order": 1
+            "order": 1,
+            "alt_text": "Yellow onion pieces in hot olive oil showing translucent edges after 3 minutes of cooking, visible moisture pooling at pot bottom"
         },
         {
             "fileName": "best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
             "filePath": "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
             "relativePath": "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
-            "order": 2
+            "order": 2,
+            "alt_text": "Tomato paste being stirred into aromatics showing color change from bright red to deeper rust tone, caramelization in progress"
         },
         {
             "fileName": "best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
             "filePath": "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
             "relativePath": "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
-            "order": 3
+            "order": 3,
+            "alt_text": "Finished vegetable soup at gentle simmer showing clear golden broth with vibrant vegetables, small steady bubbles at surface"
         },
         {
-            "fileName": "best-vegan-vegetable-soup-for-healthy-families_LummyRecipes_image_4.webp",
-            "filePath": "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_LummyRecipes_image_4.webp",
-            "relativePath": "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_LummyRecipes_image_4.webp",
+            "fileName": "best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+            "filePath": "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+            "relativePath": "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_4.webp",
             "order": 4,
-            "type": "template"
+            "type": "template",
+            "alt_text": "Finished soup in white bowl, fresh parsley garnish on top, crusty bread visible beside bowl on rustic table, warm lighting"
         }
     ],
     "slug": "best-vegan-vegetable-soup-for-healthy-families",
@@ -188,8 +284,8 @@
     "image": "best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
     "image_path": "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
     "image_dir": "best-vegan-vegetable-soup-for-healthy-families/images",
-    "generated_from_text": true,
+    "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2026-01-04T16:30:36+01:00",
-    "updatedAt": "2026-01-11T18:53:45+01:00"
+    "updatedAt": "2026-01-17T14:22:00+01:00"
 }
