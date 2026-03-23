@@ -1,7 +1,7 @@
 {
     "title": "Fluffy Bunny-Shaped Pancakes for Easter Morning",
     "promptIMG": "Professional food photography prompt: \"fluffy bunny-shaped pancakes on a white plate, decorated with fresh berries for eyes and nose, soft natural morning light, sharp focus on pancake texture, pastel spring background with subtle Easter decor, natural food styling, no artificial enhancements, high detail, 4:3 aspect ratio\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "A recipe for fluffy bunny-shaped pancakes that bring a festive touch to Easter breakfast. This version highlights a gentle vanilla flavor and uses fresh berries to create expressive faces, making it a joyful meal for families celebrating spring together.",
     "hashtags": "#EasterBreakfast #BunnyPancakes #FamilyBreakfast #SpringRecipes #FestiveMorning",
     "pinterest_boards": {
@@ -251,6 +251,34 @@
             "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_1.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_1.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_2.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_2.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_3.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_3.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_4.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_4.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_LummyRecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "slug": "simple-easter-bunny-pancakes-that-will-delight-your-morning",
@@ -260,8 +288,8 @@
     "image_dir": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:08:31+01:00",
-    "updatedAt": "2026-03-21T19:09:46+01:00",
+    "createdAt": "2026-03-23T17:53:42+01:00",
+    "updatedAt": "2026-03-23T17:53:42+01:00",
     "board_name": "Easter Fun Food",
     "pin_variations": [
         {

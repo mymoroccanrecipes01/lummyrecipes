@@ -1,7 +1,7 @@
 {
     "title": "Classic Easter Dinner Menu: Timeless Recipes for Stress-Free Family Gatherings",
     "promptIMG": "Professional food photography prompt: \"classic Easter dinner spread on rustic wooden table, natural light, colorful spring vegetables, glazed ham centerpiece, side dishes arranged neatly, fresh herbs garnish, soft shadows, inviting and warm atmosphere --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Planning a relaxed Easter feast with family can be overwhelming, but this classic Easter dinner menu simplifies the process with dishes that can be prepared ahead without sacrificing flavor or freshness. From a perfectly glazed ham to seasonal sides, this meal balances tradition with practical timing, making it ideal for spring holiday celebrations.",
     "hashtags": "#EasterDinner #SpringFeast #FamilyGathering #MakeAheadMeals #HolidayCooking",
     "pinterest_boards": {
@@ -288,6 +288,34 @@
             "relativePath": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_1.webp",
+            "filePath": "posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_1.webp",
+            "relativePath": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_2.webp",
+            "filePath": "posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_2.webp",
+            "relativePath": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_3.webp",
+            "filePath": "posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_3.webp",
+            "relativePath": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_4.webp",
+            "relativePath": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images/classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting_LummyRecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "slug": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting",
@@ -297,8 +325,8 @@
     "image_dir": "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:11:05+01:00",
-    "updatedAt": "2026-03-21T19:12:23+01:00",
+    "createdAt": "2026-03-23T17:53:42+01:00",
+    "updatedAt": "2026-03-23T17:53:42+01:00",
     "board_name": "Easter Dinner Ideas",
     "pin_variations": [
         {
