@@ -1,7 +1,7 @@
 {
     "title": "Roasted Cabbage Steaks with Crispy Parmesan Crust",
     "promptIMG": "Professional food photography prompt: \"roasted cabbage steaks on a baking sheet, golden crispy Parmesan crust, natural light, rustic kitchen background, textured vegetables, close-up showing crisp edges, warm color tones, natural food styling, zero artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This recipe for roasted cabbage steaks highlights the vegetable’s natural sweetness balanced with a crisp, nutty Parmesan crust. The roasting process softens the cabbage’s interior while creating a satisfying crunch on the edges. It’s a straightforward dish that works well as a vegetarian main or a flavorful side, especially in cooler months when cabbage is at its best.",
     "hashtags": "#roastedcabbage #vegetariansides #parmesancrust #fallrecipes #comfortfood",
     "pinterest_boards": {
@@ -236,6 +236,34 @@
             "relativePath": "parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_1.webp",
+            "filePath": "posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_1.webp",
+            "relativePath": "parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_2.webp",
+            "filePath": "posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_2.webp",
+            "relativePath": "parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_3.webp",
+            "filePath": "posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_3.webp",
+            "relativePath": "parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_4.webp",
+            "filePath": "posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_4.webp",
+            "relativePath": "parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/parmesan-roasted-cabbage-steaks-everyone-will-love/images/parmesan-roasted-cabbage-steaks-everyone-will-love_LummyRecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "slug": "parmesan-roasted-cabbage-steaks-everyone-will-love",
@@ -245,8 +273,8 @@
     "image_dir": "parmesan-roasted-cabbage-steaks-everyone-will-love/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-23T18:20:22+01:00",
-    "updatedAt": "2026-03-23T18:21:41+01:00",
+    "createdAt": "2026-03-24T11:29:22+01:00",
+    "updatedAt": "2026-03-24T11:29:22+01:00",
     "board_name": "Roasted Cabbage Recipes",
     "pin_variations": [
         {

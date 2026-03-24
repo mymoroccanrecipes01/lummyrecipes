@@ -1,7 +1,7 @@
 {
     "title": "Roasted Cabbage Wedges Wrapped in Crispy Bacon",
     "promptIMG": "Professional food photography prompt: \"roasted cabbage wedges wrapped in crispy bacon, served on rustic plate, natural food photography, warm lighting, detailed textures of crispy bacon and tender cabbage, kitchen background softly blurred, high resolution, balanced sharp focus, natural colors, documentary style\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This recipe transforms simple cabbage wedges into a satisfying side by wrapping them in smoky, crisp bacon before roasting. The slow caramelization of the cabbage edges combined with the fat rendered from the bacon creates a dish rich in aroma and texture, ideal for colder evenings or festive meals.",
     "hashtags": "#roastedcabbage #baconrecipes #comfortfood #holidaydishes #cozysides",
     "pinterest_boards": {
@@ -217,6 +217,34 @@
             "relativePath": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_1.webp",
+            "filePath": "posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_1.webp",
+            "relativePath": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_2.webp",
+            "filePath": "posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_2.webp",
+            "relativePath": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_3.webp",
+            "filePath": "posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_3.webp",
+            "relativePath": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_4.webp",
+            "filePath": "posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_4.webp",
+            "relativePath": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food_LummyRecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "slug": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food",
@@ -226,8 +254,8 @@
     "image_dir": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-23T18:26:44+01:00",
-    "updatedAt": "2026-03-23T18:27:58+01:00",
+    "createdAt": "2026-03-24T11:29:22+01:00",
+    "updatedAt": "2026-03-24T11:29:22+01:00",
     "generation_metadata": {
         "voice": "Enthusiastic Friend",
         "complexity": "simple",
