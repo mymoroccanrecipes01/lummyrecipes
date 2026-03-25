@@ -1,0 +1,328 @@
+{
+    "title": "Classic Strawberry Shortcake Recipe with Buttermilk Biscuits",
+    "promptIMG": "Professional food photography prompt: \"classic strawberry shortcake with layers of fluffy buttermilk biscuits, fresh macerated strawberries, and whipped cream, natural light, focus on textures and colors, rustic wooden table background, natural window lighting, modern documentary food photography style, soft shadows, vibrant reds and whites, realistic food textures, no artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A straightforward recipe for strawberry shortcake featuring tender buttermilk biscuits, sweet macerated strawberries, and lightly whipped cream. Learn how buttermilk affects biscuit texture and how to macerate strawberries for balanced sweetness and juiciness, creating a refreshing dessert ideal for summer gatherings.",
+    "hashtags": "#strawberryshortcake #buttermilkbiscuits #summerdessert #homemadedessert #freshstrawberries",
+    "pinterest_boards": {
+        "classic": "Strawberry Shortcake Recipes",
+        "header": "Summer Desserts",
+        "cinematic": "Fresh Berry Desserts"
+    },
+    "difficulty": "Easy",
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "servings": 6,
+    "yield": "6 servings",
+    "ingredients": [
+        {
+            "component": "Biscuits",
+            "items": [
+                "2 cups (250g) all-purpose flour",
+                "1/4 cup (50g) granulated sugar",
+                "1 tablespoon (15g) baking powder",
+                "1/2 teaspoon (3g) baking soda",
+                "1/2 teaspoon (3g) fine sea salt",
+                "1/2 cup (115g) unsalted cold butter, cut into small cubes",
+                "3/4 cup (180ml) cold buttermilk (or 3/4 cup milk + 1 teaspoon lemon juice, rested 10 minutes)"
+            ]
+        },
+        {
+            "component": "Strawberries",
+            "items": [
+                "4 cups (600g) fresh strawberries, hulled and sliced",
+                "1/4 cup (50g) granulated sugar",
+                "1 teaspoon (5ml) fresh lemon juice"
+            ]
+        },
+        {
+            "component": "Whipped Cream",
+            "items": [
+                "1 cup (240ml) heavy cream, cold",
+                "2 tablespoons (25g) powdered sugar",
+                "1/2 teaspoon (2.5ml) vanilla extract"
+            ]
+        }
+    ],
+    "introduction": "Strawberry shortcake has always been a favorite dessert in my family during the summer months. I remember warm July afternoons when fresh strawberries piled high on tender biscuits were a welcome treat after a day outdoors. What sets this version apart is the use of buttermilk in the biscuit dough, which I’ve tested many times to achieve a tender yet sturdy crumb that holds up well to the juicy strawberries and whipped cream. The maceration process balances the strawberries’ natural acidity and sweetness, making each bite refreshing rather than cloying. Whether you're hosting a backyard gathering or just want a simple dessert to enjoy with family, this strawberry shortcake is a reliable classic. Below, I’ll share the recipe along with tips on why each step matters for texture and flavor.",
+    "why_this_recipe_works": {
+        "section": "Understanding How Buttermilk and Maceration Create Balanced Texture and Flavor",
+        "content": "<p>The success of this strawberry shortcake lies in combining a tender biscuit base with juicy, sweetened strawberries and light whipped cream without overwhelming any one element. Buttermilk plays a crucial role in the biscuit dough. Its acidity reacts with baking soda to create extra lift and a delicate crumb. This reaction also slightly tenderizes the flour proteins, preventing toughness.</p><p>Macerating the strawberries with sugar and lemon juice draws out their juice, softens the fruit slightly, and balances sweetness with acidity. This process ensures the strawberries are juicy without being watery, and the lemon juice brightens their flavor. The whipped cream adds a creamy, airy texture that contrasts with the biscuit's slight density and the strawberries’ juiciness.</p><p>Each step is designed to preserve the structural integrity of the biscuit while introducing moisture and flavor from the berries and cream, resulting in a harmonious dessert that feels light but satisfying.</p>",
+        "ingredient_notes": {
+            "buttermilk": "Using cold buttermilk not only activates the baking soda for proper rise but also contributes a slight tang that complements the sweet strawberries. If you don’t have buttermilk, a simple substitute is milk mixed with lemon juice or vinegar, rested for 10 minutes. The acidity is what’s essential for the chemical reaction in the dough.",
+            "fresh strawberries": "Fresh, ripe strawberries are best for this recipe. Their natural sweetness and juiciness are key. Macerating with sugar and lemon juice softens their texture slightly and releases flavorful juices that soak into the biscuit, enhancing moisture and flavor. Avoid over-macerating to prevent mushiness.",
+            "cold butter": "Cold butter cut into small cubes helps create flaky layers in the biscuits. As the butter melts during baking, it leaves pockets of steam that lift the dough. Using cold butter and minimal handling prevents the dough from becoming tough."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat the oven to 425°F (220°C). Line a baking sheet with parchment paper.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven reaches full temperature, baking sheet prepared."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt until evenly combined.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dry ingredients are uniformly mixed without clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the cold butter cubes to the dry ingredients. Using a pastry cutter or your fingertips, quickly cut the butter into the flour until the mixture resembles coarse crumbs with pea-sized pieces of butter visible. Avoid overworking the dough to keep butter cold.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Mixture has varied texture with small chunks of butter; dough feels cool to touch."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the cold buttermilk and gently fold the dough together using a spatula or wooden spoon until just combined. The dough should be slightly sticky but hold together when pressed. Avoid overmixing to prevent tough biscuits.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough forms a rough ball, moist but not overly wet."
+        },
+        {
+            "step": 5,
+            "instruction": "Turn the dough out onto a lightly floured surface. Gently pat it into a roughly 1-inch (2.5 cm) thick rectangle. Fold the dough over once and pat again to create layers. Repeat this folding and patting 2-3 times to encourage flakiness.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough is smooth with visible layers, not compressed or dense."
+        },
+        {
+            "step": 6,
+            "instruction": "Use a 2.5-inch (6 cm) round biscuit cutter to cut out biscuits, pressing straight down without twisting to ensure even rise. Place biscuits on the prepared baking sheet, spacing them about 1 inch (2.5 cm) apart. Gather scraps, gently press, and cut additional biscuits.",
+            "timing": "5 minutes",
+            "doneness_cue": "Biscuits are uniform in size and shape, edges clean."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake biscuits in the preheated oven for 12-15 minutes until golden brown on top and edges. The biscuits should sound hollow when tapped on the bottom.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Biscuits are golden with a crisp exterior, firm but tender to touch."
+        },
+        {
+            "step": 8,
+            "instruction": "While biscuits bake, place sliced strawberries in a bowl. Add granulated sugar and lemon juice. Toss gently to combine. Let the strawberries macerate at room temperature for at least 15 minutes to release juices and soften.",
+            "timing": "15 minutes",
+            "doneness_cue": "Strawberries appear glossy with juice pooling at bottom, aroma is sweet and fresh with citrus notes."
+        },
+        {
+            "step": 9,
+            "instruction": "In a chilled mixing bowl, whip cold heavy cream with powdered sugar and vanilla extract until soft peaks form. Avoid overwhipping to keep cream light and smooth.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Cream holds soft peaks that gently fall when the whisk is lifted."
+        },
+        {
+            "step": 10,
+            "instruction": "To assemble, slice each biscuit horizontally. Spoon a generous amount of macerated strawberries and juice onto the bottom half. Add a dollop of whipped cream, then top with the biscuit crown. Serve immediately for best texture contrast.",
+            "timing": "5 minutes",
+            "doneness_cue": "Finished shortcakes display vibrant red berries, fluffy biscuits, and creamy topping."
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Keep all ingredients, especially butter and buttermilk, cold until mixing to ensure flaky biscuit layers.",
+            "reason": "Cold butter creates steam pockets during baking that lift and separate biscuit layers. Warm butter blends into the dough, making it dense."
+        },
+        {
+            "tip": "Do not twist the biscuit cutter when cutting dough to prevent sealing edges, which inhibits rise.",
+            "reason": "Pressing straight down keeps edges clean and allows biscuits to rise evenly instead of twisting and compressing layers."
+        },
+        {
+            "tip": "Let strawberries macerate for at least 15 minutes to balance sweetness and draw out flavorful juices.",
+            "reason": "Maceration softens fruit slightly and creates a natural syrup that moistens the biscuit without making it soggy."
+        },
+        {
+            "tip": "Use powdered sugar in whipped cream instead of granulated for a smoother texture without graininess.",
+            "reason": "Powdered sugar dissolves quickly, preventing a gritty mouthfeel and helping stabilize whipped cream."
+        },
+        {
+            "tip": "Serve assembled shortcakes shortly after putting together to preserve biscuit texture.",
+            "reason": "The biscuit will absorb moisture from strawberries and cream over time, becoming soft. Serving immediately keeps the biscuit crisp on the outside and tender inside."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing biscuit dough after adding buttermilk.",
+            "why_it_happens": "It’s easy to keep mixing to incorporate everything, but this develops gluten, making biscuits tough rather than tender.",
+            "fix": "Mix just until the dough comes together with visible chunks of butter. Stop as soon as it holds without dry patches."
+        },
+        {
+            "mistake": "Using warm butter or letting dough sit too long before baking.",
+            "why_it_happens": "Warm butter melts into the dough prematurely, reducing flakiness. Dough resting too long softens butter and reduces rise.",
+            "fix": "Cut butter cold and bake biscuits promptly after shaping to retain texture."
+        },
+        {
+            "mistake": "Adding too much sugar to strawberries or macerating too long.",
+            "why_it_happens": "Too much sugar or long maceration can make strawberries overly sweet and mushy.",
+            "fix": "Use the recommended sugar amount and macerate no longer than 30 minutes; 15-20 minutes is ideal."
+        },
+        {
+            "mistake": "Overwhipping cream until it becomes grainy or turns to butter.",
+            "why_it_happens": "Whipping too long breaks down fat molecules, causing cream to separate.",
+            "fix": "Stop whipping at soft peaks stage; the cream should be smooth and hold shape without stiffness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Shortcake",
+            "description": "Use a 1:1 gluten-free baking flour blend in place of all-purpose flour. Add 1/2 teaspoon xanthan gum if your blend doesn’t contain it to improve texture.",
+            "technical_note": "Gluten-free dough is more delicate; handle gently and avoid overmixing to keep biscuits tender."
+        },
+        {
+            "name": "Vegan Strawberry Shortcake",
+            "description": "Replace butter with cold coconut oil, buttermilk with plant-based milk plus 1 teaspoon vinegar, and use coconut cream whipped with powdered sugar instead of heavy cream.",
+            "technical_note": "Coconut oil solidifies when cold, mimicking butter’s effect. Whipping coconut cream requires chilling solidified cream part overnight."
+        },
+        {
+            "name": "Lemon-Infused Shortcake",
+            "description": "Add 1 tablespoon finely grated lemon zest to biscuit dough and 1/2 teaspoon lemon zest to whipped cream for a bright citrus note.",
+            "technical_note": "Zest adds aromatic oils enhancing freshness without changing biscuit structure."
+        },
+        {
+            "name": "Strawberry-Rhubarb Shortcake",
+            "description": "Combine equal parts chopped rhubarb and strawberries for maceration. Add 1/4 cup sugar and simmer rhubarb slightly before mixing to soften the tartness.",
+            "technical_note": "Rhubarb’s acidity balances strawberry sweetness and adds complexity; simmering softens the fibrous texture."
+        }
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": "approximately 320",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "350mg",
+        "note": "Values are estimates and may vary depending on exact ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Once assembled with whipped cream, serve immediately or within 1 hour. Do not leave assembled shortcake at room temperature longer to avoid sogginess and spoilage.",
+        "refrigerator": "Store leftover biscuits separately in an airtight container at room temperature for up to 2 days. Macerated strawberries can be refrigerated in a covered bowl for up to 24 hours. Whipped cream is best freshly made; if storing, keep covered and consume within 24 hours.",
+        "freezer": "Biscuits can be frozen unbaked or baked. For unbaked, shape and freeze on a tray, then transfer to a bag for up to 3 months. Bake from frozen adding a few extra minutes. Baked biscuits freeze well wrapped tightly for up to 1 month. Thaw at room temperature.",
+        "reheating": "Reheat baked biscuits in a 350°F (175°C) oven for 5-7 minutes to refresh texture before assembling. Do not reheat assembled shortcake, as cream and strawberries degrade.",
+        "make_ahead_strategy": "Prepare biscuits and strawberries separately up to a day ahead. Refrigerate strawberries and store biscuits wrapped at room temperature or frozen. Whip cream fresh before serving and assemble shortcakes just prior to eating."
+    },
+    "faq": [
+        {
+            "question": "Can I make strawberry shortcake ahead of time?",
+            "answer": "You can prepare biscuits and macerate strawberries a day in advance. Store them separately and whip the cream just before serving to maintain freshness and texture."
+        },
+        {
+            "question": "Why is my biscuit dough tough after baking?",
+            "answer": "Overmixing the dough develops gluten, making biscuits dense. Mix just until ingredients are combined and keep butter cold for flaky texture."
+        },
+        {
+            "question": "Can I use frozen strawberries instead of fresh?",
+            "answer": "Frozen strawberries release more water when thawed, which can make the shortcake soggy. If using frozen, drain excess liquid and gently pat dry before macerating."
+        },
+        {
+            "question": "How long do leftover biscuits last?",
+            "answer": "Baked biscuits stored in an airtight container last 2 days at room temperature. For longer storage, freeze them unbaked or baked."
+        },
+        {
+            "question": "Can I use a hand mixer to cut in the butter?",
+            "answer": "Cutting in butter by hand or with a pastry cutter gives better control over butter size, which affects flakiness. A hand mixer can overwork the dough and warm the butter."
+        },
+        {
+            "question": "Is there a substitute for buttermilk?",
+            "answer": "Yes, mix 3/4 cup milk with 1 teaspoon lemon juice or vinegar and let sit for 10 minutes. This creates the acidity needed for the baking soda reaction."
+        }
+    ],
+    "conclusion": "Strawberry shortcake is a simple yet satisfying dessert that shines when each element is prepared thoughtfully. Taking time to understand how buttermilk affects biscuits and how to balance strawberry sweetness makes all the difference. I’d love to hear how your version turns out or any twists you discover—feel free to share your thoughts below.",
+    "internal_links": [
+        {
+            "anchor": "how to make flaky biscuits",
+            "url": "/posts/how-to-make-flaky-biscuits"
+        },
+        {
+            "anchor": "the science of macerating fruit",
+            "url": "/posts/fruit-maceration-techniques"
+        },
+        {
+            "anchor": "whipping cream: tips and tricks",
+            "url": "/posts/whipping-cream-guide"
+        }
+    ],
+    "category_id": "cat_1761230166_734",
+    "images": [
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_1.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_1.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_2.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_2.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_3.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_3.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_1.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_1.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_2.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_2.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_3.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_3.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_4.webp",
+            "filePath": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_4.webp",
+            "relativePath": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "slug": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth",
+    "id": "post_1774354514_283",
+    "image": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_1.webp",
+    "image_path": "posts/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images/best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth_image_1.webp",
+    "image_dir": "best-ever-fluffy-strawberry-shortcake-from-scratch-that-melts-in-your-mouth/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-25T13:07:53+01:00",
+    "updatedAt": "2026-03-25T13:07:53+01:00",
+    "generation_metadata": {
+        "voice": "Honest Cook",
+        "complexity": "simple",
+        "target_words": "1800-2200",
+        "temperature": 0.7,
+        "generated_at": "2026-03-24 13:16:26"
+    },
+    "author_id": "author_001",
+    "board_name": "Strawberry Shortcake Recipes",
+    "pin_variations": [
+        {
+            "title": "Irresistible Classic Strawberry Shortcake with Fluffy Buttermilk Biscuits",
+            "description": "Discover the secret to perfect strawberry shortcake with tender buttermilk biscuits, juicy macerated strawberries, and light whipped cream. Perfect for summer parties! #StrawberryShortcake #ButtermilkBiscuits #SummerDesserts #BakingTips #FreshStrawberries"
+        },
+        {
+            "title": "Easy Strawberry Shortcake Recipe: Sweet Strawberries & Fluffy Biscuits",
+            "description": "Master this easy strawberry shortcake recipe featuring soft buttermilk biscuits and sweet, macerated strawberries for a refreshing summer treat everyone will love. #StrawberryDessert #ButtermilkBiscuitRecipe #SummerBaking #DessertIdeas #HomemadeShortcake"
+        },
+        {
+            "title": "Summer Favorite: Classic Strawberry Shortcake with Homemade Biscuits",
+            "description": "Learn how to bake classic strawberry shortcake with buttery buttermilk biscuits and perfectly macerated strawberries. A deliciously simple dessert to impress your guests! #StrawberryShortcakeRecipe #ButtermilkBiscuits #SummerSweets #EasyDesserts #BakingFromScratch"
+        }
+    ]
+}
