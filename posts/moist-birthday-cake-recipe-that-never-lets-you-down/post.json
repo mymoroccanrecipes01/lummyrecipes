@@ -1,7 +1,7 @@
 {
     "title": "Classic Moist Birthday Cake with Buttermilk and Sour Cream",
     "promptIMG": "Professional food photography prompt: \"classic birthday cake on white plate, soft crumb visible, natural light highlighting moist texture, neutral background, minimal props, sharp focus on cake slice, subtle shadows, no artificial enhancements --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "A detailed guide to making a reliably moist and tender birthday cake using buttermilk and sour cream for balanced texture and flavor. Learn how these ingredients interact with leavening for a soft crumb and how to avoid common pitfalls in cake baking.",
     "hashtags": "#birthdaycake #buttermilkcake #homemadecake #celebrationcake #classicdessert",
     "pinterest_boards": {
@@ -248,6 +248,42 @@
             "relativePath": "moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_1.webp",
+            "filePath": "posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_1.webp",
+            "relativePath": "moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_1.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_2.webp",
+            "filePath": "posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_2.webp",
+            "relativePath": "moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_2.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_3.webp",
+            "filePath": "posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_3.webp",
+            "relativePath": "moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_3.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_4.webp",
+            "filePath": "posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_4.webp",
+            "relativePath": "moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-birthday-cake-recipe-that-never-lets-you-down/images/moist-birthday-cake-recipe-that-never-lets-you-down_LummyRecipes_image_4.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
         }
     ],
     "slug": "moist-birthday-cake-recipe-that-never-lets-you-down",
@@ -257,8 +293,8 @@
     "image_dir": "moist-birthday-cake-recipe-that-never-lets-you-down/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T13:22:54+01:00",
-    "updatedAt": "2026-03-24T13:24:20+01:00",
+    "createdAt": "2026-03-26T01:35:19+01:00",
+    "updatedAt": "2026-03-26T01:35:19+01:00",
     "board_name": "Birthday Cake Recipes",
     "pin_variations": [
         {
