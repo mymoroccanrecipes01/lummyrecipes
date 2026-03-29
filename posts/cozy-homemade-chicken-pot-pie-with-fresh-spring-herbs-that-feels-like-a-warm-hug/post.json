@@ -1,0 +1,331 @@
+{
+    "title": "Classic Chicken Pot Pie with Flaky Crust and Tender Chicken",
+    "promptIMG": "Professional food photography prompt: \"classic chicken pot pie, golden flaky crust with steam rising, rustic ceramic pie dish, natural light from window highlighting texture, visible chunks of tender chicken and vibrant green herbs, warm kitchen background, shallow depth of field, realistic food textures, no artificial enhancements, high resolution --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A traditional chicken pot pie recipe featuring a buttery, flaky crust and a creamy filling with tender chicken and fresh herbs. This recipe balances textures and flavors to create a comforting, satisfying dish ideal for cooler evenings or when you want a homemade classic.",
+    "hashtags": "#chickenpotpie #comfortfood #homemadepie #classicrecipe #seasonalherbs",
+    "pinterest_boards": {
+        "classic": "Classic Chicken Recipes",
+        "header": "Comfort Food Favorites",
+        "cinematic": "Cozy Dinner Ideas"
+    },
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 45,
+    "total_time": 75,
+    "servings": 6,
+    "yield": "One 9-inch (23 cm) pie, 6 servings",
+    "ingredients": [
+        {
+            "component": "Pie Crust",
+            "items": [
+                "2 1/2 cups (320g) all-purpose flour",
+                "1 tsp (5g) salt",
+                "1 cup (225g) unsalted butter, cold and cubed",
+                "6-8 tbsp (90-120ml) ice water"
+            ]
+        },
+        {
+            "component": "Filling",
+            "items": [
+                "3 cups (450g) cooked chicken, shredded or diced",
+                "1 cup (130g) carrots, diced",
+                "1 cup (150g) frozen peas",
+                "1/2 cup (75g) celery, diced",
+                "1/2 cup (75g) onion, finely chopped",
+                "3 tbsp (45g) unsalted butter",
+                "1/3 cup (40g) all-purpose flour",
+                "2 1/2 cups (600ml) chicken broth, low sodium preferred",
+                "1/2 cup (120ml) whole milk or cream",
+                "1 tsp (1g) fresh thyme leaves (or 1/2 tsp dried thyme)",
+                "2 tbsp (8g) fresh parsley, chopped",
+                "Salt and freshly ground black pepper, to taste"
+            ]
+        },
+        {
+            "component": "Egg Wash",
+            "items": [
+                "1 large egg, beaten with 1 tbsp (15ml) water"
+            ]
+        }
+    ],
+    "introduction": "I often turn to chicken pot pie when the weather cools down and I want a meal that feels both nourishing and satisfying. This version stands out because of its flaky, buttery crust paired with a filling that balances tender chicken pieces with fresh herbs and just the right amount of creaminess. I remember making this for family gatherings in early spring, when the freshness of herbs like parsley and thyme brightened the dish, making it feel lighter despite its comforting nature. Whether it's a weeknight dinner or a special occasion, this pot pie brings a sense of warmth and home. The following recipe breaks down each step clearly, ensuring the crust achieves that crisp flakiness and the filling holds together without being too dense or watery.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Science Behind This Chicken Pot Pie",
+        "content": "<p>The success of a chicken pot pie relies on two main elements: the crust's texture and the filling's consistency. The crust is made by cutting cold butter into flour, creating pockets of fat that melt during baking to produce a flaky texture. Using ice-cold water helps keep the butter from melting prematurely, maintaining these pockets.</p><p>The filling combines a roux-based sauce with chicken and vegetables. The roux (butter and flour cooked together) thickens the liquid gradually, avoiding lumps and creating a velvety texture. Incorporating chicken broth and milk balances flavor and creaminess without heaviness. Fresh herbs added near the end preserve their aroma and brightness, enhancing the overall flavor.</p><p>Timing is critical for vegetables: cooking carrots and celery until tender but still holding shape prevents a mushy filling. Adding peas last ensures they retain their color and slight snap. The egg wash on the crust promotes a golden, glossy finish, signaling the pie is perfectly baked.</p>",
+        "ingredient_notes": {
+            "butter": "Using cold, unsalted butter is essential for the crust’s flakiness. The cold butter cuts into the flour in chunks rather than blending uniformly, which creates steam pockets during baking that lift and separate the layers. Salted butter can be used but adjust added salt accordingly.",
+            "chicken broth": "Low sodium chicken broth provides savory depth without overpowering saltiness. The broth’s gelatin content contributes to a silky filling texture. Avoid pre-salted or highly seasoned broths to maintain control over seasoning.",
+            "fresh herbs": "Fresh thyme and parsley add subtle herbal notes that brighten the creamy filling. Adding them near the end of cooking preserves their delicate aromas and prevents bitterness that can occur with prolonged heat exposure.",
+            "all-purpose flour": "Flour combines with butter to form the roux that thickens the filling. Proper cooking of the roux before adding liquids prevents a raw flour taste and ensures smoothness. Measuring flour accurately is important to avoid a filling that is too thick or thin."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Prepare the pie crust by combining flour and salt in a large bowl. Add cold cubed butter and use a pastry cutter or your fingers to work the butter into the flour until the mixture resembles coarse crumbs with pea-sized pieces. Gradually add ice water, one tablespoon at a time, mixing gently until dough just holds together when pressed. Avoid overworking to keep the crust tender.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dough forms a cohesive ball but remains slightly crumbly; when pressed, it should hold shape without being sticky."
+        },
+        {
+            "step": 2,
+            "instruction": "Divide the dough into two equal parts, flatten each into a disk, wrap tightly in plastic wrap, and refrigerate for at least 30 minutes to rest and chill. Chilling relaxes gluten and firms the butter, essential for flaky layers.",
+            "timing": "30 minutes",
+            "doneness_cue": "Dough is firm and cold to the touch, easy to roll without tearing."
+        },
+        {
+            "step": 3,
+            "instruction": "While dough chills, prepare the filling. In a large skillet, melt butter over medium heat. Add chopped onions, carrots, and celery, and sauté until vegetables soften but retain slight firmness, about 5-7 minutes. Stir occasionally to prevent browning.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Vegetables are tender but crisp, onions translucent without browning."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in flour to the softened vegetables and cook for 2 minutes, stirring constantly. This step cooks out the raw flour taste and begins the roux formation. The mixture should bubble gently and thicken slightly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture thickens and becomes paste-like with a faint nutty aroma."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually whisk in chicken broth and milk, ensuring the mixture is smooth. Bring to a gentle simmer and cook until thickened, about 5 minutes. The sauce should coat the back of a spoon. Season with salt, pepper, and fresh thyme.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling thickens visibly, steaming with small bubbles, no lumps present."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove filling from heat and stir in cooked chicken, frozen peas, and chopped parsley. Adjust seasoning if needed. Allow filling to cool slightly to avoid melting the crust during assembly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling is warm, thick, and well combined; peas retain bright green color."
+        },
+        {
+            "step": 7,
+            "instruction": "Preheat oven to 400°F (200°C). On a floured surface, roll out one dough disk into a 12-inch (30 cm) circle and fit it into a 9-inch (23 cm) pie dish, allowing excess to hang slightly over edges. Pour filling into crust, spreading evenly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Crust lines pie dish smoothly without cracks; filling fills crust evenly."
+        },
+        {
+            "step": 8,
+            "instruction": "Roll out second dough disk to a similar size and place over filling. Trim excess dough, then crimp edges to seal. Cut small slits in the top crust to allow steam to escape during baking. Brush egg wash evenly over the crust surface for color and shine.",
+            "timing": "10 minutes",
+            "doneness_cue": "Crust edges are sealed tightly; egg wash creates a wet sheen prior to baking."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in preheated oven for 40-45 minutes until crust is golden brown and crisp, and filling is bubbling through vents. If crust edges brown too quickly, cover edges with foil halfway through baking.",
+            "timing": "40-45 minutes",
+            "doneness_cue": "Crust is deep golden with visible flakiness; filling bubbles gently through slits."
+        },
+        {
+            "step": 10,
+            "instruction": "Remove pie from oven and let rest for at least 10 minutes before slicing. This resting period allows the filling to set slightly, making slices cleaner and enhancing flavor melding.",
+            "timing": "10 minutes",
+            "doneness_cue": "Filling is thickened but not solid; crust remains crisp and flaky."
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Keep all pie crust ingredients cold until baking to maintain flakiness.",
+            "reason": "Cold butter creates steam pockets during baking, essential for flaky layers. Warm ingredients cause butter to blend too thoroughly, resulting in a tougher crust."
+        },
+        {
+            "tip": "Cook vegetables just until tender-crisp before adding flour.",
+            "reason": "Overcooked vegetables become mushy during baking. Slightly firm vegetables retain texture and contrast with creamy filling."
+        },
+        {
+            "tip": "Add peas at the end of filling preparation to preserve their bright color and slight snap.",
+            "reason": "Peas overcooked become dull and mushy, detracting from the dish’s visual appeal and texture."
+        },
+        {
+            "tip": "Use an egg wash on the crust for a golden, glossy finish.",
+            "reason": "Egg wash promotes browning and adds subtle sheen, signaling a fully baked crust visually."
+        },
+        {
+            "tip": "Allow the pie to rest after baking before slicing.",
+            "reason": "Resting lets the filling thicken and flavors meld, preventing runny slices and improving presentation."
+        },
+        {
+            "tip": "Use low sodium broth to control salt levels in the filling.",
+            "reason": "Broth reduction during cooking concentrates salt; starting with low sodium prevents an overly salty pie."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter or overworking dough when making crust.",
+            "why_it_happens": "Butter melts too early or gluten develops excessively, resulting in a tough, dense crust.",
+            "fix": "Work quickly with cold ingredients and minimal handling to maintain butter chunks and tender dough."
+        },
+        {
+            "mistake": "Adding flour directly to hot liquid without cooking a roux.",
+            "why_it_happens": "Raw flour taste remains and sauce becomes lumpy if flour isn't cooked with fat first.",
+            "fix": "Cook flour with butter to form a roux before adding liquids, stirring constantly."
+        },
+        {
+            "mistake": "Skipping slits or vents on the top crust.",
+            "why_it_happens": "Steam builds under crust causing it to bubble or crack unpredictably during baking.",
+            "fix": "Cut small slits in dough to allow steam to escape and maintain crust integrity."
+        },
+        {
+            "mistake": "Not chilling the dough before rolling and baking.",
+            "why_it_happens": "Warm dough is sticky and shrinks during baking, losing shape and flakiness.",
+            "fix": "Refrigerate dough at least 30 minutes before rolling and assembling pie."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Chicken Pot Pie",
+            "description": "Use a gluten-free flour blend for the crust and thickener. Substitute all-purpose flour with a blend of rice flour, potato starch, and tapioca starch in the roux.",
+            "technical_note": "Gluten-free dough requires careful hydration and chilling to mimic gluten's elasticity. The thickening power of gluten-free flours differs, so adjust flour amounts slightly for desired sauce consistency."
+        },
+        {
+            "name": "Dairy-Free Version",
+            "description": "Replace butter with a dairy-free margarine or solid coconut oil for the crust and roux. Use unsweetened almond or oat milk instead of dairy milk.",
+            "technical_note": "Dairy substitutes can affect flavor and texture. Use neutral oils and unsweetened milk alternatives to maintain balance. Some dairy-free fats melt differently, affecting crust flakiness."
+        },
+        {
+            "name": "Herb Variation with Sage and Tarragon",
+            "description": "Swap thyme and parsley for fresh sage and tarragon for a more aromatic, slightly anise-like flavor profile. Add herbs during the last few minutes of filling preparation.",
+            "technical_note": "Sage and tarragon are potent; use sparingly to avoid overpowering. These herbs complement chicken well and add a nuanced twist to the classic pot pie."
+        },
+        {
+            "name": "Vegetable-Heavy Pot Pie",
+            "description": "Increase the amount of carrots, celery, and peas and add diced mushrooms or parsnips for more complex vegetable flavor. Substitute chicken with firm tofu or chickpeas for vegetarian option.",
+            "technical_note": "Additional vegetables increase moisture; adjust thickening agent accordingly to maintain filling consistency."
+        },
+        {
+            "name": "Mini Chicken Pot Pies",
+            "description": "Divide filling into individual ramekins and top with small rounds of crust dough. Bake for 25-30 minutes until crust is golden and filling bubbly.",
+            "technical_note": "Mini pies require shorter baking times; watch closely to prevent overbaking. This format is suitable for portion control and presentation."
+        }
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": "approximately 480",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "600mg",
+        "note": "These values are estimates based on typical ingredient brands and proportions. Actual nutrition may vary depending on specific products and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Do not leave chicken pot pie at room temperature for more than 2 hours to prevent bacterial growth. Cool uncovered for no more than 1 hour before refrigerating.",
+        "refrigerator": "Store leftover pie covered with foil or plastic wrap in the refrigerator for up to 3 days. The crust may soften slightly but reheats well.",
+        "freezer": "Freeze whole or sliced pie wrapped tightly in plastic wrap and aluminum foil for up to 2 months. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat slices in a preheated oven at 350°F (175°C) for 20-25 minutes until heated through and crust is crisp. Avoid microwaving to prevent sogginess.",
+        "make_ahead_strategy": "Prepare the filling and dough separately up to 24 hours in advance. Refrigerate both components separately. Assemble and bake just before serving for best crust texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make chicken pot pie ahead of time?",
+            "answer": "Yes, you can prepare the filling and crust separately up to a day in advance. Assemble and bake when ready to maintain crust flakiness."
+        },
+        {
+            "question": "Why is my crust tough instead of flaky?",
+            "answer": "This often happens if the butter was too warm or the dough was overworked, developing gluten. Keep ingredients cold and handle dough gently."
+        },
+        {
+            "question": "Can I use pre-cooked rotisserie chicken for this recipe?",
+            "answer": "Absolutely. Using cooked chicken saves time and works well. Just shred or dice it before adding to the filling."
+        },
+        {
+            "question": "How long does chicken pot pie last in the fridge?",
+            "answer": "Stored properly in an airtight container or covered, it lasts up to 3 days refrigerated."
+        },
+        {
+            "question": "Can I freeze chicken pot pie before baking?",
+            "answer": "Yes, assemble the pie and freeze wrapped tightly. Bake from frozen, adding extra baking time until crust is golden and filling is bubbly."
+        },
+        {
+            "question": "How do I prevent the bottom crust from becoming soggy?",
+            "answer": "Blind baking the bottom crust for 5-7 minutes before adding filling helps. Also, letting the filling cool slightly reduces moisture transfer."
+        }
+    ],
+    "conclusion": "Chicken pot pie is a comforting dish that rewards attention to detail, especially in balancing textures and flavors. I welcome any thoughts or experiences you have with this recipe—feel free to share your feedback or questions in the comments.",
+    "internal_links": [
+        {
+            "anchor": "how to make flaky pie crust",
+            "url": "/posts/how-to-make-flaky-pie-crust"
+        },
+        {
+            "anchor": "making perfect roux for sauces",
+            "url": "/posts/perfect-roux-technique"
+        },
+        {
+            "anchor": "seasonal herbs guide for cooking",
+            "url": "/posts/seasonal-herbs-cooking-guide"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "medium",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_4.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_4.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_5.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_5.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_6.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_6.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_7.webp",
+            "filePath": "posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_7.webp",
+            "relativePath": "cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug/images/cozy-homemade-chicken-pot-pie-with-fresh-spring-herbs-that-feels-like-a-warm-hug_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "slug": "classic-chicken-pot-pie-flaky-crust-tender-chicken",
+    "id": "post_1774788017_888",
+    "image": "classic-chicken-pot-pie-browning-crust_image_1.webp",
+    "image_path": "recipes/classic-chicken-pot-pie-browning-crust/images/classic-chicken-pot-pie-browning-crust_image_1.webp",
+    "image_dir": "classic-chicken-pot-pie-browning-crust/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-29T17:20:31+02:00",
+    "updatedAt": "2026-03-29T17:20:31+02:00"
+}

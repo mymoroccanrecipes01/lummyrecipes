@@ -1,0 +1,298 @@
+{
+    "title": "Creamy Garlic Butter Chicken Thighs Recipe",
+    "promptIMG": "Professional food photography prompt: \"creamy garlic butter chicken thighs plated with fresh herbs, natural lighting highlighting golden-brown seared skin and glossy butter sauce, shallow depth of field, rustic kitchen background, realistic textures, no artificial enhancements --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A detailed recipe for creamy garlic butter chicken thighs that balances rich butter sauce with aromatic garlic. This recipe explains the importance of searing chicken skin for texture and how gradual sauce reduction creates a velvety finish. Ideal for a comforting weeknight meal with simple ingredients.",
+    "hashtags": "#garlicbutterchicken #chickenthighs #comfortfood #easyrecipes #homemade",
+    "pinterest_boards": {
+        "classic": "Easy Chicken Dinner Recipes",
+        "header": "Weeknight Comfort Food",
+        "cinematic": "Simple Dinner Ideas"
+    },
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 25,
+    "total_time": 35,
+    "servings": 4,
+    "yield": "4 servings",
+    "ingredients": [
+        "8 bone-in, skin-on chicken thighs (about 1.5 lbs / 680g)",
+        "1 teaspoon salt, divided",
+        "1/2 teaspoon black pepper, divided",
+        "2 tablespoons (30g) unsalted butter, divided",
+        "1 tablespoon (15ml) olive oil",
+        "6 cloves garlic, minced (about 18g)",
+        "1 cup (240ml) heavy cream",
+        "1/2 cup (120ml) chicken broth, low sodium preferred",
+        "1 teaspoon fresh thyme leaves (or 1/4 teaspoon dried thyme)",
+        "1 tablespoon (15g) grated Parmesan cheese (optional)",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "introduction": "I often turn to creamy garlic butter chicken thighs when I want a dinner that feels substantial without a lot of fuss. The combination of crispy, golden skin with a luscious butter sauce packed with fresh garlic is something I return to especially during cooler months when a comforting meal is welcome. What sets this recipe apart is the focus on searing the chicken skin properly to lock in juices and develop texture before slowly building the sauce. It’s straightforward enough for busy weeknights but still offers a satisfying richness that elevates the experience. Whether you’re cooking for family or a small gathering, this dish balances simplicity with depth of flavor. Below, I’ll walk through the steps and share some insights that have helped me consistently get the sauce silky and the chicken tender.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Cooking Process Behind Creamy Garlic Butter Chicken Thighs",
+        "content": "<p>The key to this dish lies in two critical techniques: searing the chicken skin to develop texture and flavor, and gently simmering the sauce to combine butter, garlic, and cream into a smooth, rich coating. Searing the skin over medium-high heat renders the fat and crisps the surface, creating a contrast between the crunchy exterior and juicy interior. This process also generates Maillard reaction compounds that add complexity.</p><p>The sauce starts with garlic sautéed in butter, which infuses the fat with its aromatic oils without burning. Adding broth and cream and reducing the mixture slowly prevents curdling and allows the sauce to thicken naturally. Parmesan cheese, though optional, contributes umami and helps stabilize the sauce's texture.</p><p>Throughout, timing and temperature control are essential. Overcooking the chicken dries it out, while undercooking the sauce results in a thin, flavorless coating. The balance of salt, fat, and acidity from the broth pulls the flavors together.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Using bone-in, skin-on chicken thighs is crucial for both flavor and texture. The skin crisps up during searing, protecting the meat underneath from drying out. Bone-in pieces also cook more evenly and stay juicier compared to boneless. If you prefer boneless, reduce cooking time slightly to avoid overcooking.",
+            "butter": "Butter adds richness and carries the garlic flavor beautifully. Dividing the butter allows for initial searing and then finishing the sauce with fresh fat, which helps emulsify the sauce and give it a glossy sheen. Unsalted butter is preferred to control salt levels accurately.",
+            "heavy cream": "Heavy cream provides the luxurious base for the sauce. Its fat content helps thicken the sauce as it reduces, creating a velvety texture that clings to the chicken. Using lower-fat dairy can result in a thinner sauce and may curdle when heated.",
+            "garlic": "Fresh minced garlic imparts a sharp, aromatic note that mellows as it cooks in butter. It's important to cook the garlic gently until fragrant but not browned to avoid bitterness, which would negatively impact the sauce's flavor balance."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Pat the chicken thighs dry with paper towels to remove excess moisture. Season both sides with 1/2 teaspoon salt and 1/4 teaspoon black pepper. Dry skin ensures better browning and crispiness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Skin feels dry to the touch with no visible moisture"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 1 tablespoon of butter and the olive oil in a large skillet over medium-high heat until the butter melts and begins to foam. Add the chicken thighs skin-side down in a single layer without crowding the pan.",
+            "timing": "7-9 minutes",
+            "doneness_cue": "Skin develops a deep golden-brown color and releases easily from the pan when ready to flip"
+        },
+        {
+            "step": 3,
+            "instruction": "Flip the chicken thighs and cook the other side for 5-6 minutes until the internal temperature reaches 75°C (165°F). Remove the chicken from the pan and set aside on a plate, tenting loosely with foil to keep warm.",
+            "timing": "5-6 minutes",
+            "doneness_cue": "Juices run clear and meat feels firm but not hard when pressed"
+        },
+        {
+            "step": 4,
+            "instruction": "Reduce heat to medium-low and add the remaining 1 tablespoon of butter to the skillet. Once melted, add the minced garlic and sauté for about 1 minute until fragrant, stirring constantly to prevent burning.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic aroma is strong but garlic remains pale, no browning"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the chicken broth and scrape the bottom of the pan with a wooden spoon to release browned bits. Let the broth simmer for 2-3 minutes to reduce slightly and concentrate flavor.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Broth reduces by about 10-15%, liquid slightly thickens"
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the heavy cream and thyme leaves. Allow the sauce to simmer gently over low heat for 4-5 minutes, stirring occasionally until it thickens and coats the back of a spoon.",
+            "timing": "4-5 minutes",
+            "doneness_cue": "Sauce thickens noticeably and gains a smooth, glossy texture"
+        },
+        {
+            "step": 7,
+            "instruction": "If using, stir in the grated Parmesan cheese until melted and incorporated. Return the chicken thighs to the pan, spooning sauce over them. Let the chicken simmer in the sauce for 2-3 minutes to meld flavors and reheat.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Chicken is hot throughout, sauce clings well to the skin"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce and adjust seasoning with the remaining salt and pepper as needed. Garnish with chopped fresh parsley before serving.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced saltiness and pepper heat, fresh green flecks from parsley"
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Dry chicken skin thoroughly before searing.",
+            "reason": "Moisture on the skin creates steam which prevents proper browning and crispiness. Patting dry helps achieve a golden, crunchy crust."
+        },
+        {
+            "tip": "Use a combination of butter and oil for searing.",
+            "reason": "Butter alone can burn at high heat, while oil raises the smoke point. Together they provide flavor and a stable cooking fat for even browning."
+        },
+        {
+            "tip": "Avoid overcrowding the pan when searing chicken.",
+            "reason": "Crowding lowers the pan temperature and causes steaming instead of browning, resulting in soggy skin and less flavor."
+        },
+        {
+            "tip": "Simmer the sauce gently at low heat.",
+            "reason": "High heat can cause the cream to curdle and garlic to burn, both of which negatively affect texture and flavor."
+        },
+        {
+            "tip": "Add Parmesan cheese at the end of the sauce cooking.",
+            "reason": "Adding it too early risks clumping or separating. Stirring it in last helps it melt smoothly for a creamy finish."
+        },
+        {
+            "tip": "Use fresh herbs for garnish instead of cooking them in the sauce.",
+            "reason": "Fresh herbs retain their bright flavor and color better as a final touch, enhancing both taste and presentation."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying chicken skin before cooking.",
+            "why_it_happens": "Skipping this step or rushing leads to moisture on the skin, causing steaming instead of browning.",
+            "fix": "Always pat chicken skin dry thoroughly with paper towels before seasoning and cooking."
+        },
+        {
+            "mistake": "Burning the garlic while making the sauce.",
+            "why_it_happens": "Cooking garlic over high heat or without stirring causes it to brown and develop bitterness.",
+            "fix": "Sauté garlic over medium-low heat and stir constantly, removing from heat as soon as aroma develops."
+        },
+        {
+            "mistake": "Boiling the cream sauce aggressively.",
+            "why_it_happens": "High heat causes cream to separate and curdle, ruining the sauce's smooth texture.",
+            "fix": "Simmer sauce gently over low heat, stirring occasionally, until thickened."
+        },
+        {
+            "mistake": "Overcooking chicken thighs leading to dry meat.",
+            "why_it_happens": "Cooking chicken too long or at too high temperature squeezes moisture out of the meat.",
+            "fix": "Use a meat thermometer and remove chicken when internal temperature reaches 75°C (165°F)."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Dairy-Free Garlic Butter Chicken",
+            "description": "Replace butter with dairy-free margarine and use full-fat coconut milk instead of heavy cream for a creamy sauce without dairy.",
+            "technical_note": "Coconut milk has a different flavor and lighter texture; simmer gently to prevent separation and adjust seasoning to balance coconut taste."
+        },
+        {
+            "name": "Herb-Infused Variation",
+            "description": "Add fresh rosemary and sage along with thyme in the sauce for a more complex herbal profile.",
+            "technical_note": "Use fresh herbs to avoid bitterness; add during sauce simmering and remove stems before serving."
+        },
+        {
+            "name": "Spicy Garlic Butter Chicken",
+            "description": "Add 1/4 teaspoon red pepper flakes when sautéing garlic to introduce a subtle heat that complements the richness.",
+            "technical_note": "Adjust spice level to taste; adding early allows flavors to infuse the butter base."
+        },
+        {
+            "name": "Lemon Garlic Butter Chicken",
+            "description": "Finish the sauce with a tablespoon of fresh lemon juice and a teaspoon of lemon zest for brightness and acidity.",
+            "technical_note": "Add lemon juice at the end of cooking to preserve fresh citrus notes and prevent curdling."
+        },
+        {
+            "name": "Creamy Mushroom Garlic Butter Chicken",
+            "description": "Sauté 1 cup of sliced mushrooms after removing the chicken and before cooking garlic, then proceed with the recipe as usual.",
+            "technical_note": "Mushrooms release moisture, so allow extra time to reduce liquid before adding broth and cream to maintain sauce consistency."
+        }
+    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 460",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "33g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "620mg",
+        "note": "These values are estimates and may vary depending on the exact size of chicken thighs and brands of dairy used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Do not leave cooked chicken at room temperature for more than 2 hours. Transfer to shallow containers promptly to cool.",
+        "refrigerator": "Store leftovers in airtight containers for up to 3 days. The sauce may thicken upon cooling; stir gently when reheating.",
+        "freezer": "Freeze cooked chicken and sauce separately if possible for up to 2 months. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat gently in a skillet over low heat or in a microwave on medium power, stirring occasionally to prevent sauce separation. Avoid boiling.",
+        "make_ahead_strategy": "You can brown the chicken and prepare the sauce up to step 6 up to 24 hours ahead. Refrigerate separately and combine just before finishing the dish."
+    },
+    "faq": [
+        {
+            "question": "Can I make creamy garlic butter chicken thighs ahead of time?",
+            "answer": "Yes, you can prepare the chicken and sauce up to the simmering step, refrigerate separately, and finish cooking just before serving."
+        },
+        {
+            "question": "Why is my sauce grainy or curdled?",
+            "answer": "This usually happens if the cream is boiled too rapidly or garlic burns. Simmer sauce gently and cook garlic over low heat."
+        },
+        {
+            "question": "Can I use boneless chicken thighs instead?",
+            "answer": "Yes, but reduce cooking time since boneless thighs cook faster and are more prone to drying out."
+        },
+        {
+            "question": "How long does this chicken dish last in the fridge?",
+            "answer": "Stored properly in airtight containers, it will keep for up to 3 days in the refrigerator."
+        },
+        {
+            "question": "Can I substitute heavy cream with milk?",
+            "answer": "Milk is thinner and may cause the sauce to be less creamy or curdle. Heavy cream is recommended for best texture."
+        },
+        {
+            "question": "How do I get crispy skin on chicken thighs?",
+            "answer": "Pat skin dry, use medium-high heat, and avoid overcrowding the pan. Cook skin-side down first until golden brown and crisp."
+        }
+    ],
+    "conclusion": "This creamy garlic butter chicken thigh recipe brings together simple ingredients with precise technique to create a satisfying meal that comforts and satisfies. I welcome your thoughts or any questions you have after trying it.",
+    "internal_links": [
+        {
+            "anchor": "how to sear chicken properly",
+            "url": "/posts/searing-chicken-techniques"
+        },
+        {
+            "anchor": "understanding cream sauces and emulsification",
+            "url": "/posts/cream-sauces-emulsification"
+        },
+        {
+            "anchor": "choosing the right cut of chicken for recipes",
+            "url": "/posts/chicken-cuts-guide"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_4.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_4.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_5.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_5.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_6.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_6.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_7.webp",
+            "filePath": "posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_7.webp",
+            "relativePath": "creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes/images/creamy-garlic-butter-chicken-thighs-ready-in-just-30-minutes_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "slug": "creamy-garlic-butter-chicken-thighs",
+    "id": "post_1774788118_476",
+    "image": "creamy-garlic-butter-chicken-thighs_image_1.webp",
+    "image_path": "recipes/creamy-garlic-butter-chicken-thighs/images/creamy-garlic-butter-chicken-thighs_image_1.webp",
+    "image_dir": "creamy-garlic-butter-chicken-thighs/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-29T17:20:31+02:00",
+    "updatedAt": "2026-03-29T17:20:31+02:00"
+}
