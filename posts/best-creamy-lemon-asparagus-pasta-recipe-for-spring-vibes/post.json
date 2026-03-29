@@ -1,0 +1,316 @@
+{
+    "title": "Creamy Lemon Asparagus Pasta Recipe",
+    "promptIMG": "Professional food photography prompt: \"creamy lemon asparagus pasta, vibrant green asparagus tips and zest in a creamy sauce, natural lighting, rustic bowl on wooden table, steam rising, fresh herbs scattered, detailed texture of pasta and sauce, sharp focus, appetizing but natural presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A detailed recipe for creamy lemon asparagus pasta that balances bright citrus notes with the fresh crunch of asparagus and a smooth, luscious sauce. This recipe explains ingredient choices and cooking techniques to achieve a satisfying texture and flavor harmony.",
+    "hashtags": "#lemonpasta #asparagusrecipes #springdinner #creamyrecipes #homemadecooking",
+    "pinterest_boards": {
+        "classic": "Spring Pasta Recipes",
+        "header": "Light and Fresh Dinner Ideas",
+        "cinematic": "Seasonal Vegetable Dishes"
+    },
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "servings": 4,
+    "yield": "4 servings",
+    "ingredients": [
+        {
+            "component": "Pasta",
+            "items": [
+                "340g (12 oz) pasta (fettuccine, linguine, or penne)"
+            ]
+        },
+        {
+            "component": "Asparagus and Vegetables",
+            "items": [
+                "450g (1 lb) fresh asparagus, trimmed and cut into 2-inch (5 cm) pieces",
+                "2 cloves garlic, minced",
+                "1 small shallot, finely chopped (optional)"
+            ]
+        },
+        {
+            "component": "Sauce",
+            "items": [
+                "240ml (1 cup) heavy cream (or full-fat coconut milk for dairy-free)",
+                "60ml (1/4 cup) freshly squeezed lemon juice (about 1 large lemon)",
+                "1 tbsp lemon zest (from 1 lemon)",
+                "60g (1/2 cup) grated Parmesan cheese (omit or substitute nutritional yeast for vegan)",
+                "2 tbsp unsalted butter (or olive oil for dairy-free)",
+                "Salt, to taste",
+                "Freshly ground black pepper, to taste"
+            ]
+        },
+        {
+            "component": "Garnish",
+            "items": [
+                "Fresh parsley or basil, chopped (optional)"
+            ]
+        }
+    ],
+    "introduction": "I first made this creamy lemon asparagus pasta during early spring when the first tender asparagus spears appeared at the market. The combination of bright lemon zest and juice with the fresh snap of asparagus felt like a light breath of fresh air after winter’s heavier meals. Over several attempts, I refined the balance so the sauce is rich and silky without overwhelming the delicate vegetable flavors. This recipe works well for casual weeknight dinners or a simple lunch that feels a little special. The lemon adds a vibrant note that cuts through the creaminess, and the asparagus maintains a satisfying crunch that contrasts nicely with the smooth pasta. I often serve it with crusty bread to soak up the sauce and a crisp green salad for contrast.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Balance in Creamy Lemon Asparagus Pasta",
+        "content": "<p>This dish achieves harmony by balancing acidity, richness, and texture. The lemon juice and zest introduce bright acidity that prevents the cream sauce from feeling heavy or one-dimensional. Asparagus adds a fresh, slightly grassy flavor and a firm texture that contrasts with the softness of the pasta and cream.</p><p>Cooking the asparagus just until tender-crisp preserves its natural snap and color, which visually and texturally enlivens the dish. Overcooking turns it mushy and dull. The cream provides a smooth, luscious mouthfeel while the Parmesan cheese adds umami depth and a slight saltiness that rounds out the flavors.</p><p>Using butter or olive oil for sautéing garlic and shallots gently releases their flavors without bitterness. The timing of adding lemon juice at the end preserves its brightness and prevents it from becoming muted by heat. Salt and pepper are adjusted to taste after all ingredients come together, ensuring precise seasoning.</p>",
+        "ingredient_notes": {
+            "asparagus": "Choose fresh, firm asparagus with closed tips and bright green color. Thicker spears can be sliced in half lengthwise for even cooking. Trimming the woody ends ensures tenderness. Cooking asparagus briefly preserves its crunch and vibrant color, which are key to the dish's texture and appeal.",
+            "lemon": "Fresh lemons are essential for vibrant flavor. The zest contains aromatic oils that add complexity beyond acidity. Juice adds brightness but can become bitter if cooked too long, so it's added towards the end. Avoid bottled lemon juice, which lacks freshness and depth.",
+            "heavy cream": "Heavy cream lends richness and a smooth texture. It emulsifies with the lemon juice and cheese to create a silky sauce. For dairy-free versions, full-fat coconut milk works well, though it adds a subtle coconut note. Avoid low-fat dairy, which can curdle or lack creaminess.",
+            "parmesan cheese": "Freshly grated Parmesan adds umami and saltiness, enhancing the sauce’s depth. Pre-grated powders often lack flavor and can be grainy. For vegan adaptations, nutritional yeast provides a cheesy flavor but changes the sauce texture slightly.",
+            "pasta": "Long, flat noodles like fettuccine or linguine hold the sauce well, but short pasta like penne also works. Cooking pasta al dente ensures it maintains a slight bite and doesn’t become mushy when tossed with sauce."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a rolling boil. Add the pasta and cook according to package instructions until al dente, usually 8-10 minutes. Reserve 120ml (1/2 cup) of pasta cooking water before draining.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Pasta is tender but still has a slight firmness when bitten (al dente)."
+        },
+        {
+            "step": 2,
+            "instruction": "While pasta cooks, heat butter or olive oil in a large skillet over medium heat. Add minced garlic and shallot, sautéing gently for 1-2 minutes until fragrant and translucent but not browned.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Garlic aroma is evident; shallots are softened and translucent."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the asparagus pieces to the skillet and sauté for 3-4 minutes, stirring occasionally. The asparagus should turn bright green and become tender but still crisp.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Asparagus changes from dull green to vibrant green and can be pierced with a fork but resists slightly."
+        },
+        {
+            "step": 4,
+            "instruction": "Reduce heat to low and pour in the heavy cream. Stir gently and let it warm for 2-3 minutes without boiling. The sauce will thicken slightly as it heats.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Cream becomes warm and slightly thickened, coating the back of a spoon."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the lemon zest and lemon juice to the skillet. Stir to combine and heat through for 1 minute, keeping the sauce just below a simmer to preserve the lemon's brightness.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce is glossy and aromatic with fresh lemon scent."
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the grated Parmesan cheese until melted and fully incorporated. If the sauce seems too thick, add reserved pasta water a tablespoon at a time to loosen it to desired consistency.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Sauce is smooth, creamy, and coats the asparagus evenly."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the drained pasta to the skillet and toss gently to combine, ensuring the pasta is evenly coated with sauce and asparagus is distributed throughout.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Pasta strands or shapes glisten with sauce; asparagus pieces are visible throughout."
+        },
+        {
+            "step": 8,
+            "instruction": "Season with salt and freshly ground black pepper to taste. Remove from heat and sprinkle with chopped fresh herbs if using. Serve immediately.",
+            "timing": "0 minutes",
+            "doneness_cue": "Final dish is vibrant with contrasting textures and balanced seasoning."
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Trim and cut asparagus to uniform sizes for even cooking.",
+            "reason": "Evenly sized pieces ensure the asparagus cooks consistently, preventing some pieces from being overcooked while others remain tough."
+        },
+        {
+            "tip": "Reserve pasta cooking water before draining.",
+            "reason": "The starchy water helps loosen the sauce without diluting flavor, allowing for better sauce adhesion to pasta."
+        },
+        {
+            "tip": "Add lemon juice at the end, off direct heat if possible.",
+            "reason": "Prolonged cooking of lemon juice can cause bitterness and loss of fresh flavor, so adding it near the end preserves brightness."
+        },
+        {
+            "tip": "Use freshly grated Parmesan instead of pre-grated.",
+            "reason": "Freshly grated cheese melts more smoothly and adds richer umami notes, enhancing the sauce's flavor and texture."
+        },
+        {
+            "tip": "Avoid overcooking asparagus to maintain its crunch and color.",
+            "reason": "Overcooked asparagus becomes mushy and dull in color, reducing the dish’s appeal and contrast in texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the asparagus until soft and limp.",
+            "why_it_happens": "Cooking asparagus too long, especially at high heat, breaks down its structure and dulls its color.",
+            "fix": "Sauté asparagus just until tender-crisp, usually 3-4 minutes, and monitor closely to preserve texture."
+        },
+        {
+            "mistake": "Adding lemon juice too early in the cooking process.",
+            "why_it_happens": "Extended heat exposure causes lemon juice to lose brightness and become bitter.",
+            "fix": "Add lemon juice at the end, stirring gently off direct heat to retain fresh citrus notes."
+        },
+        {
+            "mistake": "Skipping reserving pasta water before draining.",
+            "why_it_happens": "Without pasta water, the sauce may be too thick or not coat the pasta evenly.",
+            "fix": "Always save some pasta water to adjust sauce consistency and improve adhesion."
+        },
+        {
+            "mistake": "Using low-fat cream or milk in place of heavy cream.",
+            "why_it_happens": "Lower fat dairy can curdle when heated and results in a thinner, less creamy sauce.",
+            "fix": "Use heavy cream or a suitable full-fat alternative to ensure a stable, rich sauce."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Lemon Asparagus Pasta",
+            "description": "Use full-fat coconut milk instead of heavy cream and substitute nutritional yeast for Parmesan. Omit butter and use olive oil instead.",
+            "technical_note": "Coconut milk provides creaminess though it adds a subtle coconut flavor. Nutritional yeast adds umami but changes texture slightly."
+        },
+        {
+            "name": "Garlic and Herb Variation",
+            "description": "Increase garlic to 4 cloves and add fresh thyme or tarragon along with parsley for a more aromatic sauce.",
+            "technical_note": "Additional herbs intensify flavor complexity. Add fresh herbs near the end to preserve their brightness."
+        },
+        {
+            "name": "Whole Wheat or Gluten-Free Pasta",
+            "description": "Substitute regular pasta with whole wheat or gluten-free varieties, adjusting cooking time as needed.",
+            "technical_note": "Whole wheat pasta adds nuttiness and fiber but may require slightly longer cooking. Gluten-free pasta varies widely; monitor doneness carefully to avoid mushiness."
+        },
+        {
+            "name": "Add Protein with Grilled Chicken or Shrimp",
+            "description": "Serve pasta topped with grilled chicken slices or sautéed shrimp for a more substantial meal.",
+            "technical_note": "Protein additions complement the creamy lemon sauce without overpowering the fresh asparagus flavor."
+        },
+        {
+            "name": "Spring Vegetable Medley",
+            "description": "Include peas, snap peas, or baby spinach added in the last few minutes of cooking for extra color and nutrients.",
+            "technical_note": "Add delicate vegetables near the end to avoid overcooking and preserve their texture and color."
+        }
+    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 480",
+        "protein_grams": "17g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "20g",
+        "fiber_grams": "5g",
+        "sodium_mg": "400mg",
+        "note": "Values are estimates and may vary based on ingredient brands, specific pasta type, and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Do not leave pasta at room temperature for more than 2 hours to avoid bacterial growth. Serve fresh for best texture.",
+        "refrigerator": "Store leftovers in airtight containers for up to 2 days. Cream-based sauces may thicken and asparagus may soften during storage.",
+        "freezer": "Freezing is not recommended as the cream sauce can separate and asparagus texture degrades.",
+        "reheating": "Reheat gently in a skillet over low heat, adding a splash of water or cream to loosen the sauce. Avoid microwave reheating which can cause uneven heating and sauce separation.",
+        "make_ahead_strategy": "Prepare the sauce and asparagus separately and refrigerate. Reheat and toss with freshly cooked pasta just before serving to maintain texture and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I make creamy lemon asparagus pasta ahead of time?",
+            "answer": "You can prepare components like the sauce and asparagus in advance and store them separately. Toss with freshly cooked pasta just before serving for best texture."
+        },
+        {
+            "question": "Why is my sauce curdling when I add lemon juice?",
+            "answer": "Adding lemon juice to boiling cream can cause curdling. To prevent this, add lemon juice off the heat or at very low heat and stir gently."
+        },
+        {
+            "question": "Can I use frozen asparagus instead of fresh?",
+            "answer": "Frozen asparagus can be used but tends to be softer and less crisp. Thaw and drain well before sautéing to avoid excess moisture in the sauce."
+        },
+        {
+            "question": "How long does leftover creamy lemon asparagus pasta last in the fridge?",
+            "answer": "Store leftovers in an airtight container and consume within 2 days for best quality and safety."
+        },
+        {
+            "question": "Can I substitute heavy cream with milk or yogurt?",
+            "answer": "Milk is too thin and may not provide the same richness; yogurt can curdle when heated. Heavy cream or full-fat alternatives are recommended for a stable, creamy sauce."
+        },
+        {
+            "question": "What pasta type works best with this sauce?",
+            "answer": "Long, flat pasta like fettuccine or linguine works well to hold the sauce, but short pasta like penne is also suitable. Cook according to package instructions for al dente texture."
+        }
+    ],
+    "conclusion": "This creamy lemon asparagus pasta combines simple ingredients to create a dish that feels fresh and comforting. I welcome your thoughts or any adjustments you've tried—feel free to share your experience in the comments below.",
+    "internal_links": [
+        {
+            "anchor": "how to cook perfect al dente pasta",
+            "url": "/posts/cooking-perfect-al-dente-pasta"
+        },
+        {
+            "anchor": "tips for sautéing vegetables to retain texture",
+            "url": "/posts/sautéing-vegetables-texture-tips"
+        },
+        {
+            "anchor": "using citrus in savory dishes",
+            "url": "/posts/citrus-in-savory-cooking"
+        }
+    ],
+    "category_id": "cat_1761229889_900",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_1.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_1.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_2.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_2.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_3.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_3.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_1.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_1.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_2.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_2.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_3.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_3.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_4.webp",
+            "filePath": "posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_4.webp",
+            "relativePath": "best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes/images/best-creamy-lemon-asparagus-pasta-recipe-for-spring-vibes_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "slug": "creamy-lemon-asparagus-pasta",
+    "id": "post_1774673970_296",
+    "image": "creamy-lemon-asparagus-pasta_image_1.webp",
+    "image_path": "recipes/creamy-lemon-asparagus-pasta/images/creamy-lemon-asparagus-pasta_image_1.webp",
+    "image_dir": "creamy-lemon-asparagus-pasta/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-29T16:38:41+02:00",
+    "updatedAt": "2026-03-29T16:38:41+02:00"
+}
