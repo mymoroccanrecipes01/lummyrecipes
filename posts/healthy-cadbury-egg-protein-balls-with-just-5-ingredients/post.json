@@ -1,204 +1,210 @@
 {
-    "title": "Protein Balls Inspired by Cadbury Eggs: A Simple High-Protein Snack",
-    "promptIMG": "Professional food photography prompt: \"close-up of homemade protein balls inspired by Cadbury eggs, natural lighting, textured surface showing creamy filling and chocolate coating, rustic kitchen background, focus on texture and color contrast, no artificial enhancement, balanced sharpness and depth of field --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Protein Balls Inspired by Cadbury Eggs: A Simple, Nutritious Snack",
+    "promptIMG": "Professional food photography prompt: \"protein balls inspired by Cadbury eggs, arranged on a rustic wooden board, natural light highlighting smooth textures and vibrant colors, close-up showing creamy filling inside, balanced sharp focus, no blur, modern kitchen background, appetizing presentation, natural shadows, documentary food photography style --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "These protein balls offer a straightforward, wholesome twist on the classic Cadbury egg. Made with just five ingredients, they provide a satisfying texture with a creamy center and a subtle, chocolatey exterior. Ideal for quick snacks or post-workout refueling, this recipe is approachable for any home cook seeking a protein boost.",
-    "hashtags": "#proteinballs #healthysnacks #highprotein #postworkout #simplerecipes",
+    "description": "These protein balls offer a straightforward, nutritious snack reminiscent of Cadbury eggs but with a wholesome twist. Made from just five ingredients, they combine creamy textures and subtle sweetness, making them ideal for quick energy boosts or post-exercise recovery.",
+    "hashtags": "#proteinballs #healthysnacks #postworkout #simpleingredients #homemadesnacks",
     "pinterest_boards": {
-        "classic": "Protein Ball Recipes",
-        "header": "Healthy Snack Ideas",
-        "cinematic": "Easy Homemade Protein Snacks"
+        "classic": "Healthy Snack Ideas",
+        "header": "Protein-Packed Snacks",
+        "cinematic": "Easy Homemade Treats"
     },
     "difficulty": "Easy",
-    "prep_time": 15,
+    "prep_time": 10,
     "cook_time": 0,
-    "total_time": 15,
+    "total_time": 10,
     "servings": 12,
-    "yield": "About 12 protein balls",
+    "yield": "12 protein balls",
     "ingredients": [
-        "1 cup (90g) vanilla protein powder (whey or plant-based)",
-        "1/2 cup (120g) natural peanut butter (or almond butter as substitute)",
-        "1/4 cup (60ml) honey or maple syrup",
-        "1/2 cup (85g) dark chocolate chips or chopped dark chocolate (70% cocoa or higher)",
-        "1/4 cup (60ml) coconut cream or full-fat coconut milk"
+        "150g (1 1/4 cups) rolled oats",
+        "100g (1/2 cup) natural peanut butter (or almond butter for substitution)",
+        "60g (1/2 cup) vanilla protein powder",
+        "2 tbsp (30ml) honey or maple syrup",
+        "50g (3 tbsp) white chocolate chips"
     ],
-    "introduction": "I first experimented with protein balls when I wanted a snack that was both quick to prepare and nourishing after my workouts. Inspired by the nostalgic Cadbury egg, this version cuts down the ingredients to just five, focusing on texture and a balance between creamy and slightly firm. The smooth peanut butter pairs with the sweet honey, while the protein powder adds substance without overwhelming flavor. They’re easy to make on a weekday afternoon and keep well for several days, making them a dependable option for a grab-and-go snack or to satisfy a mild sweet craving without reaching for processed treats.",
+    "introduction": "I first experimented with these protein balls during early spring when I was looking for a snack that combined the nostalgic taste of Cadbury eggs with healthier ingredients. What sets this version apart is its simplicity—only five ingredients come together without any baking, making it a quick solution when I need a satisfying, protein-rich bite. The balance of creamy peanut butter with the subtle sweetness of honey and the soft texture of oats reminds me of festive treats but with added nutritional value. These protein balls suit anyone needing a portable snack, whether after a workout or during a busy afternoon. Below, I’ll walk through how to prepare them and why each step matters.",
     "why_this_recipe_works": {
-        "section": "Understanding the Texture and Flavor Balance in These Protein Balls",
-        "content": "<p>This recipe works because it combines ingredients with complementary textures and moisture levels. The protein powder provides structure and a dry base, which the peanut butter and honey bind together, creating a dense but pliable dough. The coconut cream adds moisture and richness, preventing the mixture from becoming too dry or crumbly.</p><p>The coating of melted dark chocolate encapsulates the balls, offering a slight snap when bitten and balancing the sweetness with a subtle bitterness. Since there is no baking involved, the blend relies on the natural emulsifying properties of peanut butter and the binding sweetness of honey to hold the shape firmly.</p><p>Chilling the balls solidifies the fats and helps the chocolate coating set evenly, providing a satisfying mouthfeel reminiscent of the original Cadbury eggs but with a distinct protein-rich profile and cleaner ingredient list.</p>",
+        "section": "Understanding What Makes These Protein Balls Work",
+        "content": "<p>The success of these protein balls relies on the combination of textures and the binding properties of the ingredients. Rolled oats provide a chewy, slightly coarse structure that contrasts with the creamy peanut butter, creating a pleasant mouthfeel. The honey acts as a natural sweetener and also helps bind the mixture together due to its sticky consistency.</p><p>Protein powder adds density and nutritional value, but its dry nature requires balancing with the fats and moisture from the peanut butter and honey to avoid a crumbly texture. White chocolate chips contribute bursts of sweetness and a melt-in-the-mouth softness, mimicking the creamy center of Cadbury eggs.</p><p>Mixing these ingredients without heat preserves their natural flavors and textures, which is why no baking is needed. The cold setting step allows the fats to firm up, making the balls hold their shape and enhancing the eating experience.</p>",
         "ingredient_notes": {
-            "vanilla protein powder": "Choosing a good-quality protein powder is essential because it forms the base of the balls. Vanilla flavor adds subtle sweetness and aroma without overpowering the other ingredients. Plant-based or whey protein powders work; however, plant-based blends might result in a slightly grainier texture due to fiber content.",
-            "natural peanut butter": "Natural peanut butter contains oils that provide moisture and fat, essential for the texture. Avoid varieties with added sugar or hydrogenated oils, as these can change consistency and flavor. Almond butter can be used for a milder taste but may alter firmness slightly.",
-            "honey": "Honey serves as a natural sweetener and binder. Its viscosity helps hold the mixture together while contributing to the chewiness. Maple syrup works as a vegan alternative but may produce a slightly thinner dough, so watch the consistency.",
-            "dark chocolate": "Dark chocolate with a high cocoa percentage adds rich flavor and a firm coating. It melts smoothly and solidifies with a pleasant snap when cooled. Milk chocolate would be sweeter and softer, potentially making the coating less crisp.",
-            "coconut cream": "Coconut cream adds richness and moisture without thinning the dough. It also introduces a subtle tropical flavor that complements the chocolate and peanut butter. Using coconut milk with lower fat content might require reducing the amount slightly to avoid a too-soft mixture."
+            "rolled oats": "Rolled oats provide the base texture, offering chewiness and a mild nutty flavor. Using rolled oats instead of instant oats helps maintain a firmer structure, preventing the balls from becoming too mushy. They also absorb moisture gradually, which is important for binding the ingredients evenly.",
+            "natural peanut butter": "Natural peanut butter contains oils and proteins that act as both flavor and binding agents. Unlike processed peanut butter, it has no added sugars or hydrogenated fats, which keeps the taste fresh and wholesome. The oils soften the mixture, essential for a smooth, cohesive dough.",
+            "vanilla protein powder": "Vanilla-flavored protein powder adds sweetness and enhances the overall flavor profile. It also increases the protein content significantly. Because protein powders vary in texture and moisture absorption, it's important to adjust the amount slightly if your powder is particularly fine or coarse.",
+            "honey": "Honey contributes moisture and stickiness, essential for holding the ingredients together. Its natural sugars add a gentle sweetness that complements the peanut butter and white chocolate. Using maple syrup is a suitable vegan alternative with a similar binding effect.",
+            "white chocolate chips": "White chocolate chips bring creamy sweetness and a contrasting softness. They melt slightly when bitten into, recreating the sensation of a creamy filling. Adding them last and folding gently prevents them from melting prematurely."
         }
     },
     "instructions": [
         {
             "step": 1,
-            "instruction": "In a mixing bowl, combine the vanilla protein powder, natural peanut butter, honey, and coconut cream. Stir thoroughly until the mixture forms a consistent, sticky dough. The texture should be firm enough to hold shape but pliable.",
-            "timing": "5 minutes",
-            "doneness_cue": "Mixture clumps together without excess dryness or stickiness; smooth and uniform texture"
+            "instruction": "In a large mixing bowl, combine the rolled oats, vanilla protein powder, and white chocolate chips. Stir gently to distribute the chocolate chips evenly without breaking them.",
+            "timing": "2 minutes",
+            "doneness_cue": "Oats and protein powder are well mixed with chocolate chips visibly dispersed throughout"
         },
         {
             "step": 2,
-            "instruction": "Using a tablespoon or small cookie scoop, portion the dough and roll into smooth balls with your hands. Aim for even sizes to ensure consistent chilling and coating.",
-            "timing": "5-7 minutes",
-            "doneness_cue": "Balls are well-formed, smooth on the surface, and hold shape without crumbling"
+            "instruction": "Add the natural peanut butter and honey to the dry ingredients. Using a sturdy spoon or your hands, mix until a sticky, uniform dough forms. If the mixture feels too dry, add an extra teaspoon of honey or a small splash of water to achieve cohesion.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Mixture clumps together easily and holds shape when pressed; no dry patches remain"
         },
         {
             "step": 3,
-            "instruction": "Place the protein balls on a parchment-lined tray and refrigerate for 15 minutes to firm up slightly before coating.",
-            "timing": "15 minutes",
-            "doneness_cue": "Balls feel cool and slightly firmer to the touch, ready for chocolate coating"
+            "instruction": "Scoop out portions of the dough and roll them between your palms into balls roughly 1.5 inches (4cm) in diameter. Place the formed balls on a parchment-lined tray or plate.",
+            "timing": "3 minutes",
+            "doneness_cue": "Balls are smooth, compact, and hold their shape without crumbling"
         },
         {
             "step": 4,
-            "instruction": "While the balls chill, melt the dark chocolate gently using a double boiler or microwave in 20-second intervals, stirring between each until smooth and glossy.",
-            "timing": "3-5 minutes",
-            "doneness_cue": "Chocolate is fully melted with no lumps or graininess"
+            "instruction": "Refrigerate the protein balls for at least 30 minutes to firm up. This chilling step solidifies the fats in peanut butter and honey, enhancing texture and preventing stickiness during handling.",
+            "timing": "30 minutes",
+            "doneness_cue": "Balls feel firm to touch and maintain shape when picked up"
         },
         {
             "step": 5,
-            "instruction": "Dip each chilled protein ball into the melted chocolate, coating evenly. Use a fork to lift and gently tap off excess chocolate before placing the ball back on the parchment paper.",
-            "timing": "10 minutes",
-            "doneness_cue": "Balls are fully coated with a thin, even layer of chocolate"
-        },
-        {
-            "step": 6,
-            "instruction": "Return the coated balls to the refrigerator for at least 30 minutes to allow the chocolate to set completely.",
-            "timing": "30 minutes",
-            "doneness_cue": "Chocolate coating is firm and snaps gently when touched"
-        },
-        {
-            "step": 7,
-            "instruction": "Serve chilled or store in an airtight container in the refrigerator until ready to eat.",
+            "instruction": "Serve the protein balls chilled or at room temperature. Store leftovers in an airtight container in the refrigerator.",
             "timing": "0 minutes",
-            "doneness_cue": "Balls maintain shape and texture, with firm chocolate exterior and creamy interior"
+            "doneness_cue": "Balls retain shape and texture, white chocolate chips remain intact"
         }
     ],
     "pro_tips": [
         {
-            "tip": "Dry ingredients like protein powder vary in absorbency; adjust the amount of coconut cream or peanut butter slightly to achieve a pliable dough.",
-            "reason": "Protein powders from different brands or types (whey vs plant-based) absorb moisture differently. Adding too much liquid makes the dough sticky and hard to shape; too little makes it crumbly."
+            "tip": "Use natural peanut butter without added sugar or hydrogenated oils.",
+            "reason": "Natural peanut butter provides better flavor and texture, and the natural oils help bind the mixture without making it overly greasy."
         },
         {
-            "tip": "Chill the balls before dipping in chocolate to prevent melting and ensure a smooth coating.",
-            "reason": "If the balls are too warm, the chocolate will melt unevenly or slide off, resulting in a messy finish. Cooling firms the balls to withstand the dipping process."
+            "tip": "Patience with chilling is key.",
+            "reason": "Allowing the balls to firm up in the refrigerator prevents them from sticking to your hands and ensures a pleasant bite with a balanced texture."
         },
         {
-            "tip": "Use a fork to lift balls out of melted chocolate and tap gently to remove excess coating.",
-            "reason": "This prevents thick, uneven chocolate layers which can be clumpy or take longer to set. A thin coating provides a pleasant snap without overpowering the texture."
+            "tip": "Fold in white chocolate chips last and gently.",
+            "reason": "This prevents the chips from melting prematurely or breaking apart, preserving their texture and appearance."
         },
         {
-            "tip": "Store the finished protein balls in a single layer or separated by parchment paper to avoid sticking together.",
-            "reason": "The chocolate coating can become sticky at warmer temperatures and cause balls to clump. Proper storage preserves their shape and texture."
+            "tip": "Adjust honey slightly depending on your protein powder's dryness.",
+            "reason": "Some protein powders absorb more moisture; adding a little extra honey or a splash of water helps keep the mixture cohesive without becoming too sticky."
         },
         {
-            "tip": "If the chocolate begins to harden while dipping, gently reheat it in short bursts to maintain a smooth consistency.",
-            "reason": "Chocolate can seize or thicken if left at room temperature too long. Regular stirring and gentle reheating ensure an even coating."
+            "tip": "Use rolled oats instead of instant oats.",
+            "reason": "Rolled oats maintain a better texture and structure, preventing the balls from becoming too soft or mushy."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Using protein powder that’s too coarse or grainy without mixing well.",
-            "why_it_happens": "Some protein powders don’t dissolve or blend easily, leading to a gritty texture.",
-            "fix": "Mix thoroughly and consider sifting protein powder before combining. Using a spoon or spatula with some pressing helps integrate ingredients better."
+            "mistake": "Using crunchy or overly oily peanut butter.",
+            "why_it_happens": "Crunchy peanut butter adds unwanted texture, and excess oil can make the mixture greasy and difficult to form into balls.",
+            "fix": "Choose smooth, natural peanut butter and stir well before measuring to ensure consistent texture."
         },
         {
-            "mistake": "Skipping the chilling step before dipping in chocolate.",
-            "why_it_happens": "Rushing to coat warm balls causes chocolate to melt unevenly and drip off.",
-            "fix": "Chill balls firmly in the refrigerator for at least 15 minutes before coating to ensure they hold their shape."
+            "mistake": "Skipping the refrigeration step.",
+            "why_it_happens": "Without chilling, the balls remain soft and sticky, making them hard to handle and causing them to lose shape easily.",
+            "fix": "Allow at least 30 minutes in the refrigerator to let the mixture firm up properly."
         },
         {
-            "mistake": "Adding too much liquid coconut cream or syrup, resulting in sticky, unshapable dough.",
-            "why_it_happens": "Liquid amounts vary; too much moisture loosens the dough, preventing it from rolling into balls.",
-            "fix": "Add liquids gradually and stop when dough holds together but isn’t sticky. If too wet, add small amounts of protein powder or peanut butter to firm up."
+            "mistake": "Adding too much protein powder at once.",
+            "why_it_happens": "Protein powder is dry and can absorb moisture, making the mixture crumbly if too much is used without adjusting wet ingredients.",
+            "fix": "Add protein powder gradually and adjust honey or peanut butter quantities to maintain a sticky, cohesive dough."
         },
         {
-            "mistake": "Not tapping off excess chocolate after dipping.",
-            "why_it_happens": "Thick chocolate coats take longer to set and can become clumpy or uneven.",
-            "fix": "Use a fork and tap lightly to remove excess chocolate, ensuring a thin, smooth coating."
+            "mistake": "Mixing white chocolate chips too vigorously.",
+            "why_it_happens": "Excessive mixing breaks the chips, leading to uneven texture and melted spots in the mixture.",
+            "fix": "Fold chips in gently at the end of mixing to keep them intact."
         }
     ],
     "variations": [
         {
-            "name": "Vegan Protein Balls",
-            "description": "Use plant-based vanilla protein powder, replace honey with maple syrup, and ensure peanut butter is natural and unsweetened.",
-            "technical_note": "Replacing honey with maple syrup slightly reduces binding strength, so chill the dough longer before shaping to maintain firmness."
+            "name": "Vegan Version",
+            "description": "Use maple syrup instead of honey and substitute peanut butter with almond or sunflower seed butter.",
+            "technical_note": "Maple syrup provides a similar binding effect and sweetness, while seed butters maintain fat content and texture, ensuring the balls hold together well."
         },
         {
-            "name": "Chocolate Peanut Butter Protein Balls",
-            "description": "Add 2 tablespoons (12g) unsweetened cocoa powder to the dough for a richer chocolate flavor inside the balls.",
-            "technical_note": "Adding cocoa powder increases dryness; compensate with a slight increase in coconut cream or peanut butter to keep dough pliable."
+            "name": "Chocolate Protein Balls",
+            "description": "Add 2 tbsp (15g) unsweetened cocoa powder to the dry ingredients and replace white chocolate chips with dark chocolate chips.",
+            "technical_note": "Cocoa powder adds a rich chocolate flavor and deepens color; dark chocolate chips provide a slightly bitter contrast to the sweetness."
         },
         {
-            "name": "Nut-Free Version",
-            "description": "Replace peanut butter with sunflower seed butter and ensure protein powder is nut-free.",
-            "technical_note": "Sunflower seed butter has a similar fat content and moisture but may impart a slightly different flavor and color."
+            "name": "Nut-Free Option",
+            "description": "Replace peanut butter with sunflower seed butter and use oat-based protein powder if needed to avoid nuts entirely.",
+            "technical_note": "Sunflower seed butter offers similar fat and binding properties, maintaining texture and flavor without nut allergens."
         },
         {
-            "name": "Spiced Protein Balls",
-            "description": "Add 1/2 teaspoon ground cinnamon and a pinch of nutmeg to the dough for a warm, aromatic twist.",
-            "technical_note": "Spices do not affect texture but enhance flavor complexity, especially good for autumn or winter snacks."
+            "name": "Seasonal Spice Addition",
+            "description": "Incorporate 1 tsp ground cinnamon and 1/4 tsp ground nutmeg into the dry mix for a warm, seasonal twist.",
+            "technical_note": "Spices complement the sweetness and add aromatic depth without altering the binding or texture significantly."
+        },
+        {
+            "name": "Add Dried Fruit",
+            "description": "Fold in 50g finely chopped dried cranberries or raisins along with the white chocolate chips for added chewiness and tartness.",
+            "technical_note": "Dried fruit introduces a contrasting texture and natural sweetness, balancing the creamy and nutty elements."
         }
     ],
     "nutrition": {
         "servings": 12,
         "calories_per_serving": "approximately 150",
-        "protein_grams": "10g",
-        "carbohydrates_grams": "12g",
+        "protein_grams": "7g",
+        "carbohydrates_grams": "14g",
         "fat_grams": "7g",
         "fiber_grams": "2g",
-        "sodium_mg": "80mg",
-        "note": "Values are estimates and may vary depending on specific ingredient brands and portion sizes."
+        "sodium_mg": "70mg",
+        "note": "These values are estimates and may vary depending on specific ingredient brands and measurements used."
     },
     "storage_and_reheating": {
-        "room_temperature": "Protein balls can be kept at room temperature for up to 4 hours in a cool place but are best refrigerated to maintain shape and freshness.",
-        "refrigerator": "Store in an airtight container for up to 7 days. The chocolate coating remains firm and the interior stays moist and fresh.",
-        "freezer": "Freeze in a sealed container or bag for up to 1 month. Thaw in the refrigerator for 1-2 hours before serving to avoid condensation affecting the chocolate coating.",
-        "reheating": "No reheating necessary. Serve chilled or at room temperature. If preferred, allow to sit out for 10 minutes to soften slightly.",
-        "make_ahead_strategy": "Prepare the dough and shape balls up to 2 days ahead, keep refrigerated without coating. Dip in chocolate just before serving or storing to maintain freshness."
+        "room_temperature": "Protein balls can be kept at room temperature for up to 24 hours if covered to avoid drying out. However, they may become softer in warmer environments.",
+        "refrigerator": "Store in an airtight container in the refrigerator for up to 7 days. Chilling maintains firmness and freshness.",
+        "freezer": "Freeze protein balls for up to 1 month in a sealed container or freezer bag. Thaw in the refrigerator overnight before serving.",
+        "reheating": "No reheating is necessary. If desired, allow balls to come to room temperature for 10-15 minutes before eating for softer texture.",
+        "make_ahead_strategy": "Prepare the mixture and form balls up to 24 hours in advance. Keep them refrigerated until ready to serve to maintain texture and flavor."
     },
     "faq": [
         {
             "question": "Can I make these protein balls ahead of time?",
-            "answer": "Yes, you can prepare the dough and shape balls a day or two ahead. Keep them refrigerated and coat with chocolate shortly before serving or storing."
+            "answer": "Yes, you can prepare and shape the balls up to 24 hours in advance. Store them in the refrigerator to keep them firm and fresh."
         },
         {
             "question": "Why are my protein balls crumbly and falling apart?",
-            "answer": "This usually happens if there's too little moisture or binding ingredients. Adjust by adding a bit more peanut butter or coconut cream to achieve a cohesive dough."
+            "answer": "This usually means there isn’t enough moisture or binding agent. Try adding a bit more honey or peanut butter to achieve a sticky, cohesive mixture."
         },
         {
-            "question": "Can I use almond butter instead of peanut butter?",
-            "answer": "Yes, almond butter works well but may result in a slightly softer texture and milder flavor. Adjust moisture if needed."
+            "question": "Can I use a different nut butter instead of peanut butter?",
+            "answer": "Yes, almond butter or sunflower seed butter can be used with similar results. Keep in mind texture and flavor will vary slightly."
         },
         {
             "question": "How long do protein balls last in the fridge?",
-            "answer": "Stored in an airtight container, they keep fresh for up to 7 days with their texture and flavor intact."
+            "answer": "Stored in an airtight container, they stay fresh for up to 7 days in the refrigerator."
         },
         {
-            "question": "Can I skip the chocolate coating?",
-            "answer": "Absolutely. The dough itself is flavorful and holds well without coating, but the chocolate adds texture contrast and depth."
+            "question": "Can I freeze these protein balls?",
+            "answer": "Yes, freeze them for up to 1 month. Thaw overnight in the refrigerator before serving for best texture."
+        },
+        {
+            "question": "Is it necessary to refrigerate the protein balls?",
+            "answer": "Refrigeration helps maintain firmness and prevents stickiness, especially in warm climates, but they can be kept at room temperature for short periods."
         }
     ],
-    "conclusion": "These protein balls offer a straightforward way to enjoy a nutritious snack inspired by a classic treat. I welcome your thoughts or any variations you try—feel free to share your experience in the comments.",
+    "conclusion": "These protein balls offer a straightforward way to enjoy a nutritious snack with minimal effort and ingredients. I welcome any feedback or variations you try—feel free to share your experiences in the comments below.",
     "internal_links": [
         {
-            "anchor": "simple healthy snack recipes",
-            "url": "/posts/simple-healthy-snacks"
+            "anchor": "healthy no-bake snacks",
+            "url": "/posts/healthy-no-bake-snacks"
         },
         {
-            "anchor": "understanding protein powders and their uses",
-            "url": "/posts/protein-powder-guide"
+            "anchor": "how to choose protein powder",
+            "url": "/posts/protein-powder-selection-guide"
         },
         {
-            "anchor": "homemade chocolate coating techniques",
-            "url": "/posts/homemade-chocolate-coating"
+            "anchor": "nut butters: selection and uses",
+            "url": "/posts/nut-butters-guide"
         }
     ],
-    "category_id": "cat_1761230221_583",
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "healthy-cadbury-egg-protein-balls-with-just-5-ingredients_image_1.webp",
@@ -250,36 +256,27 @@
             "type": "template"
         }
     ],
-    "slug": "healthy-cadbury-egg-protein-balls-with-just-5-ingredients",
+    "slug": "protein-balls-inspired-by-cadbury-eggs",
     "id": "post_1774564776_417",
-    "image": "healthy-cadbury-egg-protein-balls-with-just-5-ingredients_image_1.webp",
-    "image_path": "posts/healthy-cadbury-egg-protein-balls-with-just-5-ingredients/images/healthy-cadbury-egg-protein-balls-with-just-5-ingredients_image_1.webp",
-    "image_dir": "healthy-cadbury-egg-protein-balls-with-just-5-ingredients/images",
-    "generated_from_text": true,
+    "image": "protein-balls-inspired-by-cadbury-eggs_1.webp",
+    "image_path": "recipes/protein-balls-inspired-by-cadbury-eggs/images/protein-balls-inspired-by-cadbury-eggs_1.webp",
+    "image_dir": "protein-balls-inspired-by-cadbury-eggs/images",
+    "generated_from_text": false,
     "has_rich_structure": true,
-    "createdAt": "2026-03-27T00:05:22+01:00",
-    "updatedAt": "2026-03-27T00:05:22+01:00",
-    "generation_metadata": {
-        "voice": "Storyteller",
-        "complexity": "simple",
-        "target_words": "1800-2200",
-        "temperature": 0.7,
-        "generated_at": "2026-03-26 23:40:49"
-    },
-    "author_id": "author_001",
-    "board_name": "Protein Ball Recipes",
+    "createdAt": "2026-03-29T15:07:41+02:00",
+    "updatedAt": "2026-03-29T15:07:41+02:00",
     "pin_variations": [
         {
-            "title": "Easy High-Protein Cadbury Egg Inspired Snack Balls",
-            "description": "Boost your energy with these simple protein balls inspired by Cadbury Eggs! Made with just 5 wholesome ingredients, they offer a creamy center and chocolatey exterior perfect for quick snacks or post-workout fuel. Try this easy, delicious treat today! #ProteinBalls #HealthySnacks #PostWorkoutFuel #HighProtein #EasyRecipes"
+            "title": "Delicious 5-Ingredient Protein Balls Inspired by Cadbury Eggs",
+            "description": "Try these healthy Cadbury Egg Protein Balls made with just 5 simple ingredients! Perfect for a quick snack or post-workout boost. Packed with protein and flavor, they're the ultimate guilt-free treat. #ProteinBalls #HealthySnacks #CadburyEggInspired #FitnessFood #EasyRecipes"
         },
         {
-            "title": "Wholesome Protein Balls with a Creamy Chocolate Twist",
-            "description": "Discover a tasty, high-protein snack with these Cadbury Egg-inspired protein balls. Creamy, chocolatey, and packed with nutrition, they're perfect for on-the-go energy or a satisfying treat. Simple to make and delicious every time! #ProteinSnack #HealthyEating #ChocolateLovers #SnackIdeas #HighProtein"
+            "title": "Quick & Healthy Cadbury Egg Protein Balls with 5 Ingredients",
+            "description": "Fuel your day with these easy, nutritious Cadbury Egg Protein Balls! Made using only five ingredients, they’re packed with protein and perfect for on-the-go energy. Ideal for snack lovers and fitness enthusiasts alike. #HealthyEating #ProteinSnack #CadburyEgg #CleanEating #EasyProteinBalls"
         },
         {
-            "title": "Quick Protein Balls Inspired by Cadbury Eggs for Busy Days",
-            "description": "Need a quick, protein-packed snack? These protein balls inspired by Cadbury Eggs are easy to make with five ingredients, delivering a creamy and chocolatey bite. Perfect for busy schedules and workout recovery! #ProteinBalls #QuickSnack #HealthyRecipes #ChocolateSnack #FitnessFuel"
+            "title": "5-Ingredient Protein Balls: A Healthy Twist on Cadbury Eggs",
+            "description": "Enjoy a healthier take on Cadbury Eggs with these protein-packed balls using just five ingredients! Perfect for quick snacks or post-gym recovery, these treats are simple, delicious, and nutritious. #ProteinBalls #HealthyTreats #PostWorkoutSnack #CadburyEggInspired #SimpleRecipes"
         }
     ]
 }
