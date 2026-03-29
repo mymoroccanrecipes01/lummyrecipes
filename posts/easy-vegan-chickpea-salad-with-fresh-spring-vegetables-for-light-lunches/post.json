@@ -1,0 +1,286 @@
+{
+    "title": "Vegan Chickpea Salad with Zesty Lemon Dressing",
+    "promptIMG": "Professional food photography prompt: \"fresh vegan chickpea salad in a clear glass bowl, vibrant colors of chickpeas, cucumbers, tomatoes, and herbs, natural window lighting, rustic wooden table background, sharp focus on textures and freshness, documentary style, no artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A detailed recipe for a vegan chickpea salad that balances crisp vegetables with a bright lemon dressing. This salad combines plant-based protein and fresh flavors, ideal for light lunches and springtime meals.",
+    "hashtags": "#veganchickpeasalad #plantbasedlunch #springrecipes #healthyvegan #freshsalad",
+    "pinterest_boards": {
+        "classic": "Vegan Salad Recipes",
+        "header": "Light and Fresh Lunch Ideas",
+        "cinematic": "Seasonal Vegan Dishes"
+    },
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 4,
+    "yield": "4 servings",
+    "ingredients": [
+        {
+            "component": "Salad",
+            "items": [
+                "2 cups (330g) cooked chickpeas (or 1 can, rinsed and drained)",
+                "1 medium cucumber (200g), diced",
+                "1 cup (150g) cherry tomatoes, halved",
+                "1/2 small red onion (50g), finely chopped",
+                "1/4 cup (10g) fresh parsley, chopped",
+                "1/4 cup (10g) fresh mint, chopped",
+                "1 medium red bell pepper (150g), diced"
+            ]
+        },
+        {
+            "component": "Dressing",
+            "items": [
+                "3 tablespoons (45ml) fresh lemon juice",
+                "2 tablespoons (30ml) extra virgin olive oil",
+                "1 teaspoon (5g) Dijon mustard",
+                "1 garlic clove, minced",
+                "1/2 teaspoon (2g) ground cumin",
+                "Salt to taste (start with 1/4 teaspoon)",
+                "Freshly ground black pepper, to taste"
+            ]
+        }
+    ],
+    "introduction": "I often prepare this vegan chickpea salad during spring when fresh vegetables are abundant and the weather calls for lighter meals. The combination of crisp cucumbers, juicy tomatoes, and fragrant herbs creates a refreshing contrast to the creamy chickpeas. What sets this version apart is the lemon dressing, which adds a subtle tang that brightens every bite without overpowering the natural flavors. Because the chickpeas provide satisfying protein and a pleasant texture, this salad feels substantial yet not heavy. It works well for casual lunches, picnics, or as a side dish alongside grilled vegetables. The balance of textures and flavors in this dish is something I've refined over multiple preparations, ensuring it holds up well even when made ahead.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Balance in Vegan Chickpea Salad",
+        "content": "<p>The success of this salad lies in combining contrasting textures and complementary flavors. Chickpeas bring a creamy, slightly nutty texture that serves as the protein backbone. Their mild flavor allows the fresh vegetables and herbs to shine without competition.</p><p>The diced cucumber and bell pepper add crispness and a refreshing bite, while the cherry tomatoes contribute juiciness and a subtle sweetness. Red onion introduces a mild pungency that cuts through the creaminess, balancing the overall profile.</p><p>The lemon dressing is crucial for tying these elements together. The acidity from the lemon juice brightens the salad, while the olive oil provides a smooth mouthfeel that carries the flavors. Dijon mustard emulsifies the dressing, ensuring the oil and lemon juice combine smoothly rather than separating. The cumin adds a warm, earthy note that deepens the flavor without overwhelming the freshness.</p>",
+        "ingredient_notes": {
+            "chickpeas": "Cooked chickpeas provide plant-based protein and a creamy texture that contrasts well with crisp vegetables. Using canned chickpeas is convenient, but rinsing them thoroughly removes excess sodium and canned flavor, resulting in a cleaner taste.",
+            "lemon juice": "Freshly squeezed lemon juice offers bright acidity that balances the rich olive oil and creamy chickpeas. Bottled lemon juice lacks the same brightness and can taste flat, so fresh juice is preferable for best flavor.",
+            "olive oil": "Extra virgin olive oil adds a fruity, slightly peppery richness that smooths the dressing and enhances mouthfeel. Using a good-quality oil is important as it directly impacts the dressing's flavor.",
+            "Dijon mustard": "This ingredient acts as an emulsifier, helping lemon juice and oil blend into a stable dressing. It also contributes a subtle sharpness that complements the salad's fresh components.",
+            "fresh herbs": "Parsley and mint contribute aromatic freshness and a cooling note, respectively. They lift the salad’s flavor profile and add vibrant green color, which signals freshness visually."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Drain and rinse the chickpeas under cold water if using canned. Pat them dry with paper towels to remove excess moisture. This step helps prevent the salad from becoming watery and ensures the dressing coats the chickpeas evenly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chickpeas feel dry to the touch and separate easily without clumping."
+        },
+        {
+            "step": 2,
+            "instruction": "Prepare the vegetables: dice the cucumber and red bell pepper into roughly 1/2-inch (1.25 cm) pieces, halve the cherry tomatoes, finely chop the red onion, and chop the parsley and mint. Uniform sizing ensures even texture and flavor distribution.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are evenly cut, fresh, and vibrant in color."
+        },
+        {
+            "step": 3,
+            "instruction": "In a small bowl, whisk together the lemon juice, olive oil, Dijon mustard, minced garlic, ground cumin, salt, and pepper until the dressing is smooth and slightly thickened. The mustard helps emulsify the dressing, preventing separation.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dressing appears homogeneous with no visible oil separation, aroma is bright and slightly pungent."
+        },
+        {
+            "step": 4,
+            "instruction": "Combine the chickpeas, diced vegetables, and chopped herbs in a large mixing bowl. Pour the dressing over the salad and toss gently but thoroughly to coat all ingredients evenly. The salad should glisten lightly with dressing without pooling of liquid at the bottom.",
+            "timing": "3 minutes",
+            "doneness_cue": "All components are evenly coated, colors remain vibrant, and the salad has a fresh, inviting appearance."
+        },
+        {
+            "step": 5,
+            "instruction": "Let the salad rest at room temperature for 10-15 minutes before serving to allow flavors to meld. This resting time helps the dressing penetrate the chickpeas and vegetables, softening the onion's sharpness slightly without losing crunch.",
+            "timing": "10-15 minutes",
+            "doneness_cue": "Aromas of lemon, herbs, and cumin become more pronounced, and the salad tastes balanced."
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Pat chickpeas dry before adding to the salad.",
+            "reason": "Removing excess moisture prevents the salad from becoming soggy and helps the dressing adhere better to the chickpeas."
+        },
+        {
+            "tip": "Use fresh lemon juice rather than bottled.",
+            "reason": "Fresh juice has a brighter acidity and cleaner flavor, which lifts the salad’s overall taste."
+        },
+        {
+            "tip": "Chop herbs finely and add them just before tossing.",
+            "reason": "Finely chopped herbs distribute flavor evenly and adding them last preserves their vibrant color and aroma."
+        },
+        {
+            "tip": "Allow the salad to rest briefly before serving.",
+            "reason": "This resting period lets the flavors meld and the dressing infuse into the chickpeas and vegetables, enhancing cohesion without losing texture."
+        },
+        {
+            "tip": "Adjust salt after tossing the salad, not before.",
+            "reason": "Salt can concentrate as the salad rests, so seasoning after mixing prevents over-salting."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using canned chickpeas without rinsing.",
+            "why_it_happens": "People often skip rinsing to save time but canned liquids contain excess sodium and starches that can affect flavor and texture.",
+            "fix": "Rinse chickpeas thoroughly under cold water to remove canning liquid and improve taste and texture."
+        },
+        {
+            "mistake": "Adding too much dressing at once.",
+            "why_it_happens": "Overdressing can make the salad soggy and overpower the fresh flavors.",
+            "fix": "Start with less dressing, toss, then add more gradually to achieve a light, even coating."
+        },
+        {
+            "mistake": "Chopping vegetables unevenly.",
+            "why_it_happens": "Inconsistent sizes cause uneven texture and some bites can be overpowering or under-seasoned.",
+            "fix": "Aim for uniform dice sizes to ensure balanced texture and flavor in every bite."
+        },
+        {
+            "mistake": "Skipping the resting time before serving.",
+            "why_it_happens": "Rushing to eat immediately prevents flavors from melding and can result in a less balanced taste.",
+            "fix": "Allow the salad to sit for 10-15 minutes at room temperature for optimal flavor integration."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Variation",
+            "description": "This salad is naturally gluten-free, but to add some crunch, include toasted gluten-free seeds such as pumpkin or sunflower seeds.",
+            "technical_note": "Seeds add texture without introducing gluten, maintaining the salad’s light profile."
+        },
+        {
+            "name": "Add Avocado for Creaminess",
+            "description": "Dice ripe avocado and fold it in just before serving for a creamy contrast to the crisp vegetables.",
+            "technical_note": "Add avocado last to prevent browning and maintain its texture."
+        },
+        {
+            "name": "Spicy Twist",
+            "description": "Include 1/2 teaspoon of red pepper flakes or finely chopped fresh chili in the dressing for a mild heat that complements the lemon and cumin.",
+            "technical_note": "Adjust spice level to taste; the heat enhances complexity without overwhelming freshness."
+        },
+        {
+            "name": "Seasonal Spring Herbs",
+            "description": "Swap parsley and mint for fresh dill and chives in spring for a delicate, herbaceous note that pairs well with lemon.",
+            "technical_note": "Adjust herb quantities as dill and chives have stronger flavors; use sparingly to avoid overpowering."
+        },
+        {
+            "name": "Add Cooked Quinoa for Extra Protein",
+            "description": "Mix in 1 cup (185g) cooked quinoa to boost protein and add a nutty texture, making the salad more filling.",
+            "technical_note": "Quinoa should be cooled before adding to prevent wilting the vegetables."
+        }
+    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 280",
+        "protein_grams": "11g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "9g",
+        "fiber_grams": "8g",
+        "sodium_mg": "220mg",
+        "note": "Values are estimates and may vary depending on exact ingredient brands and quantities used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the salad at room temperature for up to 2 hours if serving soon. Beyond that, refrigeration is recommended to maintain freshness and safety.",
+        "refrigerator": "Store in an airtight container for up to 2 days. The salad may release some liquid over time; stir gently before serving to redistribute dressing.",
+        "freezer": "Not recommended to freeze this salad, as the fresh vegetables and dressing texture will degrade upon thawing.",
+        "reheating": "No reheating necessary. Serve chilled or at room temperature depending on preference.",
+        "make_ahead_strategy": "Prepare the dressing and chop vegetables separately up to 24 hours ahead. Combine with chickpeas and toss just before serving to maintain texture and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I make this vegan chickpea salad ahead of time?",
+            "answer": "Yes, you can prepare the dressing and chop vegetables in advance. Combine everything and toss the salad shortly before serving to keep the vegetables crisp."
+        },
+        {
+            "question": "Why is my salad watery after storing in the fridge?",
+            "answer": "Vegetables release water when stored. To reduce this, pat them dry before mixing and store the salad in an airtight container. Stir before serving to redistribute moisture."
+        },
+        {
+            "question": "Can I use canned chickpeas without rinsing?",
+            "answer": "It's best to rinse canned chickpeas to remove excess sodium and canning liquid, which can affect flavor and texture."
+        },
+        {
+            "question": "How long does this chickpea salad last in the fridge?",
+            "answer": "Stored in an airtight container, the salad remains fresh for up to 2 days. After that, texture and flavor may decline."
+        },
+        {
+            "question": "Can I substitute lemon juice with vinegar in the dressing?",
+            "answer": "You can use a mild vinegar such as apple cider vinegar as a substitute, but the flavor will be less bright and fresh compared to lemon juice."
+        }
+    ],
+    "conclusion": "This vegan chickpea salad offers a refreshing, balanced combination of textures and flavors that I return to often during warmer months. I welcome your thoughts or questions if you try the recipe—feel free to share your experience in the comments.",
+    "internal_links": [
+        {
+            "anchor": "guide to plant-based protein sources",
+            "url": "/posts/plant-based-protein-guide"
+        },
+        {
+            "anchor": "how to make homemade salad dressings",
+            "url": "/posts/homemade-salad-dressing-techniques"
+        },
+        {
+            "anchor": "seasonal spring vegetable recipes",
+            "url": "/posts/spring-vegetable-recipes"
+        }
+    ],
+    "category_id": "cat_1761229889_900",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_1.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_2.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_3.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_4.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_5.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_6.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_7.webp",
+            "relativePath": "easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches/images/easy-vegan-chickpea-salad-with-fresh-spring-vegetables-for-light-lunches_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "slug": "fresh-vegan-chickpea-salad-with-zesty-lemon-dressing",
+    "id": "post_1774735142_206",
+    "image": "fresh-vegan-chickpea-salad_image_1.webp",
+    "image_path": "recipes/fresh-vegan-chickpea-salad/images/fresh-vegan-chickpea-salad_image_1.webp",
+    "image_dir": "fresh-vegan-chickpea-salad/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-29T16:53:24+02:00",
+    "updatedAt": "2026-03-29T16:53:24+02:00"
+}
