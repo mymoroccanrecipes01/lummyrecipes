@@ -1,0 +1,303 @@
+{
+    "title": "Slow-Cooked Corned Beef with Beer and Spices",
+    "promptIMG": "Professional food photography prompt: \"slow-cooked corned beef, tender slices on rustic wooden board, natural lighting, close-up showing texture and moisture, warm color palette, kitchen setting in background, realistic food textures, no artificial enhancements, depth of field emphasizing meat fibers and glistening surface --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A detailed recipe for slow-cooked corned beef infused with beer and traditional spices. This method ensures tender meat with rich flavor, ideal for family dinners or seasonal celebrations like St. Patrick’s Day.",
+    "hashtags": "#cornedbeef #slowcooking #comfortfood #stpatricksday #beerrecipes",
+    "pinterest_boards": {
+        "classic": "Traditional Corned Beef Recipes",
+        "header": "Slow Cooker Dinners",
+        "cinematic": "Seasonal Comfort Foods"
+    },
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 360,
+    "total_time": 375,
+    "servings": 6,
+    "yield": "Approximately 6 servings of tender corned beef",
+    "ingredients": [
+        "3-4 lbs (1.4-1.8 kg) corned beef brisket, with spice packet",
+        "12 oz (355 ml) beer, preferably a lager or amber ale",
+        "4 cups (960 ml) water",
+        "1 large onion (200 g), peeled and quartered",
+        "4 cloves garlic, peeled and smashed",
+        "2 bay leaves",
+        "10 black peppercorns",
+        "1 tbsp (15 ml) brown sugar",
+        "4 whole cloves",
+        "Optional: 4 large carrots (400 g), peeled and cut into 2-inch (5 cm) pieces",
+        "Optional: 6 medium potatoes (600 g), peeled and halved"
+    ],
+    "introduction": "I first learned to cook corned beef slowly after a chilly autumn afternoon when I wanted something hearty and satisfying for dinner. The gradual simmering in beer and spices transformed the brisket into tender, flavorful slices that practically melt in your mouth. Unlike quick boiling, this slow approach develops a subtle complexity, balancing savory and slightly sweet notes from the brown sugar and spices. This recipe appeals to anyone seeking a comforting meal, especially during colder months or traditional gatherings like St. Patrick’s Day. It’s a hands-off method that fills the kitchen with an inviting aroma and yields consistent results. Let me share how I’ve refined the process to ensure tender meat and a rich broth every time.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Slow-Cooked Corned Beef Process",
+        "content": "<p>This slow-cooked corned beef recipe relies on two main principles: gentle heat over time and flavor infusion. Cooking the brisket at a low temperature for several hours allows the tough connective tissues to break down gradually into gelatin, which keeps the meat moist and tender. Rapid boiling or high heat causes muscle fibers to contract and expel moisture, resulting in dry, chewy meat.</p><p>The addition of beer introduces subtle malt and hop notes that complement the traditional pickling spices. The liquid mixture of water and beer also helps to create a flavorful cooking broth, which can be used later for vegetables or sauces. The slow simmering extracts flavors from the spice packet, onion, and garlic, enriching the meat and broth without overpowering it.</p><p>Adding vegetables near the end preserves their texture and prevents them from becoming mushy. This staged cooking respects the different cooking times of root vegetables and ensures a balanced final dish.</p>",
+        "ingredient_notes": {
+            "corned beef brisket": "Brisket is a well-marbled cut with enough fat and connective tissue to become tender after long cooking. The included spice packet contains traditional pickling spices, which infuse the meat with characteristic flavors during cooking. Selecting a brisket with uniform thickness helps ensure even cooking.",
+            "beer": "Using a lager or amber ale adds depth without bitterness. The beer’s maltiness enhances the meat’s savoriness and contributes subtle sweetness. Avoid heavily hopped or dark stouts, which may overpower the flavor balance.",
+            "brown sugar": "Brown sugar softens the sharpness of the pickling spices and adds a gentle sweetness that balances the savory and slightly tangy notes. It also helps in caramelizing flavors during the simmer.",
+            "vegetables": "Carrots and potatoes are classic accompaniments. Adding them in the last hour of cooking ensures they cook through without disintegrating, maintaining their texture and natural sweetness."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Rinse the corned beef brisket under cold water to remove excess brine and pat dry with paper towels. This reduces surface saltiness and prevents an overly salty final dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Meat surface is damp but not overly wet or slimy."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the brisket in a large heavy-bottomed pot or slow cooker. Add the beer, water, quartered onion, smashed garlic, bay leaves, peppercorns, cloves, brown sugar, and the spice packet that came with the corned beef.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients are evenly distributed and the brisket is mostly submerged in liquid."
+        },
+        {
+            "step": 3,
+            "instruction": "Bring the liquid to a gentle simmer over medium heat, then reduce the heat to low to maintain a very gentle simmer. Cover partially with a lid, leaving a small gap to allow steam to escape.",
+            "timing": "5-10 minutes to reach simmer",
+            "doneness_cue": "Small bubbles occasionally rise to the surface without vigorous boiling."
+        },
+        {
+            "step": 4,
+            "instruction": "Simmer the brisket gently for 3 to 4 hours, turning the meat once or twice during cooking to ensure even tenderness. Avoid boiling, as this will toughen the meat.",
+            "timing": "3-4 hours",
+            "doneness_cue": "Meat is tender when pierced with a fork but still holds its shape."
+        },
+        {
+            "step": 5,
+            "instruction": "If using vegetables, add the carrots and potatoes to the pot during the last hour of cooking. Stir gently to submerge the vegetables in the simmering liquid.",
+            "timing": "1 hour",
+            "doneness_cue": "Vegetables are tender but still hold their shape when pierced with a fork."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the brisket from the pot and let it rest on a cutting board for 10-15 minutes before slicing against the grain. This resting period allows juices to redistribute, preventing dryness.",
+            "timing": "10-15 minutes",
+            "doneness_cue": "Meat surface is no longer steaming, and texture feels firm but yielding to the touch."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve sliced corned beef with cooked vegetables and some of the cooking broth. Optionally, reduce the broth slightly over medium heat for a more concentrated sauce.",
+            "timing": "5-10 minutes if reducing broth",
+            "doneness_cue": "Broth has thickened slightly and aromas are intensified."
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Rinse the corned beef before cooking to control saltiness.",
+            "reason": "The brine used in corned beef curing is very salty. Rinsing reduces surface salt, helping to prevent an overly salty final dish."
+        },
+        {
+            "tip": "Maintain a gentle simmer rather than a boil throughout cooking.",
+            "reason": "Slow, low heat breaks down collagen gradually into gelatin, keeping the meat moist and tender. Boiling contracts muscle fibers, squeezing out moisture and toughening the meat."
+        },
+        {
+            "tip": "Turn the brisket occasionally during cooking.",
+            "reason": "Turning ensures even exposure to the simmering liquid and heat, preventing uneven cooking or drying on one side."
+        },
+        {
+            "tip": "Add vegetables during the last hour of cooking.",
+            "reason": "Vegetables like carrots and potatoes require less time to cook than brisket. Adding them late maintains their texture and prevents them from becoming mushy."
+        },
+        {
+            "tip": "Let the meat rest before slicing.",
+            "reason": "Resting allows juices to redistribute within the meat fibers, resulting in moister slices that hold together better."
+        },
+        {
+            "tip": "Use a heavy-bottomed pot or slow cooker for consistent heat.",
+            "reason": "Even heat distribution prevents hot spots that can cause uneven cooking or burning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking at a rolling boil instead of a gentle simmer.",
+            "why_it_happens": "Higher heat seems to speed up cooking, but boiling toughens meat by contracting muscle fibers and expelling moisture.",
+            "fix": "Adjust heat to maintain small, gentle bubbles on the surface—no vigorous boiling."
+        },
+        {
+            "mistake": "Skipping rinsing of the corned beef before cooking.",
+            "why_it_happens": "Some assume the brine flavor is desirable at full intensity, but it often results in excessive saltiness.",
+            "fix": "Rinse the brisket under cold water and pat dry to reduce surface salt."
+        },
+        {
+            "mistake": "Adding vegetables too early.",
+            "why_it_happens": "Vegetables cook faster than beef and become mushy if left in the pot for the entire cooking time.",
+            "fix": "Add root vegetables during the last hour of cooking to preserve texture."
+        },
+        {
+            "mistake": "Not resting the meat before slicing.",
+            "why_it_happens": "Cutting immediately causes juices to run out, leading to dry slices.",
+            "fix": "Remove from heat and let rest 10-15 minutes before slicing against the grain."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Slow Cooker Corned Beef",
+            "description": "Prepare the corned beef with spices and liquid in a slow cooker. Cook on low for 8-10 hours or high for 4-6 hours until tender.",
+            "technical_note": "Slow cookers maintain low, steady heat ideal for collagen breakdown. This method requires less attention but longer cooking times."
+        },
+        {
+            "name": "Beer-Free Corned Beef",
+            "description": "Replace beer with an equal amount of water or unsalted beef broth for a milder flavor profile.",
+            "technical_note": "Removing beer reduces malt and hop notes but still allows the spices and meat flavor to shine."
+        },
+        {
+            "name": "Spiced Corned Beef with Mustard Seeds",
+            "description": "Add 1 tablespoon of mustard seeds to the cooking liquid along with the other spices for a sharper, aromatic note.",
+            "technical_note": "Mustard seeds release pungent oils that complement the pickling spices, enhancing complexity."
+        },
+        {
+            "name": "Corned Beef with Cabbage",
+            "description": "Add quartered cabbage wedges to the pot during the last 30 minutes of cooking for a traditional accompaniment.",
+            "technical_note": "Cabbage cooks quickly and absorbs the broth’s flavors, providing a tender but structured vegetable addition."
+        },
+        {
+            "name": "Gluten-Free Corned Beef",
+            "description": "Ensure the spice packet and beer used are gluten-free or substitute beer with gluten-free alternatives or broth.",
+            "technical_note": "Most corned beef spices are naturally gluten-free, but beer may contain gluten. Verify labels to maintain dietary restrictions."
+        }
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": "approximately 350",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "18g",
+        "fiber_grams": "2g",
+        "sodium_mg": "900mg",
+        "note": "These values are estimates and may vary depending on the specific cut of brisket and amount of liquid absorbed during cooking. Sodium content is influenced by rinsing and broth composition."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Do not leave cooked corned beef out at room temperature for more than 2 hours to prevent bacterial growth.",
+        "refrigerator": "Store cooled corned beef and vegetables in airtight containers for up to 4 days. The meat will remain tender and flavorful during this time.",
+        "freezer": "Freeze cooked corned beef in freezer-safe containers for up to 3 months. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat with a splash of broth or water to prevent drying. Avoid boiling during reheating to maintain tenderness.",
+        "make_ahead_strategy": "Cook the corned beef fully and refrigerate the meat and broth separately. Reheat gently and add freshly cooked vegetables just before serving to preserve texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make corned beef ahead of time?",
+            "answer": "Yes, corned beef actually benefits from resting overnight in the refrigerator. Flavors meld and the meat firms slightly, making slicing easier."
+        },
+        {
+            "question": "Why is my corned beef tough even after long cooking?",
+            "answer": "This usually happens if the meat was cooked at too high a temperature or boiled vigorously. Maintaining a gentle simmer is key to tenderizing the brisket."
+        },
+        {
+            "question": "Can I use a different beer or substitute with broth?",
+            "answer": "Lager or amber ales are best for subtle flavor. You can substitute with unsalted beef broth or water if you prefer no beer taste."
+        },
+        {
+            "question": "How long does cooked corned beef last in the fridge?",
+            "answer": "Stored properly in airtight containers, cooked corned beef lasts up to 4 days in the refrigerator."
+        },
+        {
+            "question": "Can I cook corned beef in a slow cooker?",
+            "answer": "Yes, slow cookers are excellent for this recipe. Cook on low for 8-10 hours or high for 4-6 hours until tender."
+        },
+        {
+            "question": "Is it necessary to rinse the corned beef before cooking?",
+            "answer": "Rinsing reduces excess surface salt from the brine, helping to control the final saltiness of the dish."
+        }
+    ],
+    "conclusion": "Slow-cooked corned beef is a rewarding dish that fills the kitchen with inviting aromas and yields tender, flavorful meat. I welcome your thoughts or questions about this recipe—feel free to share your experience or adaptations in the comments.",
+    "internal_links": [
+        {
+            "anchor": "slow cooking techniques for tender meat",
+            "url": "/posts/slow-cooking-techniques"
+        },
+        {
+            "anchor": "choosing the right cut for braising",
+            "url": "/posts/braising-meat-cuts-guide"
+        },
+        {
+            "anchor": "understanding pickling spices",
+            "url": "/posts/pickling-spices-guide"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_1.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_1.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_2.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_2.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_3.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_3.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_1.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_1.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_2.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_2.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_3.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_3.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_4.webp",
+            "filePath": "posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_4.webp",
+            "relativePath": "simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner/images/simple-crockpot-corned-beef-with-beer-and-spices-for-a-cozy-dinner_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "slug": "slow-cooked-corned-beef-beer-spices",
+    "id": "post_1774529746_552",
+    "image": "slow-cooked-corned-beef-beer-spices_image_1.webp",
+    "image_path": "recipes/slow-cooked-corned-beef-beer-spices/images/slow-cooked-corned-beef-beer-spices_image_1.webp",
+    "image_dir": "slow-cooked-corned-beef-beer-spices/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-29T01:26:26+01:00",
+    "updatedAt": "2026-03-29T01:26:26+01:00",
+    "pin_variations": [
+        {
+            "title": "Easy Crockpot Corned Beef with Beer & Spices for Flavorful Dinners",
+            "description": "Make dinner effortless with this tender crockpot corned beef recipe infused with beer and aromatic spices. Perfect for St. Patrick’s Day or a cozy family meal! #CrockpotRecipe #CornedBeef #SlowCookerMeals #ComfortFood #EasyDinnerIdeas"
+        },
+        {
+            "title": "Tender Slow-Cooked Corned Beef with Beer – Simple & Delicious!",
+            "description": "Discover how to make juicy, flavorful corned beef in the crockpot using beer and a spice blend. Ideal for festive celebrations or a comforting weeknight dinner. #CornedBeefRecipe #SlowCookerCornedBeef #BeerRecipe #EasyMeals #FamilyDinner"
+        },
+        {
+            "title": "Cozy Crockpot Corned Beef with Spices and Beer – Hands-Off Recipe",
+            "description": "Enjoy a hassle-free slow cooker meal with this spiced corned beef recipe brewed with beer. Perfect for St. Patrick’s Day or any cozy dinner occasion! #SlowCookerRecipe #CrockpotCornedBeef #ComfortMeals #EasyRecipes #StPatricksDayDinner"
+        }
+    ]
+}

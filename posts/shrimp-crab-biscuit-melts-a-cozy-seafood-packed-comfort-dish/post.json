@@ -1,221 +1,279 @@
 {
     "title": "Shrimp and Crab Biscuit Melts with Garlic Butter Sauce",
-    "promptIMG": "Professional food photography prompt: \"golden flaky biscuits split and filled with tender shrimp and crab mix, melted cheese oozing, glossy garlic butter sauce drizzled on top, natural lighting highlighting textures, rustic wooden table background, close-up shot capturing steam and rich colors, realistic food styling without filters --quality 2 --ar 4:3 --stylize 300\"",
+    "promptIMG": "Professional food photography prompt: \"golden flaky biscuits split open revealing creamy shrimp and crab filling with melted cheese, natural light highlighting buttery textures, rustic wooden table background, fresh herbs garnish, sharp focus on seafood texture, inviting and warm atmosphere --no blur, no artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "This recipe brings together tender shrimp and crab mixed with melted cheese inside flaky, buttery biscuits, all enhanced by a quick garlic butter sauce. It’s a comforting dish that balances textures and flavors, ideal for cozy dinners or relaxed weekend brunches.",
-    "hashtags": "#shrimprecipes #seafoodbiscuitmelts #comfortfood #seafooddinner #homemadecooking",
+    "description": "This recipe features flaky, buttery biscuits filled with a tender mixture of shrimp and crab, combined with melted cheese and enhanced by a quick garlic butter sauce. The biscuits balance crisp edges with a soft, flaky interior, while the seafood filling offers a moist, flavorful bite. It's a satisfying dish suited for intimate dinners or relaxed weekend brunches.",
+    "hashtags": "#shrimprecipes #seafoodbiscuits #garlicbuttersauce #homemadebiscuits #comfortfood",
     "pinterest_boards": {
-        "classic": "Comfort Food Dinners",
-        "header": "Seafood Dinner Ideas",
-        "cinematic": "Weekend Brunch Recipes"
+        "classic": "Seafood Appetizers and Snacks",
+        "header": "Brunch and Casual Dinner Ideas",
+        "cinematic": "Cozy Comfort Food Recipes"
     },
-    "difficulty": "Easy",
-    "prep_time": 15,
-    "cook_time": 20,
-    "total_time": 35,
-    "servings": 4,
-    "yield": "Makes 8 biscuit melts",
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 25,
+    "total_time": 45,
+    "servings": 6,
+    "yield": "6 biscuit melts",
     "ingredients": [
-        "8 flaky buttermilk biscuits (store-bought or homemade)",
-        "200g (7 oz) cooked shrimp, peeled and chopped",
-        "150g (5 oz) lump crab meat, drained",
-        "150g (5 oz) shredded sharp cheddar cheese",
-        "4 tbsp (60g) unsalted butter",
-        "3 cloves garlic, minced",
-        "2 tbsp (30ml) fresh parsley, finely chopped",
-        "1 tsp (5ml) lemon juice",
-        "Salt and freshly ground black pepper, to taste"
+        {
+            "component": "Biscuits",
+            "items": [
+                "2 cups (250g) all-purpose flour",
+                "1 tbsp (12g) baking powder",
+                "1 tsp (5g) fine sea salt",
+                "1/2 tsp (2g) baking soda",
+                "6 tbsp (85g) unsalted butter, cold and cubed",
+                "3/4 cup (180ml) buttermilk, cold"
+            ]
+        },
+        {
+            "component": "Seafood Filling",
+            "items": [
+                "8 oz (225g) shrimp, peeled, deveined, and chopped",
+                "6 oz (170g) crab meat, picked over for shells",
+                "1/2 cup (60g) shredded sharp white cheddar cheese",
+                "2 tbsp (30g) mayonnaise",
+                "1 tbsp (15ml) lemon juice, freshly squeezed",
+                "1 small shallot, finely minced",
+                "1 tsp (2g) Old Bay seasoning",
+                "Salt and freshly ground black pepper, to taste"
+            ]
+        },
+        {
+            "component": "Garlic Butter Sauce",
+            "items": [
+                "4 tbsp (60g) unsalted butter",
+                "3 cloves garlic, finely minced",
+                "1 tbsp (15ml) fresh parsley, chopped",
+                "1/4 tsp (1g) smoked paprika (optional)",
+                "Pinch of sea salt"
+            ]
+        }
     ],
-    "introduction": "I first made these shrimp and crab biscuit melts on a chilly weekend morning when I wanted something warm and satisfying without spending hours in the kitchen. The combination of flaky, buttery biscuits and a rich seafood filling made the kitchen smell inviting with hints of garlic and butter. What sets this recipe apart is the simple garlic butter sauce that ties everything together, adding a silky texture and subtle brightness. These biscuit melts work well when you want a cozy dinner or a brunch with friends, especially during cooler months when comfort food feels just right. The melting cheese alongside the tender seafood makes each bite both rich and satisfying, without overwhelming the delicate flavors of the shellfish.",
+    "introduction": "I often turn to this shrimp and crab biscuit melt recipe when I want something comforting yet a bit special, especially on chilly weekend mornings or casual dinners with close friends. The biscuits offer a flaky, buttery exterior that contrasts beautifully with the tender, savory seafood filling. What makes this version stand out is the garlic butter sauce brushed on top, which adds a rich aroma and a subtle depth of flavor that’s hard to replicate. I’ve tested these melts multiple times, adjusting the balance of seafood and seasoning, to ensure each bite feels indulgent but balanced. Whether served alongside a simple salad or as a centerpiece for brunch, these biscuit melts bring a satisfying warmth and texture that feels just right for relaxed gatherings.",
     "why_this_recipe_works": {
-        "section": "Understanding the Ingredients and Techniques Behind These Biscuit Melts",
-        "content": "<p>The key to this recipe’s success lies in balancing textures and flavors. The biscuits need to be flaky and buttery to provide a sturdy but tender base that holds the filling without becoming soggy. Using pre-cooked shrimp and crab allows control over the seafood's texture, ensuring it stays tender rather than rubbery or overcooked.</p><p>The garlic butter sauce is critical for adding moisture and richness. Butter acts as a carrier for the garlic's aroma and flavor, while the lemon juice cuts through the richness, brightening the overall taste. Adding fresh parsley introduces a mild herbaceous note that lifts the dish.</p><p>Melting sharp cheddar cheese inside the biscuit creates a creamy layer that binds the seafood together and adds savory depth. Cheese also contributes fat which slows moisture migration, helping to keep the biscuits from becoming soggy during baking.</p>",
+        "section": "Understanding the Success Behind These Biscuit Melts",
+        "content": "<p>This recipe succeeds by combining two fundamental elements: the texture and structure of the biscuits and the moisture balance in the seafood filling. The biscuits rely on cold butter and just enough liquid to create layers that puff and flake during baking. Cold butter in the dough melts in the oven, releasing steam that forms distinct flaky layers, while the baking powder and soda provide lift and tenderness.</p><p>The seafood filling balances moisture with binding agents like mayonnaise and cheese, preventing it from becoming watery which could make the biscuits soggy. The lemon juice adds brightness, cutting through the richness, while Old Bay seasoning brings a subtle spice and complexity. The garlic butter sauce applied after baking adds a glossy finish and a savory aroma that enhances the overall sensory experience.</p><p>Each step, from chilling the dough to gently folding the filling, is designed to maintain contrast between flaky biscuit layers and a creamy, flavorful filling, ensuring the final dish is both texturally interesting and richly satisfying.</p>",
         "ingredient_notes": {
-            "buttermilk biscuits": "Using flaky buttermilk biscuits is essential; their layered texture offers a tender crumb and buttery flavor. Homemade biscuits allow control over flakiness and freshness, but high-quality store-bought biscuits work well if warmed properly before assembling.",
-            "shrimp": "Pre-cooked shrimp should be peeled, deveined, and chopped into bite-sized pieces. Using fresh shrimp steamed or sautéed just until opaque preserves a tender texture. Overcooked shrimp become tough and chewy, which affects the filling’s pleasant mouthfeel.",
-            "crab meat": "Lump crab meat adds delicate sweetness without overpowering. It should be well-drained to avoid excess moisture that can make the biscuits soggy. Fresh or canned crab meat can be used, but fresh provides a cleaner, less briny flavor.",
-            "garlic butter": "Butter is the flavor base, melting smoothly and carrying the garlic’s aroma. Cooking the garlic gently in butter releases its fragrance without bitterness. The lemon juice added at the end balances the richness and prevents heaviness.",
-            "cheddar cheese": "Sharp cheddar melts well and provides a subtle tang that complements the seafood. Avoid overly processed cheeses which can become oily or rubbery. Shredded natural cheddar integrates smoothly into the filling."
+            "all-purpose flour": "Using all-purpose flour provides the right protein content to develop sufficient gluten for structure, but not so much that the biscuits become tough. Freshly sifted flour ensures lightness in the dough.",
+            "unsalted butter": "Cold, unsalted butter is critical for flaky biscuits. It melts during baking, creating steam pockets that separate dough layers. Salt content control is important to balance overall seasoning with other salted ingredients like cheese.",
+            "shrimp": "Fresh or thawed shrimp chopped into small pieces cook quickly and blend smoothly into the filling. Overcooking shrimp before mixing can lead to rubbery texture, so minimal pre-cooking or quick sautéing is preferred.",
+            "crab meat": "Fresh lump crab meat offers delicate sweetness and a flaky texture. Picking over shells carefully prevents unpleasant bites and maintains smoothness in the filling.",
+            "buttermilk": "Buttermilk’s acidity tenderizes the biscuit dough by breaking down gluten strands slightly, resulting in a tender crumb. Cold buttermilk helps keep butter firm until baking."
         }
     },
     "instructions": [
         {
             "step": 1,
-            "instruction": "Preheat the oven to 190°C (375°F). Slice the biscuits in half horizontally and place the bottoms on a baking sheet lined with parchment paper.",
+            "instruction": "Preheat your oven to 425°F (220°C) and line a baking sheet with parchment paper. This high temperature encourages rapid oven spring, giving the biscuits their characteristic rise and crisp exterior.",
             "timing": "5 minutes",
-            "doneness_cue": "Biscuits should be at room temperature or slightly warmed to prevent cracking when sliced."
+            "doneness_cue": "Oven is fully preheated; air feels dry and hot when opened briefly."
         },
         {
             "step": 2,
-            "instruction": "In a medium skillet, melt the butter over medium-low heat. Add minced garlic and cook gently for about 1-2 minutes, stirring frequently, until fragrant but not browned.",
+            "instruction": "In a large mixing bowl, whisk together the flour, baking powder, baking soda, and salt until evenly combined. This ensures even leavening and seasoning throughout the biscuit dough.",
             "timing": "2 minutes",
-            "doneness_cue": "Garlic aroma should be prominent; butter will be melted and lightly bubbling but not browned."
+            "doneness_cue": "Dry ingredients are uniformly mixed with no visible lumps."
         },
         {
             "step": 3,
-            "instruction": "Remove the skillet from heat and stir in lemon juice and chopped parsley. Season lightly with salt and pepper. This garlic butter sauce will enhance the seafood filling.",
-            "timing": "1 minute",
-            "doneness_cue": "Sauce appears glossy and evenly combined, carrying fresh herb flecks."
+            "instruction": "Add the cold, cubed butter to the flour mixture. Using a pastry cutter or your fingertips, quickly cut the butter into the flour until the mixture resembles coarse crumbs with pea-sized butter pieces visible. These small chunks will create steam pockets for flakiness.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Butter pieces are evenly distributed and still cold; mixture is crumbly but holds together if squeezed."
         },
         {
             "step": 4,
-            "instruction": "In a mixing bowl, combine chopped shrimp, crab meat, shredded cheddar, and half of the garlic butter sauce. Gently toss to coat all ingredients evenly without breaking up the seafood pieces.",
-            "timing": "3 minutes",
-            "doneness_cue": "Filling is uniformly coated with butter sauce, cheese is visible among seafood, mixture looks moist but not wet."
+            "instruction": "Pour the cold buttermilk into the flour-butter mixture. Stir gently with a wooden spoon or spatula until the dough just comes together. Avoid overmixing to prevent tough biscuits.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Dough holds together when pressed but remains slightly sticky and shaggy."
         },
         {
             "step": 5,
-            "instruction": "Spoon the seafood mixture evenly over the biscuit bottoms. Place the biscuit tops over the filling, pressing gently to secure.",
-            "timing": "3 minutes",
-            "doneness_cue": "Biscuit melts are neatly assembled with filling peeking out slightly at edges."
+            "instruction": "Turn the dough onto a lightly floured surface. Pat it into a rough rectangle about 1-inch (2.5 cm) thick. Fold the dough over twice, then gently pat it down again to 1-inch thickness. Repeat this folding two more times to create layers.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough feels smooth and layered; visible lines from folding may appear."
         },
         {
             "step": 6,
-            "instruction": "Brush the remaining garlic butter sauce over the biscuit tops to add shine and flavor. Place the baking sheet in the oven and bake for 12-15 minutes until biscuits are golden brown and cheese inside is melted.",
-            "timing": "12-15 minutes",
-            "doneness_cue": "Biscuits have a golden, flaky crust and the filling inside is bubbly and warm."
+            "instruction": "Using a floured 2.5-inch (6 cm) biscuit cutter, cut out six biscuits without twisting the cutter to avoid sealing edges. Gather scraps gently and repeat to make remaining biscuits. Place biscuits on the prepared baking sheet with edges touching to encourage rise upwards.",
+            "timing": "5 minutes",
+            "doneness_cue": "Six evenly sized biscuit rounds arranged closely on baking sheet."
         },
         {
             "step": 7,
-            "instruction": "Remove from oven and allow to rest for 2-3 minutes before serving. This brief rest lets the filling set slightly for easier eating.",
-            "timing": "2-3 minutes",
-            "doneness_cue": "Steam gently rises from the melts; filling is hot but stable when cut or bitten."
+            "instruction": "Bake biscuits for 12-15 minutes until golden brown on top and bottom. The exterior should be crisp and the interior soft and flaky. Remove from oven and let cool slightly while preparing the filling.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Biscuits have a warm golden hue, edges feel firm, and a hollow sound when tapped."
+        },
+        {
+            "step": 8,
+            "instruction": "While biscuits bake, prepare the seafood filling. In a mixing bowl, combine chopped shrimp, crab meat, shredded cheddar, mayonnaise, lemon juice, minced shallot, Old Bay seasoning, salt, and pepper. Stir gently to combine, maintaining some texture in the seafood.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling is creamy, uniformly mixed, and slightly glossy from mayonnaise."
+        },
+        {
+            "step": 9,
+            "instruction": "Prepare the garlic butter sauce by melting butter in a small saucepan over medium-low heat. Add minced garlic and cook for 1-2 minutes until fragrant but not browned, then stir in parsley, smoked paprika (if using), and a pinch of salt. Remove from heat.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Butter is melted with a gentle garlic aroma, parsley is bright green, and sauce has a smooth texture."
+        },
+        {
+            "step": 10,
+            "instruction": "Carefully slice each biscuit in half horizontally. Spoon the seafood filling onto the bottom halves, then replace the tops. Brush the entire biscuit melt generously with the garlic butter sauce.",
+            "timing": "5 minutes",
+            "doneness_cue": "Biscuits are filled and glossy with butter sauce coating the surface."
+        },
+        {
+            "step": 11,
+            "instruction": "Place the filled biscuit melts on the baking sheet and return to the oven for 5-7 minutes, just until the cheese melts and the filling is warmed through. Remove and serve immediately for best texture and flavor.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Cheese is visibly melted and filling is hot; biscuits remain flaky and crisp."
         }
     ],
     "pro_tips": [
         {
-            "tip": "Use cold butter when making homemade biscuits for better flakiness.",
-            "reason": "Cold butter creates steam pockets during baking, separating dough layers and producing a tender, flaky texture."
+            "tip": "Keep the butter cold until just before mixing into the flour.",
+            "reason": "Cold butter creates steam pockets during baking, which are essential for flaky biscuit layers. If the butter softens, the dough becomes dense and lacks flakiness."
         },
         {
-            "tip": "Drain crab meat thoroughly using paper towels before mixing to avoid soggy filling.",
-            "reason": "Excess moisture in the crab meat can make the biscuits soggy and affect the structure of the melts."
+            "tip": "Do not overmix the dough after adding buttermilk.",
+            "reason": "Overworking develops gluten excessively, resulting in tough biscuits rather than tender, flaky ones."
         },
         {
-            "tip": "Do not overcook garlic in butter; cook just until fragrant to avoid bitterness.",
-            "reason": "Garlic burns quickly and can impart a bitter taste, which would overshadow the delicate seafood flavors."
+            "tip": "Use fresh seafood or properly thawed frozen shrimp and crab.",
+            "reason": "Freshness ensures a delicate texture and natural sweetness. Overcooked or old seafood can become rubbery or bland."
         },
         {
-            "tip": "Warm biscuits slightly before slicing to prevent tearing or crumbling.",
-            "reason": "Cold biscuits are crumbly and difficult to slice cleanly; slight warming softens them just enough for easier handling."
+            "tip": "Brush garlic butter sauce generously and apply it after the first bake.",
+            "reason": "This enhances the biscuit’s flavor and aroma without making the crust soggy, preserving crispness."
         },
         {
-            "tip": "Use sharp cheddar for melting; it adds flavor and melts smoothly without separating.",
-            "reason": "Mild or processed cheeses may not melt evenly and can result in greasy or rubbery textures."
+            "tip": "Serve the biscuit melts immediately after the final bake.",
+            "reason": "The contrast between warm, melty filling and flaky biscuit is most pronounced right after baking; waiting too long can cause the biscuits to soften and lose texture."
         },
         {
-            "tip": "Serve the melts immediately after baking for best texture contrast between crispy biscuits and creamy filling.",
-            "reason": "Delaying serving causes biscuits to soften and filling to cool, reducing the overall appeal."
+            "tip": "If you prefer a spicier filling, increase Old Bay seasoning or add a pinch of cayenne pepper.",
+            "reason": "Adjusting seasoning allows control over flavor intensity without overwhelming the delicate seafood."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Using canned shrimp or crab without draining and drying properly.",
-            "why_it_happens": "Canned seafood often contains liquid and brine, which can add unwanted moisture to the filling.",
-            "fix": "Drain thoroughly and pat dry with paper towels to maintain filling consistency and biscuit texture."
+            "mistake": "Using warm butter or overworking the dough.",
+            "why_it_happens": "Butter softens if left out too long, and overmixing happens when trying to incorporate ingredients quickly.",
+            "fix": "Keep butter chilled and handle dough gently, mixing just until combined."
         },
         {
-            "mistake": "Overcooking the garlic in butter until it browns or burns.",
-            "why_it_happens": "Cooking garlic on too high heat or too long causes it to develop a bitter flavor that overshadows the dish.",
-            "fix": "Cook garlic gently on medium-low heat just until fragrant and remove from heat promptly."
+            "mistake": "Filling biscuits with overly watery seafood mixture.",
+            "why_it_happens": "Seafood releases moisture if pre-cooked improperly or if mayonnaise is too thin.",
+            "fix": "Chop seafood finely, drain well, and use binding ingredients like mayonnaise and cheese to absorb moisture."
         },
         {
-            "mistake": "Skipping the lemon juice in the garlic butter sauce.",
-            "why_it_happens": "Lemon juice brightens the dish and cuts through the richness, but it’s easy to overlook or omit.",
-            "fix": "Add lemon juice at the end of cooking the garlic butter to balance richness and enhance freshness."
+            "mistake": "Skipping the garlic butter sauce or applying it before baking.",
+            "why_it_happens": "Some may overlook this step or apply sauce too early fearing sogginess.",
+            "fix": "Apply garlic butter after the initial bake and before final warming to preserve biscuit texture and enhance flavor."
         },
         {
-            "mistake": "Assembling the melts too far in advance and baking later.",
-            "why_it_happens": "The moisture from the filling starts to soak into the biscuits, making them soggy before baking.",
-            "fix": "Assemble just before baking to keep biscuits flaky and crisp."
+            "mistake": "Baking biscuits at too low a temperature.",
+            "why_it_happens": "Oven temperature may be set incorrectly or not preheated fully.",
+            "fix": "Preheat oven thoroughly to 425°F (220°C) to ensure proper rise and crust formation."
         }
     ],
     "variations": [
         {
             "name": "Gluten-Free Biscuit Melts",
-            "description": "Use gluten-free biscuits made from a blend of rice flour and tapioca starch to maintain flakiness. Ensure all other ingredients are gluten-free.",
-            "technical_note": "Gluten-free biscuits can be slightly denser; warming before slicing helps prevent crumbling during assembly."
+            "description": "Use a gluten-free all-purpose flour blend with xanthan gum instead of regular flour. Adjust liquid slightly as gluten-free flours absorb differently.",
+            "technical_note": "Gluten-free doughs require gentle handling and may not rise as much, but the flavor and filling remain the same."
         },
         {
             "name": "Vegan Version",
-            "description": "Replace shrimp and crab with marinated king oyster mushrooms diced into bite-sized pieces. Use vegan butter and dairy-free cheese alternatives.",
-            "technical_note": "Mushrooms provide a similar texture and umami flavor. Adjust cooking time slightly to avoid over-softening."
+            "description": "Replace butter with vegan margarine, buttermilk with plant-based yogurt thinned with lemon juice, and seafood with seasoned hearts of palm or artichoke hearts. Use vegan cheese alternatives.",
+            "technical_note": "Texture will differ as plant proteins and fats behave differently, but layering and seasoning techniques still apply."
         },
         {
             "name": "Spicy Cajun Biscuit Melts",
-            "description": "Add Cajun seasoning to the seafood mixture and sprinkle sliced jalapeños on top before baking for a spicy kick.",
-            "technical_note": "Balance spice with the richness of butter and cheese by adjusting seasoning to taste."
+            "description": "Add 1 tsp cayenne pepper and 1 tsp smoked paprika to the seafood filling. Use pepper jack cheese instead of cheddar for extra heat.",
+            "technical_note": "Spices should be balanced carefully to not overpower the seafood’s natural sweetness."
         },
         {
-            "name": "Herbed Cheese Blend",
-            "description": "Mix shredded sharp cheddar with grated Parmesan and fresh chives for a more complex cheese flavor inside the melts.",
-            "technical_note": "Parmesan adds saltiness and nuttiness, while chives contribute mild onion notes enhancing overall taste."
+            "name": "Seasonal Herb Variation",
+            "description": "Incorporate fresh tarragon and chives into the seafood filling and garlic butter sauce for a bright, herbal note that complements spring or summer occasions.",
+            "technical_note": "Fresh herbs add aromatic complexity; add them at the end to preserve their flavor."
         },
         {
-            "name": "Seasonal Autumn Biscuit Melts",
-            "description": "Incorporate roasted diced butternut squash or sweet potatoes into the seafood mixture for added sweetness and texture.",
-            "technical_note": "Roasted vegetables should be cooled and drained of excess oil before mixing to avoid greasiness."
+            "name": "Cheesy Bacon Seafood Melts",
+            "description": "Add crisp cooked bacon bits to the seafood filling and use a blend of cheddar and mozzarella cheese for a richer, smokier profile.",
+            "technical_note": "Bacon adds salt and fat, so reduce added salt in the filling accordingly."
         }
     ],
     "nutrition": {
-        "servings": 4,
-        "calories_per_serving": "approximately 550",
-        "protein_grams": "35g",
-        "carbohydrates_grams": "40g",
-        "fat_grams": "28g",
-        "fiber_grams": "2g",
+        "servings": 6,
+        "calories_per_serving": "approximately 380",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "18g",
+        "fiber_grams": "1.5g",
         "sodium_mg": "650mg",
-        "note": "Values are estimates and may vary based on biscuit brand, exact seafood portion sizes, and cheese used."
+        "note": "These values are estimates and may vary based on specific ingredient brands and portion sizes. Using low-fat cheese or butter substitutes will alter fat content."
     },
     "storage_and_reheating": {
-        "room_temperature": "Do not leave biscuit melts out for more than 2 hours after baking to avoid bacterial growth.",
-        "refrigerator": "Store leftovers in an airtight container for up to 2 days. The biscuits will soften but flavors remain intact.",
-        "freezer": "Freezing is not recommended as biscuits lose their flaky texture and become soggy when thawed.",
-        "reheating": "Reheat gently in a 175°C (350°F) oven for 8-10 minutes to restore some crispness to the biscuits. Avoid microwaving as it softens biscuits excessively.",
-        "make_ahead_strategy": "Prepare the seafood filling and garlic butter sauce up to 8 hours ahead and refrigerate separately. Assemble biscuit melts just before baking to retain biscuit flakiness."
+        "room_temperature": "Do not leave biscuit melts at room temperature for more than 2 hours to prevent spoilage, especially due to seafood content.",
+        "refrigerator": "Store cooled biscuit melts in an airtight container in the refrigerator for up to 2 days. To maintain biscuit texture, reheat gently.",
+        "freezer": "Freeze biscuit melts wrapped individually in foil and placed in a freezer-safe bag for up to 1 month. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat in a 350°F (175°C) oven for 10-15 minutes uncovered to restore crispness; avoid microwave reheating which can make biscuits soggy.",
+        "make_ahead_strategy": "Prepare biscuit dough and seafood filling separately up to 24 hours in advance. Refrigerate dough tightly wrapped and filling covered. Assemble and bake fresh to preserve optimal texture."
     },
     "faq": [
         {
             "question": "Can I make these biscuit melts ahead of time?",
-            "answer": "You can prepare the filling and sauce in advance, but assemble and bake the biscuit melts just before serving to keep the biscuits flaky."
+            "answer": "Yes, you can prepare the biscuit dough and seafood filling a day in advance, storing them separately in the refrigerator. Assemble and bake just before serving for best results."
         },
         {
-            "question": "Why is my filling watery after mixing in the seafood?",
-            "answer": "This usually happens if the seafood is not drained or dried properly. Pat dry shrimp and crab to reduce excess moisture."
+            "question": "Why are my biscuits not flaky?",
+            "answer": "This usually happens if the butter was too warm or if the dough was overmixed. Keep butter cold and handle dough gently to create flaky layers."
         },
         {
-            "question": "Can I use fresh raw shrimp instead of pre-cooked?",
-            "answer": "You can, but cook the shrimp gently just until opaque before chopping. Overcooking before baking will make shrimp tough."
+            "question": "Can I use frozen shrimp and crab for the filling?",
+            "answer": "Yes, but make sure to thaw completely and pat dry to avoid excess moisture which can make the filling watery."
         },
         {
             "question": "How long do leftover biscuit melts last in the fridge?",
-            "answer": "Store in an airtight container and consume within 2 days for best texture and flavor."
+            "answer": "Stored properly in an airtight container, they will keep for up to 2 days. Reheat gently to maintain texture."
         },
         {
-            "question": "Can I substitute cheddar with another cheese?",
-            "answer": "Yes, good melting cheeses like Monterey Jack or Gruyère work well, but avoid processed cheeses for best texture."
+            "question": "Can I substitute cheddar cheese with another type?",
+            "answer": "Yes, Monterey Jack, mozzarella, or gouda work well. Choose cheeses that melt smoothly and complement seafood flavors without overwhelming them."
         },
         {
-            "question": "Is there a way to make these biscuit melts spicier?",
-            "answer": "Add finely diced jalapeños or a pinch of cayenne to the filling or sprinkle Cajun seasoning for a spicy flavor."
+            "question": "Is it possible to make this recipe dairy-free?",
+            "answer": "Yes, substitute butter with dairy-free margarine, use plant-based milk or yogurt in the dough, and select vegan cheese alternatives."
         }
     ],
-    "conclusion": "These shrimp and crab biscuit melts combine simple ingredients with thoughtful technique to create a satisfying dish. I welcome any thoughts or modifications you try—feel free to share your experience or questions in the comments below.",
+    "conclusion": "These shrimp and crab biscuit melts bring together buttery, flaky biscuits with a tender, savory seafood filling, all enhanced by a fragrant garlic butter sauce. I welcome your experiences or questions if you try this recipe—feel free to share your thoughts or any variations you enjoy.",
     "internal_links": [
         {
-            "anchor": "how to make flaky buttermilk biscuits",
-            "url": "/posts/homemade-buttermilk-biscuits"
+            "anchor": "how to make flaky biscuits from scratch",
+            "url": "/posts/flaky-biscuits-technique"
         },
         {
-            "anchor": "seafood cooking tips for home cooks",
-            "url": "/posts/seafood-cooking-basics"
+            "anchor": "seafood cooking tips and techniques",
+            "url": "/posts/seafood-cooking-guide"
         },
         {
-            "anchor": "homemade garlic butter sauce recipe",
-            "url": "/posts/garlic-butter-sauce"
+            "anchor": "homemade garlic butter sauce recipes",
+            "url": "/posts/garlic-butter-sauce-variations"
         }
     ],
     "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "medium",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_image_1.webp",
@@ -267,36 +325,27 @@
             "type": "template"
         }
     ],
-    "slug": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish",
+    "slug": "shrimp-crab-biscuit-melts-garlic-butter-sauce",
     "id": "post_1774532581_236",
-    "image": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_image_1.webp",
-    "image_path": "posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_image_1.webp",
-    "image_dir": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images",
+    "image": "shrimp-crab-biscuit-melts_step1.webp",
+    "image_path": "recipes/shrimp-crab-biscuit-melts/images/shrimp-crab-biscuit-melts_step1.webp",
+    "image_dir": "shrimp-crab-biscuit-melts/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-27T00:05:22+01:00",
-    "updatedAt": "2026-03-27T00:05:22+01:00",
-    "generation_metadata": {
-        "voice": "Practical Expert",
-        "complexity": "simple",
-        "target_words": "1800-2200",
-        "temperature": 0.7,
-        "generated_at": "2026-03-26 14:44:36"
-    },
-    "author_id": "author_001",
-    "board_name": "Comfort Food Dinners",
+    "createdAt": "2026-03-29T01:26:26+01:00",
+    "updatedAt": "2026-03-29T01:26:26+01:00",
     "pin_variations": [
         {
-            "title": "Delicious Shrimp & Crab Biscuit Melts with Garlic Butter Sauce",
-            "description": "Savor the perfect blend of tender shrimp, fresh crab, and melted cheese inside flaky biscuits, topped with a rich garlic butter sauce. Ideal for cozy dinners or weekend brunch. Try this savory seafood delight today! #SeafoodRecipes #Biscuits #GarlicButter #ShrimpAndCrab #ComfortFood #BrunchIdeas"
+            "title": "Delicious Shrimp & Crab Biscuit Melts for Ultimate Comfort",
+            "description": "Indulge in these cozy Shrimp & Crab Biscuit Melts filled with gooey cheese and a buttery garlic sauce. Perfect for a seafood-packed dinner or a weekend brunch treat! #SeafoodRecipes #ComfortFood #ShrimpAndCrab #BiscuitMelts #WeekendBrunch"
         },
         {
-            "title": "Seafood Biscuit Melts: Shrimp & Crab with Garlic Butter Sauce",
-            "description": "Indulge in flaky, buttery biscuits stuffed with juicy shrimp and crab, melted cheese, and a flavorful garlic butter drizzle. Perfect for an easy yet impressive meal. Great for seafood lovers! #ShrimpRecipes #CrabRecipes #Biscuits #GarlicButterSauce #ComfortMeals #DinnerIdeas"
+            "title": "Seafood Biscuit Melts: Shrimp & Crab with Garlic Butter Bliss",
+            "description": "Enjoy flaky biscuits stuffed with tender shrimp, crab, and melty cheese, all enhanced by a rich garlic butter sauce. Ideal for a warm, comforting meal any day of the week! #SeafoodLovers #ComfortMeals #BiscuitMelts #ShrimpRecipes #CrabRecipes"
         },
         {
-            "title": "Cozy Shrimp & Crab Biscuit Melts with Garlic Butter Drizzle",
-            "description": "Warm up with these irresistible biscuit melts filled with shrimp, crab, and gooey cheese, all enhanced by a quick garlic butter sauce. A perfect dish for relaxed weekends or special dinners. #SeafoodLovers #BiscuitsRecipe #GarlicButterSauce #ShrimpAndCrab #ComfortFoodIdeas #WeekendBrunch"
+            "title": "Cozy Up with Shrimp & Crab Cheese Biscuit Melts Tonight",
+            "description": "Warm, flaky biscuits loaded with shrimp, crab, and melted cheese, topped with a flavorful garlic butter sauce. A perfect recipe for a cozy dinner or brunch that everyone will love! #ComfortFoodRecipes #SeafoodDinner #BiscuitRecipes #GarlicButter #SeafoodComfort"
         }
     ]
 }
