@@ -1,258 +1,226 @@
 {
-    "title": "Hearty Beef Stew Recipe with Rich Broth and Tender Beef",
-    "promptIMG": "Professional food photography prompt: \"hearty beef stew, served in rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Hearty Lunch Bowls with Simple Pantry Staples and Quick Dressing",
+    "promptIMG": "Professional food photography prompt: \"colorful lunch bowls with fresh vegetables, grains, and protein, natural food photography, sharp focus, vibrant colors, rustic wooden table background, natural window lighting, appetizing yet simple presentation --no blur, bokeh, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "A detailed guide to making beef stew that maximizes flavor through proper browning and manages collagen breakdown for tender meat and a silky broth. This recipe explains the science behind each step, including why specific cuts of beef and timing matter, ensuring a rich and satisfying stew.",
-    "hashtags": "#beefstew #braisedbeef #comfortfood #slowcooking #homemade",
+    "description": "A straightforward recipe for filling lunch bowls made from pantry staples and a quick homemade dressing. Ideal for meal prep, these bowls balance textures and flavors with minimal effort, offering a nutritious and satisfying midday meal.",
+    "hashtags": "#lunchbowls #mealprep #easyrecipes #pantrystaples #quickdressing",
     "pinterest_boards": {
-        "classic": "Hearty Beef Stew Recipes",
-        "header": "Slow Cooker Comfort Food",
-        "cinematic": "Easy Family Dinner Ideas"
+        "classic": "Easy Meal Prep Ideas",
+        "header": "Healthy Lunch Recipes",
+        "cinematic": "Quick and Simple Meals"
     },
-    "difficulty": "Medium",
-    "prep_time": 20,
-    "cook_time": 120,
-    "total_time": 140,
-    "servings": 6,
-    "yield": "Approximately 8 cups of stew, 6 servings",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "servings": 2,
+    "yield": "Two generous lunch bowls",
     "ingredients": [
-        "2 lbs (900g) beef chuck, cut into 1.5-inch (4cm) pieces",
-        "3 tbsp (45ml) neutral oil or bacon fat, divided",
-        "1 large yellow onion (300g), cut into 1-inch (2.5cm) pieces",
-        "4 cloves (20g) garlic, sliced",
-        "2 tbsp (30g) tomato paste",
-        "4 cups (960ml) beef broth, unsalted preferred",
-        "1 cup (240ml) water or additional broth",
-        "2 tsp (10g) fine sea salt, divided",
-        "1/2 tsp (1g) black pepper",
-        "1.5 tsp (3g) dried thyme",
-        "1 tsp (2g) dried rosemary, crushed",
-        "1 bay leaf",
-        "1 tbsp (15ml) Worcestershire sauce",
-        "3 large carrots (350g), cut into 1.5-inch (4cm) pieces",
-        "3 medium potatoes (450g), cut into 1-inch (2.5cm) cubes",
-        "1 cup (150g) frozen peas, added near end",
-        "Optional: 1 tbsp (8g) cornstarch mixed with 2 tbsp (30ml) cold water for thickening"
+        {
+            "component": "Base",
+            "items": [
+                "1 cup (185g) cooked brown rice or quinoa",
+                "1 can (15 oz / 425g) chickpeas, drained and rinsed"
+            ]
+        },
+        {
+            "component": "Vegetables",
+            "items": [
+                "1 cup (120g) cherry tomatoes, halved",
+                "1 medium cucumber (150g), diced",
+                "1/2 red onion (60g), thinly sliced",
+                "1 cup (60g) shredded carrots",
+                "1/2 cup (30g) fresh parsley or cilantro, chopped"
+            ]
+        },
+        {
+            "component": "Quick Dressing",
+            "items": [
+                "3 tbsp (45ml) olive oil",
+                "1 tbsp (15ml) lemon juice",
+                "1 tsp (5ml) honey or maple syrup",
+                "1/2 tsp (2g) Dijon mustard",
+                "1 small garlic clove, minced",
+                "Salt and freshly ground black pepper, to taste"
+            ]
+        }
     ],
-    "introduction": "I’ve been making beef stew for years, and one thing I’ve learned is that the browning phase is crucial. Early on, I used to rush through searing the beef and ended up with a bland stew. When I started giving the beef time to develop a deep golden crust in a hot pan—working in batches to avoid crowding—the flavor improved dramatically. This recipe builds on that technique by combining high heat for browning with a slow, gentle simmer that breaks down collagen into gelatin, resulting in tender meat and a broth that coats the spoon. It’s a recipe I return to in colder months or whenever I want a comforting meal that fills the house with rich aromas and warmth. The layering of flavors and textures makes it a great dish for family dinners or weekend cooking sessions.",
+    "introduction": "When I need a satisfying lunch that doesn’t demand a lot of time or fancy ingredients, these lunch bowls are my reliable choice. I usually prepare them on busy weekdays or when I want a wholesome meal without the fuss. What sets this version apart is the balance between the hearty grains and chickpeas, fresh, crisp vegetables, and a simple, tangy dressing that ties everything together. The colors and textures make the bowl inviting—crunch from cucumbers and carrots, juiciness from cherry tomatoes, and a smooth, zesty dressing that wakes up the palate. This recipe is ideal for anyone looking for a filling, budget-friendly meal that can be adapted easily based on what’s available in the pantry or fridge.",
     "why_this_recipe_works": {
-        "section": "Understanding the Science Behind This Beef Stew",
-        "content": "<p>The two critical transformations that make this beef stew work are the Maillard reaction and collagen breakdown. Browning the beef at high temperature triggers the Maillard reaction, where amino acids and sugars create hundreds of complex flavor compounds. This step gives the stew a deep, savory base that can't be replicated by seasoning alone.</p><p>After browning, the stew simmers gently at a low temperature to break down collagen, a connective tissue abundant in beef chuck. Collagen converts to gelatin over time, which dissolves into the broth, giving it a silky texture and body. Boiling instead of simmering causes muscle fibers to contract, squeezing out moisture and resulting in tough meat. This recipe balances these processes to develop robust flavor and tender beef.</p>",
+        "section": "Understanding the Balance in These Lunch Bowls",
+        "content": "<p>This recipe works because it combines complementary textures and flavors while using straightforward cooking techniques. The base of cooked grains like brown rice or quinoa provides a nutty, slightly chewy texture that holds up well under the dressing without becoming soggy quickly. Chickpeas add protein and a creamy bite, while the fresh vegetables contribute crispness and brightness, balancing the heavier elements.</p><p>The quick dressing emulsifies the olive oil with acidic lemon juice and a touch of sweetness, creating a coating that enhances each ingredient without overpowering them. The garlic and mustard introduce subtle pungency and depth. Preparing the dressing just before assembling ensures it’s fresh and vibrant, which is crucial since it’s the primary flavor driver here.</p><p>Altogether, this combination yields a bowl that feels substantial but remains light and refreshing, making it satisfying for lunch without heaviness. The recipe’s flexibility also means you can adjust components to your taste or seasonal availability, which keeps it approachable and practical.</p>",
         "ingredient_notes": {
-            "beef chuck": "Beef chuck is ideal because it contains a high percentage of collagen—about 25-30% by weight—which slowly melts into gelatin during the long simmer. This gelatin is responsible for the stew’s thick, luscious broth. Leaner cuts, such as sirloin or tenderloin, lack sufficient collagen and tend to dry out or become stringy after extended cooking. For best results, buy pre-cut stew beef or ask your butcher for pieces about 1.5 inches in size.",
-            "beef broth": "Using unsalted beef broth allows you to control the saltiness throughout cooking. Since the liquid reduces by about 20-30% during simmering, starting with salted broth can lead to an overly salty stew. Adding salt early during simmering helps it penetrate the meat, while final seasoning adjustments can be made at the end.",
-            "tomato paste": "Caramelizing tomato paste for 1-2 minutes deepens its flavor and mellows its sharpness. Raw tomato paste can add a tinny taste, but cooking it until it darkens slightly enhances umami and adds a subtle sweetness that balances the savory notes in the stew. You’ll notice the paste thickens and sticks slightly to the pan—that’s when it’s ready.",
-            "Worcestershire sauce": "Worcestershire sauce adds a gentle tang and umami depth that complements the beef and herbs. It also helps round out the flavor profile without overpowering other ingredients. Adding it during the initial simmer allows the flavors to meld evenly.",
-            "carrots and potatoes": "Cutting carrots and potatoes into uniform pieces ensures even cooking. Carrots add natural sweetness and firm texture, while potatoes provide body and soak up the stew's flavors. Adding them after the beef has cooked prevents overcooking and preserves their shape and bite."
+            "brown rice or quinoa": "Both grains provide a hearty base with a satisfying bite. Brown rice has a mild, earthy flavor and chewier texture, while quinoa offers a slightly nuttier taste and a lighter feel. Cooking grains properly—fluffy and separate, not mushy—is key to maintaining texture in the bowl.",
+            "chickpeas": "Canned chickpeas are convenient and provide a creamy, dense texture with subtle nuttiness. Rinsing them removes excess sodium and any canning liquid flavors. For a firmer texture, you can roast them lightly before adding, but plain chickpeas blend well with the fresh vegetables and dressing.",
+            "fresh vegetables": "The combination of cherry tomatoes, cucumber, red onion, and carrots delivers a range of textures and freshness. Tomatoes add juiciness and slight acidity; cucumbers offer crunch and cooling effect; red onions bring sharpness; carrots add sweetness and extra crunch. Using fresh, crisp vegetables enhances the overall mouthfeel and balance.",
+            "quick dressing": "This simple dressing relies on emulsifying oil and acid to coat ingredients evenly. The lemon juice adds brightness, honey or maple syrup balances acidity with sweetness, Dijon mustard helps stabilize the emulsion and adds subtle pungency, and garlic rounds out the flavor. Freshly minced garlic is preferable for its aroma and intensity."
         }
     },
     "instructions": [
         {
             "step": 1,
-            "instruction": "Take the beef out of the fridge 15-20 minutes before cooking. Bringing it close to room temperature helps the beef brown more effectively because cold meat cools the pan, lowering surface temperature and hindering the Maillard reaction. Pat the beef dry thoroughly with paper towels to remove surface moisture, which otherwise steams the meat and prevents a crust from forming.",
-            "timing": "15-20 minutes",
-            "doneness_cue": "Beef feels cool but no longer cold; surface is dry without any visible moisture."
+            "instruction": "Cook the brown rice or quinoa according to package instructions. This usually takes about 15 minutes. Once cooked, fluff with a fork and let it cool slightly to prevent wilting the fresh vegetables when combined.",
+            "timing": "15 minutes",
+            "doneness_cue": "Grains are tender but firm, grains separate easily when fluffed, no stickiness"
         },
         {
             "step": 2,
-            "instruction": "Preheat a large, heavy-bottomed Dutch oven over medium-high heat. Add 1 tablespoon of oil and wait until it shimmers and just starts to smoke slightly. Add a single layer of beef pieces without crowding; work in batches if necessary. Let the beef cook undisturbed for 2-3 minutes to develop a deep golden crust. Flip and brown the other sides similarly. Avoid stirring or moving pieces prematurely, as this disrupts crust formation.",
-            "timing": "2-3 minutes per side, about 3 batches (18-21 minutes total)",
-            "doneness_cue": "Beef has a deep golden-brown crust on all browned sides; pieces release easily from the pan without sticking."
+            "instruction": "While the grains cook, prepare the vegetables. Halve the cherry tomatoes, dice the cucumber, thinly slice the red onion, shred the carrots, and chop the fresh parsley or cilantro.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Vegetables are uniformly cut to similar sizes for balanced texture and bite"
         },
         {
             "step": 3,
-            "instruction": "Transfer browned beef to a plate. Add another tablespoon of oil if the pot looks dry, then add the chopped onion with a pinch of salt. The salt helps draw moisture out of the onion, speeding softening. Sauté the onion, stirring occasionally, for 4-5 minutes until translucent and soft. Add the sliced garlic and cook for 1 more minute until fragrant but not browned.",
-            "timing": "5-6 minutes",
-            "doneness_cue": "Onions are translucent and tender; garlic aroma is noticeable without any raw smell."
+            "instruction": "Make the dressing by whisking together olive oil, lemon juice, honey or maple syrup, Dijon mustard, minced garlic, salt, and pepper in a small bowl until fully combined and slightly thickened.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Dressing emulsifies into a smooth, homogenous mixture with no visible separation"
         },
         {
             "step": 4,
-            "instruction": "Stir in the tomato paste and cook, stirring constantly, for 1-2 minutes until it darkens and thickens slightly. This caramelization mellows acidity and amplifies umami, enhancing the stew’s depth. Avoid burning the paste by stirring continuously and adjusting heat if necessary.",
-            "timing": "1-2 minutes",
-            "doneness_cue": "Paste darkens in color and emits a richer, sweeter aroma."
+            "instruction": "Combine the cooked grains, drained chickpeas, and prepared vegetables in a large bowl. Pour the dressing over the mixture and toss gently to coat all ingredients evenly.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "All components are well coated with dressing, colors remain vibrant, no excess pooling of liquid"
         },
         {
             "step": 5,
-            "instruction": "Return the browned beef to the pot and stir to coat with the tomato paste mixture. Pour in the beef broth and water, filling the pot so the liquid covers about three-quarters of the beef. Add the bay leaf, thyme, rosemary, Worcestershire sauce, and 1.5 teaspoons salt. Stir everything well. Increase heat to bring the liquid to a gentle simmer, characterized by small, steady bubbles rather than a rolling boil.",
-            "timing": "5-10 minutes to reach simmer",
-            "doneness_cue": "Small bubbles rise steadily to the surface with gentle steam; surface mostly calm."
-        },
-        {
-            "step": 6,
-            "instruction": "Cover the pot and reduce heat to low to maintain a gentle simmer. This slow simmer allows collagen to break down gradually into gelatin, tenderizing the meat and enriching the broth. Avoid boiling, which tightens muscle fibers and squeezes out moisture. Simmer for 1.5 hours, then test beef tenderness by piercing a piece with a fork.",
-            "timing": "1.5 hours (may extend up to 2 hours)",
-            "doneness_cue": "Fork slides through beef with no resistance; meat falls apart gently when pressed."
-        },
-        {
-            "step": 7,
-            "instruction": "Add the carrots and potatoes to the pot, stirring to distribute evenly. Continue simmering uncovered for 25-30 minutes. Leaving the pot uncovered during this stage allows excess moisture to evaporate and flavors to concentrate, helping thicken the broth naturally.",
-            "timing": "25-30 minutes",
-            "doneness_cue": "Vegetables are submerged; broth surface shows occasional small bubbles."
-        },
-        {
-            "step": 8,
-            "instruction": "Check vegetable tenderness by piercing potatoes and carrots with a fork. They should be tender but hold their shape. If the broth seems thin, prepare a slurry by mixing cornstarch with cold water and add it to the pot while stirring constantly. The stew will thicken within a few minutes. This step is optional and depends on preferred consistency.",
-            "timing": "25-30 minutes cooking with vegetables",
-            "doneness_cue": "Potatoes and carrots are fork-tender; broth consistency matches preference."
-        },
-        {
-            "step": 9,
-            "instruction": "Stir in the frozen peas and cook uncovered for 3-5 minutes. This short cooking time keeps peas vibrant and crisp. Taste the stew and adjust seasoning with salt or pepper if needed, remembering that salt was added earlier to penetrate the meat.",
-            "timing": "3-5 minutes",
-            "doneness_cue": "Peas are bright green and heated through without becoming mushy."
-        },
-        {
-            "step": 10,
-            "instruction": "Remove from heat and serve immediately in warm bowls. If not serving right away, keep stew at a low simmer or transfer to a slow cooker on warm. The flavors improve after resting; leftovers taste richer the next day.",
-            "timing": "Immediate serving or holding",
-            "doneness_cue": "Stew is steaming hot, with tender beef and vegetables, and a rich, glossy broth."
+            "instruction": "Taste and adjust seasoning with additional salt, pepper, or lemon juice as needed. Serve immediately or refrigerate for up to 2 days for meal prep.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Balanced flavor with brightness from lemon, subtle sweetness, and mild pungency from garlic and mustard"
         }
     ],
     "pro_tips": [
         {
-            "tip": "Choose beef chuck specifically for this stew.",
-            "reason": "Chuck’s high collagen content breaks down into gelatin during slow cooking, creating a rich broth and tender meat. Leaner cuts lack collagen and become tough or stringy."
+            "tip": "Cook grains ahead and cool completely before assembling.",
+            "reason": "This prevents the vegetables from wilting and keeps the bowl’s texture fresh and crisp."
         },
         {
-            "tip": "Brown beef thoroughly on all sides before proceeding.",
-            "reason": "Proper browning initiates the Maillard reaction, developing complex flavor compounds that give the stew depth. Skipping or rushing this results in a flat-tasting stew."
+            "tip": "Pat chickpeas dry if using canned to reduce excess moisture.",
+            "reason": "This keeps the bowl from becoming watery and helps the dressing cling better to the chickpeas."
         },
         {
-            "tip": "Use unsalted broth to control seasoning.",
-            "reason": "Simmering reduces liquid and concentrates salt. Starting with salted broth risks an oversalted stew. Adding salt early allows it to season meat evenly."
+            "tip": "Use freshly squeezed lemon juice rather than bottled for brighter acidity.",
+            "reason": "Fresh lemon juice contains more vibrant aromatic oils and less bitterness, improving dressing flavor."
         },
         {
-            "tip": "Keep the stew at a gentle simmer, not a boil.",
-            "reason": "Boiling contracts muscle fibers, squeezing out moisture and toughening meat. A gentle simmer slowly converts collagen to gelatin without drying the beef."
+            "tip": "Chop vegetables uniformly to ensure even texture and ease of eating.",
+            "reason": "Consistent sizes help balance each bite and create a more cohesive eating experience."
         },
         {
-            "tip": "Add vegetables in stages according to cooking time.",
-            "reason": "Potatoes and carrots need longer cooking, while peas require only a few minutes. Staggering prevents overcooked vegetables and maintains texture."
-        },
-        {
-            "tip": "Make the stew a day ahead if possible.",
-            "reason": "Resting allows flavors to meld and gelatin to set, improving texture and richness. Reheat gently to preserve tenderness."
+            "tip": "Prepare the dressing just before serving or mixing.",
+            "reason": "This preserves its emulsified texture and fresh flavor, preventing separation or dullness."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Rushing or skipping the browning step.",
-            "why_it_happens": "Browning takes time and patience, and some cooks try to save time by crowding the pan or not waiting for crust formation.",
-            "fix": "Work in batches and allow beef to brown undisturbed. This step is essential for depth of flavor."
+            "mistake": "Using hot grains straight from the pot without cooling.",
+            "why_it_happens": "Hot grains can wilt fresh vegetables and make the bowl soggy.",
+            "fix": "Allow grains to cool slightly or spread them on a tray to speed cooling before combining."
         },
         {
-            "mistake": "Boiling the stew instead of simmering.",
-            "why_it_happens": "Higher heat seems faster but causes muscle fibers to contract, toughening the meat.",
-            "fix": "Adjust heat to maintain gentle bubbles; reduce if you see vigorous boiling."
+            "mistake": "Skipping rinsing canned chickpeas.",
+            "why_it_happens": "Canned liquid contains excess salt and can impart a metallic or canned taste.",
+            "fix": "Rinse chickpeas thoroughly under cold water and drain well before adding."
         },
         {
-            "mistake": "Adding all vegetables at the start.",
-            "why_it_happens": "Adding everything together leads to some vegetables becoming mushy by the time others are tender.",
-            "fix": "Add denser vegetables like potatoes and carrots later, and peas last for a short time."
+            "mistake": "Making the dressing too far ahead and storing it in the fridge without stirring.",
+            "why_it_happens": "Oil and acid separate over time, resulting in uneven flavor and texture.",
+            "fix": "Make dressing fresh or whisk it again before use to recombine ingredients."
         },
         {
-            "mistake": "Waiting until the end to add salt.",
-            "why_it_happens": "Salt doesn’t penetrate meat well if added late, leading to uneven seasoning.",
-            "fix": "Add most salt early during simmering to flavor the beef throughout, then adjust at the end."
-        },
-        {
-            "mistake": "Using too much liquid initially or ending with a watery stew.",
-            "why_it_happens": "Overcautious cooks add excess broth, not accounting for evaporation and reduction during simmering.",
-            "fix": "Add liquid to cover about 75% of beef pieces; reduce uncovered if necessary or thicken with slurry."
+            "mistake": "Overdressing the bowl leading to sogginess.",
+            "why_it_happens": "Too much dressing can overpower the ingredients and create a watery texture.",
+            "fix": "Add dressing gradually and toss gently, reserving some for serving if desired."
         }
     ],
     "variations": [
         {
-            "name": "Burgundy-Style Beef Stew",
-            "description": "Substitute 1 cup (240ml) of beef broth with dry red wine like Burgundy or Pinot Noir. Reduce broth to 3 cups (720ml) to keep liquid balance. Caramelize tomato paste a bit longer (2-3 minutes) to balance acidity.",
-            "technical_note": "Alcohol cooks off during simmering, leaving acidity and fruit notes that brighten and tenderize the stew."
+            "name": "Vegan and Gluten-Free",
+            "description": "Use quinoa as the base and ensure all ingredients, including mustard and honey alternatives, are gluten-free and vegan-friendly.",
+            "technical_note": "Quinoa provides a naturally gluten-free grain with a complete amino acid profile, complementing the plant-based protein from chickpeas."
         },
         {
-            "name": "Root Vegetable Stew",
-            "description": "Replace potatoes and carrots with parsnips, celery root, and turnips cut similarly. These vegetables add sweetness, earthiness, and peppery notes.",
-            "technical_note": "Parsnips and carrots cook similarly; celery root and turnips may need 1-2 extra minutes. Test doneness with a fork."
+            "name": "Spiced Mediterranean",
+            "description": "Add 1 tsp ground cumin and 1/2 tsp smoked paprika to the dressing. Include chopped kalamata olives and crumbled feta cheese if dairy is acceptable.",
+            "technical_note": "Cumin and paprika add warmth and depth, while olives and feta introduce briny and creamy elements, enriching the flavor complexity."
         },
         {
-            "name": "Mushroom and Beef Stew",
-            "description": "Add 12 oz (340g) quartered cremini or baby bella mushrooms with potatoes and carrots. Mushrooms add umami and earthiness.",
-            "technical_note": "Mushrooms release moisture, slightly increasing liquid. Reduce amount if a thicker stew is desired."
+            "name": "Seasonal Greens Boost",
+            "description": "Add chopped kale or spinach to the vegetable mix. Massage kale with a small amount of dressing beforehand to soften its texture.",
+            "technical_note": "Massaging kale breaks down fibrous structure, making it more tender and blending better with other fresh vegetables."
         },
         {
-            "name": "Irish-Style Stew",
-            "description": "Omit tomato paste and increase broth to 5 cups (1200ml). Use only beef, potatoes, onions, and carrots. Add 2 tsp (4g) extra thyme for flavor balance.",
-            "technical_note": "Without tomato paste, the stew is lighter in color and relies on beef and vegetable natural sweetness."
+            "name": "Nutty Crunch Addition",
+            "description": "Top bowls with toasted pumpkin seeds, sliced almonds, or chopped walnuts for added texture and flavor.",
+            "technical_note": "Nuts introduce healthy fats and a crunchy contrast, enhancing mouthfeel and satiety."
         },
         {
-            "name": "Pressure Cooker Beef Stew",
-            "description": "Brown beef and aromatics as usual, then pressure cook with liquid for 25 minutes. Add vegetables after natural release, then pressure cook 3 more minutes. Total time about 45 minutes.",
-            "technical_note": "Pressure speeds collagen breakdown but can alter texture slightly. Simmered stew has a more tender, traditional mouthfeel."
+            "name": "Creamy Avocado Variation",
+            "description": "Add diced ripe avocado just before serving. Adjust dressing acidity slightly to balance the richness.",
+            "technical_note": "Avocado adds creaminess and healthy fats but can brown quickly; adding it last preserves color and texture."
         }
     ],
     "nutrition": {
-        "servings": 6,
-        "calories_per_serving": "approximately 425",
-        "protein_grams": "42g",
-        "carbohydrates_grams": "28g",
-        "fat_grams": "16g",
-        "fiber_grams": "5g",
-        "sodium_mg": "850mg",
-        "note": "These values are estimates and may vary depending on beef cut, broth saltiness, and portion sizes. Using thickening slurry increases carbohydrate content slightly."
+        "servings": 2,
+        "calories_per_serving": "approximately 450",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "60g",
+        "fat_grams": "15g",
+        "fiber_grams": "12g",
+        "sodium_mg": "250mg",
+        "note": "Values are estimates and will vary depending on specific ingredient brands and quantities used."
     },
     "storage_and_reheating": {
-        "room_temperature": "Do not leave stew out longer than 2 hours after cooking. Transfer to shallow containers promptly to cool and prevent bacterial growth.",
-        "refrigerator": "Store cooled stew in airtight containers for up to 4 days. Fat may solidify on top, which protects flavor. Stew tastes better after 1-2 days as flavors meld and gelatin sets.",
-        "freezer": "Freeze stew in suitable containers for up to 3 months. Leave about 1 inch of headspace for expansion. Thaw overnight in the refrigerator before reheating; avoid thawing at room temperature.",
-        "reheating": "Warm stew gently on the stovetop over low to medium heat, stirring occasionally. Avoid boiling, which can break down gelatin and toughen meat. Add broth or water if too thick. Reheating takes 20-30 minutes depending on quantity.",
-        "make_ahead_strategy": "You can prepare the stew through step 6 (beef fully cooked and braised) up to 24 hours in advance. Cool completely, refrigerate, then reheat gently before adding vegetables and finishing cooking. Flavor improves with resting."
+        "room_temperature": "Keep assembled bowls at room temperature for no longer than 2 hours to avoid spoilage, especially if containing fresh vegetables and dressing.",
+        "refrigerator": "Store in airtight containers for up to 2 days. For best texture, keep dressing separate and add just before eating if possible.",
+        "freezer": "Not recommended to freeze assembled bowls due to fresh vegetables and dressing. Cooked grains and chickpeas can be frozen separately for up to 1 month.",
+        "reheating": "If using grains and chickpeas stored separately, reheat gently in a microwave or on stovetop before combining with fresh vegetables and dressing.",
+        "make_ahead_strategy": "Cook grains and rinse chickpeas ahead of time, store separately in the refrigerator. Chop vegetables and make dressing fresh at serving time for optimal texture and flavor."
     },
     "faq": [
         {
-            "question": "Why is my beef tough and chewy even though I cooked it for 2 hours?",
-            "answer": "This usually means the stew was boiled rather than simmered gently, causing muscle fibers to contract and toughen. Also, using lean cuts like sirloin instead of chuck leads to toughness since they lack collagen. Keep heat low with small bubbles and use high-collagen cuts."
+            "question": "Can I make these lunch bowls ahead of time?",
+            "answer": "Yes. Cook grains and rinse chickpeas in advance, and store vegetables and dressing separately. Assemble just before eating to keep vegetables crisp."
         },
         {
-            "question": "My stew is too thin and brothy. How do I thicken it?",
-            "answer": "Mix 1 tablespoon cornstarch with 2 tablespoons cold water to make a slurry. Stir this into the simmering stew and cook 1-2 minutes until thickened. Avoid adding too much starch or the stew can become gummy."
+            "question": "Why is my dressing separating?",
+            "answer": "Oil and acid naturally separate over time. Whisk the dressing again before use to recombine ingredients."
         },
         {
-            "question": "Can I use cuts other than beef chuck?",
-            "answer": "Cuts like beef brisket, short ribs, or neck work well as they are collagen-rich. Avoid lean cuts like sirloin or tenderloin, which dry out. Look for ‘braising cuts’ labeled by your butcher."
+            "question": "Can I substitute chickpeas with another protein?",
+            "answer": "Certainly. Cooked lentils or black beans work well as alternatives, providing similar texture and protein content."
         },
         {
-            "question": "How do I know if my stew is done cooking?",
-            "answer": "The beef should be fork-tender with no resistance, and the meat should fall apart slightly when pressed. The broth reduces by about 20-30% and tastes rich. If uncertain, simmer longer and test again."
+            "question": "How long do these bowls last in the fridge?",
+            "answer": "When stored properly, assembled bowls last up to 2 days. Keeping dressing separate extends freshness and texture."
         },
         {
-            "question": "Can I use a slow cooker or Instant Pot instead of stovetop?",
-            "answer": "Yes. Brown beef on stovetop first, then transfer to slow cooker for 6-8 hours on low, adding vegetables near the end. For Instant Pot, brown beef then cook under high pressure for 25 minutes with natural release. Texture differs slightly from stovetop simmer."
-        },
-        {
-            "question": "Is it okay if my stew doesn't have a lot of visible broth?",
-            "answer": "Yes, stew consistency varies by preference. Less liquid results in a thicker, chunkier stew; more liquid makes it soupier. Adjust initial liquid or simmer uncovered to reduce, or add broth to thin."
+            "question": "Can I use pre-cooked or frozen grains?",
+            "answer": "Yes, pre-cooked or frozen grains can be used. Ensure they are fully thawed and drained to avoid excess moisture in the bowl."
         }
     ],
-    "conclusion": "Making beef stew well depends on understanding each step’s purpose—from browning to slow simmering and vegetable timing. This knowledge builds a stew with depth, tenderness, and satisfying texture. I welcome your thoughts or questions about this recipe and invite you to share your experience.",
+    "conclusion": "These lunch bowls offer a straightforward, flexible way to enjoy a filling meal using simple ingredients. I welcome your experiences and any adjustments you find helpful—please share your thoughts or questions in the comments.",
     "internal_links": [
         {
-            "anchor": "understanding the Maillard reaction and browning",
-            "url": "/posts/maillard-reaction-browning-cooking"
+            "anchor": "meal prep tips for busy weekdays",
+            "url": "/posts/meal-prep-tips-busy-weekdays"
         },
         {
-            "anchor": "collagen breakdown and gelatin in cooking",
-            "url": "/posts/collagen-gelatin-cooking-science"
+            "anchor": "how to make simple homemade dressings",
+            "url": "/posts/homemade-dressings-guide"
         },
         {
-            "anchor": "beef cuts guide and selection",
-            "url": "/posts/beef-cuts-cooking-guide"
+            "anchor": "choosing and cooking grains for salads and bowls",
+            "url": "/posts/grain-cooking-techniques"
         }
     ],
     "category_id": "cat_1761229889_885",
     "generation_metadata": {
-        "voice": "Practical Expert",
-        "complexity": "simple",
-        "target_words": "1800-2200",
-        "temperature": 0.7,
-        "generated_at": "2026-03-24 13:20:04"
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
     },
     "author_id": "author_001",
     "images": [
@@ -278,64 +246,89 @@
             "order": 3
         },
         {
-            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_1.webp",
-            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_1.webp",
-            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_1.webp",
-            "order": 4,
-            "type": "template",
-            "template": "classic"
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
         },
         {
-            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_2.webp",
-            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_2.webp",
-            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_2.webp",
-            "order": 5,
-            "type": "template",
-            "template": "classic"
-        },
-        {
-            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_3.webp",
-            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_3.webp",
-            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_3.webp",
-            "order": 6,
-            "type": "template",
-            "template": "classic"
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         },
         {
             "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_4.webp",
             "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_4.webp",
             "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_4.webp",
-            "order": 7,
-            "type": "template",
-            "template": "classic"
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_5.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_5.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_6.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_6.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_7.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_7.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_8.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_8.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_9.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_9.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
         }
     ],
     "slug": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing",
     "id": "post_1774354690_425",
-    "image": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_image_1.webp",
-    "image_path": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_image_1.webp",
+    "image": "colorful-lunch-bowl-with-grains-and-vegetables_image_1.webp",
+    "image_path": "recipes/colorful-lunch-bowl-with-grains-and-vegetables/images/colorful-lunch-bowl-with-grains-and-vegetables_image_1.webp",
     "image_dir": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images",
-    "generated_from_text": true,
+    "generated_from_text": false,
     "has_rich_structure": true,
-    "createdAt": "2026-03-27T00:04:55+01:00",
-    "updatedAt": "2026-03-27T00:04:55+01:00",
-    "board_name": "Easy Lunch Ideas",
+    "createdAt": "2026-03-30T17:57:59+02:00",
+    "updatedAt": "2026-03-30T17:57:59+02:00",
     "pin_variations": [
         {
-            "title": "Ultimate Hearty Beef Stew with Tender Meat & Silky Broth",
-            "description": "Discover the secret to a rich and flavorful beef stew! Learn how proper browning and collagen management make the beef tender and broth deliciously smooth. Perfect for cozy dinners. #BeefStew #ComfortFood #CookingTips #HeartyMeals #SlowCooked"
+            "title": "Delicious Lunch Bowls Under $5 Ready in 30 Minutes",
+            "description": "Discover budget-friendly lunch bowls that are both tasty and quick to make! Perfect for meal prep or busy days, these recipes use simple pantry staples and a homemade dressing. Save money and eat well! #BudgetMeals #LunchIdeas #MealPrep #EasyRecipes #HealthyEating"
         },
         {
-            "title": "Master the Art of Beef Stew: Tender Beef & Rich Broth",
-            "description": "Step-by-step guide to creating beef stew with maximum flavor. Understand the science behind your cut choice and cooking time for a melt-in-your-mouth experience. Ideal for home cooks craving depth and warmth. #BeefRecipe #StewSecrets #FoodScience #HomeCooking #Delicious"
+            "title": "Quick & Affordable Lunch Bowls for Under $5",
+            "description": "Whip up these flavorful lunch bowls without breaking the bank! Ready in under 30 minutes, they're perfect for busy schedules and meal prepping on a budget. Simple ingredients, big taste! #AffordableMeals #LunchBowls #MealPrepIdeas #SimpleRecipes #BudgetCooking"
         },
         {
-            "title": "Rich & Tender Beef Stew Recipe You’ll Love to Make",
-            "description": "Make your beef stew unforgettable by mastering browning and collagen breakdown for tender meat and smooth broth. This recipe breaks down each step for flavorful, satisfying results. #StewRecipe #BeefStewLove #CookingHacks #FlavorfulMeals #ComfortFoodIdeas"
+            "title": "Easy Budget Lunch Bowls That Taste Amazing",
+            "description": "Looking for filling, tasty lunches under $5? Try these easy lunch bowls using pantry staples and a quick homemade dressing. Ideal for busy workdays and prepping ahead! #LunchOnABudget #QuickMeals #HealthyLunch #MealPrep #BudgetFriendly"
         }
     ]
 }
