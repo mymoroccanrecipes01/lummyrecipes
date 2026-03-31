@@ -913,7 +913,7 @@ createpostHTML(post) {
 
     // Arrow icon
     const arrowSvg = `<svg class="entry__arrow" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-    console.log(mainImage);
+    
     return `
         <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${diffKey}">
             <a class="entry__img" href="${postUrl}" title="${title}">
@@ -923,6 +923,7 @@ createpostHTML(post) {
                      width="400"
                      height="300"
                      src="${mainImage}"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;400&quot; height=&quot;300&quot; viewBox=&quot;0 0 400 300&quot;><rect width=&quot;400&quot; height=&quot;300&quot; fill=&quot;%23f8f9fa&quot;/><text x=&quot;200&quot; y=&quot;150&quot; font-family=&quot;Arial&quot; font-size=&quot;18&quot; fill=&quot;%236c757d&quot; text-anchor=&quot;middle&quot;>Image non disponible</text></svg>'">
                 <span class="entry__category">${chefSvg} ${category}</span>
             </a>
             <div class="entry__body">
