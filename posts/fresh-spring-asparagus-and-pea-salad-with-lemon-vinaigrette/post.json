@@ -1,39 +1,41 @@
 {
-    "title": "Asparagus and Pea Salad with Lemon Vinaigrette",
-    "promptIMG": "Professional food photography prompt: \"fresh asparagus and pea salad in white bowl, natural light, bright colors, crisp textures visible, lemon vinaigrette drizzled, rustic wooden table background, sharp focus, realistic food textures, minimal styling --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Fresh Asparagus and Pea Salad with Lemon Vinaigrette",
+    "promptIMG": "Professional food photography prompt: \"fresh asparagus and pea salad in a clear glass bowl, vibrant green colors, natural light, sharp focus on textures, crisp vegetables glistening with lemon vinaigrette, rustic wooden table background, no artificial enhancement, documentary food photography style --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": false,
-    "description": "A fresh asparagus and pea salad tossed in a zesty lemon vinaigrette that highlights the crispness of spring vegetables. This recipe balances vibrant textures and bright citrus notes, ideal for light lunches or as a refreshing side during warmer months.",
-    "hashtags": "#asparagus #peas #springrecipes #lemonvinaigrette #freshsalad",
+    "description": "This asparagus and pea salad captures the bright freshness of spring vegetables with a crisp texture and a lively lemon vinaigrette. The combination of slightly tender asparagus, sweet peas, and zesty citrus creates a well-balanced dish that works well as a light lunch or a side for warmer weather meals.",
+    "hashtags": "#asparagus #peas #springrecipes #salad #lemonvinaigrette",
     "pinterest_boards": {
-        "classic": "Spring Vegetable Salads",
-        "header": "Light and Fresh Lunch Ideas",
-        "cinematic": "Seasonal Healthy Recipes"
+        "classic": "Fresh Spring Salads",
+        "header": "Light and Healthy Meals",
+        "cinematic": "Seasonal Vegetable Recipes"
     },
     "difficulty": "Easy",
     "prep_time": 15,
     "cook_time": 5,
     "total_time": 20,
     "servings": 4,
-    "yield": "4 servings",
+    "yield": "Serves 4 as a side dish or light lunch",
     "ingredients": [
         "300g (10.5 oz) fresh asparagus, trimmed and cut into 2-inch (5 cm) pieces",
-        "150g (5.3 oz) fresh or frozen peas",
+        "150g (5 oz) fresh or frozen peas, thawed if frozen",
         "1 small red onion (about 70g), thinly sliced",
-        "1 lemon, juiced (about 3 tbsp / 45 ml)",
-        "3 tbsp (45 ml) extra virgin olive oil",
-        "1 tsp (5 ml) honey or maple syrup (optional)",
-        "Salt, to taste",
-        "Freshly ground black pepper, to taste",
-        "2 tbsp (8 g) chopped fresh mint or parsley for garnish"
+        "30g (1\/4 cup) fresh parsley, roughly chopped",
+        "Zest and juice of 1 lemon (about 2 tablespoons juice)",
+        "3 tablespoons (45 ml) extra virgin olive oil",
+        "1 teaspoon (5 ml) Dijon mustard",
+        "1 teaspoon (5 ml) honey or maple syrup (optional)",
+        "Salt and freshly ground black pepper, to taste"
     ],
-    "introduction": "Every spring, I look forward to the first harvests of asparagus and peas, their bright colors and crisp textures signaling the season’s arrival. This salad blends those fresh vegetables with a lemon vinaigrette that cuts through their natural sweetness with a clean, zesty note. I often prepare this dish for light lunches or as a side during warm evenings when heavier meals feel too much. What makes this version stand out is the balance of textures—the tender snap of asparagus, the pop of peas, and the gentle bite of red onion—combined with the lively acidity of lemon and a hint of honey to round the flavors. It’s a simple recipe that I’ve refined over several seasons to highlight fresh produce without overwhelming it, making it a reliable choice when spring vegetables are at their peak. Here’s how I prepare it.",
+    "introduction": "I often turn to this asparagus and pea salad in early spring when fresh vegetables start to appear at farmers' markets. The crisp snap of the asparagus combined with the sweetness of peas reminds me of those first warm days when light, refreshing dishes feel especially welcome. What sets this salad apart is its simple lemon vinaigrette that brightens the natural flavors without overpowering them. Whether served as a light lunch or alongside a grilled main, this salad brings a clean, fresh contrast to richer dishes. Its straightforward preparation and vibrant colors make it a staple in my seasonal cooking rotation.",
     "why_this_recipe_works": {
-        "section": "Understanding the Balance and Texture in This Salad",
-        "content": "<p>This asparagus and pea salad succeeds because it respects the natural characteristics of each ingredient and uses simple techniques to amplify their freshness. The asparagus is quickly blanched to soften the fibrous stalks just enough while retaining their vibrant green color and a satisfying crunch. Peas, whether fresh or frozen, add a burst of sweetness and a tender pop when bitten.</p><p>The lemon vinaigrette adds brightness and acidity that balances the slight earthiness of the vegetables without overpowering them. Including a touch of honey helps mellow the sharpness of the lemon juice, creating a harmonious flavor profile. The thinly sliced red onion contributes a subtle pungency and textural contrast that complements the crisp vegetables.</p><p>Each step is designed to preserve the vegetables’ integrity—overcooking would result in limp, dull-tasting salad, while under-seasoning would leave it flat. The fresh herbs at the end add an aromatic lift and color contrast, completing the sensory experience.</p>",
+        "section": "Understanding the Balance in This Salad",
+        "content": "<p>The success of this salad lies in its balance of textures and flavors. Asparagus, when briefly cooked, retains a slight crunch and a subtle grassy note that complements the sweet, tender peas. The lemon vinaigrette introduces acidity and brightness, which helps to cut through the natural richness of the olive oil and enhances the freshness of the vegetables.<\/p><p>Cooking the asparagus just until tender-crisp preserves its vibrant green color and fresh flavor, while the quick blanching of peas prevents them from becoming mushy. The Dijon mustard in the dressing emulsifies the oil and lemon juice, creating a smooth coating that clings well to the vegetables. The addition of a little honey or maple syrup balances the acidity, rounding out the flavor profile without making it sweet.<\/p>",
         "ingredient_notes": {
-            "asparagus": "Fresh asparagus should be firm and bright green with tightly closed tips. Blanching it briefly in boiling water then shocking it in ice water preserves its color and crispness. Overcooking breaks down the fibers, resulting in a mushy texture, so timing is crucial.",
-            "peas": "Fresh peas offer a sweet, grassy flavor and a crisp texture, but frozen peas are a practical substitute that retain much of their sweetness when thawed properly. Adding peas near the end of cooking or using thawed frozen peas prevents them from becoming mealy.",
-            "lemon juice": "Freshly squeezed lemon juice provides a bright acidity that livens the salad. Bottled lemon juice lacks the fresh aromatics and can taste flat or artificial. The acid also helps balance the richness of olive oil in the vinaigrette."
+            "asparagus": "Choosing firm, bright green asparagus with closed tips is key to achieving the crisp texture this salad depends on. Overcooking will result in limp stalks and dull color. Cutting into uniform pieces ensures even cooking and a pleasant mouthfeel.",
+            "peas": "Fresh peas are ideal for their natural sweetness and snap. If using frozen peas, thaw them gently and avoid cooking further to preserve texture. They add a burst of color and a soft contrast to the asparagus.",
+            "lemon": "Freshly squeezed lemon juice and zest provide the essential acidity and citrus aroma. The zest adds oils that enhance the fragrance, while the juice brightens the overall flavor. Bottled lemon juice lacks this depth and freshness.",
+            "olive oil": "Extra virgin olive oil with a fruity and grassy profile complements the vegetables and forms the base of the vinaigrette. Using a high-quality oil impacts the salad’s flavor significantly.",
+            "Dijon mustard": "This ingredient acts as an emulsifier, allowing the oil and lemon juice to combine smoothly. It also contributes a mild pungency that deepens the dressing’s complexity."
         }
     },
     "instructions": [
@@ -41,229 +43,289 @@
             "step": 1,
             "instruction": "Bring a medium pot of salted water to a boil. Add the asparagus pieces and blanch for 2-3 minutes until they turn bright green and are just tender but still crisp.",
             "timing": "2-3 minutes",
-            "doneness_cue": "Asparagus color brightens, stems can be pierced with a fork but maintain firmness"
+            "doneness_cue": "Asparagus is vivid green and yields slightly when pierced with a fork but remains firm"
         },
         {
             "step": 2,
-            "instruction": "Immediately transfer the asparagus to a bowl of ice water to stop cooking and preserve the vibrant color and texture. Let them chill for 1-2 minutes, then drain well.",
-            "timing": "1-2 minutes",
-            "doneness_cue": "Asparagus cools quickly, texture remains firm and crisp"
+            "instruction": "Add the peas to the boiling water during the last 30 seconds of the asparagus blanching. Remove both vegetables with a slotted spoon and immediately transfer them to a bowl of ice water to stop cooking and preserve color.",
+            "timing": "30 seconds plus cooling time",
+            "doneness_cue": "Peas are bright green and tender without being mushy; asparagus stays crisp after cooling"
         },
         {
             "step": 3,
-            "instruction": "If using fresh peas, blanch them for 1 minute in the boiling water, then transfer to ice water. If using frozen peas, thaw them under cold running water and drain thoroughly to avoid excess moisture.",
-            "timing": "1 minute blanch or thaw time",
-            "doneness_cue": "Peas are bright green and tender, not mushy or waterlogged"
+            "instruction": "Drain the vegetables thoroughly after cooling, then place them in a large mixing bowl. Add the thinly sliced red onion and chopped parsley.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Vegetables are dry to the touch to avoid diluting the dressing"
         },
         {
             "step": 4,
-            "instruction": "In a small bowl, whisk together lemon juice, olive oil, honey (if using), salt, and freshly ground black pepper until emulsified into a smooth vinaigrette.",
+            "instruction": "In a small bowl, whisk together lemon juice, lemon zest, Dijon mustard, and honey or maple syrup if using. Gradually whisk in the olive oil until the dressing is smooth and emulsified.",
             "timing": "2-3 minutes",
-            "doneness_cue": "Vinaigrette appears slightly thickened and glossy, with no separation"
+            "doneness_cue": "Dressing appears glossy and homogenous without separation"
         },
         {
             "step": 5,
-            "instruction": "In a large bowl, combine the asparagus, peas, and thinly sliced red onion. Pour the vinaigrette over the vegetables and toss gently to coat evenly without bruising.",
+            "instruction": "Pour the dressing over the vegetables and toss gently to coat everything evenly. Season with salt and freshly ground black pepper to taste.",
             "timing": "1-2 minutes",
-            "doneness_cue": "Vegetables are evenly coated, colors remain vibrant"
+            "doneness_cue": "All ingredients are evenly coated with dressing; salad glistens with a light sheen"
         },
         {
             "step": 6,
-            "instruction": "Sprinkle chopped fresh mint or parsley over the salad for a fresh herbal note. Serve immediately or refrigerate for up to 1 hour to allow flavors to meld slightly.",
-            "timing": "Immediate or chilled",
-            "doneness_cue": "Herbs appear fresh and bright, salad remains crisp"
+            "instruction": "Let the salad rest at room temperature for 10 minutes before serving to allow flavors to meld and the acidity to soften slightly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Salad aroma brightens; vegetables retain texture and fresh appearance"
         }
     ],
     "pro_tips": [
         {
-            "tip": "Blanch asparagus and peas briefly and shock in ice water to lock in color and texture.",
-            "reason": "This stops the cooking process immediately, preventing over-softening and dulling of the vibrant green color."
+            "tip": "Do not overcook the asparagus.",
+            "reason": "Overcooked asparagus becomes mushy and loses its bright color, diminishing the salad's fresh texture and visual appeal."
         },
         {
-            "tip": "Dry vegetables thoroughly after draining to avoid watering down the vinaigrette and salad.",
-            "reason": "Excess moisture dilutes flavors and can make the salad soggy."
+            "tip": "Shock the vegetables in ice water immediately after blanching.",
+            "reason": "This stops the cooking process instantly, preserving the vibrant color and crispness essential to the salad's character."
         },
         {
-            "tip": "Use freshly squeezed lemon juice rather than bottled for a brighter, fresher acidity.",
-            "reason": "Fresh lemon juice contains volatile oils and aromatics that enhance flavor complexity."
+            "tip": "Use freshly grated lemon zest instead of pre-packaged.",
+            "reason": "Fresh zest releases essential oils that brighten the dressing’s aroma and flavor, which bottled zest cannot replicate."
         },
         {
-            "tip": "Add honey or maple syrup to the vinaigrette to balance lemon’s acidity if desired.",
-            "reason": "A touch of sweetness rounds out sharp edges in the dressing without making it noticeably sweet."
+            "tip": "Whisk the vinaigrette thoroughly to emulsify.",
+            "reason": "A well-emulsified dressing clings better to the vegetables, ensuring every bite is flavorful and evenly dressed."
         },
         {
-            "tip": "Slice the red onion very thinly and soak briefly in cold water if you want to reduce its pungency.",
-            "reason": "This mellows the onion’s sharp bite while keeping its crunch and color."
+            "tip": "Adjust the sweetness in the dressing based on lemon acidity.",
+            "reason": "Lemons vary in tartness; balancing with a touch of honey or maple syrup prevents the vinaigrette from tasting overly sharp or sour."
         },
         {
-            "tip": "Garnish with fresh herbs like mint or parsley for a fragrant finish and color contrast.",
-            "reason": "Herbs add an aromatic layer that complements the vegetables and brightens the overall salad."
+            "tip": "Slice the red onion very thinly.",
+            "reason": "Thinner slices integrate more smoothly with the salad, providing a mild onion flavor without overpowering the other ingredients."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Overcooking asparagus until limp and dull in color.",
-            "why_it_happens": "Leaving asparagus in boiling water too long breaks down fibers and leaches chlorophyll.",
-            "fix": "Blanch for only 2-3 minutes and immediately cool in ice water to preserve texture and color."
+            "mistake": "Skipping the ice water bath after blanching.",
+            "why_it_happens": "People often rush to finish and neglect this step, leading to overcooked, dull-colored vegetables.",
+            "fix": "Prepare a bowl of ice water before blanching and transfer vegetables immediately to preserve color and texture."
         },
         {
-            "mistake": "Adding too much salt initially to the vinaigrette.",
-            "why_it_happens": "Salt can become overpowering as it draws moisture from vegetables and concentrates.",
-            "fix": "Season lightly at first and adjust after tossing salad."
+            "mistake": "Using bottled lemon juice instead of fresh.",
+            "why_it_happens": "Bottled juice is convenient but lacks fresh citrus oils and brightness.",
+            "fix": "Always use freshly squeezed lemon juice and zest for maximum flavor impact."
         },
         {
-            "mistake": "Using frozen peas without properly thawing and draining.",
-            "why_it_happens": "Excess water from frozen peas dilutes the dressing and makes the salad watery.",
-            "fix": "Rinse frozen peas under cold water and drain thoroughly before adding."
+            "mistake": "Overdressing the salad.",
+            "why_it_happens": "Adding too much vinaigrette can make the salad soggy and mask the fresh vegetable flavors.",
+            "fix": "Add dressing gradually and toss gently; the salad should have a light coating, not be swimming in dressing."
         },
         {
-            "mistake": "Skipping the ice bath after blanching vegetables.",
-            "why_it_happens": "Residual heat continues cooking vegetables, leading to over-softness and loss of color.",
-            "fix": "Prepare an ice water bath and transfer vegetables immediately after blanching."
+            "mistake": "Not drying vegetables well after blanching.",
+            "why_it_happens": "Excess water dilutes the dressing and makes the salad watery.",
+            "fix": "Drain thoroughly and gently pat dry with a kitchen towel before tossing with dressing."
         }
     ],
     "variations": [
         {
             "name": "Vegan Variation",
-            "description": "Use maple syrup instead of honey in the vinaigrette to keep it fully plant-based.",
-            "technical_note": "Maple syrup provides a similar sweetness and viscosity to honey, maintaining dressing balance."
+            "description": "Use maple syrup instead of honey for the dressing to keep it fully plant-based. Add toasted sunflower seeds for extra texture and protein.",
+            "technical_note": "Maple syrup provides natural sweetness without altering the vinaigrette's acidity. Seeds add crunch and nutritional value without affecting dressing stability."
+        },
+        {
+            "name": "Mediterranean Twist",
+            "description": "Add crumbled feta cheese, chopped kalamata olives, and a sprinkle of fresh oregano to the salad for a richer, savory flavor profile.",
+            "technical_note": "Feta adds saltiness and creaminess, complementing the citrus dressing. Oregano enhances herbal notes while olives contribute a briny contrast."
+        },
+        {
+            "name": "Spring Herb Salad",
+            "description": "Incorporate fresh mint, dill, and chives along with parsley to deepen the herbaceous character of the salad.",
+            "technical_note": "These herbs introduce layers of fresh, bright flavors that harmonize with lemon and vegetables, enhancing the springtime appeal."
         },
         {
             "name": "Add Toasted Nuts",
-            "description": "Sprinkle toasted almonds or pine nuts over the salad for added crunch and depth.",
-            "technical_note": "Nuts add texture contrast and a toasty flavor that complements the fresh vegetables."
+            "description": "Include toasted almonds or pine nuts for a nutty flavor and crunchy texture that contrasts with the tender vegetables.",
+            "technical_note": "Toasting nuts enhances their aroma and adds complexity. Add nuts just before serving to maintain their crunch."
         },
         {
-            "name": "Herb Mix Variation",
-            "description": "Replace mint with basil or tarragon for a different aromatic profile.",
-            "technical_note": "Basil adds a sweet, peppery note; tarragon contributes anise-like flavor, both pairing well with lemon."
-        },
-        {
-            "name": "Warm Salad Option",
-            "description": "Serve the asparagus and peas warm after blanching and tossing with vinaigrette for a comforting version.",
-            "technical_note": "Toss vegetables while still slightly warm to soften onion sharpness and meld flavors gently."
-        },
-        {
-            "name": "Add Soft Cheese",
-            "description": "Crumble fresh feta or goat cheese over the salad for creaminess and tang.",
-            "technical_note": "Cheese adds richness and balances acidity, but increases salt content—adjust seasoning accordingly."
+            "name": "Grain Bowl Addition",
+            "description": "Serve the salad over cooked quinoa or farro for a more substantial meal. Drizzle extra vinaigrette over the grains to tie flavors together.",
+            "technical_note": "Grains provide a chewy base and additional nutrients, turning this salad into a balanced lunch option without altering the core vegetable preparation."
         }
     ],
     "nutrition": {
         "servings": 4,
-        "calories_per_serving": "approximately 120",
-        "protein_grams": "4g",
-        "carbohydrates_grams": "10g",
-        "fat_grams": "8g",
+        "calories_per_serving": "approximately 150",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "10g",
         "fiber_grams": "4g",
-        "sodium_mg": "150",
-        "note": "These values are estimates and may vary depending on ingredient brands and exact quantities used."
+        "sodium_mg": "150mg",
+        "note": "Values are estimates and may vary depending on ingredient brands and portion sizes."
     },
     "storage_and_reheating": {
-        "room_temperature": "Avoid leaving the salad at room temperature for more than 1 hour to maintain freshness and prevent bacterial growth.",
-        "refrigerator": "Store in an airtight container for up to 1 day. The salad is best eaten fresh to preserve crispness, but can be chilled briefly.",
-        "freezer": "Not recommended to freeze fresh vegetable salads as texture and flavor degrade upon thawing.",
-        "reheating": "This salad is intended to be served cold or at room temperature; reheating is not advised as it softens the vegetables.",
-        "make_ahead_strategy": "Prepare the vinaigrette up to 24 hours in advance and refrigerate. Blanch vegetables and store separately, then toss together just before serving to maintain texture."
+        "room_temperature": "Store the salad at room temperature only for up to 1 hour to maintain freshness.",
+        "refrigerator": "Keep the salad covered in an airtight container for up to 2 days. Note that vegetables may soften slightly over time.",
+        "freezer": "Not recommended to freeze this salad as the texture and freshness will degrade.",
+        "reheating": "This salad is best served cold or at room temperature and is not intended for reheating.",
+        "make_ahead_strategy": "Prepare and blanch the vegetables a few hours ahead, store separately from the dressing, then toss together just before serving to preserve texture."
     },
     "faq": [
         {
-            "question": "Can I make asparagus and pea salad ahead of time?",
-            "answer": "You can prepare the vinaigrette and blanch vegetables up to a day ahead, but toss them together just before serving to keep the salad crisp."
+            "question": "Can I make this asparagus and pea salad ahead of time?",
+            "answer": "Yes, you can blanch the vegetables and prepare the dressing in advance, but toss them together just before serving to maintain crisp texture."
         },
         {
-            "question": "Why is my asparagus mushy after cooking?",
-            "answer": "Overcooking or not shocking asparagus in ice water causes it to become soft and lose color. Blanch briefly and cool immediately to preserve texture."
+            "question": "Why is my asparagus soft and dull after making the salad?",
+            "answer": "This usually happens if asparagus is overcooked or not shocked in ice water after blanching. Blanch briefly and cool immediately in ice water to keep it bright and firm."
         },
         {
-            "question": "Can I use frozen peas instead of fresh peas?",
-            "answer": "Yes, thaw frozen peas under cold water and drain thoroughly. Avoid cooking them again to prevent mushiness."
+            "question": "Can I use frozen peas instead of fresh?",
+            "answer": "Frozen peas work well if thawed gently and not cooked further. They retain sweetness and texture but avoid boiling them again to prevent mushiness."
         },
         {
             "question": "How long does the salad last in the fridge?",
-            "answer": "Stored properly, the salad can last up to 1 day, but it is best enjoyed fresh for optimal texture and flavor."
+            "answer": "Stored in an airtight container, the salad keeps well for up to 2 days, though vegetables may soften slightly over time."
         },
         {
-            "question": "Can I substitute lemon juice with vinegar in the vinaigrette?",
-            "answer": "You can use mild vinegars like white wine or apple cider vinegar, but lemon juice provides a brighter, fresher acidity that complements the vegetables better."
+            "question": "Can I substitute lemon with another citrus fruit?",
+            "answer": "Lime juice can be used as a substitute, but it will slightly change the flavor profile. Avoid using orange juice as it is sweeter and less acidic."
         }
     ],
-    "conclusion": "This asparagus and pea salad offers a straightforward way to enjoy fresh spring vegetables with balanced textures and flavors. I welcome any thoughts or experiences you have with this recipe—feel free to share your feedback or questions below.",
+    "conclusion": "This asparagus and pea salad celebrates the simplicity and freshness of spring produce. Its straightforward preparation and balanced flavors make it a versatile addition to many meals. I welcome your thoughts and any variations you've tried in the comments below.",
     "internal_links": [
         {
-            "anchor": "blanching vegetables properly",
-            "url": "/posts/how-to-blanch-vegetables"
+            "anchor": "seasonal vegetable salad recipes",
+            "url": "\/posts\/seasonal-vegetable-salads"
         },
         {
-            "anchor": "making simple vinaigrettes",
-            "url": "/posts/basic-vinaigrette-recipes"
+            "anchor": "how to make a lemon vinaigrette",
+            "url": "\/posts\/lemon-vinaigrette-techniques"
         },
         {
-            "anchor": "selecting fresh spring vegetables",
-            "url": "/posts/spring-vegetable-guide"
+            "anchor": "blanching vegetables for salads",
+            "url": "\/posts\/blanching-vegetables-guide"
         }
     ],
-    "category_id": "cat_1761229889_900",
+    "category_id": "cat_1761229889_885",
     "generation_metadata": {
-        "voice": "Experienced Home Cook",
-        "complexity": "easy",
-        "target_words": "1300+",
-        "authenticity_focus": "high",
-        "e_eat_priority": "expertise_authority_trustworthiness",
-        "rewritten_at": "2026-01-14"
+        "voice": "Practical Expert",
+        "complexity": "simple",
+        "target_words": "1800-2200",
+        "temperature": 0.7,
+        "generated_at": "2026-03-31 13:59:55"
     },
     "author_id": "author_001",
     "images": [
         {
             "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
-            "filePath": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
-            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
-            "filePath": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
-            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
-            "filePath": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
-            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_4.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_4.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_5.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_5.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_5.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_6.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_6.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_6.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_7.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_7.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_7.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_8.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_8.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_8.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_9.webp",
+            "filePath": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_9.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_9.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_LummyRecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "slug": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette",
     "id": "post_1774953166_132",
-    "image": "fresh-asparagus-pea-salad_lemon-vinaigrette_image_1.webp",
-    "image_path": "recipes/fresh-asparagus-pea-salad_lemon-vinaigrette/images/fresh-asparagus-pea-salad_lemon-vinaigrette_image_1.webp",
-    "image_dir": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images",
-    "generated_from_text": false,
+    "image": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+    "image_path": "posts\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images\/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+    "image_dir": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette\/images",
+    "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-31T12:32:46+02:00",
-    "updatedAt": "2026-03-31T12:32:46+02:00",
+    "createdAt": "2026-03-31T14:03:14+02:00",
+    "updatedAt": "2026-03-31T14:03:14+02:00",
+    "board_name": "",
     "pin_variations": [
         {
-            "title": "Brighten Your Lunch with This Spring Asparagus and Pea Salad",
-            "description": "Looking for a fresh, healthy salad? This asparagus and pea combo tossed in lemon vinaigrette is quick and delicious. Save this recipe and enjoy a burst of spring flavors today! 🥗🍋 #springrecipes #healthyeating #saladideas"
+            "title": "Fresh Asparagus and Pea Salad with Lemon Vinaigrette",
+            "description": "Brighten your meals with this Fresh Asparagus and Pea Salad featuring a zesty lemon vinaigrette. Perfect for spring, this healthy salad blends tender asparagus, sweet peas, and citrus for a crisp, refreshing taste. Ideal for light lunches or as a vibrant side dish. #AsparagusSalad #PeaSalad #LemonVinaigrette #SpringSalad #HealthyRecipes #VegetableSalad #LightLunchIdeas"
         },
         {
-            "title": "Easy Spring Salad with Asparagus and Peas You’ll Love",
-            "description": "Try this simple asparagus and pea salad for a refreshing and nutritious meal. Perfect for busy days when you want something light but satisfying. Discover the recipe now! 🌿💚 #quickrecipes #vegetarian #freshsalad"
+            "title": "The Secret Ingredient That Elevates Spring Salads",
+            "description": "Discover the secret that makes this spring asparagus and pea salad stand out! With a surprising twist of lemon vinaigrette, this crisp and refreshing salad is perfect for warm weather meals. Try it as a healthy lunch or side dish that bursts with fresh flavors. #SpringSalad #HealthyEating #Asparagus #PeaSalad #LemonVinaigrette #SaladSecrets #FreshRecipes"
         },
         {
-            "title": "Fresh and Zesty Asparagus and Pea Salad for Warm Days",
-            "description": "This salad is packed with fresh veggies and a lemony kick that’s just right for spring. It’s easy to make and perfect as a side or light lunch. Try it today and feel refreshed! 🍋🥒 #springfood #healthyrecipes #veggies"
+            "title": "5 Reasons You'll Love This Spring Veggie Salad",
+            "description": "Did you know this asparagus and pea salad offers 5 amazing benefits? It’s fresh, healthy, easy to make, packed with spring veggies, and topped with a zesty lemon vinaigrette. Perfect for a light lunch or side dish that’s both nutritious and delicious. #SpringSalad #HealthyRecipes #AsparagusSalad #PeaSalad #LemonVinaigrette #EasySalads #FreshVeggies"
         },
         {
-            "title": "Springtime Favorite: Asparagus and Pea Salad with Lemon Dressing",
-            "description": "Bring spring to your plate with this vibrant asparagus and pea salad. The tangy lemon dressing makes it irresistible. Save this recipe for your next meal and enjoy! 🌱🍽️ #saladrecipe #lightmeals #freshfood"
+            "title": "Brighten Your Spring Table with This Fresh Salad",
+            "description": "Celebrate spring with a bright and vibrant asparagus and pea salad dressed in lively lemon vinaigrette. This refreshing dish brings joy to any meal and is perfect for warm weather gatherings, family lunches, or a light, healthy snack. #SpringRecipes #FreshSalad #HealthyEating #Asparagus #PeaSalad #LemonVinaigrette #SeasonalSalad"
         }
+    ],
+    "pin_hooks": [
+        "Fresh Asparagus and Pea Salad with Lemon Vinaigrette",
+        "The Secret Ingredient That Elevates Spring Salads",
+        "5 Reasons You'll Love This Spring Veggie Salad",
+        "Brighten Your Spring Table with This Fresh Salad"
     ]
 }

@@ -1,341 +1,349 @@
 {
-    "title": "Silky Mushroom and Asparagus Soup with Fresh Thyme",
-    "promptIMG": "Professional food photography prompt: \"creamy mushroom and asparagus soup in a rustic bowl, natural food photography, soft natural lighting, visible texture of mushrooms and asparagus, garnished with fresh thyme, wooden spoon on side, kitchen background in soft focus, warm tones, inviting presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Creamy Mushroom and Asparagus Soup Recipe",
+    "promptIMG": "Professional food photography prompt: \"Creamy mushroom and asparagus soup in rustic bowl with fresh herbs, natural lighting, detailed texture of mushrooms and asparagus tips visible, soft steam rising, neutral kitchen background, realistic food styling, no blur, sharp focus, balanced composition --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "A detailed recipe for a creamy mushroom and asparagus soup that balances earthiness with fresh herb notes. Learn how to achieve a smooth texture without losing the character of the vegetables, and why timing and ingredient preparation matter for optimal flavor and mouthfeel.",
-    "hashtags": "#mushroomsoup #asparagusrecipes #creamsoup #comfortfood #seasonalcooking",
+    "description": "This creamy mushroom and asparagus soup blends the earthiness of mushrooms with the bright freshness of asparagus and herbs. The recipe focuses on preserving the vegetables’ texture while creating a smooth, velvety base. It explains how cooking timing and ingredient prep influence flavor and mouthfeel.",
+    "hashtags": "#mushroomsoup #asparagusrecipe #creamysoup #springrecipes #homemade",
     "pinterest_boards": {
-        "classic": "Comforting Soup Recipes",
-        "header": "Easy Dinner Ideas",
-        "cinematic": "Cozy Seasonal Meals"
+        "classic": "Seasonal Vegetable Soups",
+        "header": "Creamy Soup Recipes",
+        "cinematic": "Spring Comfort Food Ideas"
     },
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "prep_time": 15,
     "cook_time": 30,
     "total_time": 45,
     "servings": 4,
-    "yield": "Approximately 4 servings (about 1.5 liters or 6 cups)",
+    "yield": "About 4 servings (1.5 liters \/ 6 cups)",
     "ingredients": [
-        "300g (10.5 oz) fresh mushrooms (such as cremini or button), sliced",
-        "200g (7 oz) fresh asparagus, trimmed and cut into 2-inch (5 cm) pieces",
-        "1 medium onion (150g), finely diced",
+        "200g (7 oz) cremini or white mushrooms, cleaned and sliced",
+        "150g (5 oz) fresh asparagus, trimmed and cut into 2.5 cm (1 inch) pieces",
+        "1 medium yellow onion (150g), finely diced",
         "2 cloves garlic, minced",
-        "1 tbsp (15ml) olive oil or unsalted butter",
-        "750ml (3 cups) vegetable or chicken broth, low sodium preferred",
-        "150ml (2/3 cup) heavy cream or full-fat coconut milk (for dairy-free)",
-        "1 tsp (1g) fresh thyme leaves, plus extra for garnish",
+        "30g (2 tbsp) unsalted butter",
+        "1 tbsp (15ml) olive oil",
+        "750ml (3 cups) vegetable or chicken broth, low sodium",
+        "100ml (1\/3 cup + 1 tbsp) heavy cream",
+        "1 tsp fresh thyme leaves (or 1\/2 tsp dried thyme)",
         "Salt and freshly ground black pepper, to taste",
-        "Optional: 1 tbsp (8g) all-purpose flour or cornstarch (for thickening, if desired)"
+        "Optional garnish: chopped fresh parsley or chives"
     ],
-    "introduction": "When the weather turns cooler, I find myself reaching for comforting soups that warm both body and soul. This mushroom and asparagus soup is one I’ve returned to often, especially in early spring when asparagus is fresh and tender. Its smooth, creamy texture paired with the gentle earthiness of mushrooms and the subtle brightness of fresh thyme makes it feel like a quiet celebration of seasonal produce. Unlike heavier cream soups, this version balances richness with freshness, making it suitable for weekday dinners or a relaxed weekend meal. The gentle simmer and careful timing preserve the delicate flavors while creating a velvety mouthfeel. I’m happy to share the steps and insights that make this soup reliably satisfying and easy to prepare.",
+    "introduction": "I often turn to this mushroom and asparagus soup during early spring when fresh asparagus starts appearing at the market, and I want something comforting but still bright and fresh. What sets this soup apart for me is the balance: the deep, earthy notes of sautéed mushrooms combine with the vibrant green asparagus and fresh thyme, while the cream adds a smooth texture without overwhelming the vegetables. I’ve made this soup multiple times, tweaking the cooking times and blending techniques to maintain a silky base that still lets the asparagus and mushrooms shine. It’s an excellent choice for a light lunch or as a starter on a chilly spring evening. What follows is a detailed recipe that explains how to get that creamy consistency and preserve the distinct flavors and textures of each ingredient.",
     "why_this_recipe_works": {
-        "section": "Understanding the Science Behind This Soup",
-        "content": "<p>The foundation of this soup’s texture and flavor lies in balancing moisture, fat, and cooking time. Mushrooms release moisture as they sauté, which adds natural umami and depth. Cooking them gently in fat allows their flavors to concentrate without becoming rubbery. Asparagus, which is tender and delicate, is added later in the process to preserve its bright color and slight snap.</p><p>Adding cream at the end introduces fat that smooths the soup and carries flavor, but it’s important to temper the cream gently to avoid curdling. The use of fresh thyme adds an herbal note that complements the earthiness without overpowering. If thickening is desired, a small amount of flour or cornstarch can be used, but the natural starches in asparagus already contribute some body.</p><p>Simmering at moderate heat rather than boiling maintains the integrity of the vegetables and preserves their flavors. Each step is designed to develop layers of taste and achieve a comforting texture while respecting the ingredients’ natural qualities.</p>",
+        "section": "What Makes This Mushroom and Asparagus Soup Work",
+        "content": "<p>The success of this soup hinges on balancing texture and flavor layers. Mushrooms provide an earthy, umami backbone, but overcooking them can make them mushy and dull their flavor. Sautéing them in butter and olive oil at medium heat develops their natural sugars through gentle caramelization, enhancing depth. Asparagus is delicate and cooks quickly; adding it later in the process preserves its vibrant color and slight crunch, avoiding a limp texture.<\/p><p>Blending part of the soup creates a creamy, smooth base that doesn’t mask the individual vegetable flavors. The addition of cream enriches mouthfeel but is added at the end to prevent curdling and to retain freshness. Using low-sodium broth allows control over seasoning, letting the natural flavors stand out. Fresh herbs like thyme contribute subtle aromatic notes that complement both mushrooms and asparagus without overpowering.<\/p>",
         "ingredient_notes": {
-            "mushrooms": "Fresh mushrooms contribute umami and texture, but their moisture content varies by type and freshness. Cremini mushrooms offer a deeper flavor than button mushrooms. It's important to slice them evenly for consistent cooking and to sauté them until their released juices evaporate, which intensifies flavor.",
-            "asparagus": "Asparagus cooks quickly and can become mushy if overcooked. Using fresh, tender stalks ensures a pleasant bite and bright green color. Cutting into uniform pieces helps them cook evenly and simultaneously with the soup’s simmering time.",
-            "cream": "Heavy cream adds richness and a silky mouthfeel. If dairy-free, full-fat coconut milk is a good substitute and provides a subtle sweetness. Add cream off the heat or at low temperature to prevent curdling, ensuring a smooth finish.",
-            "thyme": "Fresh thyme leaves release essential oils that brighten and lift the soup’s flavor. Adding them early during the simmer allows the herb to infuse the broth gently, while a small garnish at the end adds a fresh aroma and visual appeal."
+            "mushrooms": "Choosing fresh cremini or white mushrooms makes a big difference. They hold up well to sautéing, releasing moisture slowly to build flavor without becoming soggy. Avoid pre-sliced packages that can be damp; instead, clean and slice just before cooking for better texture and taste.",
+            "asparagus": "Fresh asparagus should be firm with tightly closed tips. Trimming the woody ends prevents fibrous bits in the soup. Adding asparagus late in cooking ensures it keeps its bright green color and slight snap, which provides contrast to the creamy base.",
+            "butter and olive oil": "Combining these fats balances flavor and cooking performance. Butter adds richness and flavor, while olive oil raises the smoke point, allowing a higher sauté temperature without burning. This mix allows mushrooms to brown nicely, enhancing their savory qualities.",
+            "heavy cream": "Adding heavy cream at the end enriches the soup’s texture and rounds out acidity. Because cream can curdle if boiled, it’s important to stir it in off the heat or over very low heat, allowing it to warm gently without breaking apart.",
+            "vegetable broth": "Using a low-sodium or homemade broth lets you control the saltiness and ensures the broth complements rather than competes with the mushroom and asparagus flavors. The broth also provides the liquid base necessary to extract and carry flavor during cooking."
         }
     },
     "instructions": [
         {
             "step": 1,
-            "instruction": "Heat the olive oil or butter in a large pot over medium heat until shimmering but not smoking, about 2 minutes.",
-            "timing": "2 minutes",
-            "doneness_cue": "Oil shimmers gently and butter is melted without browning"
+            "instruction": "Heat a large pot over medium heat. Add the butter and olive oil. Once the butter melts and starts to foam but before it browns, add the diced onion with a pinch of salt. Cook, stirring occasionally, for 5-6 minutes until the onion is translucent and soft but not browned. This gentle sweat releases the onion’s sweetness without harshness.",
+            "timing": "5-6 minutes",
+            "doneness_cue": "Onions appear translucent and softened with slight shine, no browning"
         },
         {
             "step": 2,
-            "instruction": "Add the diced onion and a pinch of salt. Sauté, stirring occasionally, until the onion is translucent and soft, about 5-6 minutes. The aroma should become sweet and mild.",
-            "timing": "5-6 minutes",
-            "doneness_cue": "Onion pieces are soft, translucent, and slightly golden at edges"
+            "instruction": "Add the minced garlic and fresh thyme leaves to the pot and cook for 1 minute, stirring constantly. The aroma of garlic should become evident but avoid browning to prevent bitterness.",
+            "timing": "1 minute",
+            "doneness_cue": "Strong garlic fragrance fills the kitchen, garlic remains pale"
         },
         {
             "step": 3,
-            "instruction": "Stir in the minced garlic and cook for 30 seconds until fragrant, taking care not to burn it.",
-            "timing": "30 seconds",
-            "doneness_cue": "Garlic aroma is noticeable and pleasant, no browning"
+            "instruction": "Add the sliced mushrooms to the pot. Stir to coat them in the butter and oil mixture. Cook over medium heat, stirring occasionally, for about 8-10 minutes. The mushrooms will release moisture, then gradually brown as their water evaporates. This creates a deep, savory flavor base.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Mushrooms shrink slightly, have golden-brown edges, and the pot smells rich and earthy"
         },
         {
             "step": 4,
-            "instruction": "Add the sliced mushrooms and cook, stirring occasionally, until they release their moisture and it evaporates, about 7-8 minutes. The mushrooms should shrink and develop a deeper color.",
-            "timing": "7-8 minutes",
-            "doneness_cue": "Mushrooms are tender, reduced in size, and golden brown in spots"
+            "instruction": "Pour in the vegetable broth and bring to a gentle simmer. Simmer uncovered for 10 minutes to meld flavors and begin softening the mushrooms further. This step also concentrates the broth slightly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Small, gentle bubbles rise steadily, aroma deepens, broth slightly reduces"
         },
         {
             "step": 5,
-            "instruction": "Pour in the broth, add the fresh thyme leaves, and bring the mixture to a gentle simmer over medium heat.",
-            "timing": "3-4 minutes to reach simmer",
-            "doneness_cue": "Small bubbles form steadily at the bottom, surface mostly calm"
+            "instruction": "Add the asparagus pieces to the pot. Continue simmering gently for 5 minutes. This shorter cooking time preserves the asparagus’ bright green color and slight firmness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Asparagus color remains vibrant green, pieces are tender but still slightly firm when pierced"
         },
         {
             "step": 6,
-            "instruction": "Add the asparagus pieces and simmer uncovered for 8-10 minutes until tender but still slightly firm. Stir occasionally to distribute heat evenly.",
-            "timing": "8-10 minutes",
-            "doneness_cue": "Asparagus is bright green and can be pierced easily with a fork but retains slight resistance"
+            "instruction": "Using an immersion blender, blend about half the soup directly in the pot until smooth but not completely pureed; some mushroom and asparagus pieces should remain visible for texture. Alternatively, transfer half the soup to a blender, puree carefully, and return to the pot.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Soup appears creamy and smooth but still has small vegetable bits visible"
         },
         {
             "step": 7,
-            "instruction": "If using, mix the flour or cornstarch with a tablespoon of cold water to make a slurry, then stir it into the soup. Cook for 2-3 minutes to thicken slightly, stirring frequently.",
+            "instruction": "Remove the pot from heat and stir in the heavy cream. Adjust seasoning with salt and black pepper to taste. Rewarm gently over low heat if needed, but do not let the soup boil after adding cream.",
             "timing": "2-3 minutes",
-            "doneness_cue": "Soup thickens gently and coats the back of a spoon without lumps"
+            "doneness_cue": "Soup becomes richer and slightly thicker, cream is fully incorporated without curdling"
         },
         {
             "step": 8,
-            "instruction": "Remove the pot from heat and slowly stir in the cream. Taste and season with salt and freshly ground black pepper as needed.",
-            "timing": "0 minutes (off heat)",
-            "doneness_cue": "Soup is smooth, creamy, and well-seasoned with a balanced flavor"
-        },
-        {
-            "step": 9,
-            "instruction": "Ladle the soup into bowls and garnish with fresh thyme leaves. Serve immediately.",
+            "instruction": "Serve the soup hot, garnished with chopped fresh parsley or chives if desired. The soup pairs well with crusty bread or a simple green salad for a light meal.",
             "timing": "0 minutes (serving)",
-            "doneness_cue": "Soup is hot, creamy with visible pieces of mushroom and asparagus, fragrant with thyme"
+            "doneness_cue": "Soup is steaming, colors vibrant, aroma fresh with subtle herb notes"
         }
     ],
     "pro_tips": [
         {
-            "tip": "Dry mushrooms thoroughly before slicing to avoid steaming instead of sautéing.",
-            "reason": "Excess moisture on mushrooms causes them to release more water during cooking, which can prevent browning and dilute flavor."
+            "tip": "Dry mushrooms thoroughly before slicing and cooking.",
+            "reason": "Excess moisture makes mushrooms steam rather than brown, resulting in a less flavorful, watery soup. Patting them dry encourages caramelization."
         },
         {
-            "tip": "Add asparagus late in the cooking process to preserve its color and texture.",
-            "reason": "Overcooking asparagus leads to a dull color and mushy texture, which can make the soup less appealing both visually and texturally."
+            "tip": "Add asparagus late to preserve texture and color.",
+            "reason": "Asparagus cooks quickly and can become mushy if overcooked, losing its fresh bite and bright green hue."
         },
         {
-            "tip": "Use fresh thyme rather than dried for a brighter, more nuanced herbal note.",
-            "reason": "Fresh herbs contain volatile oils that release more flavor during cooking and garnish, enhancing the soup’s complexity."
+            "tip": "Use a combination of butter and olive oil for sautéing.",
+            "reason": "Butter adds flavor but burns at lower temperatures, while olive oil raises the smoke point, allowing effective browning without burning."
         },
         {
-            "tip": "Simmer gently rather than boiling to maintain the integrity of the cream and prevent curdling.",
-            "reason": "High heat causes dairy proteins to coagulate, resulting in a grainy texture. A gentle simmer keeps the soup smooth."
+            "tip": "Blend only half the soup to retain some texture in the finished dish.",
+            "reason": "Fully pureed soup can be too smooth and lose character; partial blending balances creaminess and vegetable presence."
         },
         {
-            "tip": "If thickening, always create a slurry with cold water before adding it to the hot soup to avoid lumps.",
-            "reason": "Adding dry flour or starch directly can cause clumping. Pre-mixing ensures even distribution and smooth texture."
+            "tip": "Add cream off the heat or on very low heat to avoid curdling.",
+            "reason": "High heat causes cream proteins to separate, ruining the soup’s smooth texture."
         },
         {
-            "tip": "Taste and season at the end after adding cream, as cream can mellow saltiness.",
-            "reason": "Seasoning too early might result in under- or over-salted soup because cream dilutes flavor intensity."
+            "tip": "Use fresh thyme rather than dried if possible for brighter herbal notes.",
+            "reason": "Fresh herbs provide subtle aroma and flavor that complements rather than overwhelms the delicate vegetables."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Adding asparagus at the beginning of cooking.",
-            "why_it_happens": "Assuming all vegetables require the same cooking time leads to overcooked, mushy asparagus.",
-            "fix": "Add asparagus during the last 8-10 minutes of simmering to keep its texture and color."
+            "mistake": "Overcooking asparagus until it becomes mushy and dull in color.",
+            "why_it_happens": "Adding asparagus too early or cooking at too high a temperature causes it to lose texture and vibrant green color.",
+            "fix": "Add asparagus during the last 5 minutes of simmering and monitor closely for tenderness."
         },
         {
-            "mistake": "Cooking mushrooms too quickly or overcrowding the pan.",
-            "why_it_happens": "Crowding traps moisture, causing mushrooms to steam rather than brown, reducing flavor development.",
-            "fix": "Cook mushrooms in a single layer and allow moisture to evaporate gradually for better caramelization."
+            "mistake": "Skipping the sauté step and adding mushrooms directly to broth.",
+            "why_it_happens": "Without sautéing, mushrooms don’t develop their natural sugars and caramelized flavor, making the soup taste flat.",
+            "fix": "Cook mushrooms in butter and oil until lightly browned before adding liquid."
         },
         {
-            "mistake": "Boiling the soup after adding cream.",
-            "why_it_happens": "High heat causes cream to curdle and separate, ruining the smooth texture.",
-            "fix": "Remove from heat before stirring in cream, and reheat gently if necessary without boiling."
+            "mistake": "Blending the entire soup to a uniform puree.",
+            "why_it_happens": "Over-blending removes all texture, making the soup less interesting and masking the distinct flavors of mushrooms and asparagus.",
+            "fix": "Blend only half the soup for a balance of creaminess and chunky texture."
         },
         {
-            "mistake": "Not seasoning properly after adding cream.",
-            "why_it_happens": "Cream softens flavors, so early seasoning can become insufficient once cream is added.",
-            "fix": "Adjust salt and pepper after cream is incorporated to achieve balanced taste."
+            "mistake": "Adding cream too early or boiling the soup after adding cream.",
+            "why_it_happens": "High heat breaks down cream’s fat and protein, causing curdling and separation.",
+            "fix": "Stir in cream off the heat or on very low heat and avoid boiling thereafter."
         }
     ],
     "variations": [
         {
-            "name": "Dairy-Free Version",
-            "description": "Use full-fat coconut milk instead of heavy cream to keep the soup creamy while avoiding dairy.",
-            "technical_note": "Coconut milk adds a subtle sweetness and different mouthfeel but maintains smoothness when added off heat."
+            "name": "Vegan Version",
+            "description": "Replace butter with extra olive oil and use full vegetable broth. Substitute heavy cream with canned coconut milk or cashew cream for richness.",
+            "technical_note": "Coconut milk adds a subtle, sweet flavor that complements mushrooms well, while cashew cream provides a neutral richness. Avoid boiling after adding these substitutes to maintain texture."
         },
         {
-            "name": "Herb-Enhanced Soup",
-            "description": "Add a sprig of rosemary or a bay leaf during simmering along with thyme for additional herbal complexity.",
-            "technical_note": "Remove woody herbs before blending or serving to avoid bitterness and maintain texture."
+            "name": "Herb-Forward Soup",
+            "description": "Increase fresh thyme to 2 teaspoons and add a tablespoon of chopped tarragon or dill at the end for a more pronounced herbal profile.",
+            "technical_note": "Delicate herbs like tarragon and dill should be added at the end to preserve their bright, aromatic qualities."
         },
         {
-            "name": "Chunky Style",
-            "description": "Reserve half of the sautéed mushrooms and asparagus pieces to stir in after blending for texture contrast.",
-            "technical_note": "This method provides a varied mouthfeel, combining creamy base with tender vegetable pieces."
+            "name": "Chunky Vegetable Soup",
+            "description": "Skip blending altogether and add additional diced potatoes or leeks with the broth for a heartier texture.",
+            "technical_note": "Cooking diced potatoes with broth softens them and adds body, but increases cooking time by about 10 minutes."
         },
         {
             "name": "Spiced Variation",
-            "description": "Add a pinch of ground nutmeg or white pepper when adding cream to introduce subtle warmth.",
-            "technical_note": "Nutmeg complements cream-based soups by enhancing richness without overpowering flavors."
+            "description": "Add a pinch of smoked paprika and ground cumin with the onions for a warm, smoky undertone to the soup.",
+            "technical_note": "Spices should be added early with onions to bloom their flavors in the fat; use sparingly to avoid overpowering the mushroom and asparagus."
         },
         {
-            "name": "Spring Vegetable Medley",
-            "description": "Include peas or fresh spinach during the last few minutes of cooking for extra color and nutrients.",
-            "technical_note": "Add delicate greens just before serving to preserve their texture and vibrant color."
+            "name": "Asparagus-Only Soup",
+            "description": "Omit mushrooms and increase asparagus to 300g (10 oz). Roast asparagus before adding to broth for added depth.",
+            "technical_note": "Roasting asparagus concentrates its flavor and adds subtle caramel notes, creating a different but still fresh-tasting soup."
         }
     ],
     "nutrition": {
         "servings": 4,
-        "calories_per_serving": "approximately 210",
+        "calories_per_serving": "approx. 210",
         "protein_grams": "6g",
-        "carbohydrates_grams": "12g",
-        "fat_grams": "16g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "18g",
         "fiber_grams": "3g",
-        "sodium_mg": "400mg",
-        "note": "These values are estimates and may vary depending on specific ingredient brands and exact measurements. Using coconut milk will slightly alter fat and calorie content."
+        "sodium_mg": "370",
+        "note": "Values are estimates and may vary depending on exact ingredients used. Using low-sodium broth and adjusting salt changes sodium content."
     },
     "storage_and_reheating": {
-        "room_temperature": "Do not leave soup at room temperature for more than 2 hours to prevent bacterial growth. Transfer to shallow containers for faster cooling.",
-        "refrigerator": "Store cooled soup in an airtight container for up to 3 days. Stir before reheating as separation may occur.",
-        "freezer": "Freeze soup in airtight containers for up to 2 months. Leave headspace for expansion. Thaw overnight in the refrigerator before reheating.",
-        "reheating": "Gently reheat on low to medium heat, stirring occasionally. Avoid boiling to maintain creaminess and prevent curdling. Add a splash of broth or water if soup is too thick.",
-        "make_ahead_strategy": "Prepare the base (sautéed vegetables and broth) up to step 6 a day ahead and refrigerate. Add cream and finish seasoning just before serving for optimal freshness."
+        "room_temperature": "Do not leave soup out longer than 2 hours. Transfer to shallow containers and refrigerate promptly to prevent bacterial growth.",
+        "refrigerator": "Store in airtight containers for up to 3 days. Creamy soups thicken when chilled; stir gently before reheating.",
+        "freezer": "Freeze for up to 1 month in freezer-safe containers. Thaw overnight in refrigerator. Cream may separate slightly upon freezing but can be re-incorporated by stirring.",
+        "reheating": "Reheat gently over low-medium heat, stirring frequently. Avoid boiling to prevent cream from curdling and to maintain smooth texture.",
+        "make_ahead_strategy": "Prepare the soup base (onions, garlic, mushrooms, broth) up to 24 hours ahead and refrigerate. Add asparagus and cream fresh before reheating and serving to preserve freshness and texture."
     },
     "faq": [
         {
             "question": "Can I make this mushroom and asparagus soup ahead of time?",
-            "answer": "Yes, you can prepare the base and refrigerate it for up to 24 hours. Add cream and season just before reheating and serving."
+            "answer": "Yes, you can prepare the base up to a day ahead and refrigerate. Add asparagus and cream just before reheating to keep flavors fresh and texture intact."
         },
         {
-            "question": "Why is my soup grainy after adding cream?",
-            "answer": "This usually happens if the soup was boiled after adding cream. To prevent this, add cream off the heat or at very low temperature and avoid boiling."
+            "question": "Why is my soup watery and lacks depth of flavor?",
+            "answer": "Not sautéing the mushrooms properly can cause this. Sauté mushrooms until browned to develop flavor and reduce excess moisture before adding broth."
         },
         {
-            "question": "Can I substitute frozen asparagus for fresh?",
-            "answer": "Frozen asparagus can be used but add it later in the cooking process and reduce cooking time to avoid mushiness."
+            "question": "Can I substitute heavy cream with something lighter?",
+            "answer": "You can use half-and-half or milk, but the soup will be less rich and may be thinner. For vegan options, try coconut or cashew cream."
         },
         {
-            "question": "How long does the soup last in the fridge?",
-            "answer": "Stored properly in an airtight container, this soup lasts up to 3 days refrigerated."
+            "question": "How long does this soup last in the fridge?",
+            "answer": "Stored in an airtight container, it will keep well for up to 3 days. Reheat gently to maintain texture."
         },
         {
-            "question": "Can I thicken the soup without flour or cornstarch?",
-            "answer": "Yes, blending more of the vegetables or adding a small potato before cooking can naturally thicken the soup."
+            "question": "Can I freeze this soup?",
+            "answer": "Yes, freeze in airtight containers for up to 1 month. Thaw overnight in the fridge. The cream may separate slightly but can be stirred back in when reheated."
         },
         {
-            "question": "Is it possible to make this soup vegan?",
-            "answer": "Absolutely. Use vegetable broth and substitute cream with full-fat coconut milk or other plant-based cream alternatives."
+            "question": "Is it necessary to blend half the soup?",
+            "answer": "Blending half creates a creamy texture while retaining some vegetable pieces for texture. You can blend more or less depending on your preference."
         }
     ],
-    "conclusion": "This mushroom and asparagus soup is a simple yet thoughtful way to enjoy seasonal ingredients with comforting texture and balanced flavors. I welcome any questions or experiences you’d like to share about your own variations or tips.",
+    "conclusion": "This mushroom and asparagus soup balances richness with freshness through careful cooking and timing. I welcome your thoughts or any questions if you try the recipe. Sharing your experience helps others get the most from this simple, satisfying soup.",
     "internal_links": [
         {
-            "anchor": "how to sauté mushrooms properly",
-            "url": "/posts/sauté-mushrooms-techniques"
+            "anchor": "how to sauté mushrooms for deeper flavor",
+            "url": "\/posts\/how-to-saute-mushrooms"
         },
         {
-            "anchor": "tips for cooking with fresh asparagus",
-            "url": "/posts/cooking-fresh-asparagus"
+            "anchor": "tips for cooking perfect asparagus",
+            "url": "\/posts\/cooking-perfect-asparagus"
         },
         {
-            "anchor": "making creamy soups without curdling",
-            "url": "/posts/creamy-soup-techniques"
+            "anchor": "cream-based soups: technique and tips",
+            "url": "\/posts\/cream-soup-techniques"
         }
     ],
-    "category_id": "cat_1761229889_885",
+    "category_id": "cat_1761230166_734",
     "generation_metadata": {
-        "voice": "Experienced Home Cook",
-        "complexity": "medium",
-        "target_words": "1300+",
-        "authenticity_focus": "high",
-        "e_eat_priority": "expertise_authority_trustworthiness",
-        "rewritten_at": "2026-01-14"
+        "voice": "Storyteller",
+        "complexity": "simple",
+        "target_words": "1800-2200",
+        "temperature": 0.7,
+        "generated_at": "2026-03-31 13:59:45"
     },
     "author_id": "author_001",
     "images": [
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_2.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_2.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_2.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_3.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_3.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_3.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
-            "type": "template"
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
-            "type": "template"
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
-            "type": "template"
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
-            "type": "template"
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_8.webp",
+            "order": 8,
             "type": "recipe_card",
-            "no_link": true
+            "template": "recipe_card"
         },
         {
             "fileName": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
-            "filePath": "posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
-            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
+            "filePath": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
+            "relativePath": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_LummyRecipes_image_9.webp",
+            "order": 9,
             "type": "overlay_list",
-            "no_link": true
+            "template": "overlay_list"
         }
     ],
     "slug": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner",
     "id": "post_1774952478_842",
-    "image": "silky-mushroom-asparagus-soup_step1.webp",
-    "image_path": "recipes/silky-mushroom-asparagus-soup/images/silky-mushroom-asparagus-soup_step1.webp",
-    "image_dir": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/images",
-    "generated_from_text": false,
+    "image": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
+    "image_path": "posts\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images\/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner_pinrecipes_image_1.webp",
+    "image_dir": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner\/images",
+    "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-31T12:40:43+02:00",
-    "updatedAt": "2026-03-31T12:40:43+02:00",
+    "createdAt": "2026-03-31T14:02:44+02:00",
+    "updatedAt": "2026-03-31T14:02:44+02:00",
+    "board_name": "",
     "pin_variations": [
         {
-            "title": "Warm Up with This Creamy Mushroom and Asparagus Soup Tonight!",
-            "description": "Feeling chilly? This soup is creamy, comforting, and packed with fresh veggies. Try it today and cozy up with a bowl of pure bliss! 🥄🍄 #comfortfood #souprecipes #easymeals",
-            "hashtags": "#comfortfood #souprecipes #easymeals #mushroomsoup"
+            "title": "Creamy Mushroom and Asparagus Soup Recipe",
+            "description": "Discover the perfect creamy mushroom and asparagus soup that balances earthy mushrooms with fresh asparagus and herbs. This recipe highlights cooking tips to retain texture and enhance flavor, making a velvety, nutritious soup ideal for healthy dinners. Try this easy, comforting soup recipe today! #MushroomSoup #AsparagusRecipe #CreamySoup #HealthyDinner #VegetableSoup #ComfortFood"
         },
         {
-            "title": "Easy Creamy Mushroom & Asparagus Soup Recipe to Try Now",
-            "description": "Whip up this creamy mushroom and asparagus soup in under an hour! It’s simple, delicious, and perfect for any dinner. Save this recipe for your next cozy night in. 🍲💚 #dinnerideas #souprecipes #vegetarian",
-            "hashtags": "#dinnerideas #vegetarian #souprecipes #easyrecipes"
+            "title": "The Secret to Perfect Creamy Mushroom Soup",
+            "description": "Unlock the secret to making creamy mushroom and asparagus soup that preserves veggie texture and bursts with flavor. Avoid common mistakes with our step-by-step guide for a velvety, fresh soup that's packed with herbs and nutrition. Perfect for foodies wanting a smooth yet textured soup! #SoupSecrets #MushroomSoupRecipe #AsparagusSoup #CookingTips #HealthySoups #FoodHacks"
         },
         {
-            "title": "Discover the Secret to Silky Creamy Mushroom and Asparagus Soup",
-            "description": "The trick to this soup’s richness? A touch of cream and fresh herbs. It’s comforting, nutritious, and a total crowd-pleaser. Don’t miss out—give it a try tonight! 🌿🍄 #healthycomfortfood #easydinner #soups",
-            "hashtags": "#healthycomfortfood #easydinner #soups #mushroomsoup"
+            "title": "5 Tips for Creamy Mushroom & Asparagus Soup",
+            "description": "Did you know timing and prep can make or break your creamy mushroom and asparagus soup? Follow these 5 expert tips to keep veggies crisp and create a smooth, flavorful base. This recipe is perfect for anyone craving healthy, hearty soups packed with fresh herbs and nutrients. #SoupTips #HealthyEating #MushroomRecipes #AsparagusSoup #CookingHacks #VelvetySoup"
         },
         {
-            "title": "Cozy Up with This Delicious Mushroom and Asparagus Soup Recipe",
-            "description": "Looking for a cozy dinner idea? This creamy mushroom and asparagus soup hits all the right notes—earthy, smooth, and satisfying. Perfect for warming up after a long day. Try it now! 🥣✨ #comfortfood #easyrecipes #vegetarian",
-            "hashtags": "#comfortfood #easyrecipes #vegetarian #dinnerideas"
+            "title": "Cozy Creamy Mushroom & Asparagus Soup Recipe",
+            "description": "Warm up your chilly evenings with this cozy creamy mushroom and asparagus soup. Perfect for fall and winter, it combines earthy mushrooms and fresh asparagus in a smooth, comforting bowl of goodness. Ideal for family dinners or a soothing solo meal. #CozySoup #FallRecipes #MushroomSoup #AsparagusSoup #ComfortFood #HealthyMeals"
         }
+    ],
+    "pin_hooks": [
+        "Creamy Mushroom and Asparagus Soup Recipe",
+        "The Secret to Perfect Creamy Mushroom Soup",
+        "5 Tips for Creamy Mushroom & Asparagus Soup",
+        "Cozy Creamy Mushroom & Asparagus Soup Recipe"
     ]
 }

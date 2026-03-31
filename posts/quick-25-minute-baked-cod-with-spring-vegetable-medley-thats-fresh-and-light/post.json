@@ -1,321 +1,332 @@
 {
-    "title": "Baked Cod with Spring Vegetables: A Light and Flavorful Dinner",
-    "promptIMG": "Professional food photography prompt: \"baked cod fillet with spring vegetables, natural food photography, sharp focus, vibrant colors, flaky white fish with roasted asparagus and peas, rustic white plate, natural kitchen lighting, clean background, modern home kitchen setting, documentary style, professional food styling --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Baked Cod with Spring Vegetables: A Gentle Approach to Preserving Texture and Flavor",
+    "promptIMG": "Professional food photography prompt: \"baked cod fillet with spring vegetables on white plate, natural light, close-up showing flaky fish texture and vibrant vegetables, realistic food styling, kitchen background subtle, no artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "A straightforward baked cod recipe featuring tender, flaky fish paired with crisp spring vegetables. This dish highlights how gentle baking preserves moisture and texture in the cod while the fresh vegetables add brightness and subtle sweetness. Ideal for weeknight dinners when you want something light yet satisfying.",
-    "hashtags": "#bakedcod #springvegetables #healthyrecipes #quickdinner #homecooking",
+    "description": "This baked cod recipe emphasizes gentle cooking techniques that protect the fish's delicate texture while highlighting fresh spring vegetables. It balances moisture retention and natural flavors, resulting in a light yet satisfying dish that's well-suited for seasonal meals or simple weeknight dinners.",
+    "hashtags": "#bakedcod #springvegetables #lightdinner #healthycooking #seafoodrecipes",
     "pinterest_boards": {
-        "classic": "Simple Fish Recipes",
-        "header": "Weeknight Dinners",
-        "cinematic": "Fresh Spring Meals"
+        "classic": "Healthy Seafood Recipes",
+        "header": "Light Dinner Ideas",
+        "cinematic": "Spring Seasonal Meals"
     },
     "difficulty": "Easy",
-    "prep_time": 10,
-    "cook_time": 15,
-    "total_time": 25,
-    "servings": 2,
-    "yield": "2 servings",
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "servings": 4,
+    "yield": "4 servings",
     "ingredients": [
-        "2 cod fillets (each about 170g / 6 oz), skinless and boneless",
-        "150g (5 oz) asparagus, trimmed and cut into 2-inch (5 cm) pieces",
-        "100g (3.5 oz) sugar snap peas, strings removed",
-        "1 small shallot (30g), thinly sliced",
-        "1 tbsp (15 ml) olive oil",
-        "1 tsp (5 ml) fresh lemon juice",
-        "1/2 tsp (2.5 ml) finely grated lemon zest",
+        "4 cod fillets, skin removed, approximately 150g (5 oz) each",
+        "2 tbsp (30ml) olive oil, divided",
+        "1 lemon, thinly sliced",
+        "200g (7 oz) asparagus, trimmed and cut into 3-inch (7.5cm) pieces",
+        "150g (5 oz) sugar snap peas, trimmed",
+        "1 small fennel bulb, thinly sliced",
         "2 cloves garlic, minced",
-        "Salt, to taste",
+        "Salt, to taste (approximately 1 tsp \/ 5g)",
         "Freshly ground black pepper, to taste",
-        "Optional: fresh dill or parsley for garnish"
+        "Fresh dill or parsley, chopped, for garnish (optional)"
     ],
-    "introduction": "I often turn to this baked cod with spring vegetables when I want a meal that's both fresh and uncomplicated. It's a dish that feels at home on a breezy spring evening, when the market offers crisp asparagus and sweet snap peas. What makes this version stand out is the balance of textures: flaky, tender cod gently baked to retain moisture, alongside vegetables that maintain a satisfying snap. The subtle citrus notes from lemon zest and juice brighten the plate without overpowering the delicate fish. This recipe suits those who appreciate simple, clean flavors and need a quick dinner solution that doesn’t sacrifice quality. With minimal effort, you get a meal that feels thoughtfully composed and seasonally inspired.",
+    "introduction": "I often turn to this baked cod recipe during early spring when fresh vegetables start to appear at the market. The method focuses on a gentle baking process that keeps the cod moist and flaky, avoiding the dryness that can come from overcooking. What sets this version apart is the combination of tender, subtly anise-flavored fennel with crisp asparagus and sweet sugar snap peas, which together brighten the plate with fresh green colors and varied textures. This dish works well for family dinners or light weekend meals when you want something nourishing but uncomplicated. The aroma of lemon and garlic roasting alongside the fish fills the kitchen with a fresh, inviting scent that signals a simple yet thoughtful dish is near. Below, I’ll walk through the steps that ensure the cod comes out tender and the vegetables retain their snap.",
     "why_this_recipe_works": {
-        "section": "Understanding the Science Behind This Baked Cod Dish",
-        "content": "<p>The success of baked cod lies in managing heat and moisture to preserve the fish's delicate texture. Cod is a lean fish with relatively low fat content, so baking at a moderate temperature ensures it cooks evenly without drying out. The gentle heat allows the proteins to coagulate just enough to become opaque and flaky, avoiding toughness.</p><p>Meanwhile, the spring vegetables contribute contrasting textures and flavors. Asparagus and sugar snap peas have firm cell walls that soften slightly with brief roasting but retain a pleasant crispness, adding freshness and subtle sweetness. The shallot and garlic infused in olive oil provide aromatic depth without overpowering the mild cod.</p><p>The lemon juice and zest serve a dual purpose: the acid brightens the overall flavor and helps balance the natural sweetness of the vegetables, while the zest adds a fragrant citrus note that complements the fish’s clean profile. Finally, seasoning with salt and pepper enhances natural flavors without masking them.</p>",
+        "section": "Why This Baked Cod Recipe Works",
+        "content": "<p>The key to baking cod successfully lies in controlling heat and timing to maintain moisture without drying the fish. Cod has a delicate, flaky texture that can turn dry and tough if exposed to high heat for too long. Baking at a moderate temperature with some olive oil helps create a protective layer, keeping the surface slightly moist and encouraging even cooking.<\/p><p>Pairing cod with spring vegetables adds texture contrast and freshness. Asparagus and sugar snap peas have natural sugars and crispness that hold up well to short roasting times, while fennel softens slightly but maintains a subtle crunch and its distinctive aroma. By roasting the vegetables together with the fish, their flavors meld subtly without becoming mushy.<\/p><p>Lemon slices placed over the fish slowly release juice and essential oils during baking, imparting bright acidity and a gentle citrus fragrance that complements the mild cod. Garlic minced finely disperses flavor evenly without overwhelming the dish.<\/p>",
         "ingredient_notes": {
-            "cod fillets": "Choose fresh, firm cod fillets without skin or bones for an even bake and easy eating experience. Fresh cod has a mild smell and white, moist flesh. Avoid fillets that look dull or have a strong fishy odor, as freshness directly affects texture and flavor.",
-            "asparagus": "Select bright green asparagus with firm stalks and closed tips. Thicker stalks can be peeled slightly to ensure tenderness during baking. Asparagus provides a slightly grassy, earthy note and a crisp texture that contrasts the soft fish.",
-            "sugar snap peas": "Sugar snap peas add a sweet crunch and vibrant color. Remove the fibrous string along the seam before cooking to improve eating quality. Their natural sugars caramelize subtly during baking, enhancing the dish’s flavor complexity.",
-            "olive oil": "Use a good quality extra virgin olive oil for its fruity aroma and smooth mouthfeel. It helps conduct heat during baking and carries the aromatics of garlic and shallot, while adding a subtle richness that coats the fish and vegetables.",
-            "lemon juice and zest": "Fresh lemon juice introduces brightness and acidity that lighten the dish, cutting through the richness of oil and enhancing the fish’s natural flavors. The zest contains essential oils that provide an aromatic lift without adding moisture."
+            "cod fillets": "Choose thick, fresh cod fillets with firm flesh and no off-odor. Skinless fillets help the gentle baking process cook evenly without curling. Freshness is key as cod's mild flavor will highlight any fishiness if less fresh.",
+            "spring vegetables": "Asparagus, sugar snap peas, and fennel provide a range of textures and flavors that balance the cod. Fresh, crisp vegetables will retain their bite and natural sweetness after the brief roasting. Avoid limp or woody stalks.",
+            "olive oil": "A good quality extra virgin olive oil adds a subtle fruity aroma and helps maintain moisture on the fish surface. It also aids in gentle heat transfer and encourages light browning of vegetables without frying.",
+            "lemon": "Thin lemon slices release fragrant oils and mild acidity throughout baking, brightening the dish without adding harsh sourness. The rind also softens, contributing a delicate citrus note.",
+            "garlic": "Minced garlic disperses flavor uniformly and softens during roasting, releasing a mellow, sweet aroma rather than sharp raw pungency."
         }
     },
     "instructions": [
         {
             "step": 1,
-            "instruction": "Preheat your oven to 200°C (400°F). This temperature is ideal for cooking the cod quickly without drying it out and allows the vegetables to roast slightly, developing their natural sweetness.",
+            "instruction": "Preheat your oven to 180°C (350°F). Line a baking tray with parchment paper or lightly grease it with 1 tablespoon (15ml) of olive oil to prevent sticking.",
             "timing": "5 minutes",
-            "doneness_cue": "Oven reaches stable 200°C (400°F) temperature"
+            "doneness_cue": "Oven reaches steady 180°C (350°F) temperature; baking tray prepared with thin oil coating"
         },
         {
             "step": 2,
-            "instruction": "Prepare the vegetables by trimming the asparagus and cutting into 2-inch pieces. Remove strings from sugar snap peas by gently pulling the fibrous seam down to the tip. Thinly slice the shallot and mince the garlic.",
-            "timing": "5 minutes",
-            "doneness_cue": "Vegetables are clean, trimmed, and uniformly sized for even cooking"
+            "instruction": "Arrange the cod fillets on the prepared tray, spacing them evenly. Drizzle each fillet with a small amount of olive oil (about 1\/2 tablespoon or 7ml each), then season lightly with salt and freshly ground black pepper.",
+            "timing": "3 minutes",
+            "doneness_cue": "Fillets look lightly glossy from oil, evenly coated with visible but moderate seasoning"
         },
         {
             "step": 3,
-            "instruction": "In a mixing bowl, combine asparagus, sugar snap peas, shallot, garlic, olive oil, lemon zest, and a pinch of salt and pepper. Toss gently to coat the vegetables evenly with oil and aromatics.",
+            "instruction": "Place thin lemon slices over each fillet, covering the surface moderately but not overlapping excessively. The lemon will slowly release moisture and flavor during baking.",
             "timing": "2 minutes",
-            "doneness_cue": "Vegetables glisten with oil and lemon zest, aromas of garlic and shallot become noticeable"
+            "doneness_cue": "Fillets topped with evenly distributed lemon slices, edges slightly curling but intact"
         },
         {
             "step": 4,
-            "instruction": "Arrange the vegetable mixture in a single layer on a baking sheet or oven-safe dish. Place the cod fillets on top, spacing them evenly. Drizzle the cod with lemon juice and season with salt and pepper.",
-            "timing": "3 minutes",
-            "doneness_cue": "Cod fillets rest atop vegetables, lemon juice is evenly distributed, seasoning visible"
+            "instruction": "In a mixing bowl, toss asparagus pieces, sugar snap peas, and sliced fennel with the remaining 1 tablespoon (15ml) olive oil, minced garlic, and a pinch of salt and pepper. Spread the vegetables around the cod on the baking tray in a single layer for even roasting.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables look coated with oil and seasoning, spread evenly without crowding"
         },
         {
             "step": 5,
-            "instruction": "Transfer the baking sheet to the oven and bake for 12-15 minutes. The cod is done when it turns opaque, flakes easily with a fork, and the vegetables are tender but still have a slight snap. Avoid overcooking to prevent dryness.",
-            "timing": "12-15 minutes",
-            "doneness_cue": "Cod flesh is opaque and flakes apart with gentle pressure; asparagus is tender-crisp; sugar snap peas remain bright green"
+            "instruction": "Place the tray in the preheated oven and bake for 18-20 minutes. Around the 10-minute mark, check for doneness by observing the cod’s edges starting to turn opaque and the flesh flaking gently when pressed with a fork. The vegetables should be tender but still crisp and vibrant in color.",
+            "timing": "18-20 minutes",
+            "doneness_cue": "Cod appears opaque and flakes easily with gentle pressure; vegetables slightly softened but retain bright colors and slight firmness"
         },
         {
             "step": 6,
-            "instruction": "Remove from oven and let rest for 2 minutes. Optionally, garnish with fresh chopped dill or parsley for a fresh herbal note before serving.",
-            "timing": "2 minutes",
-            "doneness_cue": "Dish cools slightly, aromas mellow and fresh herbs add color contrast"
+            "instruction": "Remove from the oven and let rest for 2-3 minutes before serving. This resting period allows residual heat to finish cooking the fish gently and helps the juices redistribute.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Fish remains moist and tender, lemon slices slightly softened and aromatic; vegetables maintain texture"
         }
     ],
     "pro_tips": [
         {
-            "tip": "Pat the cod fillets dry with paper towels before seasoning.",
-            "reason": "Removing surface moisture helps the fish brown slightly and prevents steaming, which can make the texture mushy."
+            "tip": "Pat the cod fillets dry before seasoning and oiling.",
+            "reason": "Removing surface moisture helps the olive oil adhere better and promotes even cooking, preventing steaming that can cause a mushy texture."
         },
         {
-            "tip": "Cut vegetables into uniform sizes for even cooking.",
-            "reason": "This ensures that all vegetables reach the desired tenderness simultaneously, avoiding overcooked or undercooked pieces."
+            "tip": "Avoid overcrowding the baking tray.",
+            "reason": "Leaving space between fillets and vegetables allows hot air to circulate, ensuring even roasting and preventing soggy spots."
         },
         {
-            "tip": "Use fresh lemon zest rather than dried.",
-            "reason": "Fresh zest contains volatile oils that provide a brighter, more vibrant citrus flavor that complements the mild cod."
+            "tip": "Use thin lemon slices rather than zest or juice alone.",
+            "reason": "Slices slowly release oils and moisture during baking, providing a gentle citrus flavor that infuses the fish without overpowering it."
         },
         {
-            "tip": "Avoid overcrowding the baking dish.",
-            "reason": "Leaving space allows hot air to circulate and promotes even roasting of vegetables and consistent cooking of the fish."
+            "tip": "Check the fish at the 10-minute mark to avoid overbaking.",
+            "reason": "Cod cooks quickly, and overcooking causes it to dry out and become tough. Early checking helps catch the ideal flaky doneness."
         },
         {
-            "tip": "Check the fish a few minutes before the minimum cooking time.",
-            "reason": "Ovens vary in heat distribution; checking early prevents overcooking and drying out the delicate cod."
-        },
-        {
-            "tip": "Let the baked cod rest briefly after removing from the oven.",
-            "reason": "Resting allows residual heat to finish cooking the fish gently and helps the juices redistribute, keeping the fillet moist."
+            "tip": "Choose vegetables with similar roasting times.",
+            "reason": "Asparagus, sugar snap peas, and fennel all roast well within the 18-20 minute baking window, ensuring balanced textures without some elements over- or undercooked."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Cooking the cod at too high a temperature or for too long.",
-            "why_it_happens": "High heat or extended baking causes the delicate proteins to tighten excessively, squeezing out moisture and resulting in dry, tough fish.",
-            "fix": "Maintain 200°C (400°F) and monitor cooking time carefully, testing for doneness starting at 12 minutes."
+            "mistake": "Baking cod at too high a temperature.",
+            "why_it_happens": "High heat may seem faster but causes the fish to dry out and become stringy.",
+            "fix": "Bake at a moderate 180°C (350°F) to gently cook the fish through while preserving moisture."
         },
         {
-            "mistake": "Not removing excess moisture from cod before baking.",
-            "why_it_happens": "Moisture on the surface steams the fish, preventing proper texture development and causing a less appealing appearance.",
-            "fix": "Pat fillets dry thoroughly with paper towels before seasoning and baking."
+            "mistake": "Not drying the fish before seasoning.",
+            "why_it_happens": "Wet surfaces prevent proper oil adhesion and cause uneven cooking or steaming.",
+            "fix": "Pat the fillets dry thoroughly with paper towels before adding oil and seasoning."
         },
         {
-            "mistake": "Overcrowding the baking dish with vegetables and fish.",
-            "why_it_happens": "Too many ingredients in a tight space reduce air circulation, leading to uneven cooking and soggy vegetables.",
-            "fix": "Use a baking sheet or dish large enough to allow a single layer of vegetables and space between fillets."
+            "mistake": "Crowding the pan with fillets and vegetables.",
+            "why_it_happens": "Overcrowding traps moisture and blocks hot air circulation, leading to soggy vegetables and uneven fish cooking.",
+            "fix": "Use a large baking tray with space between items or roast in batches if necessary."
         },
         {
-            "mistake": "Skipping seasoning or adding lemon juice after baking.",
-            "why_it_happens": "Seasoning and acid added after cooking do not integrate as well, resulting in a less balanced flavor.",
-            "fix": "Season the fish and vegetables before baking and add fresh lemon juice just before cooking for best flavor infusion."
+            "mistake": "Skipping the resting period after baking.",
+            "why_it_happens": "Serving immediately can cause juices to spill out, making the fish seem dry.",
+            "fix": "Let the fish rest for a few minutes to allow juices to redistribute for a tender result."
         }
     ],
     "variations": [
         {
-            "name": "Dairy-Free Herb Crust",
-            "description": "Top the cod with a mixture of chopped fresh herbs (parsley, thyme, chives) and a drizzle of olive oil before baking for an herbaceous crust without dairy.",
-            "technical_note": "Herbs release essential oils when heated, enhancing aroma and flavor without adding moisture that could soften the crust."
+            "name": "Dairy-Free Creamy Sauce",
+            "description": "Serve the baked cod with a simple sauce made by blending soaked cashews with lemon juice, garlic, and herbs for creaminess without dairy.",
+            "technical_note": "Soaking cashews softens them for blending and creates a smooth texture that complements the mild fish without overpowering delicate flavors."
+        },
+        {
+            "name": "Mediterranean Herb Mix",
+            "description": "Add fresh oregano, thyme, and rosemary to the vegetable mix along with a few kalamata olives for a Mediterranean twist.",
+            "technical_note": "Herbs add aromatic complexity while olives contribute subtle saltiness and texture variety, enhancing the overall flavor profile."
+        },
+        {
+            "name": "Spicy Citrus Glaze",
+            "description": "Brush cod fillets with a mixture of olive oil, lemon zest, smoked paprika, and a pinch of cayenne before baking to introduce mild heat and smoky notes.",
+            "technical_note": "The glaze caramelizes gently in the oven, creating a slightly textured, flavorful crust that contrasts with the soft interior."
+        },
+        {
+            "name": "Steamed Instead of Baked",
+            "description": "Steam the cod fillets with lemon slices and serve alongside lightly steamed spring vegetables for a very gentle, moist cooking method.",
+            "technical_note": "Steaming preserves maximum moisture and nutrient content but omits the light roasting flavors developed by baking."
         },
         {
             "name": "Gluten-Free Breadcrumb Topping",
-            "description": "Sprinkle gluten-free breadcrumbs mixed with minced garlic and lemon zest over the cod before baking to add texture contrast.",
-            "technical_note": "The breadcrumbs toast in the oven, providing a crispy topping that contrasts with the tender fish."
-        },
-        {
-            "name": "Vegan Adaptation with Tofu",
-            "description": "Replace cod with firm tofu slices marinated in lemon juice, garlic, and olive oil. Bake with the same vegetables, adjusting baking time to 15-20 minutes.",
-            "technical_note": "Tofu’s dense texture holds up well to baking and absorbs flavors from the marinade and vegetables."
-        },
-        {
-            "name": "Mediterranean Style",
-            "description": "Add halved cherry tomatoes and sliced kalamata olives to the vegetable mix before baking. Garnish with fresh oregano and a drizzle of balsamic vinegar after baking.",
-            "technical_note": "Tomatoes and olives introduce acidity and briny notes that complement the mild cod and enhance the dish’s complexity."
-        },
-        {
-            "name": "Spring Vegetable Medley",
-            "description": "Include additional spring vegetables such as baby carrots, peas, and fennel slices. Adjust cooking times slightly to ensure all vegetables are tender-crisp.",
-            "technical_note": "Different vegetables have varying densities; monitor to avoid overcooking softer items like peas."
+            "description": "Sprinkle gluten-free breadcrumbs mixed with herbs and a little olive oil over the cod before baking for a light, crunchy topping.",
+            "technical_note": "The topping adds texture contrast while keeping the dish gluten-free; ensure breadcrumbs are finely ground to avoid heaviness."
         }
     ],
     "nutrition": {
-        "servings": 2,
+        "servings": 4,
         "calories_per_serving": "approximately 280",
-        "protein_grams": "35g",
-        "carbohydrates_grams": "10g",
-        "fat_grams": "9g",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "12g",
         "fiber_grams": "3g",
-        "sodium_mg": "150mg",
-        "note": "Nutritional values are estimates and may vary depending on exact ingredients and portion sizes. Values reflect use of olive oil and fresh vegetables without additional sauces."
+        "sodium_mg": "250mg",
+        "note": "Values are estimates and may vary depending on exact portion sizes and ingredient brands. Nutritional content assumes skinless cod and standard olive oil."
     },
     "storage_and_reheating": {
-        "room_temperature": "Avoid leaving baked cod at room temperature for more than 2 hours to prevent bacterial growth.",
-        "refrigerator": "Store leftover cod and vegetables in airtight containers for up to 2 days. The fish texture may become firmer after refrigeration.",
-        "freezer": "Not recommended to freeze cooked baked cod as texture and moisture content degrade significantly upon thawing.",
-        "reheating": "Reheat gently in a low oven (150°C / 300°F) for 8-10 minutes to warm through without drying. Alternatively, use a microwave at low power in short intervals to avoid overcooking.",
-        "make_ahead_strategy": "Prepare the vegetable mixture and season the cod in advance, storing separately in the refrigerator up to 12 hours before baking. Assemble and bake just before serving to maintain freshness and texture."
+        "room_temperature": "Do not leave cooked cod and vegetables at room temperature for more than 2 hours to prevent spoilage.",
+        "refrigerator": "Store leftovers in airtight containers and consume within 2 days for best texture and safety. The fish may become firmer and vegetables soften over time.",
+        "freezer": "Freezing is not recommended for baked cod with vegetables as the texture of fish and fresh vegetables degrades significantly after thawing.",
+        "reheating": "Reheat gently in a low oven (around 150°C \/ 300°F) for 10-12 minutes or in a microwave at medium power, covered, to avoid drying out. Avoid overcooking during reheating.",
+        "make_ahead_strategy": "Prepare and season cod and vegetables ahead of time, store covered in the refrigerator, then bake fresh when ready to serve to maintain optimal texture and flavor."
     },
     "faq": [
         {
             "question": "Can I make baked cod with spring vegetables ahead of time?",
-            "answer": "You can prepare the vegetables and season the cod up to 12 hours in advance and refrigerate separately. Bake the dish shortly before serving for best texture and flavor."
+            "answer": "You can prepare and season the ingredients ahead, but it's best to bake just before serving to keep the fish tender and vegetables crisp."
         },
         {
-            "question": "Why is my baked cod dry and tough?",
-            "answer": "This usually happens if the fish is overcooked or baked at too high a temperature. Try reducing baking time and check for doneness earlier to keep the cod moist and tender."
+            "question": "Why is my baked cod dry after cooking?",
+            "answer": "This usually happens if the fish is overcooked or baked at too high a temperature. Baking gently at 180°C (350°F) and checking early helps prevent dryness."
         },
         {
-            "question": "Can I use frozen cod fillets instead of fresh?",
-            "answer": "Yes, but thaw frozen cod completely and pat dry before baking to avoid excess moisture that can affect texture and flavor."
+            "question": "Can I substitute cod with other fish?",
+            "answer": "Yes, similar white fish like haddock, pollock, or halibut work well; adjust cooking time slightly depending on thickness and firmness."
         },
         {
             "question": "How long does baked cod last in the fridge?",
-            "answer": "Stored properly in an airtight container, baked cod can be kept for up to 2 days in the refrigerator."
+            "answer": "Store cooked cod and vegetables in airtight containers and consume within 2 days for best quality and safety."
         },
         {
-            "question": "Can I substitute other vegetables for asparagus and snap peas?",
-            "answer": "Yes, vegetables like green beans, zucchini, or baby carrots can be used but adjust cooking times accordingly to ensure even doneness."
+            "question": "Can I use frozen vegetables instead of fresh spring vegetables?",
+            "answer": "Fresh vegetables are preferable for texture and flavor, but frozen can be used if thawed and patted dry. Adjust cooking time as frozen veggies release more moisture."
         },
         {
-            "question": "Is it necessary to use lemon zest and juice?",
-            "answer": "While optional, lemon zest and juice add brightness and depth that enhance the mild flavor of cod and balance the richness of olive oil."
+            "question": "How do I know when the cod is fully cooked?",
+            "answer": "The cod should appear opaque and flake easily when gently pressed with a fork. The flesh should still look moist and tender, not rubbery."
         }
     ],
-    "conclusion": "This baked cod with spring vegetables is a straightforward recipe that showcases how simple techniques and fresh ingredients come together to create a satisfying meal. I welcome your experiences or questions if you try this dish—I enjoy hearing how home cooks adapt these flavors to their own kitchens.",
+    "conclusion": "Baking cod with fresh spring vegetables is a simple way to enjoy a light, flavorful meal that highlights seasonal produce and delicate fish. I encourage you to try this approach and share your experience or any questions you have in the comments. Cooking thoughtfully with attention to texture and timing makes all the difference.",
     "internal_links": [
         {
-            "anchor": "how to bake fish perfectly",
-            "url": "/posts/how-to-bake-fish-perfectly"
+            "anchor": "selecting fresh fish for baking",
+            "url": "\/posts\/selecting-fresh-fish"
         },
         {
-            "anchor": "seasonal spring vegetable recipes",
-            "url": "/posts/spring-vegetable-recipes"
+            "anchor": "guide to roasting spring vegetables",
+            "url": "\/posts\/roasting-spring-vegetables"
         },
         {
-            "anchor": "tips for cooking lean fish like cod",
-            "url": "/posts/tips-for-cooking-lean-fish"
+            "anchor": "tips for cooking delicate seafood",
+            "url": "\/posts\/cooking-delicate-seafood"
         }
     ],
     "category_id": "cat_1761229889_885",
     "generation_metadata": {
-        "voice": "Experienced Home Cook",
-        "complexity": "easy",
-        "target_words": "1300+",
-        "authenticity_focus": "high",
-        "e_eat_priority": "expertise_authority_trustworthiness",
-        "rewritten_at": "2026-01-14"
+        "voice": "Enthusiastic Friend",
+        "complexity": "simple",
+        "target_words": "1800-2200",
+        "temperature": 0.7,
+        "generated_at": "2026-03-31 14:01:49"
     },
     "author_id": "author_001",
     "images": [
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_2.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_2.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_2.webp",
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_2.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_3.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_3.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_3.webp",
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_3.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
-            "type": "template"
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
-            "type": "template"
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
-            "type": "template"
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
-            "type": "template"
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_8.webp",
+            "order": 8,
             "type": "recipe_card",
-            "no_link": true
+            "template": "recipe_card"
         },
         {
             "fileName": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
-            "filePath": "posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
-            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
-            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
+            "filePath": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
+            "relativePath": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_LummyRecipes_image_9.webp",
+            "order": 9,
             "type": "overlay_list",
-            "no_link": true
+            "template": "overlay_list"
         }
     ],
     "slug": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light",
     "id": "post_1774952349_435",
-    "image": "baked-cod-with-spring-vegetables_image_1.webp",
-    "image_path": "recipes/baked-cod-with-spring-vegetables/images/baked-cod-with-spring-vegetables_image_1.webp",
-    "image_dir": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/images",
-    "generated_from_text": false,
+    "image": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
+    "image_path": "posts\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images\/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light_pinrecipes_image_1.webp",
+    "image_dir": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light\/images",
+    "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-31T12:40:43+02:00",
-    "updatedAt": "2026-03-31T12:40:43+02:00",
+    "createdAt": "2026-03-31T14:02:47+02:00",
+    "updatedAt": "2026-03-31T14:02:47+02:00",
+    "board_name": "",
     "pin_variations": [
         {
-            "title": "Easy Baked Cod with Vibrant Spring Veggies in 25 Minutes",
-            "description": "Looking for a healthy dinner that’s ready fast? This baked cod with spring veggies is light, flavorful, and perfect for busy nights. Save this recipe for your next easy meal! 🐟🥕🌿 #healthyrecipes #quickmeals #seafoodlove"
+            "title": "Baked Cod with Spring Vegetables: A Gentle Approach to Preserving Texture and Flavor",
+            "description": "Discover a light and flavorful baked cod recipe featuring spring vegetables. This gentle cooking technique preserves the fish's delicate texture and enhances natural flavors. Perfect for healthy weeknight dinners or seasonal meals. Enjoy a balanced, moisture-rich dish with fresh ingredients. #BakedCod #SpringVegetables #HealthyDinner #SeafoodRecipe #FreshFlavors #WeeknightMeals"
         },
         {
-            "title": "Fresh and Flavorful Baked Cod with Spring Vegetable Medley",
-            "description": "Brighten up your dinner routine with this fresh baked cod paired with a colorful spring veggie medley. It’s simple, nutritious, and so tasty. Try it tonight and enjoy a light, satisfying meal! 🍽️💚 #bakedcod #springveggies #easyrecipes"
+            "title": "Why Most Cod Recipes Ruin Its Texture—Try This Instead",
+            "description": "Avoid the common mistake that ruins baked cod texture! Learn a gentle cooking method that keeps your cod tender and juicy, paired with fresh spring vegetables. Perfect for healthy, easy dinners that preserve natural flavors. Impress your family with this surprisingly simple recipe. #BakedCod #CookingTips #HealthyRecipes #SpringVegetables #SeafoodLovers #MoistFish"
         },
         {
-            "title": "25-Minute Baked Cod Dinner That’s Both Quick and Delicious",
-            "description": "Need a fast, healthy dinner? This baked cod with spring vegetables comes together in under 30 minutes and tastes amazing. Discover a new favorite dinner—try it today! 🕒🐟🥦 #quickdinner #seafoodrecipes #healthyeating"
+            "title": "5 Reasons This Baked Cod with Spring Veggies Stands Out",
+            "description": "Did you know gentle baking preserves cod’s delicate texture better than frying? Discover 5 reasons this baked cod recipe with fresh spring vegetables is a must-try. Healthy, flavorful, and perfect for quick weeknight meals or seasonal dinners. Master moisture retention and natural flavor balance today! #BakedCod #HealthyEating #SpringRecipes #SeafoodTips #QuickMeals #Nutrition"
         },
         {
-            "title": "Spring Vegetable Medley with Tender Baked Cod: A Perfect Pair",
-            "description": "Enjoy a light, fresh meal with this baked cod and spring vegetable medley. It’s easy to make and packed with flavor. Save this recipe and make it your go-to for simple weeknight dinners! 🌸🐟🥕 #easymeals #bakedcod #springrecipes"
+            "title": "Fresh & Light: Spring Baked Cod for Cozy Family Dinners",
+            "description": "Celebrate the flavors of spring with this fresh, light baked cod and vegetable dish. Perfect for cozy family meals or seasonal gatherings, this recipe highlights the best of spring produce while keeping cod tender and flavorful. Ideal for nourishing weeknight dinners full of warmth and freshness. #SpringDinner #FamilyMeals #BakedCod #CozyRecipes #HealthyEating #FreshVegetables"
         }
+    ],
+    "pin_hooks": [
+        "Baked Cod with Spring Vegetables: A Gentle Approach to Preserving Texture and Flavor",
+        "Why Most Cod Recipes Ruin Its Texture—Try This Instead",
+        "5 Reasons This Baked Cod with Spring Veggies Stands Out",
+        "Fresh & Light: Spring Baked Cod for Cozy Family Dinners"
     ]
 }
