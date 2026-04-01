@@ -1,0 +1,335 @@
+{
+    "title": "Creamy Chicken and Mushroom Stew Recipe",
+    "promptIMG": "Professional food photography prompt: \"creamy chicken and mushroom stew, served in rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, cozy kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A detailed recipe for creamy chicken and mushroom stew that balances tender poultry, earthy mushrooms, and a rich sauce. Learn the importance of searing chicken for texture and flavor, the role of slow simmering to meld ingredients, and how to achieve a silky sauce without curdling.",
+    "hashtags": "#chickenstew #mushroomstew #comfortfood #onepotmeal #homemade",
+    "pinterest_boards": {
+        "classic": "Hearty Chicken Stew Recipes",
+        "header": "Comfort Food for Chilly Evenings",
+        "cinematic": "Easy One-Pot Meals"
+    },
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "total_time": 55,
+    "servings": 4,
+    "yield": "Approximately 4 servings",
+    "ingredients": [
+        "600g (1.3 lbs) boneless, skinless chicken thighs, cut into 1.5-inch (4 cm) pieces",
+        "2 tbsp (30 ml) olive oil or neutral cooking oil",
+        "1 medium onion (150g), finely chopped",
+        "3 cloves garlic, minced",
+        "250g (9 oz) cremini or button mushrooms, sliced",
+        "2 tbsp (30g) all-purpose flour",
+        "400 ml (1 2/3 cups) chicken stock, low sodium preferred",
+        "200 ml (3/4 cup plus 2 tbsp) heavy cream (or full-fat coconut milk for dairy-free)",
+        "1 tsp (5 ml) fresh thyme leaves or 1/2 tsp dried thyme",
+        "Salt and freshly ground black pepper, to taste",
+        "2 tbsp (8g) fresh parsley, chopped (for garnish)",
+        "Optional: 1 tbsp (15 ml) lemon juice for brightness"
+    ],
+    "introduction": "I often turn to this creamy chicken and mushroom stew when the evenings grow cooler and a simple, comforting meal is needed. It’s a recipe I’ve refined over several seasons, testing how to best balance the tender chicken with the earthy mushrooms and a sauce that feels rich but not heavy. What sets this version apart is the way I sear the chicken in batches, ensuring each piece develops a golden crust that adds texture and flavor. The slow simmer with cream creates a luscious sauce that clings to every bite without breaking or curdling. It’s a dish that suits both a quiet weeknight dinner and a relaxed weekend lunch, inviting you to savor warmth and familiarity in every spoonful. Below, I’ll guide you through the steps that make this stew reliably satisfying.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Science Behind This Chicken and Mushroom Stew",
+        "content": "<p>At the heart of this stew is the interaction between dry heat and moist heat cooking techniques. Searing the chicken pieces at a high temperature creates the Maillard reaction, which develops a golden-brown crust packed with flavor compounds. These compounds bring depth and complexity that simple boiling or stewing cannot achieve. Properly seared chicken also maintains a firmer texture, preventing it from turning mushy during the simmer.</p><p>The mushrooms contribute moisture and umami, but cooking them too quickly or at too high heat can lead to a rubbery texture. By sautéing them after the chicken and allowing them to release their liquid gradually, the stew gains a rich, earthy base. Adding flour before the liquid thickens the sauce by absorbing moisture and swelling, which gives the stew its creamy consistency.</p><p>Finally, incorporating cream near the end at a low temperature prevents curdling and ensures a smooth, velvety sauce. The cream adds fat that balances the acidity and earthiness, enriching the mouthfeel without overwhelming the dish.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Chicken thighs are preferred over breasts for this stew because they have more connective tissue and fat, which contribute to tenderness and flavor during cooking. Their higher fat content also helps keep the meat moist when simmered gently. Using skinless pieces prevents excess grease and allows the sauce to remain silky.",
+            "mushrooms": "Cremini or button mushrooms provide a firm texture and deep earthy flavor that complements the chicken. Fresh mushrooms should be cleaned gently with a damp cloth or soft brush to avoid excess moisture, which can dilute the stew. Slicing them evenly ensures uniform cooking.",
+            "flour": "Flour acts as a thickening agent by absorbing liquid and swelling when cooked. Adding it after sautéing the mushrooms allows it to cook briefly and lose any raw taste before adding stock. This step creates a smooth, cohesive sauce without lumps.",
+            "chicken stock": "Using a low-sodium chicken stock gives control over the stew’s salt level, especially important since the liquid reduces during simmering, concentrating all flavors and saltiness. Homemade or quality store-bought stock enhances the stew’s depth compared to water.",
+            "heavy cream": "Adding cream near the end at low heat avoids curdling, which happens if cream is boiled or added to very hot liquid. Cream enriches the stew's texture, making it silky and smooth, while balancing the earthiness of mushrooms and savoriness of chicken."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Pat the chicken pieces dry with paper towels to remove surface moisture. This step is essential to achieve a good sear and brown crust. Season lightly with salt and pepper.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken pieces feel dry to the touch with no visible moisture."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 1 tablespoon (15 ml) of oil in a large heavy-bottomed pot over medium-high heat until shimmering. Add half the chicken pieces in a single layer without crowding. Let them cook undisturbed for 3-4 minutes until the bottom side develops a golden-brown crust. Flip and cook the other side for 2-3 minutes until browned but not fully cooked through. Remove to a plate and repeat with remaining chicken and oil if needed.",
+            "timing": "8-10 minutes total over two batches",
+            "doneness_cue": "Chicken pieces have an even golden-brown crust on multiple sides and release easily from the pan."
+        },
+        {
+            "step": 3,
+            "instruction": "Reduce heat to medium. Add the chopped onion to the same pot and sauté for 4-5 minutes until soft and translucent, stirring occasionally. Add minced garlic and cook for 30 seconds until fragrant, avoiding any browning which can cause bitterness.",
+            "timing": "5-6 minutes",
+            "doneness_cue": "Onions appear translucent and softened; garlic aroma is noticeable but not burnt."
+        },
+        {
+            "step": 4,
+            "instruction": "Add sliced mushrooms to the pot and cook for 6-8 minutes, stirring occasionally, until they release their moisture and begin to brown. The mushrooms should shrink visibly and develop a slightly caramelized color.",
+            "timing": "6-8 minutes",
+            "doneness_cue": "Mushrooms have reduced in size, browned edges appear, and liquid mostly evaporated."
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the flour evenly over the mushroom mixture. Stir constantly for 1-2 minutes to cook the flour and form a roux base. This step eliminates any raw flour taste and prepares the stew for thickening.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Flour loses its raw powdery appearance, and the mixture thickens slightly and looks cohesive."
+        },
+        {
+            "step": 6,
+            "instruction": "Slowly pour in the chicken stock while stirring continuously to prevent lumps. Scrape the bottom of the pot to release any browned bits. Bring the mixture to a gentle simmer.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Liquid begins to bubble gently, and the sauce thickens slightly."
+        },
+        {
+            "step": 7,
+            "instruction": "Return the browned chicken pieces with any accumulated juices to the pot. Add thyme and season with salt and pepper. Cover partially and simmer gently over low heat for 15-20 minutes, stirring occasionally. The chicken should cook through and absorb flavors.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Chicken pieces are opaque, firm but tender, and the sauce has thickened slightly."
+        },
+        {
+            "step": 8,
+            "instruction": "Reduce heat to low. Stir in the heavy cream slowly, mixing gently to combine without boiling. Heat through for 3-4 minutes until the stew is hot and creamy.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Stew has a smooth, velvety texture with no signs of curdling; steam rises gently."
+        },
+        {
+            "step": 9,
+            "instruction": "Taste and adjust seasoning with salt, pepper, and optional lemon juice for brightness. Garnish with chopped fresh parsley before serving.",
+            "timing": "0 minutes",
+            "doneness_cue": "Balanced flavors with a touch of freshness from parsley and optional acidity."
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Dry the chicken thoroughly before searing.",
+            "reason": "Moisture on the chicken surface creates steam, which prevents browning and reduces flavor development."
+        },
+        {
+            "tip": "Sear chicken in batches to avoid overcrowding the pan.",
+            "reason": "Overcrowding lowers the pan temperature, causing the chicken to steam instead of brown, leading to less flavor and soggy texture."
+        },
+        {
+            "tip": "Cook mushrooms slowly to let moisture evaporate before adding flour.",
+            "reason": "If mushrooms retain too much moisture, the sauce can become watery and lack body."
+        },
+        {
+            "tip": "Add cream only at low heat near the end of cooking.",
+            "reason": "High heat or boiling after adding cream can cause curdling, ruining the smooth texture of the sauce."
+        },
+        {
+            "tip": "Simmer gently rather than boil to keep chicken tender.",
+            "reason": "Boiling can toughen the chicken fibers and cause the sauce to separate or thin."
+        },
+        {
+            "tip": "Use fresh herbs like thyme and parsley for layered flavor.",
+            "reason": "Herbs add aromatic complexity that complements the earthiness of mushrooms and richness of cream."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the searing step and adding chicken directly to the pot.",
+            "why_it_happens": "Searing requires extra time and cleanup, so some prefer to skip it to speed up cooking.",
+            "fix": "Take time to sear chicken in batches. The flavor difference is significant and worth the effort."
+        },
+        {
+            "mistake": "Adding cream too early or boiling after adding cream.",
+            "why_it_happens": "Some cooks add cream with the stock or increase heat to speed cooking without realizing the risk.",
+            "fix": "Add cream at low heat near the end and avoid boiling to maintain a smooth sauce."
+        },
+        {
+            "mistake": "Overcrowding the pan when cooking mushrooms or chicken.",
+            "why_it_happens": "Trying to cook everything at once to save time.",
+            "fix": "Cook in smaller batches to ensure proper browning and evaporation of moisture."
+        },
+        {
+            "mistake": "Not cooking the flour long enough before adding liquid.",
+            "why_it_happens": "Rushing through the roux step can leave a raw flour taste in the stew.",
+            "fix": "Stir flour with mushrooms for at least 1-2 minutes to cook out the raw flavor before adding stock."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Dairy-Free Version",
+            "description": "Replace heavy cream with full-fat coconut milk for a creamy texture without dairy. Use vegetable stock instead of chicken stock for a vegan adaptation.",
+            "technical_note": "Coconut milk adds a subtle sweetness and richness but changes the flavor profile slightly. Avoid boiling after adding coconut milk to prevent separation."
+        },
+        {
+            "name": "Herb-Infused Stew",
+            "description": "Add a bouquet garni of fresh rosemary, thyme, and bay leaf during simmering for enhanced aroma. Remove herbs before adding cream.",
+            "technical_note": "Infusing herbs during simmering adds layered complexity without overpowering the dish. Remove before finishing to avoid bitterness."
+        },
+        {
+            "name": "With Root Vegetables",
+            "description": "Add diced carrots and parsnips along with mushrooms for more body and seasonal variation. Simmer until vegetables are tender.",
+            "technical_note": "Root vegetables release some starch and sweetness that enrich the stew. Adjust simmer time to ensure vegetables cook through without becoming mushy."
+        },
+        {
+            "name": "Spiced Variation",
+            "description": "Include a teaspoon of smoked paprika and a pinch of cayenne pepper with the onions to add warmth and subtle heat.",
+            "technical_note": "Smoked paprika complements mushrooms and chicken, while cayenne adds controlled heat. Adjust spice levels to taste."
+        }
+    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 420",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "24g",
+        "fiber_grams": "2g",
+        "sodium_mg": "650mg",
+        "note": "These values are estimates and may vary depending on specific ingredients and brands used. Using coconut milk will change fat and calorie content."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Do not leave the stew out at room temperature for more than 2 hours to avoid bacterial growth. Cool quickly by transferring to shallow containers.",
+        "refrigerator": "Store cooled stew in airtight containers for up to 3 days. The flavors tend to meld and deepen after resting overnight.",
+        "freezer": "Freeze in airtight containers for up to 2 months. Thaw overnight in the refrigerator before reheating to preserve texture.",
+        "reheating": "Reheat gently over low to medium heat on the stovetop, stirring occasionally. Avoid boiling to prevent cream from separating and chicken from toughening.",
+        "make_ahead_strategy": "Prepare the stew up to step 7 (before adding cream) and refrigerate for up to 24 hours. When ready to serve, gently reheat, add cream, and finish cooking."
+    },
+    "faq": [
+        {
+            "question": "Can I make this chicken and mushroom stew ahead of time?",
+            "answer": "Yes, you can prepare the stew up to the simmering step and refrigerate for up to 24 hours. Add cream and finish cooking just before serving."
+        },
+        {
+            "question": "Why is my stew sauce separating after adding cream?",
+            "answer": "This usually happens if the cream is added to boiling stew or cooked at too high a temperature. Add cream at low heat and avoid boiling afterward."
+        },
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "You can, but chicken breasts are leaner and can dry out or become tough during simmering. Thighs are more forgiving and remain tender."
+        },
+        {
+            "question": "How long does the stew last in the fridge?",
+            "answer": "Stored in an airtight container, the stew keeps well for up to 3 days in the refrigerator."
+        },
+        {
+            "question": "Can I thicken the stew without flour?",
+            "answer": "Yes, you can use cornstarch mixed with cold water as a slurry added near the end. Alternatively, simmer uncovered longer to reduce the liquid."
+        }
+    ],
+    "conclusion": "This creamy chicken and mushroom stew brings together simple ingredients with careful technique to create a satisfying meal. I welcome your feedback and any variations you discover in your kitchen. Feel free to share your experiences or questions in the comments below.",
+    "internal_links": [
+        {
+            "anchor": "techniques for searing meat properly",
+            "url": "/posts/meat-searing-techniques"
+        },
+        {
+            "anchor": "how to thicken sauces without lumps",
+            "url": "/posts/thickening-sauces-guide"
+        },
+        {
+            "anchor": "choosing the best cuts of chicken for stews",
+            "url": "/posts/chicken-cuts-stewing-guide"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "medium",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_1.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_2.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_3.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_4.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_4.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_5.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_5.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_6.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_6.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_7.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_7.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_8.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_8.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_9.webp",
+            "filePath": "posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_9.webp",
+            "relativePath": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "slug": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul",
+    "id": "post_1775043469_461",
+    "image": "creamy-chicken-mushroom-stew_step1_browning.webp",
+    "image_path": "posts/creamy-chicken-mushroom-stew/images/creamy-chicken-mushroom-stew_step1_browning.webp",
+    "image_dir": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-01T14:02:12+02:00",
+    "updatedAt": "2026-04-01T14:02:12+02:00",
+    "pin_variations": [
+        {
+            "title": "Warm Up with This Creamy Chicken and Mushroom Stew Tonight!",
+            "description": "Looking for a cozy dinner that’s easy and delicious? This creamy chicken and mushroom stew hits all the right notes. Made in one pot, it’s perfect for busy nights. Save this recipe and try it today! 🍲🍄 #comfortfood #chickenrecipes #onepotmeal",
+            "hashtags": "#comfortfood #chickenrecipes #onepotmeal #easymeals"
+        },
+        {
+            "title": "One-Pot Creamy Chicken Stew That Feels Like a Hug in a Bowl",
+            "description": "This stew is packed with tender chicken and earthy mushrooms in a creamy sauce that’s so satisfying. It’s my go-to when I want something cozy but fuss-free. Discover how simple comfort food can be! ❤️🍽️ #chickenstew #mushroomrecipes #easycomfortfood",
+            "hashtags": "#chickenstew #mushroomrecipes #easycomfortfood #dinnerideas"
+        },
+        {
+            "title": "Easy One-Pot Chicken and Mushroom Stew to Try This Week",
+            "description": "Craving a hearty meal that doesn’t require a million pots? This creamy chicken and mushroom stew is just that. It’s rich, flavorful, and ready in under an hour. Perfect for weeknight dinners! Try it now and thank me later. 🍄🍗 #onepotmeal #chickenrecipes #comfortfood",
+            "hashtags": "#onepotmeal #chickenrecipes #comfortfood #easymeals"
+        },
+        {
+            "title": "Creamy Chicken and Mushroom Stew: Your Next Favorite Dinner",
+            "description": "If you love creamy, comforting dishes, this chicken and mushroom stew is a must-make. It’s full of flavor, easy to prepare, and the one-pot method means less cleanup. Save this recipe and make it soon! 🍲✨ #comfortfood #chickenstew #mushroomdish",
+            "hashtags": "#comfortfood #chickenstew #mushroomdish #easyrecipes"
+        }
+    ]
+}

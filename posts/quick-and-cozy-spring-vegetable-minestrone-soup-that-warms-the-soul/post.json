@@ -1,0 +1,337 @@
+{
+    "title": "Classic Minestrone Soup with Fresh Spring Vegetables",
+    "promptIMG": "Professional food photography prompt: \"hearty minestrone soup in a rustic bowl, vibrant spring vegetables visible, natural food photography, balanced sharp focus, realistic food textures, natural window light, kitchen background with herbs and bread, documentary style, appetizing presentation --no blur, no over-sharpening --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A traditional minestrone soup recipe featuring fresh spring vegetables and herbs simmered slowly to develop a rich, comforting broth. This recipe explains the importance of layering flavors and timing vegetable additions for the best texture and balance.",
+    "hashtags": "#minestronesoup #springvegetables #comfortfood #homemade #souprecipes",
+    "pinterest_boards": {
+        "classic": "Hearty Soup Recipes",
+        "header": "Seasonal Cooking",
+        "cinematic": "Fresh Spring Meals"
+    },
+    "difficulty": "Easy",
+    "prep_time": 20,
+    "cook_time": 50,
+    "total_time": 70,
+    "servings": 6,
+    "yield": "Approximately 6 servings",
+    "ingredients": [
+        "2 tbsp (30 ml) extra virgin olive oil",
+        "1 medium yellow onion (150 g), diced",
+        "2 cloves garlic, minced",
+        "2 medium carrots (150 g), diced",
+        "2 celery stalks (120 g), diced",
+        "1 medium zucchini (150 g), diced",
+        "1 cup (150 g) green beans, trimmed and cut into 1-inch pieces",
+        "1 medium potato (150 g), peeled and diced",
+        "1 can (400 g / 14 oz) diced tomatoes with juice",
+        "6 cups (1.4 L) vegetable broth, low sodium preferred",
+        "1 cup (200 g) cooked cannellini beans (or 1 can, drained and rinsed)",
+        "1/2 cup (90 g) small pasta (ditalini or elbow macaroni)",
+        "1 tsp (1 g) dried oregano",
+        "1 tsp (1 g) dried basil",
+        "2 tbsp (8 g) fresh parsley, chopped",
+        "Salt and freshly ground black pepper, to taste",
+        "Optional: freshly grated Parmesan cheese for serving"
+    ],
+    "introduction": "I often turn to minestrone soup in early spring when fresh vegetables start appearing at the market. This version stands out because it gently simmers the broth long enough to marry the flavors without overcooking the tender vegetables added later. The balance between the earthy beans, fresh herbs, and a hint of acidity from the tomatoes creates a comforting yet lively dish. It’s an ideal meal for a light lunch or a warming dinner on a cool evening. The way the broth takes on a subtle sweetness and depth after slow simmering always reminds me of family dinners where everyone gathered around the table to share stories and food. Here, I’ll share how to build the layers of flavor and achieve the best vegetable textures.",
+    "why_this_recipe_works": {
+        "section": "Understanding the Science Behind Minestrone Soup",
+        "content": "<p>The key to a successful minestrone lies in the layering of flavors and timing of vegetable additions. Starting with a sauté of aromatics like onion, garlic, celery, and carrot creates a flavor base through the gentle caramelization of natural sugars and the release of volatile oils. This step is essential to add sweetness and depth to the broth.</p><p>Simmering the broth with diced tomatoes and herbs allows the acidity and aromatic compounds to infuse the liquid slowly, balancing richness with brightness. Adding beans early on lets them soften and release starch, which lightly thickens the broth for a satisfying mouthfeel.</p><p>Introducing tender vegetables like zucchini and green beans toward the end preserves their color, texture, and fresh flavor. Overcooking these would result in dull colors and mushy textures, detracting from the soup’s vibrancy. The pasta cooks last, absorbing some broth while maintaining a firm bite, which adds body without overwhelming the soup.</p>",
+        "ingredient_notes": {
+            "extra virgin olive oil": "Using a good-quality extra virgin olive oil provides a fruity, slightly peppery note that enhances the soup’s aromatics. It also helps gently carry the flavors of the sautéed vegetables without overpowering them.",
+            "vegetable broth": "Choosing a low-sodium or homemade vegetable broth allows control over the final salt level. The broth’s umami compounds contribute depth and complexity to the soup base, supporting the fresh vegetable flavors.",
+            "cannellini beans": "Cannellini beans are creamy and mild, offering body and subtle sweetness. They release starch during cooking, which naturally thickens the broth and improves texture. Rinsing canned beans removes excess sodium and can help prevent cloudiness in the broth.",
+            "diced tomatoes": "Canned diced tomatoes add acidity and a slight sweetness that balances the earthiness of the beans and vegetables. The juice also enriches the broth’s color and consistency.",
+            "fresh parsley": "Adding fresh parsley at the end brightens the soup with herbaceous notes and a hint of freshness, which contrasts the slow-simmered base and keeps the overall flavor lively."
+        }
+    },
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat until shimmering, about 1-2 minutes. Add diced onion, carrot, and celery with a pinch of salt. Stir occasionally and cook for 6-8 minutes until the vegetables soften and the onion becomes translucent with a faint golden tint. This gentle sauté releases natural sweetness and aromas.",
+            "timing": "6-8 minutes",
+            "doneness_cue": "Onion is translucent and tender, carrots and celery begin to soften, aroma is fragrant and slightly sweet"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning. The garlic should become fragrant but not browned, releasing its aromatic oils.",
+            "timing": "1 minute",
+            "doneness_cue": "Strong garlic aroma without bitterness"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the diced tomatoes with their juice, dried oregano, and dried basil. Cook for 3-4 minutes, stirring occasionally, allowing the tomatoes to break down slightly and the herbs to bloom in the heat. This step deepens the tomato flavor and melds the herbs into the base.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Tomato mixture thickens slightly, aroma of herbs becomes pronounced"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the vegetable broth and bring the mixture to a gentle boil over medium-high heat. Once boiling, reduce heat to low and simmer uncovered for 20 minutes. This slow simmer extracts flavors from the tomatoes and herbs while allowing the broth to develop depth.",
+            "timing": "20 minutes",
+            "doneness_cue": "Broth deepens in color, gentle steam rises, aroma is rich and balanced"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the diced potato, green beans, and carrots to the pot. Simmer uncovered for 15 minutes, stirring occasionally. This timing softens the root vegetables while preserving the green beans’ slight bite and vibrant color.",
+            "timing": "15 minutes",
+            "doneness_cue": "Potatoes are fork-tender but intact, green beans remain bright green and slightly crisp"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the zucchini and cooked cannellini beans, then stir in the small pasta. Continue simmering uncovered for 8-10 minutes until the pasta is al dente and zucchini is tender but not mushy. Stir occasionally to prevent pasta sticking.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Pasta is tender with slight firmness, zucchini is soft yet holds shape, soup thickens slightly"
+        },
+        {
+            "step": 7,
+            "instruction": "Season the soup with salt and freshly ground black pepper to taste. Stir in chopped fresh parsley just before serving to add a fresh herbal note.",
+            "timing": "0 minutes (final seasoning)",
+            "doneness_cue": "Soup is well seasoned, parsley adds fresh green flecks and aroma"
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Dry the vegetables well before adding to the pot to avoid excess moisture diluting the soup’s flavor.",
+            "reason": "Excess water from wet vegetables can thin the broth and slow down caramelization during sautéing, reducing depth of flavor."
+        },
+        {
+            "tip": "Add vegetables in stages based on their cooking times to maintain individual textures and colors.",
+            "reason": "Root vegetables take longer to soften, while delicate vegetables like zucchini and green beans cook quickly. This timing preserves the soup’s vibrancy and prevents mushiness."
+        },
+        {
+            "tip": "Use low-sodium broth to control the soup’s salt level effectively.",
+            "reason": "Broth reduction during simmering concentrates saltiness. Starting with low sodium prevents an overly salty final dish."
+        },
+        {
+            "tip": "Stir the soup occasionally during simmering to prevent pasta from sticking and ensure even cooking.",
+            "reason": "Pasta tends to settle and stick at the bottom if left undisturbed, which can cause uneven texture and burning."
+        },
+        {
+            "tip": "Add fresh herbs at the end rather than during the simmer to preserve their bright flavor and color.",
+            "reason": "Prolonged cooking dulls fresh herbs’ aroma and can cause color fading, reducing the soup’s freshness."
+        },
+        {
+            "tip": "If you prefer a thicker soup, increase the quantity of beans or reduce the broth slightly before adding pasta.",
+            "reason": "Beans release starch which thickens the broth naturally, and reducing liquid concentrates flavors without needing additional thickeners."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding all vegetables at once at the beginning.",
+            "why_it_happens": "It may seem simpler, but different vegetables require different cooking times.",
+            "fix": "Add root vegetables first, then quicker-cooking ones later to avoid overcooking and loss of texture."
+        },
+        {
+            "mistake": "Boiling the soup vigorously rather than simmering gently.",
+            "why_it_happens": "High heat seems to cook faster but causes ingredients to break down unevenly and flavors to become muddled.",
+            "fix": "Maintain a gentle simmer to allow flavors to develop slowly and maintain ingredient integrity."
+        },
+        {
+            "mistake": "Overcooking pasta inside the soup.",
+            "why_it_happens": "Pasta left too long will become mushy and soak up too much broth.",
+            "fix": "Add pasta last and cook just until al dente, or cook separately and add before serving."
+        },
+        {
+            "mistake": "Not seasoning gradually during cooking.",
+            "why_it_happens": "Adding all salt at once can lead to uneven seasoning.",
+            "fix": "Season lightly early and adjust at the end to balance flavors accurately."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Minestrone",
+            "description": "Replace pasta with gluten-free alternatives like rice, quinoa, or gluten-free pasta. Ensure broth and canned ingredients are gluten-free.",
+            "technical_note": "Cooking times may vary slightly; monitor pasta substitutes closely to avoid overcooking."
+        },
+        {
+            "name": "Vegan Minestrone",
+            "description": "Use vegetable broth and omit Parmesan cheese. Add nutritional yeast or a splash of soy sauce for umami depth if desired.",
+            "technical_note": "Ensure all canned products do not contain animal-derived ingredients."
+        },
+        {
+            "name": "Hearty Winter Minestrone",
+            "description": "Add chopped kale or Swiss chard along with root vegetables for extra nutrition and texture. Use winter squash instead of zucchini.",
+            "technical_note": "Leafy greens cook quickly; add in the last 5 minutes to prevent overcooking."
+        },
+        {
+            "name": "Spicy Minestrone",
+            "description": "Add 1/4 tsp red pepper flakes during the sauté of aromatics for a mild heat. Garnish with fresh basil instead of parsley for a peppery finish.",
+            "technical_note": "Adjust chili flakes to taste to avoid overpowering the delicate vegetable flavors."
+        },
+        {
+            "name": "Protein-Boosted Minestrone",
+            "description": "Add cooked chicken breast or Italian sausage slices after the beans and before pasta for extra protein.",
+            "technical_note": "Ensure meat is cooked through before adding to the soup; adjust seasoning accordingly."
+        }
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": "approximately 230",
+        "protein_grams": "10g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "5g",
+        "fiber_grams": "8g",
+        "sodium_mg": "600mg",
+        "note": "These values are estimates and may vary based on exact ingredient brands and preparation. Using canned beans and broth impacts sodium content."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Do not leave the soup at room temperature for more than 2 hours after cooking to prevent bacterial growth.",
+        "refrigerator": "Store cooled soup in airtight containers for up to 4 days. Flavors meld over time but pasta may absorb broth and soften further.",
+        "freezer": "Freeze soup without pasta for up to 3 months in freezer-safe containers. Add fresh pasta when reheating after thawing.",
+        "reheating": "Reheat gently on the stovetop over medium-low heat, stirring occasionally to prevent sticking. Add a splash of broth or water if the soup thickens too much.",
+        "make_ahead_strategy": "Prepare the soup base up to the simmering step and refrigerate for up to 24 hours. Add tender vegetables and pasta fresh before serving to maintain texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make minestrone soup ahead of time?",
+            "answer": "Yes, you can prepare the base and refrigerate it for up to 24 hours. Add delicate vegetables and pasta fresh before serving to keep their texture."
+        },
+        {
+            "question": "Why is my minestrone soup too watery?",
+            "answer": "This usually happens if too much broth is added or if the soup is not simmered long enough to concentrate flavors. Simmer uncovered to reduce excess liquid."
+        },
+        {
+            "question": "Can I use dried beans instead of canned beans?",
+            "answer": "Yes, soak and cook dried beans separately before adding them to the soup. This ensures they soften properly without overcooking other ingredients."
+        },
+        {
+            "question": "How long does minestrone soup last in the fridge?",
+            "answer": "Stored properly in airtight containers, minestrone soup lasts up to 4 days refrigerated."
+        },
+        {
+            "question": "Can I freeze minestrone soup with pasta?",
+            "answer": "It’s best to freeze minestrone soup without pasta, as pasta can become mushy after freezing and reheating. Add fresh pasta when reheating."
+        },
+        {
+            "question": "Can I substitute the vegetables in this soup?",
+            "answer": "Yes, you can swap vegetables based on seasonality or preference, but adjust cooking times to maintain texture and flavor balance."
+        }
+    ],
+    "conclusion": "Minestrone soup offers a satisfying way to enjoy fresh vegetables in a comforting broth. Understanding the timing and layering of ingredients helps achieve a balance of textures and flavors. I welcome your thoughts and experiences with this recipe; feel free to share your feedback or questions below.",
+    "internal_links": [
+        {
+            "anchor": "how to build vegetable broth at home",
+            "url": "/posts/homemade-vegetable-broth-guide"
+        },
+        {
+            "anchor": "tips for cooking perfect pasta",
+            "url": "/posts/pasta-cooking-tips"
+        },
+        {
+            "anchor": "seasonal spring vegetable recipes",
+            "url": "/posts/spring-vegetable-recipes"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "medium",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-14"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_1.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_2.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_3.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_4.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_4.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_5.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_5.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_6.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_6.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_7.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_7.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_8.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_8.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_9.webp",
+            "filePath": "posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_9.webp",
+            "relativePath": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "slug": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul",
+    "id": "post_1775043930_156",
+    "image": "classic-minestrone-soup_image_1.webp",
+    "image_path": "posts/classic-minestrone-soup/images/classic-minestrone-soup_image_1.webp",
+    "image_dir": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/images",
+    "generated_from_text": false,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-01T14:02:12+02:00",
+    "updatedAt": "2026-04-01T14:02:12+02:00",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Spring Vegetable Minestrone Soup 🍲🌿",
+            "description": "Looking for a quick soup that feels like a warm hug? This minestrone is packed with fresh veggies and herbs, ready in under an hour. Save this recipe for your next cozy night in! #souprecipe #comfortfood #springveggies",
+            "hashtags": "#souprecipe #comfortfood #springveggies"
+        },
+        {
+            "title": "Fresh Spring Minestrone Soup to Brighten Your Day 🌸🥕",
+            "description": "Brighten up your mealtime with this vibrant minestrone loaded with spring veggies. It’s hearty yet light and perfect for a quick lunch. Try it today and taste the freshness! #healthyrecipes #minestronesoup #easymeals",
+            "hashtags": "#healthyrecipes #minestronesoup #easymeals"
+        },
+        {
+            "title": "Cozy Up with This Easy Spring Vegetable Minestrone Tonight! 🍅🥬",
+            "description": "Nothing beats a bowl of homemade minestrone on a cool evening. This version uses seasonal veggies for a fresh twist. Discover how simple comfort food can be—give it a try! #comfortfood #soupseason #springrecipes",
+            "hashtags": "#comfortfood #soupseason #springrecipes"
+        },
+        {
+            "title": "Spring Veggie Minestrone: Your New Go-To Comfort Soup 🥄🌼",
+            "description": "Craving something cozy but fresh? This minestrone soup combines fresh spring vegetables with a rich broth for the perfect balance. Save this recipe and enjoy a bowl anytime! #vegetablesoup #minestrone #quickdinner",
+            "hashtags": "#vegetablesoup #minestrone #quickdinner"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "title": "Creamy Spinach and Artichoke Dip: A Balanced and Flavorful Classic",
     "promptIMG": "Professional food photography prompt: \"creamy spinach and artichoke dip in rustic bowl, golden bubbly crust, natural food photography, sharp focus throughout, realistic food textures, kitchen setting with natural light, wooden table background, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This recipe walks you through crafting a creamy spinach and artichoke dip that balances rich textures and fresh flavors. Detailed steps show how to prepare the ingredients for the creamiest results and why slow baking creates a golden, slightly crispy crust that contrasts beautifully with the soft interior.",
     "hashtags": "#spinachdip #artichokedip #creamdips #partyfood #homemade",
     "pinterest_boards": {
@@ -16,23 +16,23 @@
     "servings": 8,
     "yield": "Approximately 3 cups of dip, serving 8",
     "ingredients": [
-        "225g (8 oz) fresh spinach, roughly chopped (or substitute 150g\/5 oz frozen spinach, thoroughly drained)",
+        "225g (8 oz) fresh spinach, roughly chopped (or substitute 150g/5 oz frozen spinach, thoroughly drained)",
         "240g (8 oz) canned artichoke hearts, drained and chopped",
         "170g (6 oz) cream cheese, softened",
-        "120ml (1\/2 cup) sour cream",
-        "120ml (1\/2 cup) mayonnaise",
+        "120ml (1/2 cup) sour cream",
+        "120ml (1/2 cup) mayonnaise",
         "100g (1 cup) grated mozzarella cheese",
-        "50g (1\/2 cup) grated Parmesan cheese",
+        "50g (1/2 cup) grated Parmesan cheese",
         "2 cloves garlic, minced",
-        "1\/4 tsp (1g) salt, adjust to taste",
-        "1\/4 tsp (0.5g) black pepper",
-        "1\/4 tsp (0.5g) crushed red pepper flakes (optional)",
+        "1/4 tsp (1g) salt, adjust to taste",
+        "1/4 tsp (0.5g) black pepper",
+        "1/4 tsp (0.5g) crushed red pepper flakes (optional)",
         "1 tbsp (15ml) olive oil"
     ],
     "introduction": "One of my favorite appetizers to prepare during chilly evenings or casual gatherings is spinach and artichoke dip. Over the years, I’ve refined my approach to ensure the dip is both creamy and fresh, avoiding the pitfalls of overly dense or watery textures. What sets this version apart is the careful preparation of the spinach and artichokes to maintain their structure and a slow, gentle bake that develops a golden crust without drying out the interior. I often serve it during winter get-togethers or game nights when everyone wants something comforting but shareable. The balance of tangy cream cheese, bright spinach, and tender artichokes makes it a dish that appeals to many palates. Below, I’ll guide you through each step with insights on why they matter.",
     "why_this_recipe_works": {
         "section": "Why This Spinach and Artichoke Dip Recipe Works",
-        "content": "<p>The success of this dip hinges on balancing moisture and texture. Fresh or properly drained frozen spinach provides a vibrant green color and a slight bite, preventing the dip from becoming mushy. Similarly, draining and chopping the artichokes preserves their tenderness and prevents excess liquid from diluting the creamy base.<\/p><p>Combining cream cheese, sour cream, and mayonnaise creates a rich but smooth texture. Cream cheese offers body and a slight tang, sour cream adds moisture and acidity, while mayonnaise contributes creaminess and richness without overpowering.<\/p><p>Slow baking allows moisture to gently evaporate, concentrating flavors and forming a golden crust without drying the dip. This crust adds a pleasant contrast to the creamy interior, enhancing the overall mouthfeel.<\/p>",
+        "content": "<p>The success of this dip hinges on balancing moisture and texture. Fresh or properly drained frozen spinach provides a vibrant green color and a slight bite, preventing the dip from becoming mushy. Similarly, draining and chopping the artichokes preserves their tenderness and prevents excess liquid from diluting the creamy base.</p><p>Combining cream cheese, sour cream, and mayonnaise creates a rich but smooth texture. Cream cheese offers body and a slight tang, sour cream adds moisture and acidity, while mayonnaise contributes creaminess and richness without overpowering.</p><p>Slow baking allows moisture to gently evaporate, concentrating flavors and forming a golden crust without drying the dip. This crust adds a pleasant contrast to the creamy interior, enhancing the overall mouthfeel.</p>",
         "ingredient_notes": {
             "spinach": "Using fresh spinach ensures a bright color and slightly firm texture after cooking. If you choose frozen, it must be fully thawed and squeezed to remove all water, as excess moisture can make the dip runny and dilute flavors.",
             "artichoke hearts": "Canned artichoke hearts offer a tender yet firm texture that holds up in the dip. Chop them into small but distinct pieces to distribute flavor evenly while maintaining some bite. Avoid marinated versions as they can alter the dip’s flavor balance.",
@@ -153,7 +153,7 @@
         },
         {
             "name": "Cheesy Three-Cheese Variation",
-            "description": "Increase mozzarella to 150g (1.5 cups) and add 50g (1\/2 cup) shredded sharp cheddar cheese for a richer, cheesier flavor.",
+            "description": "Increase mozzarella to 150g (1.5 cups) and add 50g (1/2 cup) shredded sharp cheddar cheese for a richer, cheesier flavor.",
             "technical_note": "Cheddar melts differently and may increase oiliness slightly; ensure thorough mixing for even distribution."
         },
         {
@@ -209,15 +209,15 @@
     "internal_links": [
         {
             "anchor": "how to properly sauté spinach and greens",
-            "url": "\/posts\/sauté-spinach-techniques"
+            "url": "/posts/sauté-spinach-techniques"
         },
         {
             "anchor": "tips for perfect creamy cheese dips",
-            "url": "\/posts\/cheese-dips-techniques"
+            "url": "/posts/cheese-dips-techniques"
         },
         {
             "anchor": "baking tips for golden crusts",
-            "url": "\/posts\/baking-crusts-guide"
+            "url": "/posts/baking-crusts-guide"
         }
     ],
     "category_id": "cat_1761230166_734",
@@ -232,92 +232,136 @@
     "images": [
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_2.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_2.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_2.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_3.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_3.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_3.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
             "order": 4,
             "type": "template",
             "template": "classic"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
             "order": 5,
             "type": "template",
             "template": "classic"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
             "order": 6,
             "type": "template",
             "template": "classic"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
             "order": 7,
             "type": "template",
             "template": "classic"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
             "order": 8,
             "type": "recipe_card",
             "template": "recipe_card"
         },
         {
             "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
-            "filePath": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
-            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes\/posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
             "order": 9,
             "type": "overlay_list",
             "template": "overlay_list"
+        },
+        {
+            "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "filePath": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "relativePath": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
         }
     ],
     "slug": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time",
     "id": "post_1774953041_674",
     "image": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
-    "image_path": "posts\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images\/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
-    "image_dir": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time\/images",
+    "image_path": "posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time_pinrecipes_image_1.webp",
+    "image_dir": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-31T14:03:15+02:00",
-    "updatedAt": "2026-03-31T14:03:15+02:00",
+    "createdAt": "2026-04-01T14:02:12+02:00",
+    "updatedAt": "2026-04-01T14:02:12+02:00",
     "board_name": "",
     "pin_variations": [
         {
