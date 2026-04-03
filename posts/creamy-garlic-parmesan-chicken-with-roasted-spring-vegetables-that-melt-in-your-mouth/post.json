@@ -1,0 +1,343 @@
+{
+    "title": "Creamy Garlic Parmesan Chicken with Roasted Spring Veggies for Cozy Dinners",
+    "promptIMG": "Food photography: Creamy Garlic Parmesan Chicken with Roasted Spring Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy garlic parmesan chicken is tender and bursting with flavor, paired with slow-roasted spring veggies that caramelize beautifully. It’s my go-to for cozy weekend dinners when I want something comforting yet fresh.",
+    "hashtags": "#garlicchicken #comfortfood #springveggies",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Discover the Best Creamy Garlic Parmesan Chicken Recipe Ever!",
+            "description": "Looking for a cozy dinner idea? This creamy garlic parmesan chicken with roasted spring veggies is rich, tender, and packed with flavor. Save this recipe to try tonight and wow your family! 🍗🧄🧀 #comfortfood #easyrecipes #dinnerideas"
+        },
+        {
+            "title": "How to Make Perfectly Tender Garlic Parmesan Chicken Every Time",
+            "description": "Say goodbye to dry chicken! This recipe uses a creamy garlic parmesan sauce that keeps the chicken juicy and flavorful. Pair it with caramelized roasted veggies for the ultimate meal. Try it today and taste the difference! 🥕🍗✨ #garlicchicken #weeknightdinner #yum"
+        },
+        {
+            "title": "Cozy Up with This Creamy Garlic Parmesan Chicken and Roasted Veggies",
+            "description": "Nothing beats a comforting dish like this creamy garlic parmesan chicken served with slow-roasted spring vegetables. It’s simple, delicious, and perfect for chilly evenings. Discover the secret to those caramelized veggies now! 🧄🥦🍽️ #comfortfood #roastedveggies #chickenrecipes"
+        },
+        {
+            "title": "Easy Creamy Garlic Parmesan Chicken Dinner with Roasted Veggies",
+            "description": "Need a quick yet impressive dinner? This creamy garlic parmesan chicken with roasted spring veggies comes together easily and tastes like a dream. Save this recipe for your next cozy night in! 🍽️🔥 #easymeals #garlicchicken #comfortfoodrecipes"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, patted dry",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon Italian seasoning",
+        "1 tablespoon butter",
+        "2 cups mixed spring vegetables (carrots, asparagus, snap peas), trimmed",
+        "Salt and pepper to taste",
+        "1 tablespoon fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this creamy garlic parmesan chicken recipe during a chilly spring weekend when I craved something comforting yet fresh. My first attempt was a bit dry — I didn’t sear the chicken properly, so it lacked that juicy tenderness I wanted. But once I mastered the sear and added a slow-roasted veggie side, it became my go-to meal. What sets this apart is the rich, garlicky sauce that clings to the chicken, combined with veggies roasted just enough to caramelize but still keep their crunch. I love how the slow roasting brings out the natural sweetness in the carrots and snap peas, balancing the creamy sauce perfectly. If you’re after a dish that feels indulgent but isn’t complicated, this is it. Plus, the leftovers reheat beautifully, making it a winner for busy nights. The trick I learned? Don’t rush the sear and let the veggies roast low and slow so they develop those golden edges. The finished plate looks vibrant and tastes like a cozy hug on a fork — rich, creamy, and fresh all at once.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting your chicken breasts dry with paper towels — this helps the sear develop a nice crust. Season both sides with salt and pepper evenly. Heat olive oil in a large skillet over medium-high heat until shimmering but not smoking. Place the chicken in the pan without crowding it, letting it cook undisturbed for about 5 minutes. This step is crucial because a good sear locks in juices and creates flavor through the Maillard reaction. Avoid moving the chicken too soon, or it won’t brown properly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Golden-brown crust on the underside, chicken releases easily from the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Flip the chicken breasts and add the minced garlic to the pan, stirring quickly so it doesn’t burn. Pour in the heavy cream, then sprinkle the Parmesan cheese and Italian seasoning evenly over the chicken. Reduce heat to medium-low and add butter to enrich the sauce. Let this simmer gently for 10-12 minutes, spooning sauce over the chicken occasionally. The gentle simmer allows the sauce to thicken and flavors to meld without curdling the cream. Rushing this could result in a watery sauce or dry chicken.",
+            "timing": "12 minutes",
+            "doneness_cue": "Sauce thickens to creamy consistency, chicken reaches internal temp of 165°F and looks opaque"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken simmers, preheat your oven to 400°F (200°C). Toss the spring vegetables in a bowl with olive oil, salt, and pepper. Spread them evenly on a baking sheet in a single layer to ensure they roast rather than steam. Roast in the oven for 20-25 minutes, turning halfway through. This slow roasting caramelizes the veggies’ natural sugars, enhancing their flavor and adding a slight crunch that contrasts beautifully with the creamy chicken.",
+            "timing": "25 minutes",
+            "doneness_cue": "Edges of vegetables are golden brown and slightly crisp, veggies tender but not mushy"
+        },
+        {
+            "step": 4,
+            "instruction": "Once the chicken has cooked through and the sauce is thickened, remove the skillet from heat. Let the chicken rest for a few minutes; this helps redistribute the juices, keeping it moist when sliced. During resting, the sauce will thicken slightly more, coating the chicken perfectly. Avoid slicing immediately or the juices will run out, making the chicken dry.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but springy to touch, sauce thick and glossy"
+        },
+        {
+            "step": 5,
+            "instruction": "Plate the roasted vegetables alongside the creamy garlic parmesan chicken. Spoon extra sauce over the top and sprinkle with fresh parsley for a pop of color and fresh flavor. This finishing touch brightens the dish and makes it look restaurant-worthy. Serve immediately to enjoy the contrast between warm, creamy chicken and crisp, caramelized veggies.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish looks vibrant with creamy sauce glistening and veggies golden"
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add a little extra zing, try squeezing a bit of fresh lemon juice over the chicken just before serving. The acid cuts through the richness of the sauce and lifts the flavors. This is optional but highly recommended for balance and freshness.",
+            "timing": "1 minute",
+            "doneness_cue": "Subtle brightness in aroma and taste"
+        },
+        {
+            "step": 7,
+            "instruction": "To make this recipe gluten-free, ensure your Parmesan cheese is labeled gluten-free and avoid any seasoning blends that might have additives. The recipe is naturally gluten-free but always double-check labels to be safe.",
+            "timing": "0 minutes (prep note)",
+            "doneness_cue": "N/A"
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra creamy sauce, you can add a splash of chicken broth or white wine during the simmering step. This adds depth and helps loosen the sauce if it gets too thick before the chicken is fully cooked. Just be sure to simmer long enough for alcohol to cook off if using wine.",
+            "timing": "0 minutes (optional adjustment)",
+            "doneness_cue": "Sauce has smooth, velvety texture without being watery"
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to prep ahead, you can chop and season the vegetables the day before and keep them refrigerated in a sealed container. The chicken can be seasoned but cooked fresh for best texture. Reheat the veggies in a hot oven to regain crispness before serving.",
+            "timing": "0 minutes (prep tip)",
+            "doneness_cue": "Veggies reheat without becoming soggy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Garlic Parmesan Chicken Works So Well",
+        "content": "<p>What makes this creamy garlic parmesan chicken recipe stand out is the balance of technique and ingredient harmony. First, the searing of the chicken breasts is crucial. It initiates the Maillard reaction, which creates the deep golden crust and complex flavors you don’t get from just baking or boiling. This crust also helps seal in the moisture, ensuring the chicken stays tender throughout the simmering stage.</p><p>The sauce is another key player. Heavy cream combined with Parmesan cheese creates an emulsion that thickens gently as it simmers. The fat in the cream carries the garlic and Italian seasoning flavors, coating the chicken in a luscious, velvety layer. Simmering at a moderate heat prevents the cream from curdling and allows the cheese to melt smoothly, which is why rushing or overheating can ruin the texture.</p><p>Roasting the spring vegetables at a high temperature with olive oil caramelizes their natural sugars, enhancing sweetness and adding a slight crunch. This contrast in texture and flavor plays off the creamy chicken beautifully, making the dish feel balanced and satisfying. The slow roasting also reduces moisture in the veggies, preventing them from becoming soggy when served alongside the sauce.</p><p>Finally, resting the chicken after cooking redistributes its juices, so every bite is juicy and tender. This step is often overlooked but is essential for a perfect texture. Combined, these techniques and ingredient interactions create a dish that’s rich, fresh, and deeply comforting.</p>",
+        "ingredient_notes": {
+            "Chicken Breasts": "Look for fresh, boneless skinless chicken breasts with even thickness for consistent cooking. Thicker pieces can be butterflied for even heat distribution. Avoid frozen or previously frozen chicken for best texture. The protein structure holds juices well when seared properly, preventing dryness.",
+            "Heavy Cream": "Use heavy cream with at least 36% fat content to ensure a rich, stable sauce. Lower-fat creams or milk can curdle when simmered and won’t thicken properly. The fat emulsifies with the melted Parmesan cheese, creating the luxurious mouthfeel.",
+            "Parmesan Cheese": "Freshly grated Parmesan from a wedge has better flavor and melts more smoothly than pre-grated powders with anti-caking agents. It adds sharp, salty umami that enriches the sauce. Avoid substitutes like pre-shredded cheese which may affect texture.",
+            "Spring Vegetables": "Choose crisp, fresh vegetables like carrots, asparagus, and snap peas that roast well. Avoid overly watery veggies which can steam instead of roast, losing crispness. Cutting them into uniform sizes ensures even caramelization and cooking.",
+            "Garlic": "Fresh garlic cloves add bright, pungent flavor that mellows when cooked slowly in cream. Minced finely so it infuses the sauce evenly without overpowering. Avoid garlic powder for this recipe as it lacks the fresh aroma and can taste artificial."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken dry before searing to get a better crust.",
+            "reason": "Moisture on the chicken’s surface steams it instead of searing, preventing browning. Dry chicken allows the Maillard reaction to create that flavorful golden crust which seals in juices and adds texture."
+        },
+        {
+            "tip": "Simmer the sauce gently to avoid curdling.",
+            "reason": "Heavy cream can separate if boiled too hard. Keeping the heat moderate lets the fat and cheese emulsify smoothly, resulting in a creamy sauce instead of grainy or broken texture."
+        },
+        {
+            "tip": "Roast vegetables in a single layer with space between pieces.",
+            "reason": "Crowding causes steaming instead of roasting, which softens veggies and prevents caramelization. Spreading them out helps moisture evaporate and sugars brown, adding flavor and crunch."
+        },
+        {
+            "tip": "Let the chicken rest after cooking.",
+            "reason": "Resting allows juices to redistribute throughout the meat. Cutting immediately causes juices to spill out, leaving the chicken dry. This step keeps the meat juicy and tender."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Pre-grated cheeses often contain anti-caking agents that prevent smooth melting. Freshly grated cheese melts evenly and adds richer flavor to the sauce."
+        },
+        {
+            "tip": "Add garlic just after flipping the chicken.",
+            "reason": "Adding garlic too early risks burning it, which creates bitterness. Adding it after flipping allows it to soften and infuse the sauce without burning."
+        },
+        {
+            "tip": "Keep an eye on the sauce thickness.",
+            "reason": "If the sauce gets too thick before the chicken is done, add a splash of chicken broth or water to loosen it. This prevents over-reduction and maintains a silky texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear and baking chicken directly.",
+            "why_it_happens": "People often assume baking is easier or healthier and skip searing, not realizing it affects flavor and moisture retention.",
+            "fix": "Always sear the chicken first in a hot pan to develop a golden crust that locks in juices. This step adds depth and prevents dry, bland chicken."
+        },
+        {
+            "mistake": "Overheating the cream sauce causing curdling.",
+            "why_it_happens": "High heat cooks the cream too aggressively, breaking the emulsion and causing the sauce to separate.",
+            "fix": "Simmer the sauce gently on medium-low heat and stir frequently. Remove from heat if it starts to boil vigorously."
+        },
+        {
+            "mistake": "Overcrowding vegetables on the baking tray.",
+            "why_it_happens": "Trying to roast too many veggies at once reduces air circulation, causing steaming instead of roasting.",
+            "fix": "Use a large enough baking sheet or roast in batches to ensure each piece has space to brown evenly."
+        },
+        {
+            "mistake": "Not resting chicken after cooking.",
+            "why_it_happens": "Impatience or lack of awareness leads to cutting immediately, which loses juices.",
+            "fix": "Let the chicken rest for at least 5 minutes before slicing to keep it moist and tender."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan cheese.",
+            "why_it_happens": "Convenience leads to using pre-grated cheese that doesn’t melt well.",
+            "fix": "Grate your own Parmesan fresh from the block to ensure smooth melting and better flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Creamy Garlic Parmesan Chicken",
+            "description": "Add a pinch of red pepper flakes or cayenne to the sauce for a spicy kick. This variation adds warmth without overpowering the creamy garlic flavor. You can also toss the vegetables with chili powder before roasting to complement the heat.",
+            "technical_note": "Adjust spice level carefully and add gradually during simmering to avoid bitterness or overwhelming the delicate sauce."
+        },
+        {
+            "name": "Mushroom and Spinach Garlic Parmesan Chicken",
+            "description": "Stir in sautéed mushrooms and fresh spinach into the sauce during the last 5 minutes of simmering. These add earthiness and extra greens, making the dish heartier and more nutrient-dense.",
+            "technical_note": "Cook mushrooms separately to release moisture before adding, so sauce doesn’t become watery."
+        },
+        {
+            "name": "Lemon Herb Creamy Chicken",
+            "description": "Add fresh lemon zest and juice to the sauce for a bright, citrusy flavor that cuts through the richness. Fresh herbs like thyme or rosemary can replace Italian seasoning for an aromatic twist.",
+            "technical_note": "Add lemon juice at the end of cooking to preserve brightness and prevent curdling."
+        },
+        {
+            "name": "Dairy-Free Garlic Parmesan Chicken",
+            "description": "Use coconut cream or cashew cream instead of heavy cream, and nutritional yeast in place of Parmesan for a vegan-friendly version. The texture and flavor will differ but still deliver a creamy, garlic-infused sauce.",
+            "technical_note": "Simmer gently and taste frequently, as non-dairy substitutes vary in thickness and flavor."
+        },
+        {
+            "name": "One-Pan Creamy Garlic Chicken with Potatoes",
+            "description": "Add small diced potatoes to the roasting pan with the vegetables for a complete meal. The potatoes roast alongside the veggies, soaking up the garlic and Parmesan flavors.",
+            "technical_note": "Cut potatoes small enough to cook through in the roasting time to avoid raw centers."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "28g",
+        "fiber_grams": "5g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit covered at room temperature for up to 2 hours. Avoid leaving it out longer to prevent bacterial growth. Cover with foil or a lid to keep it from drying out.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and veggies soften when cold. Reheat gently to preserve texture, adding a splash of cream or broth if sauce is too thick.",
+        "freezer": "Freeze cooked chicken and veggies in airtight containers or heavy-duty freezer bags for up to 2 months. Wrap tightly to avoid freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally. Add a splash of cream or broth to loosen the sauce if needed. Avoid high heat which can curdle cream and dry out chicken. Microwave reheating is possible but do so in short intervals to prevent toughness.",
+        "make_ahead_strategy": "You can prep and season the chicken and chop vegetables a day ahead. Store separately in the fridge. Roast veggies and cook chicken fresh for best texture and flavor. Alternatively, cook fully and reheat gently on serving day."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Adjust cooking time slightly longer to ensure they reach a safe internal temperature. The sauce pairs beautifully with thighs and adds richness."
+        },
+        {
+            "question": "What if I don’t have heavy cream?",
+            "answer": "You can substitute half-and-half or whole milk mixed with a bit of butter to increase fat content, but the sauce won’t be as rich or thick. Simmer gently to avoid curdling. Alternatively, use a non-dairy cream substitute if dairy-free."
+        },
+        {
+            "question": "How do I prevent the sauce from separating?",
+            "answer": "Keep the heat moderate and avoid boiling the sauce vigorously. Stir frequently and add cheese gradually. If it starts to curdle, remove from heat and whisk vigorously to bring it back together."
+        },
+        {
+            "question": "Can I roast the vegetables earlier and reheat?",
+            "answer": "Yes, but reheat them in a hot oven to restore some crispness. Avoid microwaving as it tends to make roasted veggies soggy. Roasting fresh is ideal for best texture."
+        },
+        {
+            "question": "Is it okay to use pre-minced garlic?",
+            "answer": "Fresh minced garlic offers the best flavor and aroma. Pre-minced garlic from a jar can be used in a pinch but may lack brightness and can alter the sauce's taste slightly."
+        },
+        {
+            "question": "How thick should the sauce be when serving?",
+            "answer": "The sauce should coat the back of a spoon smoothly and cling to the chicken without being runny. It will thicken slightly as it cools but should still be pourable."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Definitely! Zucchini, bell peppers, or cherry tomatoes work well roasted. Just adjust roasting times based on vegetable density to avoid over or undercooking."
+        },
+        {
+            "question": "What wine pairs well with this dish?",
+            "answer": "A medium-bodied white wine like Chardonnay pairs beautifully, complementing the creamy sauce and garlic flavors without overpowering the dish."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this creamy garlic parmesan chicken as much as I do! Don’t forget to share your results and any twists you try — I love hearing from you.",
+    "seo": {
+        "primary_keyword": "creamy garlic parmesan chicken recipe",
+        "secondary_keywords": [
+            "garlic parmesan chicken with roasted vegetables",
+            "how to make creamy garlic chicken",
+            "best garlic parmesan chicken recipe",
+            "easy creamy garlic chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "how to sear chicken properly",
+                "anchor": "searing-chicken-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "filePath": "posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "relativePath": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images/creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775218332_498",
+    "slug": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-04-03T14:14:44+02:00",
+    "updatedAt": "2026-04-03T14:14:44+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "creamy-garlic-parmesan-chicken-with-roasted-spring-vegetables-that-melt-in-your-mouth/images"
+}
