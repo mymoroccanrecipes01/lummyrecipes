@@ -1,0 +1,346 @@
+{
+    "title": "Cozy Chickpea Curry with Fresh Spring Flavors and Coconut Sauce",
+    "promptIMG": "Food photography: Cozy Chickpea Curry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chickpea curry is a quick and comforting dinner bursting with fresh herbs and warming spices. The creamy coconut-tomato sauce really lets the chickpeas shine. Ideal for a wholesome weeknight meal!",
+    "hashtags": "#chickpeacurry #vegetariandinner #quickmeals",
+    "board_name": "Easy Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Quick & Comforting Chickpea Curry That Everyone Will Love",
+            "description": "Looking for a simple, hearty meal? This chickpea curry is ready in under 45 minutes with rich coconut flavors and fresh spices. Save this recipe for your next cozy night in! 🥥🍛 #chickpeacurry #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Wholesome Chickpea Curry with a Creamy Coconut Twist",
+            "description": "Discover this creamy, fragrant chickpea curry that’s perfect for busy weeknights. It’s packed with fresh herbs and warming spices. Try it today and enjoy a bowl of comfort! 🌿🍅 #vegetarianrecipes #quickdinner #healthymeals"
+        },
+        {
+            "title": "Easy Chickpea Curry Recipe for a Flavorful Weeknight Dinner",
+            "description": "This chickpea curry is simple, flavorful, and perfect for any night you want something wholesome. The coconut and tomato sauce is a game changer. Discover this delicious recipe now! 🍲✨ #veganmeals #easycurry #weeknightdinner"
+        },
+        {
+            "title": "Simple Chickpea Curry with Fresh Herbs and Coconut Sauce",
+            "description": "Warm up with this easy chickpea curry that’s loaded with fresh spring flavors and creamy coconut. It’s a quick dinner that feels like a hug in a bowl. Save this for later! 🌸🥥 #plantbased #comfortmeals #quickrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "3 garlic cloves, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 tablespoon curry powder",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon turmeric powder",
+        "1/4 teaspoon cayenne pepper, optional",
+        "1 can (14 oz) diced tomatoes, with juice",
+        "1 can (14 oz) coconut milk, full fat",
+        "2 cans (15 oz each) chickpeas, drained and rinsed",
+        "Salt and pepper, to taste",
+        "1/4 cup fresh cilantro, chopped",
+        "Juice of 1 lime"
+    ],
+    "yield": "Approximately 4 generous servings",
+    "introduction": "I first stumbled upon this chickpea curry on a hectic weeknight when I wanted something comforting but quick. My usual curry recipes felt too heavy or time-consuming, so I played around with fresh ingredients and a creamy coconut base. What I love about this version is how the chickpeas soak up the rich tomato and coconut sauce, making every bite bursting with flavor. Plus, the fresh ginger and lime juice add a bright, springy note that keeps it from feeling too dense. The trick I learned early on was to gently simmer the sauce long enough for the spices to bloom but not so long that the coconut milk separates. That balance gives it a silky texture that’s just irresistible. The finished dish is vibrant with a lovely aroma and just enough heat to warm you up without overwhelming. It’s perfect for those nights when you want something wholesome, easy, and satisfying without fussing over too many ingredients or steps. I hope you enjoy making and sharing this curry as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet or saucepan over medium heat. Add the finely chopped onion and sauté gently for about 5 minutes until it softens and becomes translucent. This step is crucial because it builds the flavor base for the curry. Cooking the onion slowly releases its natural sweetness, which balances the spices later on. Avoid turning the heat too high, or the onions might brown too fast and add a bitter note.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are soft, translucent, and lightly fragrant without browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and grated ginger to the softened onions, stirring constantly for about 1-2 minutes. This quick sauté releases their aromatic oils, which infuse the curry with fresh, zesty notes. Be careful not to let the garlic burn, as it can turn bitter and ruin the dish’s delicate balance.",
+            "timing": "2 minutes",
+            "doneness_cue": "Aromatic smell and garlic just starting to turn golden"
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle in the curry powder, ground cumin, turmeric, and cayenne pepper (if using). Stir well to coat the onion mixture evenly. Toasting the spices in the hot oil awakens their flavors and deepens the complexity of the sauce. Keep stirring for 1-2 minutes until the mixture is fragrant but not burnt.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices release a warm, inviting aroma and blend smoothly with onions"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the canned diced tomatoes with their juice. Stir everything together and bring the mixture to a gentle simmer. This step helps break down the tomatoes, creating a rich, tangy base for the curry. Simmering also allows the spices to meld with the tomato’s acidity, balancing the flavors nicely.",
+            "timing": "5 minutes",
+            "doneness_cue": "Tomatoes soften and the sauce thickens slightly, bubbling gently"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly stir in the coconut milk, blending it thoroughly with the tomato-spice mixture. The coconut milk adds creaminess and a subtle sweetness that mellows the spices. Bring everything back to a simmer, but avoid boiling vigorously to prevent the coconut milk from curdling or separating.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is smooth, creamy, and evenly mixed without oily separation"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the drained and rinsed chickpeas to the sauce, stirring to coat them evenly. Chickpeas are hearty and absorb the flavors beautifully. Let the curry simmer gently for about 10-12 minutes so the chickpeas soften and soak up the sauce. Stir occasionally to prevent sticking and ensure even cooking.",
+            "timing": "12 minutes",
+            "doneness_cue": "Chickpeas are tender but still hold their shape, sauce thickened"
+        },
+        {
+            "step": 7,
+            "instruction": "Season the curry with salt and pepper to taste. Adjust the seasoning carefully, as salt enhances the spices and balances the coconut’s sweetness. Taste the sauce and add more cayenne if you want extra heat. This final seasoning step lets you customize the curry to your preference.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavor with noticeable warmth and no overpowering saltiness"
+        },
+        {
+            "step": 8,
+            "instruction": "Just before serving, stir in the fresh chopped cilantro and squeeze in the lime juice. The herbs add a fresh, bright contrast to the rich curry, while the lime juice brings a zesty kick that lifts the whole dish. This finishing touch makes the curry feel vibrant and spring-fresh.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green cilantro and zesty aroma from lime juice"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve your chickpea curry hot, ideally over steamed rice or with warm naan bread. The creamy sauce pairs beautifully with mild sides that soak up the flavors. Enjoy immediately for the best texture and taste, or store leftovers properly for later.",
+            "timing": "0 minutes",
+            "doneness_cue": "Steaming, fragrant curry ready to eat"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chickpea Curry Is So Comforting and Flavorful",
+        "content": "<p>This chickpea curry works beautifully because it balances hearty ingredients with fresh, bright flavors. The slow sautéing of onions and toasting of spices unlocks deep, complex aromas that form the backbone of the dish. This technique helps release essential oils in the spices, making the curry fragrant and rich.</p><p>The combination of canned tomatoes and coconut milk creates a perfect marriage of acidity and creaminess. Tomatoes provide a tangy base that cuts through the richness of the coconut milk, which lends a silky texture and subtle sweetness. Simmering these together allows the flavors to meld and the sauce to thicken just right.</p><p>Chickpeas are a fantastic ingredient because they hold their shape while absorbing the sauce’s flavors. Their mild nuttiness complements the spices without overpowering the dish. Additionally, rinsing the chickpeas removes excess sodium and starch, resulting in a cleaner taste and better texture.</p><p>Finally, the addition of fresh cilantro and lime juice at the end brightens the curry, adding layers of freshness and acidity that elevate the overall flavor profile. This finishing step prevents the dish from feeling too heavy and makes each bite lively and balanced.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good-quality extra virgin olive oil for its fruity flavor and health benefits. It acts as the fat base for sautéing the onions and spices, helping to release their essential oils and flavors. Avoid using oils with a low smoke point here, as you want to gently cook rather than fry.",
+            "curry powder": "Look for a fresh, fragrant curry powder with a balanced blend of turmeric, cumin, coriander, and fenugreek. Freshness is key because spices lose potency over time, which can make the curry taste dull. Toasting the powder in oil activates its aromatic compounds, deepening the flavor of the sauce.",
+            "coconut milk": "Use full-fat canned coconut milk for a rich, creamy texture. The fat content is essential to balance the acidity of the tomatoes and mellow the spices. Lower-fat versions often lead to a thinner sauce and less satisfying mouthfeel. Shake the can well before opening to mix the cream and liquid evenly.",
+            "chickpeas": "Canned chickpeas are convenient and work well here, but be sure to rinse them thoroughly to remove excess sodium and starch that can muddy flavors. If using dried chickpeas, soak overnight and cook until tender for the best texture. Chickpeas add protein and a satisfying bite to the curry.",
+            "fresh cilantro": "Add fresh, bright cilantro at the end for a burst of herbal freshness that cuts through the richness. Fresh herbs lose their vibrancy if cooked too long, so stirring them in last preserves their flavor and color. If you’re not a fan, fresh parsley can be a milder substitute."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t rush the onion sautéing step; cook them low and slow.",
+            "reason": "Slow cooking the onions releases their natural sugars, creating a sweet, mellow base that balances the spices. If you hurry and brown them too fast, they can taste bitter and overpower the dish."
+        },
+        {
+            "tip": "Toast your spices in oil before adding liquids.",
+            "reason": "Heating spices in oil unlocks their essential oils, intensifying their flavor and aroma. Skipping this step results in a less vibrant curry that tastes flat."
+        },
+        {
+            "tip": "Simmer the curry gently after adding coconut milk.",
+            "reason": "Boiling coconut milk too hard causes it to separate and develop an unpleasant texture. A gentle simmer keeps the sauce creamy and smooth."
+        },
+        {
+            "tip": "Add fresh herbs and lime juice at the very end.",
+            "reason": "Fresh herbs and acid brighten the dish and keep it from feeling heavy. Cooking them too long dulls their flavor and color."
+        },
+        {
+            "tip": "Rinse canned chickpeas well before using.",
+            "reason": "Rinsing removes excess sodium and starch that can make the curry taste salty or gritty, resulting in a cleaner, fresher flavor."
+        },
+        {
+            "tip": "Use full-fat coconut milk for best texture.",
+            "reason": "The fat content provides richness and creaminess that balances the acidity and spices. Lower-fat versions yield a thinner, less satisfying sauce."
+        },
+        {
+            "tip": "Taste and adjust seasoning at the end.",
+            "reason": "Spices and salt can intensify during cooking, so final adjustments ensure balanced flavor without over-seasoning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the spice toasting step",
+            "why_it_happens": "Many cooks want to save time and add spices directly to liquids, thinking it’s quicker.",
+            "fix": "Toast spices in hot oil for 1-2 minutes before adding liquids. This unlocks their full flavor and aroma, making a richer curry."
+        },
+        {
+            "mistake": "Cooking coconut milk at too high heat",
+            "why_it_happens": "It’s easy to let the curry boil vigorously once the coconut milk is added.",
+            "fix": "Reduce heat to low and simmer gently. High heat causes the coconut milk to separate, ruining the texture."
+        },
+        {
+            "mistake": "Not rinsing canned chickpeas",
+            "why_it_happens": "Rushing or ignoring the importance of removing canning liquid.",
+            "fix": "Drain and rinse chickpeas thoroughly to remove excess salt and starch for a cleaner taste."
+        },
+        {
+            "mistake": "Adding fresh herbs too early",
+            "why_it_happens": "Forgetting to add herbs at the end or adding them during cooking.",
+            "fix": "Add cilantro or parsley just before serving to preserve their bright flavor and color."
+        },
+        {
+            "mistake": "Using low-fat coconut milk",
+            "why_it_happens": "Trying to make the dish lighter without realizing the impact on texture.",
+            "fix": "Use full-fat coconut milk for creamy sauce; lower-fat versions produce a watery, less satisfying curry."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chickpea Curry",
+            "description": "Add extra cayenne pepper or diced fresh chili peppers for a fiery kick. You can also stir in a spoonful of chili paste or hot sauce. This version will have a stronger heat profile but keep the creamy balance from the coconut milk.",
+            "technical_note": "Increase simmer time slightly to mellow the heat and blend flavors fully."
+        },
+        {
+            "name": "Chickpea and Spinach Curry",
+            "description": "Stir in fresh spinach leaves during the last 5 minutes of cooking for added greens and nutrients. The spinach wilts nicely into the sauce, adding color and a mild earthiness.",
+            "technical_note": "Add spinach late to avoid overcooking and maintain vibrant color and texture."
+        },
+        {
+            "name": "Chickpea Curry with Sweet Potatoes",
+            "description": "Add diced sweet potatoes at the tomato stage to make the curry heartier and slightly sweet. The sweet potatoes soften and soak up the sauce, complementing the spices well.",
+            "technical_note": "Simmer longer (15-20 minutes) until sweet potatoes are tender but not mushy."
+        },
+        {
+            "name": "Creamy Chickpea Curry with Cashew Paste",
+            "description": "Blend soaked cashews into a smooth paste and add with the coconut milk for extra creaminess and a subtle nutty flavor. This adds richness without dairy.",
+            "technical_note": "Soak cashews for at least 1 hour and blend until smooth before adding."
+        },
+        {
+            "name": "Chickpea Curry with Roasted Cauliflower",
+            "description": "Roast cauliflower florets separately until golden and add on top or stir in for texture contrast. The roasting adds caramelized flavor that complements the curry spices.",
+            "technical_note": "Roast cauliflower at 425°F for 20-25 minutes until crisp and golden."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "18g",
+        "fiber_grams": "12g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the curry at room temperature for up to 2 hours if covered well. Beyond that, it’s safer to refrigerate to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors deepen overnight but the sauce may thicken. Reheat gently and add a splash of water or coconut milk if too thick.",
+        "freezer": "Freeze the curry in airtight containers for up to 3 months. To avoid freezer burn, use freezer-safe bags or containers and remove as much air as possible. Thaw overnight in the fridge before reheating slowly.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally until warmed through. You can also microwave in short bursts, stirring in between. Add a little coconut milk or water if the sauce has thickened too much.",
+        "make_ahead_strategy": "You can prepare the sauce base a day ahead and store it refrigerated. Add chickpeas and fresh herbs just before serving to keep their texture and flavor vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried chickpeas instead of canned?",
+            "answer": "Absolutely! Soak dried chickpeas overnight and cook them until tender before adding to the curry. This will give you a fresher texture and flavor, though it requires more prep time."
+        },
+        {
+            "question": "What can I substitute for coconut milk if I’m allergic?",
+            "answer": "You can use cashew cream or a blend of almond milk with a bit of coconut extract for a similar creaminess. Keep in mind the flavor will be less rich and slightly different."
+        },
+        {
+            "question": "How spicy is this curry by default?",
+            "answer": "This recipe is mildly spiced with just a hint of warmth from cayenne pepper, which is optional. You can easily adjust the heat by adding more cayenne or fresh chilies."
+        },
+        {
+            "question": "Can I make this curry in a slow cooker?",
+            "answer": "Yes! Sauté the aromatics and spices first, then add everything to the slow cooker. Cook on low for 4-6 hours. Add fresh herbs and lime juice at the end to keep brightness."
+        },
+        {
+            "question": "Will the curry thicken if refrigerated?",
+            "answer": "Yes, it tends to thicken as the coconut milk firms up. Reheat gently and add a splash of water or coconut milk to loosen the sauce to your liking."
+        },
+        {
+            "question": "What sides go well with this chickpea curry?",
+            "answer": "Steamed basmati rice, warm naan or roti, and a simple cucumber raita complement this curry perfectly, balancing the spices and creaminess."
+        },
+        {
+            "question": "Can I freeze the curry with rice?",
+            "answer": "It’s best to freeze the curry and rice separately. Rice can get mushy when frozen and reheated together with the sauce."
+        },
+        {
+            "question": "How do I make the curry thicker or thinner?",
+            "answer": "For a thicker curry, simmer longer uncovered to reduce the sauce. To thin it, add water, broth, or extra coconut milk gradually."
+        }
+    ],
+    "conclusion": "Give this chickpea curry a try for a cozy, delicious dinner that’s easy to make and full of flavor. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "easy chickpea curry recipe",
+        "secondary_keywords": [
+            "quick vegetarian curry",
+            "chickpea coconut curry",
+            "how to make chickpea curry",
+            "best chickpea curry recipe",
+            "easy chickpea curry"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade curry powder blend",
+                "anchor": "homemade-curry-powder"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_1.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_1.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_2.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_2.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_3.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_3.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_8.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_8.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_4.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_4.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_9.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_9.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_6.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_6.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_5.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_5.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_7.webp",
+            "filePath": "posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_7.webp",
+            "relativePath": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775299441_331",
+    "slug": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home",
+    "isOnline": true,
+    "createdAt": "2026-04-04T13:00:26+02:00",
+    "updatedAt": "2026-04-04T13:00:26+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/images"
+}
