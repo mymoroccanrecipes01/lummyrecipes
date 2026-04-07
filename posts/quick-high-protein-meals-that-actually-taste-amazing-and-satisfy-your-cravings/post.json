@@ -1,0 +1,343 @@
+{
+    "title": "Quick High Protein Meals That Keep You Fueled and Satisfied",
+    "promptIMG": "Food photography: high protein meal bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These quick high protein meals are perfect for busy days or after workouts. Using simple ingredients and smart combinations, they pack a punch in flavor and nutrition without the wait.",
+    "hashtags": "#highprotein #quickmeals #healthyeating",
+    "board_name": "Easy High Protein Recipes",
+    "pin_variations": [
+        {
+            "title": "Fuel Your Day Fast with These High Protein Meals!",
+            "description": "Need a meal that’s both quick and packed with protein? These recipes are your new go-to! Save this for busy days and enjoy tasty, satisfying dishes in no time. 💪🍴 #highprotein #quickrecipes #mealprep"
+        },
+        {
+            "title": "Tasty High Protein Meals Ready in Under 30 Minutes",
+            "description": "Short on time but want to eat well? Try these quick high protein meals that are full of flavor and easy to make. Perfect for post-workout or busy weeknights! Save and try today! ⏰🥗 #healthymeals #proteinpacked #easyrecipes"
+        },
+        {
+            "title": "Simple High Protein Dishes for Busy Lives and Active Days",
+            "description": "Busy schedule? No problem! These high protein meals are simple, delicious, and ready fast. Discover how easy healthy eating can be. Don’t forget to save for later! 🥘✨ #highproteinmeals #quickdinners #healthyliving"
+        },
+        {
+            "title": "Quick, Protein-Packed Meals You’ll Love to Make Again and Again",
+            "description": "Looking for meals that fuel your body and taste great? These quick high protein recipes are just that! Try them today and see how simple healthy cooking can be. Save this for your next meal prep! 🍳💥 #proteinmeals #easycooking #nutrition"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup cooked quinoa, warm",
+        "2 cups cooked chicken breast, shredded",
+        "1 cup steamed broccoli florets",
+        "1/2 cup diced bell peppers",
+        "1/4 cup chopped red onion",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon smoked paprika",
+        "Salt and pepper to taste",
+        "1/4 cup crumbled feta cheese (optional)",
+        "Juice of 1 lemon"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've been making these quick high protein meals for years now, especially on days when I barely have time to cook but still want something nutritious and filling. I first stumbled on this combo when I was trying to refuel after my workouts without reaching for processed snacks. What makes this version different is how I mix simple ingredients like quinoa, chicken, and fresh veggies with a bit of lemon juice and spices to keep it vibrant and fresh. The trick I learned is to use warm quinoa and freshly steamed broccoli so the flavors meld perfectly without needing a long cook time. The result is a bowl that’s hearty but light, with just the right balance of protein and veggies. Plus, adding a little feta at the end gives it a lovely tang and creaminess that ties everything together. It’s a meal that looks bright, tastes fresh, and keeps me energized whether I’m rushing between meetings or relaxing after a workout.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cooking the quinoa according to package instructions if you don’t have pre-cooked on hand. The key is to fluff it with a fork once done to avoid clumping and keep the texture light. Warm quinoa helps everything mix better later and absorbs flavors nicely. Avoid overcooking it or it can get mushy, which will make the dish less appealing.",
+            "timing": "15 minutes",
+            "doneness_cue": "Quinoa should be fluffy, tender with a slight bite, and separate easily when fluffed"
+        },
+        {
+            "step": 2,
+            "instruction": "While the quinoa cooks, steam your broccoli florets until they’re bright green and just tender, about 5-7 minutes. Over-steaming can make them soggy and dull in color. Steaming preserves nutrients and keeps the broccoli crisp, which adds a nice texture contrast to the soft quinoa and chicken.",
+            "timing": "7 minutes",
+            "doneness_cue": "Broccoli should be vibrant green and fork-tender but not mushy"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat olive oil in a large skillet over medium heat. Add diced bell peppers and red onion, sautéing until they soften and start to caramelize. This step builds flavor by drawing out natural sweetness and adds a lovely aroma to the dish. Don’t rush this; gentle cooking helps develop deeper taste.",
+            "timing": "5-6 minutes",
+            "doneness_cue": "Vegetables should be tender with slightly browned edges and fragrant smell"
+        },
+        {
+            "step": 4,
+            "instruction": "Add shredded cooked chicken to the skillet with the veggies. Sprinkle garlic powder, smoked paprika, salt, and pepper evenly. Stir to combine and let the chicken warm through, allowing the spices to infuse the meat. This layering of seasoning is what makes the dish flavorful without needing complicated marinades.",
+            "timing": "4-5 minutes",
+            "doneness_cue": "Chicken should be hot throughout and evenly coated with spices"
+        },
+        {
+            "step": 5,
+            "instruction": "Combine the warm quinoa and steamed broccoli in a large mixing bowl. Pour in the sautéed chicken and veggie mixture. Toss everything gently to mix without breaking up the quinoa. The warmth of the ingredients helps the flavors to meld beautifully. This step is crucial for an even distribution of taste and texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients should be well combined and uniformly warm"
+        },
+        {
+            "step": 6,
+            "instruction": "Squeeze fresh lemon juice over the mixture and toss again. The acidity brightens the dish and balances the richness from the chicken and olive oil. Don’t skip this step; it lifts the flavors and makes the meal feel fresh and vibrant.",
+            "timing": "1 minute",
+            "doneness_cue": "The dish should have a fresh citrus aroma and a slight tangy taste"
+        },
+        {
+            "step": 7,
+            "instruction": "If using, sprinkle crumbled feta cheese on top just before serving. The salty creaminess adds a delightful contrast to the other ingredients and makes the meal feel a bit more special without extra effort.",
+            "timing": "1 minute",
+            "doneness_cue": "Feta should be evenly distributed and slightly softened by the warmth"
+        },
+        {
+            "step": 8,
+            "instruction": "Give everything one final gentle toss to blend the feta with the rest, but don’t overmix or the cheese will clump. Serve immediately while warm for the best texture and flavor experience.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish should look vibrant, fresh, and inviting"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your high protein meal as a satisfying lunch or dinner. Pair with a crisp salad or a simple side if you want to add more greens. This meal holds up well for leftovers too, making it a perfect option for meal prep.",
+            "timing": "0 minutes",
+            "doneness_cue": "Meal is ready to eat and keeps well for later"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Hits the Mark",
+        "content": "<p>This recipe balances protein, carbs, and fats in a way that keeps you full and energized without feeling heavy. The cooked quinoa provides a complete protein source with a pleasant fluffy texture that absorbs flavors well. Combining it with lean chicken breast raises the overall protein content, vital for muscle repair and satiety.</p><p>The steaming of broccoli preserves its vibrant color and crunch, which offers a nice contrast to the soft quinoa and tender chicken. Steaming also retains most of the vitamins and minerals, making the meal nutritious and fresh. Sautéing the peppers and onions slowly allows their natural sugars to caramelize, adding a subtle sweetness and depth without overpowering the dish.</p><p>Using olive oil as the cooking fat contributes heart-healthy monounsaturated fats and helps to carry the flavors of the spices. Garlic powder and smoked paprika provide warmth and complexity, which elevates the simple ingredients to something special. Adding lemon juice at the end introduces acidity that brightens and balances the richness of the chicken and oil, preventing the dish from feeling heavy.</p><p>Finally, the optional feta cheese adds a creamy, salty note that plays well with the other flavors and textures, making the meal feel indulgent yet wholesome. Each step is designed to maximize flavor while keeping prep and cook time minimal.</p>",
+        "ingredient_notes": {
+            "quinoa": "Choose organic or pre-rinsed quinoa to avoid any bitterness. Quinoa acts as a fluffy, gluten-free grain that provides complete protein, making it an excellent base for this meal. Proper cooking and fluffing are essential to avoid mushiness and keep the texture light and pleasant.",
+            "chicken breast": "Opt for skinless, boneless chicken breast for lean protein. Cooking it ahead of time or using leftovers saves time. Shredding the chicken helps it absorb the seasoning better and distributes protein evenly throughout the dish.",
+            "broccoli": "Fresh broccoli florets work best for vibrant color and crunch. Steaming rather than boiling preserves nutrients and texture. Avoid overcooking to prevent a mushy texture and dull color.",
+            "olive oil": "Use extra virgin olive oil for its flavor and health benefits. Olive oil acts as a flavor carrier and adds healthy fats that support nutrient absorption. Avoid overheating to prevent bitterness and preserve its delicate taste.",
+            "lemon juice": "Freshly squeezed lemon juice adds bright acidity that balances rich flavors. Bottled lemon juice lacks the fresh aroma and can taste flat. The acidity also helps enhance the overall flavor profile, making the dish lively and fresh."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use warm quinoa instead of cold to help flavors meld better.",
+            "reason": "Warm quinoa absorbs dressings and seasonings more effectively, making each bite flavorful. Cold quinoa can feel clumpy and separates from other ingredients, reducing the dish’s cohesiveness."
+        },
+        {
+            "tip": "Don’t skip steaming the broccoli to keep its vibrant color and crunch.",
+            "reason": "Steaming preserves nutrients and texture much better than boiling, which can leach vitamins and make broccoli soggy. The crunch adds contrast that keeps the meal interesting."
+        },
+        {
+            "tip": "Sauté vegetables slowly to develop natural sweetness.",
+            "reason": "Gentle cooking releases sugars in peppers and onions, creating a deeper, sweeter flavor that balances the savory chicken. Rushing this step results in bland veggies and missed flavor opportunities."
+        },
+        {
+            "tip": "Add lemon juice right before serving to brighten flavors.",
+            "reason": "Acidity can lose potency if cooked too long. Adding lemon juice at the end refreshes the dish and balances richness, making it taste lighter and more vibrant."
+        },
+        {
+            "tip": "Shred chicken finely to distribute protein evenly.",
+            "reason": "Smaller chicken pieces mix better with grains and veggies, ensuring every bite has a satisfying protein hit. Large chunks can make the dish uneven and harder to eat."
+        },
+        {
+            "tip": "Use fresh herbs or a sprinkle of feta for extra flavor layers.",
+            "reason": "Fresh herbs add brightness and complexity, while feta adds creaminess and saltiness. These little touches can elevate a simple meal into something memorable."
+        },
+        {
+            "tip": "Prepare chicken and quinoa ahead for faster assembly.",
+            "reason": "Having cooked ingredients ready cuts down active cooking time, making this meal perfect for quick weeknight dinners or meal prep. It also helps the flavors marry better when combined warm."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking quinoa until mushy",
+            "why_it_happens": "Many cooks follow cooking times strictly without checking texture, leading to soggy quinoa.",
+            "fix": "Check quinoa a minute or two before time is up. It should be tender but still slightly firm. Drain any excess water immediately to prevent mushiness."
+        },
+        {
+            "mistake": "Skipping steaming broccoli",
+            "why_it_happens": "Some assume boiling is faster or easier, but it leaches nutrients and ruins texture.",
+            "fix": "Use a steamer basket or microwave steaming method to keep broccoli crisp and nutrient-rich."
+        },
+        {
+            "mistake": "Adding lemon juice too early",
+            "why_it_happens": "Lemon juice loses freshness and acidity when cooked too long, dulling the flavor.",
+            "fix": "Add lemon juice at the very end, right before serving, to preserve its bright, fresh taste."
+        },
+        {
+            "mistake": "Using cold quinoa straight from the fridge",
+            "why_it_happens": "Cold grains don't absorb flavors well and can feel dry or clumpy.",
+            "fix": "Warm quinoa gently before mixing to enhance flavor absorption and improve texture."
+        },
+        {
+            "mistake": "Not seasoning chicken properly",
+            "why_it_happens": "Some rely on plain cooked chicken, missing out on flavor depth.",
+            "fix": "Season chicken with spices during reheating or cooking to infuse taste throughout the dish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian High Protein Bowl",
+            "description": "Swap chicken for roasted chickpeas or tofu to keep the protein high but make it vegetarian. Add some nuts or seeds for crunch and extra nutrients. The texture will be heartier but just as satisfying.",
+            "technical_note": "Roast chickpeas until crispy or pan-fry tofu to get a pleasant texture that contrasts with the quinoa and veggies."
+        },
+        {
+            "name": "Spicy Southwest Protein Bowl",
+            "description": "Add a dash of cayenne pepper and cumin to the seasoning mix. Use black beans instead of chicken and toss in some corn kernels. This version has a smoky, spicy kick perfect for those who like bold flavors.",
+            "technical_note": "Adjust spice levels gradually to avoid overpowering the dish; balance with fresh lime juice instead of lemon."
+        },
+        {
+            "name": "Mediterranean Inspired Protein Bowl",
+            "description": "Include olives, sun-dried tomatoes, and a drizzle of tzatziki sauce. Use grilled chicken marinated in oregano and lemon. This variation adds a fresh, tangy Mediterranean twist with creamy and briny notes.",
+            "technical_note": "Marinate chicken at least 30 minutes ahead for deeper flavor; serve with fresh herbs like parsley or mint."
+        },
+        {
+            "name": "Asian-Inspired Protein Bowl",
+            "description": "Replace lemon with a splash of soy sauce and sesame oil. Add shredded carrots, edamame, and top with toasted sesame seeds. This bowl offers a savory umami punch and crunchy textures.",
+            "technical_note": "Use low-sodium soy sauce to control saltiness; toss ingredients while warm for better flavor melding."
+        },
+        {
+            "name": "Low-Carb Protein Bowl",
+            "description": "Skip the quinoa and increase the broccoli and chicken portions. Add avocado slices for healthy fats. This makes the dish lower in carbs but still rich in protein and satisfying fats.",
+            "technical_note": "Ensure the broccoli is steamed just right to keep it tender and not watery, compensating for the missing grain bulk."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "14g",
+        "fiber_grams": "6g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This meal can safely be kept at room temperature for up to 2 hours if covered properly. Beyond that, bacterial growth increases, so refrigerate leftovers promptly.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. Flavors meld over time but quinoa may absorb moisture, so reheat gently and add a splash of water or lemon juice to refresh.",
+        "freezer": "Freeze the cooked chicken and quinoa mixture separately in airtight containers for up to 2 months. Wrap well to prevent freezer burn. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat gently on the stovetop over low heat or in the microwave with a splash of water or olive oil to prevent drying out. Avoid overheating which can toughen chicken and make quinoa gummy.",
+        "make_ahead_strategy": "Cook quinoa and chicken up to 2 days in advance and store separately in the fridge. Steam veggies fresh or reheat quickly to keep texture. Assemble and dress the bowl just before serving for best flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use brown rice instead of quinoa?",
+            "answer": "Absolutely! Brown rice works well as a higher fiber grain alternative. Just be sure to cook it fully and fluff it before mixing. It has a chewier texture and nuttier flavor that pairs nicely with chicken and veggies."
+        },
+        {
+            "question": "How can I make this recipe vegan?",
+            "answer": "Swap chicken for cooked lentils, chickpeas, or tofu to keep protein levels high. Use olive oil or avocado for healthy fats and skip the feta or replace it with a vegan cheese alternative or nutritional yeast for a cheesy flavor."
+        },
+        {
+            "question": "What if I don’t have fresh lemon juice?",
+            "answer": "Fresh lemon juice really brightens the dish, but bottled lemon juice can be used in a pinch. Just start with less and adjust to taste since bottled juice can be more acidic or bitter."
+        },
+        {
+            "question": "Can I prepare this meal entirely ahead of time?",
+            "answer": "You can cook the components ahead but I recommend assembling and adding lemon juice and feta just before eating. This keeps textures fresh and flavors vibrant, preventing sogginess."
+        },
+        {
+            "question": "How do I store leftovers without losing texture?",
+            "answer": "Store grains and chicken separately from steamed veggies if possible. Reheat gently adding a little water or oil to refresh the quinoa. Avoid microwaving too long to prevent dryness."
+        },
+        {
+            "question": "Is it okay to use frozen broccoli?",
+            "answer": "Frozen broccoli can be used if fresh isn’t available. Thaw and steam it gently to avoid sogginess. The flavor and texture won’t be quite as bright but it’s a convenient alternative."
+        },
+        {
+            "question": "What spices can I add for more flavor?",
+            "answer": "Try adding cumin, chili powder, or fresh herbs like parsley or cilantro. Smoked paprika adds smoky warmth. Adjust spices to your taste and add gradually to avoid overpowering the dish."
+        },
+        {
+            "question": "Can I use other proteins besides chicken?",
+            "answer": "Yes! Turkey, lean pork, or seafood like shrimp work well too. Adjust cooking times accordingly to avoid overcooking and maintain tenderness."
+        }
+    ],
+    "conclusion": "I hope you love this quick high protein meal as much as I do! Give it a try and let me know how it fuels your busy days.",
+    "seo": {
+        "primary_keyword": "quick high protein meals",
+        "secondary_keywords": [
+            "easy protein meals",
+            "healthy quick dinners",
+            "how to make high protein meals",
+            "best quick protein recipes",
+            "easy high protein meals"
+        ],
+        "internal_links": [
+            {
+                "text": "meal prep tips for busy cooks",
+                "anchor": "meal-prep-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_1.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_2.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_3.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_5.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_5.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_7.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_7.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_6.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_6.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_8.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_8.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_4.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_4.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_9.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_9.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775553427_260",
+    "slug": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings",
+    "isOnline": true,
+    "createdAt": "2026-04-07T11:47:54+02:00",
+    "updatedAt": "2026-04-07T11:47:54+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images"
+}

@@ -1,0 +1,345 @@
+{
+    "title": "Easy 30-Minute Chicken Stir Fry with Fresh Veggies and Ginger Kick",
+    "promptIMG": "Food photography: Chicken Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Super quick and tasty chicken stir fry that’s perfect for busy nights. Fresh veggies and a zingy ginger sauce make it pop. I love whipping this up when I want something healthy but fast!",
+    "hashtags": "#chickenstirfry #quickdinner #healthymeals",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Flavor-Packed Chicken Stir Fry in Just 30 Minutes!",
+            "description": "Looking for a fast, healthy dinner? This chicken stir fry is loaded with fresh veggies and a zingy ginger sauce that'll make your taste buds dance! 🍽️ Save this for your next weeknight meal and enjoy a burst of flavor. #chickenrecipes #quickmeals #healthydinner #stirfrylove"
+        },
+        {
+            "title": "Busy Night? Try This Easy Chicken Stir Fry That’s Ready in No Time!",
+            "description": "Need dinner fast? This chicken stir fry comes together in just 30 minutes with crisp veggies and a savory sauce. Perfect for busy days when you want something homemade and delicious! 🌟 Try it today and taste the difference. #quickrecipes #chickendinner #easymeals #weeknightdinner"
+        },
+        {
+            "title": "Healthy & Delicious: Your New Favorite Chicken Stir Fry Recipe!",
+            "description": "Fresh, vibrant, and packed with flavor—this chicken stir fry is a total winner. The ginger adds a fresh kick that keeps it exciting. Perfect for a quick lunch or dinner. 🍜 Discover now and impress your family! #healthyeating #stirfryrecipe #quickchicken #freshmeals"
+        },
+        {
+            "title": "Say Goodbye to Boring Dinners with This Quick Chicken Stir Fry!",
+            "description": "Tired of the same old meals? This chicken stir fry is colorful, fast, and full of fresh veggies with a zingy ginger twist. 🥢 Save this recipe and make dinner exciting again! #easyrecipes #chickenstirfry #weeknightmeals #freshflavors"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, thinly sliced",
+        "2 tbsp vegetable oil, divided",
+        "1 red bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1 medium carrot, julienned",
+        "3 cloves garlic, minced",
+        "1 tbsp fresh ginger, grated",
+        "3 tbsp soy sauce",
+        "1 tbsp oyster sauce",
+        "1 tsp cornstarch mixed with 2 tbsp water",
+        "2 green onions, sliced",
+        "1 tsp sesame oil",
+        "Salt and pepper to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I remember the first time I tried making chicken stir fry at home — it was a total game changer. Before that, I always thought stir fry was complicated and time-consuming, but this recipe proved me wrong! What makes this version special is the fresh ginger and quick sauce that come together in just minutes. I’ve tweaked it over time to balance flavors perfectly without needing a million ingredients. The trick I learned? Slicing the chicken thin and cooking it over high heat to get that lovely sear without drying it out. The veggies stay crisp and colorful, making the dish feel light yet satisfying. My family loves how fresh and vibrant the meal tastes, and honestly, it’s become my go-to for busy weeknights when I want something wholesome but speedy. The final dish is juicy, packed with flavor, and looks beautiful on the plate — the kind of meal you’re proud to serve, even on a hectic day. I think you’ll love how approachable and versatile this stir fry is, plus it’s a great way to sneak in extra veggies without any fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by slicing the chicken breasts thinly against the grain. This helps keep the meat tender and allows it to cook quickly and evenly. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat. Once hot, add the chicken in a single layer, letting it sear without moving for about 2 minutes to develop a nice golden color. Stir-fry for another 2-3 minutes until the chicken is cooked through but still juicy. Avoid overcrowding the pan to prevent steaming instead of searing.",
+            "timing": "6 minutes",
+            "doneness_cue": "Chicken turns opaque white with golden edges and feels firm but tender when pressed."
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the chicken and set aside. Add the remaining tablespoon of oil to the pan, then toss in the garlic, ginger, and sliced vegetables starting with the broccoli and carrot since they take longer to soften. Stir-fry over high heat for about 4-5 minutes until veggies are tender-crisp and vibrant. This quick cooking preserves their color and crunch, which adds great texture contrast to the dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are bright in color and easily pierced but still have a slight crunch."
+        },
+        {
+            "step": 3,
+            "instruction": "Return the chicken to the pan with the veggies. Pour in the soy sauce and oyster sauce, stirring everything to coat evenly. The sauces add a savory depth and slight sweetness that balance the fresh ginger and garlic. Let it cook for another 2 minutes to heat through and allow the flavors to meld.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce thickens slightly and glazes the chicken and vegetables."
+        },
+        {
+            "step": 4,
+            "instruction": "Give the cornstarch slurry a quick stir, then pour it into the pan while stirring constantly. This thickens the sauce and helps it cling to each piece, making every bite flavorful. Cook for another minute until the sauce is glossy and coats the ingredients nicely.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce is shiny and thick enough to coat the back of a spoon."
+        },
+        {
+            "step": 5,
+            "instruction": "Turn off the heat and drizzle the sesame oil over the stir fry. Add sliced green onions and toss gently. Sesame oil adds a toasty aroma and finishing touch that elevates the dish. Avoid cooking sesame oil to preserve its delicate flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "A fragrant, nutty aroma signals the dish is ready to serve."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste and season with salt and pepper if needed. Remember that soy sauce adds saltiness, so adjust carefully. Serve your stir fry hot over steamed rice or noodles for a complete meal. The contrast of tender chicken, crisp veggies, and savory sauce is simply irresistible.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavor with no overpowering saltiness or blandness."
+        },
+        {
+            "step": 7,
+            "instruction": "For extra flavor, you can add a splash of fresh lime juice or sprinkle some toasted sesame seeds just before serving. These small touches add brightness and texture that make the dish pop.",
+            "timing": "Optional, 1 minute",
+            "doneness_cue": "Fresh citrus aroma or crunchy seeds enhance the final dish."
+        },
+        {
+            "step": 8,
+            "instruction": "Clean your workspace and store any leftovers in an airtight container. Stir fry is best eaten fresh but reheats well with a splash of water or broth to loosen the sauce. Avoid overcooking when reheating to keep veggies crisp.",
+            "timing": "N/A",
+            "doneness_cue": "Leftovers maintain texture and flavor after reheating."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your homemade chicken stir fry knowing you’ve made a quick, wholesome meal from scratch. It’s perfect for busy days and tastes like you spent way more time in the kitchen than you actually did!",
+            "timing": "N/A",
+            "doneness_cue": "Satisfied smile and full belly!"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stir Fry Recipe Works So Well",
+        "content": "<p>This chicken stir fry recipe succeeds because it balances quick cooking techniques with fresh, vibrant ingredients. Slicing the chicken thinly against the grain allows it to cook rapidly while staying juicy and tender, preventing the dryness that often plagues stir fried meat. High heat searing creates Maillard reactions, giving the chicken a flavorful caramelized crust that deepens the overall taste.</p><p>The choice and timing of vegetables matter too. Starting with broccoli and carrots ensures they soften just enough but retain their crunch and bright color, which adds a pleasing texture contrast to the tender chicken. Garlic and fresh ginger add aromatic layers and a subtle zing that livens the flavor profile without overpowering the dish.</p><p>The sauce is a simple blend of soy and oyster sauce, which provides umami and a touch of sweetness. Adding a cornstarch slurry thickens the sauce to cling to each bite, enhancing every mouthful. Finishing with sesame oil adds a toasty, nutty aroma that signals the dish is complete. Altogether, this recipe is a harmony of technique and ingredients working seamlessly to create a quick, fresh, and satisfying stir fry.</p>",
+        "ingredient_notes": {
+            "boneless skinless chicken breasts": "Look for fresh, firm chicken breasts with a pale pink color and no off odors. Slicing them thinly against the grain is crucial to keep the meat tender and ensure quick, even cooking. If preferred, chicken thighs can be used for a juicier, richer flavor but may need slightly longer cooking.",
+            "fresh ginger": "Fresh ginger root provides a bright, slightly spicy aroma that’s essential for authentic stir fry flavor. Avoid pre-ground ginger as it lacks the freshness and complexity. Peel ginger with a spoon for ease, and grate finely to disperse flavor evenly.",
+            "soy sauce": "Choose a naturally brewed soy sauce with a balanced saltiness and umami depth. Light soy sauce works best here to season without darkening the dish excessively. Avoid low-sodium if you want full flavor but balance salt carefully.",
+            "vegetable oil": "Use a neutral oil with a high smoke point like vegetable or canola oil to achieve the high heat needed for proper searing without burning. Oils like olive oil have lower smoke points and stronger flavors that may clash.",
+            "cornstarch": "Cornstarch mixed with cold water acts as a thickening agent, giving the sauce a silky, clingy texture. It’s important to add the slurry gradually while stirring to avoid lumps and ensure even thickening."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice chicken thinly and against the grain for tenderness.",
+            "reason": "Slicing against the grain shortens muscle fibers, making the chicken easier to chew and helping it cook faster. Thick pieces cook unevenly and risk becoming tough or dry."
+        },
+        {
+            "tip": "Cook chicken and vegetables separately to control doneness.",
+            "reason": "Stir frying chicken and veggies separately prevents overcooking and ensures each component is cooked perfectly—chicken stays juicy and veggies remain crisp and colorful."
+        },
+        {
+            "tip": "Use high heat and a hot pan for proper searing.",
+            "reason": "High heat triggers Maillard reactions, browning the chicken and developing deeper flavor. Low heat causes steaming and soggy texture."
+        },
+        {
+            "tip": "Add cornstarch slurry at the end to thicken sauce.",
+            "reason": "Cornstarch thickens the sauce without making it gluey, helping it cling to ingredients. Adding too early breaks down the starch and thins the sauce."
+        },
+        {
+            "tip": "Finish with sesame oil off the heat for aroma.",
+            "reason": "Sesame oil’s delicate flavor and aroma dissipate if cooked. Adding it last preserves its nutty fragrance and rounds out the dish."
+        },
+        {
+            "tip": "Prep all ingredients before cooking to keep the pace.",
+            "reason": "Stir frying is a fast process; having everything ready prevents overcooking and stress while cooking."
+        },
+        {
+            "tip": "Avoid overcrowding the pan to prevent steaming.",
+            "reason": "Too much food cools the pan and traps moisture, resulting in soggy ingredients instead of a crisp stir fry."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cutting chicken too thick or with the grain.",
+            "why_it_happens": "Many cooks underestimate how slicing affects texture and speed of cooking, leading to tough, unevenly cooked meat.",
+            "fix": "Always slice thinly against the grain to ensure tenderness and quick, even cooking. Use a sharp knife for clean cuts."
+        },
+        {
+            "mistake": "Adding all ingredients at once.",
+            "why_it_happens": "Rushing the process or skipping prep can cause uneven cooking or mushy vegetables.",
+            "fix": "Cook chicken and vegetables separately, adding them in stages based on their cooking times for best texture."
+        },
+        {
+            "mistake": "Using too low heat.",
+            "why_it_happens": "Fear of burning or lack of a proper pan can lead to steaming instead of searing.",
+            "fix": "Heat your pan well before adding ingredients to get a good sear and flavor development."
+        },
+        {
+            "mistake": "Skipping the cornstarch slurry.",
+            "why_it_happens": "Some think it’s unnecessary or forget to add it, resulting in a watery sauce.",
+            "fix": "Mix cornstarch with cold water and add at the end to thicken the sauce and give it a nice glaze."
+        },
+        {
+            "mistake": "Cooking sesame oil too long.",
+            "why_it_happens": "Adding sesame oil early causes it to lose flavor and aroma.",
+            "fix": "Drizzle sesame oil off the heat just before serving to keep its nutty fragrance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Style Stir Fry",
+            "description": "Add a tablespoon of chili paste or Szechuan peppercorns for a spicy kick. Use bell peppers and snap peas for extra crunch and toss in toasted peanuts for texture. Expect a bold, numbing heat paired with savory sauce.",
+            "technical_note": "Adjust chili amount gradually to control heat; Szechuan peppercorns add unique numbing sensation."
+        },
+        {
+            "name": "Vegetarian Tofu Stir Fry",
+            "description": "Swap chicken for firm tofu, pressed and cubed. Marinate tofu briefly in soy sauce and ginger before cooking. Use the same veggies and sauce for a delicious vegetarian-friendly meal with a satisfying texture.",
+            "technical_note": "Press tofu well to prevent sogginess and crisp it up in the pan before adding sauce."
+        },
+        {
+            "name": "Honey Garlic Chicken Stir Fry",
+            "description": "Add 2 tablespoons honey to the sauce for a sweeter, sticky glaze. Garlic becomes more pronounced, complementing the sweetness. Great for those who love a touch of sweetness with savory flavors.",
+            "technical_note": "Add honey with soy sauce and oyster sauce to blend flavors evenly."
+        },
+        {
+            "name": "Cashew Chicken Stir Fry",
+            "description": "Include roasted cashews for crunch and nutty flavor. Toast them lightly before mixing in at the end. This variation adds texture and richness, making the dish feel more indulgent.",
+            "technical_note": "Add nuts off heat to keep them crunchy and prevent burning."
+        },
+        {
+            "name": "Lemon Ginger Stir Fry",
+            "description": "Add fresh lemon zest and a squeeze of lemon juice at the end for a bright, citrusy twist. This variation lightens the dish and adds refreshing acidity.",
+            "technical_note": "Add lemon juice off heat to preserve fresh flavor and avoid bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly to keep it safe and fresh.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors meld nicely overnight but vegetables may soften. Reheat gently to avoid overcooking.",
+        "freezer": "Freeze the stir fry in a sealed freezer-safe container for up to 2 months. To prevent freezer burn, press plastic wrap directly on the surface before sealing. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a skillet over medium heat with a splash of water or broth to loosen the sauce. Avoid microwaving for long periods as it can make vegetables mushy. Stir occasionally until heated through.",
+        "make_ahead_strategy": "You can slice chicken and chop vegetables 1-2 days ahead, storing them separately in the fridge. Mix and cook fresh on the day for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and a bit more forgiving if slightly overcooked. Just slice them thinly and adjust cooking time by a minute or two. They add richer flavor but may make the dish a bit heavier."
+        },
+        {
+            "question": "What can I substitute for oyster sauce?",
+            "answer": "If you don’t have oyster sauce, you can use hoisin sauce or a mix of soy sauce with a bit of brown sugar. It won’t be exactly the same but will still add sweetness and depth."
+        },
+        {
+            "question": "How do I avoid soggy vegetables?",
+            "answer": "Cook vegetables quickly over high heat and avoid overcrowding the pan. Also, add them in stages based on their cooking times, starting with the densest vegetables first."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes! Use gluten-free soy sauce or tamari and check that oyster sauce is gluten-free or substitute with a gluten-free alternative. This keeps the dish safe for gluten-sensitive diets."
+        },
+        {
+            "question": "How do I store leftovers properly?",
+            "answer": "Cool leftovers quickly and store in airtight containers in the fridge for up to 3 days. Reheat gently to keep veggies crisp and chicken tender."
+        },
+        {
+            "question": "Can I add noodles instead of rice?",
+            "answer": "Definitely! Cook your favorite noodles separately and toss with the stir fry at the end. This adds a different texture and makes a complete one-pan meal."
+        },
+        {
+            "question": "What’s the best pan to use for stir fry?",
+            "answer": "A wok is ideal for even heat and tossing, but a large heavy skillet works fine too. Make sure it’s hot before adding ingredients for the best sear."
+        },
+        {
+            "question": "Is it okay to prep ingredients the day before?",
+            "answer": "Yes, chopping veggies and slicing chicken in advance saves time. Just store separately in airtight containers or bags in the fridge to keep fresh until cooking."
+        }
+    ],
+    "conclusion": "Give this quick chicken stir fry a try and enjoy a tasty, wholesome meal that fits right into your busy week. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "easy chicken stir fry recipe",
+        "secondary_keywords": [
+            "quick chicken stir fry",
+            "healthy chicken stir fry",
+            "how to make chicken stir fry",
+            "best chicken stir fry recipe",
+            "easy chicken stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "Simple Garlic Butter Chicken",
+                "anchor": "simple-garlic-butter-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_1.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_1.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_2.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_2.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_3.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_3.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_9.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_9.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_8.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_8.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_6.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_6.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_7.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_7.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_5.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_5.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_4.webp",
+            "filePath": "posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_4.webp",
+            "relativePath": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images/effortless-spring-manicure-ideas-for-busy-women-that-actually-work_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775553750_766",
+    "slug": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work",
+    "isOnline": true,
+    "createdAt": "2026-04-07T11:47:54+02:00",
+    "updatedAt": "2026-04-07T11:47:54+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "effortless-spring-manicure-ideas-for-busy-women-that-actually-work/images"
+}
