@@ -284,13 +284,57 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "filePath": "posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "relativePath": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "filePath": "posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "relativePath": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "filePath": "posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "relativePath": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "filePath": "posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "relativePath": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "filePath": "posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "relativePath": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "filePath": "posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "relativePath": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images/effortless-easter-desserts-for-busy-parents-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "type": "template"
         }
     ],
     "id": "post_1775614309_446",
     "slug": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love",
-    "isOnline": false,
-    "createdAt": "2026-04-08T04:11:49+02:00",
-    "updatedAt": "2026-04-08T04:11:49+02:00",
+    "isOnline": true,
+    "createdAt": "2026-04-08T12:40:46+02:00",
+    "updatedAt": "2026-04-08T12:40:46+02:00",
     "author_id": "author_001",
     "category_id": "cat_1761230294_638",
     "image_dir": "effortless-easter-desserts-for-busy-parents-that-everyone-will-love/images"
