@@ -1,0 +1,341 @@
+{
+    "title": "Easy and Flavorful Chicken Spinach Stir Fry Ready in 30 Minutes",
+    "promptIMG": "Food photography: Chicken Spinach Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This quick chicken and spinach stir fry is my go-to when I want fresh, tasty dinner without the fuss. Garlic and soy sauce add a punch that pulls everything together. Perfect for busy weeknights or last-minute meals!",
+    "hashtags": "#chickenstirfry #quickdinner #weeknightmeals",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Chicken Spinach Stir Fry in Just 30 Minutes!",
+            "description": "Craving a quick, healthy dinner? This chicken spinach stir fry is packed with flavor and super easy to make. Save this recipe for those busy nights! 🍳🌿 #QuickMeals #ChickenDinner #HealthyEating"
+        },
+        {
+            "title": "30-Minute Chicken Spinach Stir Fry You’ll Love Tonight",
+            "description": "Fresh, flavorful, and ready fast—this stir fry is a weeknight winner! Try it today and enjoy a delicious meal without the hassle. 🥢🍽️ #EasyDinners #StirFry #ChickenRecipes"
+        },
+        {
+            "title": "Healthy Chicken and Spinach Stir Fry for Busy Weeknights",
+            "description": "Need something quick and nutritious? This stir fry blends garlic, soy sauce, and tender chicken with spinach perfectly. Discover now and make dinner stress-free! 🥘💚 #HealthyDinner #ChickenSpinach #FastRecipes"
+        },
+        {
+            "title": "Simple Chicken Spinach Stir Fry That’s Ready in Half an Hour",
+            "description": "Looking for a tasty, speedy meal? This chicken spinach stir fry is packed with flavor and super simple to prepare. Save it for your next dinner! 🍗🌱 #QuickStirFry #EasyChicken #WeeknightCooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, thinly sliced",
+        "3 cups fresh spinach, washed and roughly chopped",
+        "3 cloves garlic, minced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon sesame oil",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/4 cup chopped green onions (optional)",
+        "1 teaspoon grated fresh ginger (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've been making this chicken spinach stir fry for years now, especially when my schedule gets hectic and I need something quick but satisfying. The first time I tried it, I was a bit skeptical about how simple it was, but the garlic and soy sauce combo just blew me away. What sets my version apart is the balance of fresh spinach with tender chicken, and I always add a splash of sesame oil at the end—it gives the dish a subtle nuttiness that feels special. One trick I learned is to slice the chicken thinly and cook it quickly on high heat so it stays juicy and tender. The finished dish is colorful, flavorful, and full of those garlicky, savory notes that make you want to dig in right away. It's a great option for weeknights when you want a wholesome meal without spending hours in the kitchen. Plus, it pairs perfectly with steamed rice or noodles. Honestly, it’s become a family favorite because it’s so easy to customize too—sometimes I toss in mushrooms or bell peppers if I have them on hand. I hope you enjoy making and eating this as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your chicken: slice it thinly against the grain. This ensures the meat cooks quickly and stays tender rather than tough. If you rush this or cut unevenly, you might end up with chewy pieces. Heat the vegetable oil in a large skillet or wok over medium-high heat until shimmering but not smoking. Adding the chicken now will let it sear properly, locking in juices and creating a nice surface texture. Stir frequently but avoid overcrowding the pan, which can cause steaming instead of browning.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken changes from pink to opaque white with slight golden edges"
+        },
+        {
+            "step": 2,
+            "instruction": "Once the chicken is mostly cooked through, add the minced garlic and grated ginger if using. Stir quickly to release their aromas without burning. Garlic burns fast and turns bitter, so keep it moving in the pan. Then pour in the soy sauce and black pepper, stirring to coat all the chicken evenly. The soy sauce adds saltiness and depth, while the pepper gives a gentle kick. If you skip this step or add the sauce too late, you lose flavor integration and the sauce can become unevenly distributed.",
+            "timing": "3 minutes",
+            "doneness_cue": "Garlic is fragrant but not browned; chicken is fully opaque and sauce looks glossy"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chopped spinach to the pan, tossing it into the chicken and sauce mixture. Spinach cooks down quickly and releases moisture, so stir constantly to wilt it evenly without turning it soggy. If you add spinach too early or pile too much at once, it will steam instead of sauté, leading to a watery dish. The goal is bright green, tender leaves that retain some texture. This step adds freshness and balances the savory chicken beautifully.",
+            "timing": "3 minutes",
+            "doneness_cue": "Spinach is wilted but still vibrant green and slightly crisp"
+        },
+        {
+            "step": 4,
+            "instruction": "Drizzle the sesame oil over the finished stir fry and give it one last quick toss. Sesame oil has a strong nutty aroma that can be lost if cooked too long, so adding it at the end preserves its flavor. This small touch elevates the dish from everyday to something special. Taste and adjust seasoning if needed—maybe a splash more soy sauce or a pinch of pepper. Remember, it’s easier to add salt later than to fix over-salting.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish glistens with oil and smells fragrant, ready to serve"
+        },
+        {
+            "step": 5,
+            "instruction": "If you like, sprinkle chopped green onions over the top before serving for a fresh crunch and color contrast. This step is optional but adds a nice brightness and a bit of texture. It also makes the dish look more inviting. Serve immediately with steamed rice or noodles to soak up the flavorful sauce. Stir fry dishes are best enjoyed fresh as leftovers can lose texture and become soggy.",
+            "timing": "1 minute",
+            "doneness_cue": "Green onions look fresh and vibrant, dish plated attractively"
+        },
+        {
+            "step": 6,
+            "instruction": "To prep ahead, slice the chicken and chop the spinach and aromatics separately. Keep each ingredient in airtight containers in the fridge to maintain freshness. This makes the cooking process a breeze when you’re ready to stir fry. Avoid mixing ingredients too early to prevent wilting or drying out. Prepping in advance saves time and reduces stress on busy days.",
+            "timing": "10 minutes",
+            "doneness_cue": "Ingredients prepped and stored without discoloration or moisture loss"
+        },
+        {
+            "step": 7,
+            "instruction": "When heating your pan, make sure it’s hot enough before adding oil—this prevents sticking and promotes even cooking. A properly heated pan will cause the oil to shimmer and lightly ripple. If the pan isn’t hot, chicken can stick and release excess water, resulting in a steamed texture rather than a seared one. Patience here pays off in flavor and texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Oil shimmers and moves fluidly when pan is tilted"
+        },
+        {
+            "step": 8,
+            "instruction": "Avoid overcrowding the pan by cooking chicken in batches if necessary. Overcrowding lowers the pan temperature and causes the chicken to steam rather than sear. This makes the meat less flavorful and changes the texture. Cooking in smaller batches ensures each piece gets proper heat exposure for that delicious browned crust.",
+            "timing": "Variable",
+            "doneness_cue": "Chicken pieces have a light golden crust and no excess liquid in pan"
+        },
+        {
+            "step": 9,
+            "instruction": "Keep stirring throughout the cooking process but don’t overdo it. Constant stirring prevents burning but too much movement can cool the pan and slow cooking. Find a rhythm where you toss ingredients every 20-30 seconds to ensure even heat distribution and prevent sticking. This balance is key to a perfect stir fry texture.",
+            "timing": "Throughout cooking",
+            "doneness_cue": "Ingredients cook evenly without burning or sticking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stir Fry Delivers Flavor and Texture",
+        "content": "<p>What makes this chicken spinach stir fry work so well is the balance between quick, high-heat cooking and layering flavors. Thinly slicing the chicken allows it to cook rapidly, preserving moisture and tenderness without drying out. High heat encourages the Maillard reaction—the browning that creates complex, savory flavors and a slight crust on the meat, elevating the dish beyond bland chicken.</p><p>The garlic and soy sauce combination is another star. Garlic, when added at the right moment, releases pungent aromatics without burning. Soy sauce provides umami and saltiness that penetrates the chicken and greens, tying everything together. Adding the sauce while the chicken is still hot helps it coat the ingredients evenly, creating a glossy, flavorful finish.</p><p>Spinach is a delicate green that cooks down quickly, releasing water that can dilute flavors if not managed properly. Stirring constantly and adding it late in the cooking cycle helps retain its bright color and tender texture, while preventing sogginess. The final drizzle of sesame oil adds a toasted, nutty aroma that lingers on the palate, making the dish feel more complex and satisfying.</p><p>Overall, this recipe leverages the science of heat, timing, and ingredient interaction to produce a quick, healthy meal with big flavor and a pleasing texture. It’s simple but thoughtfully crafted, which is why it’s become a reliable favorite for busy cooks.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "When buying chicken breasts for stir fry, look for fresh, firm meat without any grayish discoloration. Thin slicing is key here; it allows the chicken to cook quickly and evenly, locking in juices. Avoid pre-sliced packaged chicken if it looks watery or pale, as this can indicate lower quality. If you need to substitute, boneless skinless thighs work well too but may require slightly longer cooking due to higher fat content.",
+            "fresh spinach": "Choose bright green, crisp spinach leaves with no yellowing or wilting. Fresh spinach wilts quickly and adds a mild, slightly sweet flavor that balances savory chicken. Baby spinach can be used for a more tender texture. Avoid frozen spinach for this recipe as it releases too much moisture and changes the stir fry’s texture.",
+            "garlic": "Fresh garlic cloves are best for this recipe because they offer a sharp, pungent flavor that mellows when cooked briefly. Mince finely to disperse flavor evenly. Pre-minced garlic from jars lacks freshness and can taste muted or artificial. Be careful not to overcook the garlic to avoid bitterness.",
+            "soy sauce": "Use a good quality, naturally brewed soy sauce for the best umami depth. Light soy sauce works well here because it adds salt and flavor without overpowering the dish or darkening it too much. Avoid low-sodium versions unless you adjust the seasoning elsewhere, as they can alter the balance.",
+            "sesame oil": "Toasted sesame oil is a finishing oil, not for high-heat cooking. It adds a rich, nutty aroma that elevates the dish’s flavor profile. Buy pure toasted sesame oil rather than blends for a more pronounced taste. Adding it at the end preserves its fragrance and prevents burning, which would make it bitter."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice chicken against the grain for maximum tenderness.",
+            "reason": "Cutting against the grain shortens muscle fibers, making the chicken easier to chew and resulting in a more tender bite. If you slice with the grain, the meat can feel stringy and tougher, especially after quick cooking."
+        },
+        {
+            "tip": "Preheat your pan before adding oil and ingredients.",
+            "reason": "A hot pan ensures the chicken sears rather than steams, locking in juices and creating flavorful browning. Adding food to a cold pan causes it to release water and results in a soggy texture instead of the desired crispness."
+        },
+        {
+            "tip": "Add spinach last and stir constantly to avoid sogginess.",
+            "reason": "Spinach wilts quickly and releases water that can dilute flavors and make the dish watery. Stirring constantly while adding it late keeps the leaves bright and tender without overcooking."
+        },
+        {
+            "tip": "Use sesame oil only as a finishing touch after cooking.",
+            "reason": "Sesame oil burns easily and becomes bitter if cooked at high heat. Adding it at the end preserves its nutty aroma and flavor, enhancing the overall dish without overpowering it."
+        },
+        {
+            "tip": "Don’t overcrowd the pan; cook chicken in batches if needed.",
+            "reason": "Crowding lowers the pan temperature, causing the chicken to steam instead of sear. Proper searing develops flavor and texture, so cooking in smaller batches ensures the best results."
+        },
+        {
+            "tip": "Mince garlic finely and add it after chicken is partially cooked.",
+            "reason": "Adding garlic too early can cause it to burn and become bitter. Adding it after the chicken is mostly cooked releases its aroma without overcooking, preserving a pleasant garlicky flavor."
+        },
+        {
+            "tip": "Adjust seasoning at the end to avoid over-salting.",
+            "reason": "Soy sauce adds saltiness, but it’s easier to add more later than to fix an overly salty dish. Tasting at the end ensures balanced seasoning and a better final flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking chicken until dry and tough.",
+            "why_it_happens": "Many cooks leave chicken in the pan too long thinking it needs to be fully cooked before adding other ingredients, but this causes moisture loss.",
+            "fix": "Slice chicken thinly and cook over high heat just until opaque. Remove from heat as soon as it's done and add other ingredients quickly to prevent drying out."
+        },
+        {
+            "mistake": "Burning garlic by adding it too early or cooking on too high heat.",
+            "why_it_happens": "Garlic cooks faster than chicken and can turn bitter if exposed to high heat without stirring.",
+            "fix": "Add minced garlic after the chicken is mostly cooked and stir constantly. Lower heat slightly if garlic starts to brown too quickly."
+        },
+        {
+            "mistake": "Adding spinach too early causing a watery stir fry.",
+            "why_it_happens": "Spinach releases water as it cooks, which can dilute flavors if added too soon.",
+            "fix": "Add spinach last and stir frequently to wilt it quickly without steaming. This keeps the dish vibrant and prevents sogginess."
+        },
+        {
+            "mistake": "Using sesame oil for cooking instead of finishing.",
+            "why_it_happens": "Sesame oil burns at high heat, turning bitter and ruining the dish.",
+            "fix": "Use neutral oil like vegetable or canola for cooking, and drizzle sesame oil at the end off the heat."
+        },
+        {
+            "mistake": "Overcrowding the pan leading to steaming instead of searing.",
+            "why_it_happens": "Too many ingredients in the pan lower the temperature and release moisture.",
+            "fix": "Cook chicken in batches if necessary to maintain high heat and get a good sear."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Bell Peppers and Mushrooms",
+            "description": "Toss in sliced bell peppers and mushrooms with the spinach for extra color and texture. These veggies add sweetness and earthiness, making the stir fry more substantial and vibrant.",
+            "technical_note": "Add bell peppers and mushrooms right before the spinach to ensure they cook properly without becoming mushy."
+        },
+        {
+            "name": "Spicy Garlic Chicken Spinach Stir Fry",
+            "description": "Add a teaspoon of chili flakes or fresh chopped chili with the garlic for a spicy kick. This variation is great if you like a bit of heat balancing the savory flavors.",
+            "technical_note": "Be careful not to burn the chili flakes; add them along with garlic and stir quickly."
+        },
+        {
+            "name": "Swap Chicken for Tofu for a Vegetarian Version",
+            "description": "Use firm tofu pressed and cubed instead of chicken for a meatless option. Tofu soaks up the soy sauce beautifully and pairs well with the spinach and garlic.",
+            "technical_note": "Pan-fry tofu until golden on all sides before adding garlic and spinach to ensure a crispy texture."
+        },
+        {
+            "name": "Use Baby Kale Instead of Spinach",
+            "description": "Try baby kale for a heartier green with a slightly more bitter flavor. It holds up well in stir fry and adds a nice chewiness.",
+            "technical_note": "Add baby kale a minute earlier than spinach as it takes slightly longer to wilt."
+        },
+        {
+            "name": "Make It a One-Pan Meal with Rice",
+            "description": "Add cooked rice to the pan at the end and toss everything together for a quick one-pan stir fry meal. This is super convenient and reduces cleanup.",
+            "technical_note": "Ensure rice is cold or day-old to prevent it from becoming mushy when stir fried."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "750mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can be left out at room temperature for up to 2 hours if covered loosely. Beyond that, it’s safer to refrigerate to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The spinach may lose some texture when cold, so reheat gently to restore freshness. Avoid reheating multiple times to maintain quality.",
+        "freezer": "Freeze in a freezer-safe container for up to 1 month. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating to keep texture intact.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or broth to loosen the sauce. Microwave works too but may affect texture. Avoid overheating to keep chicken tender.",
+        "make_ahead_strategy": "You can prep and slice the chicken and veggies 1-2 days in advance and store separately. Cooking just before serving ensures the best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Frozen spinach releases a lot more water than fresh, which can make the stir fry watery and soggy. If you must use frozen, thaw and squeeze out excess moisture before adding, but fresh is definitely best for texture and flavor."
+        },
+        {
+            "question": "What’s the best way to slice chicken for stir fry?",
+            "answer": "Slice chicken thinly against the grain, about 1/4 inch thick. This helps it cook quickly and stay tender. Using a sharp knife and partially freezing the chicken for 15 minutes can make slicing easier and more precise."
+        },
+        {
+            "question": "Can I use dark soy sauce instead of light soy sauce?",
+            "answer": "Dark soy sauce is thicker and sweeter, and it will darken the dish’s color. It can be used but reduce the quantity slightly and balance with a pinch of sugar or salt to maintain flavor balance."
+        },
+        {
+            "question": "How do I avoid watery stir fry with spinach?",
+            "answer": "Add spinach at the very end and stir quickly to wilt it without releasing too much water. Avoid overcrowding the pan and stirring too slowly, which causes steaming and excess moisture."
+        },
+        {
+            "question": "Can I make this stir fry spicy?",
+            "answer": "Absolutely! Add chili flakes, fresh chopped chilies, or a dash of chili oil with the garlic for heat. Adjust amounts to your spice tolerance and add gradually to avoid overpowering the dish."
+        },
+        {
+            "question": "Is sesame oil necessary?",
+            "answer": "Sesame oil adds a unique nutty aroma that really lifts the dish, but if you don’t have it, you can skip it or substitute with a small amount of toasted nuts or a drizzle of olive oil. Just add it at the end to preserve flavor."
+        },
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes, boneless skinless thighs are juicier and more forgiving but take slightly longer to cook. Slice thinly and watch closely to avoid undercooking or overcooking."
+        },
+        {
+            "question": "How do I store leftovers without the spinach getting mushy?",
+            "answer": "Store spinach and chicken together in airtight containers and refrigerate promptly. Reheat gently and briefly to keep spinach from turning too soft. Alternatively, store spinach separately and add fresh when reheating."
+        }
+    ],
+    "conclusion": "Give this chicken spinach stir fry a try—you’ll love how quick and flavorful it is. Don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "chicken spinach stir fry",
+        "secondary_keywords": [
+            "quick chicken stir fry",
+            "healthy chicken dinner",
+            "how to make chicken stir fry",
+            "best chicken spinach recipe",
+            "easy chicken stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Garlic Chicken Recipes",
+                "anchor": "easy-garlic-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "images": [
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_1.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_1.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_2.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_2.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_3.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_3.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_4.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_4.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_9.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_9.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_8.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_8.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_6.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_6.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_5.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_5.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_7.webp",
+            "filePath": "posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_7.webp",
+            "relativePath": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images/30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775823423_683",
+    "slug": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:24+02:00",
+    "updatedAt": "2026-04-10T14:52:24+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite/images"
+}
