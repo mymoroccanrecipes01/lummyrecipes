@@ -1,0 +1,337 @@
+{
+    "title": "Easy Five-Ingredient Chocolate Cake That Feels Like a Hug",
+    "promptIMG": "Food photography: Easy Five-Ingredient Chocolate Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is a total lifesaver when you want something sweet but don’t want to fuss. Just five simple ingredients, a quick mix, and it’s ready in half an hour. Great for last-minute celebrations or a cozy treat!",
+    "hashtags": "#chocolatecake #easybaking #quickdessert",
+    "board_name": "Quick Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Whip Up This 5-Ingredient Chocolate Cake in 30 Minutes!",
+            "description": "Craving chocolate but short on time? This simple cake uses just five ingredients and comes together fast. Save this recipe for your next last-minute dessert craving! 🍫🎂 #easyrecipes #chocolatecake #dessertlove"
+        },
+        {
+            "title": "No-Fuss Chocolate Cake That Tastes Like Heaven",
+            "description": "I love how this cake is both quick and delicious. Perfect for busy days when you want a sweet treat without the hassle. Try it today and see how simple baking can be! 😍🍰 #quickdessert #chocolatelover #bakingmadeeasy"
+        },
+        {
+            "title": "Simple Chocolate Cake Recipe for Busy Weeknights",
+            "description": "Busy evening? This easy chocolate cake is your new best friend. Only five ingredients and 30 minutes to chocolate bliss. Discover the joy of quick baking now! 🍫⏰ #weeknightdessert #chocolatecake #easybaking"
+        },
+        {
+            "title": "Last-Minute Chocolate Cake That Everyone Will Love",
+            "description": "Need a quick chocolate fix that actually tastes amazing? This five-ingredient cake is your go-to. Save this recipe and impress your family tonight! 🎉🍫 #lastminuterecipe #chocolatecake #easybakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsweetened cocoa powder, sifted",
+        "1 teaspoon baking powder",
+        "1 cup milk, room temperature"
+    ],
+    "yield": "One 8-inch round cake, 8 servings",
+    "introduction": "I stumbled upon this chocolate cake recipe on a day when I really needed something sweet but didn’t have a ton of time or ingredients on hand. Honestly, it was a happy accident that turned into a favorite! Unlike many chocolate cakes that require a long list of ingredients and complicated steps, this one is super simple – just five ingredients you probably already have. What makes it stand out for me is how moist and rich it feels despite being so easy. The trick I learned is to sift the dry ingredients well; it helps the cake come out fluffy and smooth rather than dense or crumbly. Plus, using room temperature milk really helps the batter mix evenly. When it’s done, the cake is soft, chocolatey, and just the right balance of sweet and slightly bitter from the cocoa. It’s perfect for a cozy night in or a quick celebration when you want to impress without the stress. Every time I make it, I get the same warm, comforting feeling — like the cake is a little hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8-inch round cake pan with butter or non-stick spray. This step is crucial because a properly greased pan ensures the cake releases easily after baking, preventing any frustrating sticking or tearing. I usually also dust a little flour after greasing to add an extra layer of protection. Make sure the oven is fully preheated before you pop the cake in; it helps the batter rise evenly from the start.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated to 350°F and the pan evenly greased with no dry spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, sift together the flour, sugar, cocoa powder, and baking powder. Sifting is key here because it breaks up any lumps and aerates the dry ingredients, which helps the cake have a lighter texture. If you skip this, you might end up with clumps of cocoa or flour that don’t mix well, causing uneven baking or a gritty texture. Take your time with this step and use a whisk to combine everything thoroughly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no visible lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Make a well in the center of the dry ingredients and pour in the milk. Using a spoon or spatula, gently fold the mixture until just combined. Avoid overmixing here — it’s tempting to stir vigorously, but that can develop gluten and make the cake tough instead of tender. The batter should be smooth and a bit thick but pourable. If you find any dry patches, gently fold them in until the batter looks consistent.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, lump-free batter with a thick but pourable consistency"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula so it bakes evenly. Taking a moment to level the batter helps avoid uneven rising or a lopsided cake. If you want a perfect flat top, you can tap the pan gently on the counter a couple of times to release any air bubbles trapped inside.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter evenly spread with a smooth surface, no air pockets"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the pan in the middle rack of the oven and bake for about 20 minutes. Keep an eye on the cake as ovens vary; it should rise nicely and start to pull away slightly from the edges of the pan. Resist opening the oven too early, or the cake might sink. Around 18 minutes, start checking by inserting a toothpick into the center: if it comes out clean or with a few moist crumbs, it’s done.",
+            "timing": "20 minutes",
+            "doneness_cue": "Toothpick inserted in center comes out clean or with a few moist crumbs"
+        },
+        {
+            "step": 6,
+            "instruction": "Once baked, remove the cake from the oven and let it cool in the pan for about 10 minutes. Cooling slightly in the pan helps the cake set and makes it easier to handle. Don’t rush this step; if you try to remove it too soon, it might break apart. After 10 minutes, run a knife around the edges to loosen it before turning it out onto a wire rack.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cake feels set at edges and slightly firm to the touch"
+        },
+        {
+            "step": 7,
+            "instruction": "Invert the cake onto a wire rack and let it cool completely before slicing. Cooling fully ensures clean slices and lets the crumb finish setting up. If you cut it while warm, the texture will be gummy and the cake might crumble. I like to cool it uncovered so the surface stays dry and not soggy.",
+            "timing": "30 minutes",
+            "doneness_cue": "Cake is cool to the touch and firm when sliced"
+        },
+        {
+            "step": 8,
+            "instruction": "Optional: dust the top with powdered sugar or cocoa powder for a simple finish. This adds a pretty touch without extra effort or sweetness. Just use a fine sieve to sprinkle evenly. You can also serve with fresh berries or a dollop of whipped cream for a little extra indulgence.",
+            "timing": "2 minutes",
+            "doneness_cue": "Even, delicate dusting covering the top without clumps"
+        },
+        {
+            "step": 9,
+            "instruction": "Slice the cake with a sharp knife, wiping it clean between cuts for neat slices. Serve immediately or store in an airtight container once cooled. This cake is lovely on its own or paired with a scoop of vanilla ice cream. Enjoy the simple, rich chocolate flavor that feels like a little celebration in every bite!",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean, even slices with moist crumb and no crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Simple Chocolate Cake",
+        "content": "<p>This cake’s success comes from balancing simplicity with technique. The sifting of flour and cocoa powder aerates the dry ingredients, which helps create a light texture despite the small ingredient list. When you sift, you’re breaking up lumps and mixing the powders evenly, which ensures the cocoa distributes uniformly and the baking powder can do its job properly.</p><p>Using room temperature milk is another key step. Cold milk can cause the batter to seize or become lumpy, while warm milk mixes smoothly with the dry ingredients. This temperature balance helps the gluten develop just enough for structure without becoming tough. The baking powder reacts with the moisture and heat, releasing carbon dioxide bubbles that make the cake rise and stay tender.</p><p>Folding the wet and dry ingredients gently is crucial. Overmixing develops too much gluten, which can make cakes dense and chewy instead of soft and fluffy. This gentle mixing keeps the crumb tender. Finally, baking at a moderate temperature (350°F) allows the Maillard reaction to develop that rich chocolate flavor and a slightly crisp crust without drying out the inside.</p><p>All these small details—sifting, milk temperature, gentle folding, and baking time—work together to make a cake that feels indulgent and moist, even though it’s made with just five everyday ingredients.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-12%). This balances gluten development to give structure without toughness. Avoid cake flour here because it’s too low in protein and will make the cake too crumbly. Sifting the flour before mixing helps incorporate air and ensures even mixing with the cocoa and baking powder.",
+            "granulated sugar": "Regular granulated sugar dissolves well during baking and helps tenderize the crumb by interfering with gluten formation. It also aids browning on the crust. Make sure your sugar is fresh and not clumped to ensure even sweetness and texture.",
+            "unsweetened cocoa powder": "Use natural unsweetened cocoa powder for a bright, slightly acidic chocolate flavor that pairs well with baking powder. Dutch-processed cocoa is less acidic and may require baking soda instead. Sifting cocoa is important to avoid lumps that won’t dissolve and can cause bitter pockets.",
+            "baking powder": "Baking powder is a leavening agent that releases carbon dioxide when wet and heated, helping the cake rise. Make sure it’s fresh because old baking powder loses potency and will result in a dense cake. Use the correct amount—too much can cause a bitter taste or cause the cake to rise too quickly and then collapse.",
+            "milk": "Milk adds moisture and richness to the batter. Using milk at room temperature ensures it combines smoothly with dry ingredients, preventing lumps. Whole milk gives a richer crumb, but you can use 2% for a slightly lighter cake. Avoid cold milk, which can shock the batter and affect texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your dry ingredients together.",
+            "reason": "Sifting breaks up lumps and aerates the mixture, which leads to a lighter, fluffier cake. It also ensures even distribution of cocoa and baking powder so the cake rises uniformly without bitter pockets or uneven texture."
+        },
+        {
+            "tip": "Use room temperature milk for mixing.",
+            "reason": "Room temperature milk mixes more evenly with the dry ingredients, preventing lumps and giving a smooth batter. Cold milk can cause the batter to seize or stay lumpy, which affects the cake’s texture and rise."
+        },
+        {
+            "tip": "Don’t overmix the batter after adding milk.",
+            "reason": "Overmixing develops gluten in the flour, making the cake tough and chewy instead of tender. Mixing until just combined keeps the crumb soft and moist."
+        },
+        {
+            "tip": "Grease and flour your pan properly.",
+            "reason": "A well-greased and floured pan prevents sticking and ensures the cake releases cleanly. This avoids broken edges or crumbled cake when removing it from the pan."
+        },
+        {
+            "tip": "Check cake doneness with a toothpick starting at 18 minutes.",
+            "reason": "Ovens vary, so checking early helps prevent overbaking, which dries out the cake. A toothpick that comes out clean or with moist crumbs means perfect doneness."
+        },
+        {
+            "tip": "Cool the cake in the pan for 10 minutes before removing.",
+            "reason": "Cooling slightly lets the cake set and firm up, reducing chances of it breaking apart when you turn it out. It also makes handling safer and easier."
+        },
+        {
+            "tip": "Use a sharp knife and wipe it clean between slices.",
+            "reason": "A sharp knife cuts cleanly through the soft crumb, and wiping between slices prevents crumb buildup, giving neat, pretty slices perfect for serving."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping sifting of dry ingredients",
+            "why_it_happens": "Many cooks think sifting is an unnecessary extra step, especially when in a hurry.",
+            "fix": "Take the extra 5 minutes to sift flour, cocoa, and baking powder together. This prevents lumps and ensures even mixing, resulting in a smoother, lighter cake."
+        },
+        {
+            "mistake": "Using cold milk straight from the fridge",
+            "why_it_happens": "It’s easy to forget to take milk out ahead of time or assume cold milk doesn’t matter.",
+            "fix": "Warm milk to room temperature before mixing. This helps the batter blend smoothly without lumps and aids even gluten development for a tender crumb."
+        },
+        {
+            "mistake": "Overmixing batter after adding milk",
+            "why_it_happens": "Some think mixing longer makes a better batter or want to get rid of lumps quickly.",
+            "fix": "Mix just until combined to avoid toughening the cake. A few small lumps are okay and will bake out."
+        },
+        {
+            "mistake": "Opening the oven door too early",
+            "why_it_happens": "Eager to check doneness, people open the door within the first 10 minutes.",
+            "fix": "Wait at least 15 minutes before checking to avoid sudden temperature drops that cause the cake to sink."
+        },
+        {
+            "mistake": "Removing cake from pan while too hot",
+            "why_it_happens": "Impatience or lack of cooling space leads to flipping the cake out too soon.",
+            "fix": "Let cake cool in pan for 10 minutes to firm up, then loosen edges with a knife before turning out onto a rack."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Espresso Powder for a Mocha Twist",
+            "description": "Mix 1 teaspoon of instant espresso powder into the dry ingredients to enhance the chocolate flavor with a subtle coffee kick. The espresso deepens the cocoa notes without making the cake taste like coffee.",
+            "technical_note": "Espresso powder dissolves easily and intensifies flavor without affecting texture; no change to baking time needed."
+        },
+        {
+            "name": "Use Almond Milk for a Dairy-Free Version",
+            "description": "Swap regular milk with unsweetened almond milk to make this cake dairy-free. The almond flavor pairs nicely with cocoa, but the crumb might be slightly less rich.",
+            "technical_note": "Almond milk has a thinner consistency; batter may be a bit thinner but bake time remains the same."
+        },
+        {
+            "name": "Top with Fresh Berries and Whipped Cream",
+            "description": "After cooling, serve the cake with fresh raspberries or strawberries and a dollop of lightly sweetened whipped cream for a fresh, elegant presentation that’s perfect for guests.",
+            "technical_note": "No changes to baking; add toppings just before serving to keep berries fresh."
+        },
+        {
+            "name": "Add a Pinch of Cinnamon for Warmth",
+            "description": "Stir 1/2 teaspoon of ground cinnamon into the dry ingredients for a subtle warm spice that complements the chocolate beautifully. It adds complexity without overpowering the cake.",
+            "technical_note": "Cinnamon blends well with cocoa and doesn’t affect texture or baking time."
+        },
+        {
+            "name": "Make Mini Cupcakes Instead of a Cake",
+            "description": "Divide the batter into a lined muffin tin and bake for 12-15 minutes for quick, portable chocolate cupcakes. Great for parties or lunchboxes!",
+            "technical_note": "Bake time shortens; watch closely to avoid overbaking and drying out."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "4g",
+        "fiber_grams": "3g",
+        "sodium_mg": "190mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can be kept at room temperature, covered tightly with plastic wrap or in an airtight container, for up to 2 days. Keep it out of direct sunlight or heat to avoid drying out.",
+        "refrigerator": "Store in an airtight container for up to 5 days. The cake may become a bit firmer and less moist when chilled, so bring to room temperature before serving or warm gently in the microwave for 15 seconds.",
+        "freezer": "Freeze wrapped tightly in plastic wrap and then foil for up to 2 months. Thaw overnight in the fridge, then bring to room temperature before serving to restore best texture. Avoid refreezing.",
+        "reheating": "Warm slices gently in a microwave for 15-20 seconds or in a 300°F oven for 5-7 minutes. Adding a small splash of milk or covering with foil helps retain moisture during reheating.",
+        "make_ahead_strategy": "You can mix the dry ingredients together 1-2 days ahead and store in an airtight container. Add milk and bake fresh when ready. Alternatively, bake the cake a day ahead and keep tightly covered to let flavors meld."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute oil for milk in this recipe?",
+            "answer": "Replacing milk with oil isn’t recommended here because milk adds moisture and helps with the cake’s structure and tenderness. Oil would make the batter too heavy and change the crumb texture. If you want to replace milk, try a non-dairy milk instead."
+        },
+        {
+            "question": "What if I don’t have baking powder?",
+            "answer": "Baking powder is essential here for leavening. If you only have baking soda, you’d need to add an acid like vinegar or lemon juice to activate it. However, this will change the flavor and texture, so it’s best to use baking powder for this recipe."
+        },
+        {
+            "question": "How do I know when the cake is fully baked?",
+            "answer": "Insert a toothpick into the center around 18-20 minutes. If it comes out clean or with a few moist crumbs, the cake is done. If batter sticks, bake a few minutes longer and check again every 2 minutes."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "You can try substituting the all-purpose flour with a 1:1 gluten-free baking flour blend. Make sure it contains xanthan gum or add some yourself to help with structure. The texture might be slightly different but still delicious."
+        },
+        {
+            "question": "Why is my cake dense or heavy?",
+            "answer": "This usually happens if you overmix the batter or use cold milk. Overmixing develops gluten, making it tough. Also, not sifting dry ingredients can cause uneven texture. Follow the steps gently and use room temperature milk for best results."
+        },
+        {
+            "question": "Can I double the recipe for a larger cake?",
+            "answer": "Yes, doubling works well. Use a larger pan or two pans and adjust baking time accordingly—usually 5-10 minutes longer. Check doneness with a toothpick as usual."
+        },
+        {
+            "question": "How do I store leftover cake?",
+            "answer": "Keep leftovers in an airtight container at room temperature for up to 2 days, or refrigerate for up to 5 days. Warm slices slightly before serving for best texture."
+        },
+        {
+            "question": "Can I add frosting to this cake?",
+            "answer": "Absolutely! This cake pairs well with simple chocolate ganache, whipped cream, or cream cheese frosting. Just make sure the cake is fully cooled before frosting to prevent melting."
+        }
+    ],
+    "conclusion": "I hope you give this easy chocolate cake a try—it’s one of those recipes that always feels like a cozy win. Let me know how it turns out and what your favorite variations are!",
+    "seo": {
+        "primary_keyword": "easy five ingredient chocolate cake",
+        "secondary_keywords": [
+            "quick chocolate cake",
+            "simple chocolate cake recipe",
+            "how to make chocolate cake fast",
+            "best easy chocolate cake recipe",
+            "easy chocolate cake"
+        ],
+        "internal_links": [
+            {
+                "text": "simple chocolate frosting recipe",
+                "anchor": "simple-chocolate-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5400 words"
+    },
+    "images": [
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_1.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_1.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_2.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_2.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_3.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_3.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "filePath": "posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "relativePath": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775937786_776",
+    "slug": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream",
+    "isOnline": true,
+    "createdAt": "2026-04-11T22:05:02+02:00",
+    "updatedAt": "2026-04-11T22:05:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/images"
+}
