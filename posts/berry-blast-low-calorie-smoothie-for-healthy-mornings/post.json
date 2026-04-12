@@ -1,0 +1,337 @@
+{
+    "title": "Refreshing Berry Mint Smoothie for a Healthy Morning Boost",
+    "promptIMG": "Food photography: Berry Mint Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This berry mint smoothie is my daily energizer—light, fresh, and full of antioxidants. A splash of fresh mint adds a cool twist that wakes up your taste buds. Ideal for quick breakfasts or anytime you need a healthy boost!",
+    "hashtags": "#berrysmoothie #healthydrinks #morningboost",
+    "board_name": "Healthy Smoothie Recipes",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Berry Mint Smoothie!",
+            "description": "Kickstart your morning with a burst of berry flavor and refreshing mint! This smoothie is easy, quick, and full of antioxidants. Save this recipe and try it today for a nutritious boost! 🍓🌿 #berrysmoothie #healthybreakfast #mintyfresh"
+        },
+        {
+            "title": "Quick & Tasty Berry Mint Smoothie Recipe You’ll Love",
+            "description": "Looking for a fast, delicious breakfast? This berry mint smoothie hits the spot with natural sweetness and a fresh twist. Perfect for busy mornings or post-workout fuel. Discover now and blend away! 🍓💪 #smoothierecipe #morningfuel #freshmint"
+        },
+        {
+            "title": "Berry Mint Smoothie: Your New Favorite Morning Treat",
+            "description": "Fresh berries and a hint of mint make this smoothie a vibrant, healthy pick-me-up. It’s light, naturally sweet, and incredibly refreshing. Try it today and feel the difference! 🌿🍓 #healthysmoothie #morningboost #berrylove"
+        },
+        {
+            "title": "Easy Berry Mint Smoothie to Brighten Your Day Fast",
+            "description": "Whip up this easy berry mint smoothie for a quick, nutritious start. The fresh mint adds a lively touch that makes all the difference. Save this recipe and enjoy a tasty, healthy treat anytime! 🍓🌱 #quickbreakfast #smoothielove #healthyhabits"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup fresh mixed berries (strawberries, blueberries, raspberries), washed",
+        "1/2 cup plain Greek yogurt, cold",
+        "1/2 cup unsweetened almond milk",
+        "1 tablespoon honey or maple syrup (optional)",
+        "5-6 fresh mint leaves, washed",
+        "1/2 cup ice cubes"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this berry mint smoothie during a summer morning when I needed something light but energizing. It quickly became my go-to because it’s so easy and refreshing without being overly sweet. What sets this smoothie apart is the fresh mint—it adds a bright, unexpected twist that wakes up your palate and complements the natural berry sweetness perfectly. I’ve tried lots of berry smoothies before, but this one balances creaminess, tartness, and freshness in a way that feels both indulgent and healthy. The trick I learned is to use Greek yogurt for a creamy texture that also packs protein, making it more filling. Plus, the almond milk keeps it light, so it doesn’t weigh you down. The finished smoothie is vibrant pink with specks of mint, smooth but with a nice texture from the berries, and it tastes like a fresh garden in a glass. It’s perfect for busy mornings or whenever you want a quick, nutritious treat that feels like a small celebration.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your berries thoroughly under cold water. This step is important to remove any dirt or residues and ensures your smoothie tastes fresh and clean. Using fresh berries rather than frozen gives a bright, natural flavor and a slightly thicker texture. If you only have frozen berries, thaw them slightly first to avoid a watery smoothie. Be gentle when rinsing to avoid bruising the berries, which can affect the flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Berries are clean, fresh, and intact without any mushy spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, add the washed berries, Greek yogurt, almond milk, honey (if using), fresh mint leaves, and ice cubes into a blender. The order matters here: adding liquid first helps your blender blades move smoothly and blend evenly. The Greek yogurt adds creaminess and protein, while the mint leaves should be fresh and whole to infuse a subtle herbal note without overpowering the berries. Blend on high speed for about 30-45 seconds until smooth. Avoid over-blending to keep some berry texture intact.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smoothie is evenly blended with no large berry chunks, and mint is finely incorporated."
+        },
+        {
+            "step": 3,
+            "instruction": "Taste your smoothie and adjust sweetness if needed by adding a little more honey or maple syrup. Blend again briefly to mix in any additions. This step is key because berries vary in sweetness seasonally, so adjusting lets you personalize the flavor to your liking. Don’t skip tasting—it’s the best way to get a balanced result.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie tastes balanced, with a pleasant natural sweetness and a fresh minty finish."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the smoothie into glasses immediately to enjoy at its freshest and coldest. If you let it sit too long, the texture can separate and the flavors dull. Serving right away keeps the vibrant color and refreshing taste intact. Garnish with a sprig of mint or a few whole berries for a pretty touch if you like.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie is cold, vibrant in color, and visually appealing with garnish."
+        },
+        {
+            "step": 5,
+            "instruction": "If you want to prep ahead, you can blend the smoothie base without ice and store it in the fridge for up to 24 hours. Add ice and blend again just before serving to keep the texture perfect. This is great for busy mornings when you want to save time but still enjoy a fresh-tasting smoothie.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie base is well mixed and stored properly without separation or discoloration."
+        },
+        {
+            "step": 6,
+            "instruction": "For an extra nutrient boost, try adding a tablespoon of chia seeds or a scoop of protein powder before blending. These mix in easily and enhance the smoothie’s filling power without changing the fresh flavor too much. It’s a simple way to customize your smoothie for your nutritional needs.",
+            "timing": "1 minute",
+            "doneness_cue": "Add-ins are fully incorporated without clumping or gritty texture."
+        },
+        {
+            "step": 7,
+            "instruction": "Use fresh mint leaves rather than dried for the best flavor. The fresh leaves release essential oils when blended, giving the smoothie its signature brightness. If you don’t have mint, a small squeeze of lime juice can add a similar zesty lift.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie has a lively, fresh aroma and taste from the mint or citrus."
+        },
+        {
+            "step": 8,
+            "instruction": "Make sure your blender is powerful enough to crush ice and blend frozen fruit smoothly. If your blender struggles, pulse several times and stir between pulses to avoid overheating the motor or ending up with uneven texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie texture is creamy and consistent, without large ice chunks."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender immediately after making the smoothie to avoid staining from berries. Fill with warm water and a drop of dish soap, blend briefly, and rinse thoroughly. This keeps your equipment in good shape and ready for next time.",
+            "timing": "5 minutes",
+            "doneness_cue": "Blender is clean, no berry stains or residue left behind."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Berry Mint Smoothie Is So Refreshing and Nutritious",
+        "content": "<p>This smoothie works so well because it balances flavors and textures with simple ingredients that complement each other perfectly. The berries provide natural sweetness and antioxidants, while the Greek yogurt adds creaminess and protein, making it both tasty and satisfying. The almond milk keeps it light and dairy-friendly for many people, and the fresh mint introduces a bright herbal note that elevates the overall flavor profile.</p><p>The blending technique is important too—starting with liquids at the bottom helps the blades spin freely, ensuring an even blend without large chunks of fruit or ice. Over-blending can make the smoothie too thin, while under-blending leaves unpleasant lumps. This recipe hits the sweet spot for texture every time.</p><p>Using fresh ingredients, especially the mint, is key. Fresh mint leaves release essential oils during blending that add a refreshing aroma and flavor that dried herbs can’t replicate. The cold temperature from ice cubes also helps keep the smoothie invigorating and thirst-quenching, perfect for mornings or post-exercise.</p><p>Finally, the option to adjust sweetness with honey or maple syrup lets you tailor the smoothie to your taste and accommodate the natural variability of berry sweetness. This flexibility makes it a reliable recipe year-round.</p>",
+        "ingredient_notes": {
+            "fresh mixed berries": "Look for ripe, vibrant berries without bruising or mold. Fresh berries provide natural sweetness, antioxidants, and a slightly thicker texture than frozen. If using frozen, thaw slightly to avoid watering down the smoothie. Mixing varieties like strawberries, blueberries, and raspberries adds complexity and color.",
+            "Greek yogurt": "Choose plain Greek yogurt with a creamy consistency and no added sugars. It adds protein and richness, which makes the smoothie more filling and creamy without overpowering the berry flavor. Avoid flavored yogurts as they can make the smoothie too sweet or artificial tasting.",
+            "unsweetened almond milk": "This dairy-free milk keeps the smoothie light and smooth without adding extra sugar or heaviness. Look for unsweetened varieties to control sweetness. If you prefer a creamier texture, swap for coconut or oat milk but expect a slightly different flavor.",
+            "fresh mint leaves": "Fresh mint is crucial for the bright, refreshing note in this smoothie. When buying, pick leaves that are vibrant green and free of wilting or browning. Wash thoroughly and use whole leaves to release essential oils during blending. Dried mint won’t provide the same fresh flavor.",
+            "honey or maple syrup": "These natural sweeteners help adjust the smoothie’s sweetness depending on the berries’ ripeness. Use sparingly to keep the smoothie light and healthy. Avoid refined sugars to maintain the natural, wholesome profile of the drink."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh berries when possible for the best flavor and texture.",
+            "reason": "Fresh berries have a natural sweetness and firmer texture that frozen ones lack. They blend into a thicker, more vibrant smoothie. Frozen berries can water down the texture if not thawed properly, so using fresh ensures a better mouthfeel and taste."
+        },
+        {
+            "tip": "Add ice cubes last and blend briefly to keep the smoothie cold but not watery.",
+            "reason": "Blending ice too long melts it and dilutes the flavor. Adding ice at the end and pulsing briefly chills the smoothie while maintaining the intensity of the berry and mint flavors."
+        },
+        {
+            "tip": "Don’t skip the mint — it’s the secret ingredient that brightens the whole smoothie.",
+            "reason": "Mint releases aromatic oils that lift the flavor and add complexity. Without it, the smoothie can taste flat or overly sweet. The fresh herb balances the natural tartness of the berries perfectly."
+        },
+        {
+            "tip": "Use plain Greek yogurt for creaminess without extra sugar.",
+            "reason": "Greek yogurt’s thickness adds body and protein, helping the smoothie feel more substantial. Flavored yogurts often contain added sugars which can overpower the fresh berry taste."
+        },
+        {
+            "tip": "Taste and adjust sweetness after blending to get the perfect balance.",
+            "reason": "Berry sweetness varies by season and ripeness. Adding sweetener after blending lets you control the final flavor and avoid an overly sweet smoothie."
+        },
+        {
+            "tip": "If your blender isn’t powerful, chop berries and mint roughly before blending.",
+            "reason": "This helps avoid uneven chunks and reduces strain on the motor, producing a smoother texture without overworking your appliance."
+        },
+        {
+            "tip": "Serve immediately to enjoy the freshest flavor and best texture.",
+            "reason": "Smoothies separate and lose vibrancy when left sitting. Drinking right away keeps the mint’s brightness and the creamy berry texture intact."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using wilted or old mint leaves",
+            "why_it_happens": "People often use whatever herbs are on hand, not realizing wilted mint lacks flavor and can taste bitter, dulling the smoothie’s fresh vibe.",
+            "fix": "Always pick fresh, vibrant mint leaves and wash them thoroughly. If your mint looks limp or brown, it’s better to omit or replace with a small squeeze of lime for brightness."
+        },
+        {
+            "mistake": "Over-blending the smoothie",
+            "why_it_happens": "Trying to get an ultra-smooth texture can lead to over-blending, which warms the smoothie and makes it watery.",
+            "fix": "Blend just until smooth but still cold. Pulse ice cubes last to keep the drink chilled and thick."
+        },
+        {
+            "mistake": "Skipping the taste test before serving",
+            "why_it_happens": "Assuming the berries are always sweet enough leads to bland or unbalanced smoothies.",
+            "fix": "Always taste and tweak sweetness with honey or syrup after blending to get your perfect flavor."
+        },
+        {
+            "mistake": "Using flavored or sweetened yogurt",
+            "why_it_happens": "Flavored yogurts add extra sugar and artificial flavors that mask the natural berry taste.",
+            "fix": "Stick to plain Greek yogurt for a clean, creamy base that enhances the smoothie without overpowering it."
+        },
+        {
+            "mistake": "Not washing berries properly",
+            "why_it_happens": "Rushing prep or neglecting washing can leave dirt or residues that affect taste and texture.",
+            "fix": "Rinse berries gently in cold water and pat dry to ensure a clean, fresh-tasting smoothie."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Berry Mint Smoothie",
+            "description": "Add 1/2 cup chopped pineapple and a splash of coconut water for a tropical twist. The pineapple adds extra sweetness and tang, while coconut water keeps it light and hydrating.",
+            "technical_note": "Blend pineapple with berries first, then add coconut water and ice. Adjust sweetness as needed due to pineapple’s natural sugars."
+        },
+        {
+            "name": "Green Berry Mint Smoothie",
+            "description": "Include a handful of spinach or kale for a nutrient-packed green smoothie. The leafy greens blend well with berries and mint without overpowering the flavor.",
+            "technical_note": "Add greens before blending to ensure a smooth texture; you may need to add a bit more almond milk for easier blending."
+        },
+        {
+            "name": "Protein-Packed Berry Mint Smoothie",
+            "description": "Boost protein by adding a scoop of vanilla or unflavored protein powder. This makes the smoothie a great post-workout recovery drink or meal replacement.",
+            "technical_note": "Blend protein powder with all ingredients for even distribution. Adjust liquid amount if the smoothie thickens too much."
+        },
+        {
+            "name": "Frozen Berry Mint Sorbet",
+            "description": "Skip the yogurt and blend frozen berries with mint and a bit of honey for a refreshing sorbet-like treat, perfect for a summer dessert.",
+            "technical_note": "Use frozen berries and blend longer to reach a sorbet consistency. Serve immediately for best texture."
+        },
+        {
+            "name": "Citrus Berry Mint Smoothie",
+            "description": "Add juice of half a lemon or lime to brighten the flavors even more. The citrus adds a zesty kick that pairs beautifully with mint and berries.",
+            "technical_note": "Add citrus juice after initial blending and pulse briefly to incorporate without over-acidifying the smoothie."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "3g",
+        "fiber_grams": "5g",
+        "sodium_mg": "50mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie is best enjoyed immediately. If left at room temperature for more than 1 hour, it may separate and lose freshness. Cover it tightly if you need to set it aside briefly.",
+        "refrigerator": "Store leftover smoothie in an airtight container in the fridge for up to 24 hours. Expect some separation; stir well before drinking. It tastes best chilled but freshly blended.",
+        "freezer": "You can freeze smoothie portions in freezer-safe containers for up to 1 month. Thaw overnight in the fridge and stir well before drinking. Texture may be slightly grainy after freezing.",
+        "reheating": "Not applicable—this smoothie is served cold and should not be heated.",
+        "make_ahead_strategy": "Blend all ingredients except ice up to 1 day ahead and store in the fridge. Add ice and blend again just before serving to maintain freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "Yes, you can! If using frozen berries, thaw them slightly to avoid a watery smoothie. Frozen berries can make the smoothie a bit thinner and less vibrant, but they’re a great option when fresh berries aren’t available."
+        },
+        {
+            "question": "What can I substitute for Greek yogurt?",
+            "answer": "You can use regular yogurt or a dairy-free alternative like coconut yogurt. Keep in mind that regular yogurt is thinner, so the smoothie may be less creamy. Coconut yogurt adds a subtle coconut flavor, which pairs well with berries."
+        },
+        {
+            "question": "Is it okay to omit the mint?",
+            "answer": "Yes, but you’ll miss the refreshing brightness it adds. If you don’t have mint, try adding a small squeeze of lemon or lime juice to brighten the flavor instead."
+        },
+        {
+            "question": "How do I make this smoothie sweeter without honey?",
+            "answer": "You can add ripe banana or a splash of pure maple syrup for natural sweetness. Adjust to taste after blending to avoid over-sweetening."
+        },
+        {
+            "question": "Can I prepare this smoothie the night before?",
+            "answer": "You can blend the base without ice and store it in the fridge overnight. Add ice and blend again before serving to keep it cold and fresh."
+        },
+        {
+            "question": "What if my blender isn’t powerful enough to crush ice?",
+            "answer": "Try chopping the ice into smaller pieces first or use crushed ice. You can also blend without ice and chill the smoothie in the fridge before drinking."
+        },
+        {
+            "question": "How many calories are in this smoothie?",
+            "answer": "Each serving has approximately 180 calories, depending on specific ingredient brands and quantities used."
+        },
+        {
+            "question": "Can I add protein powder to this smoothie?",
+            "answer": "Absolutely! Adding a scoop of your favorite protein powder makes it more filling and great for post-workout. Blend it with the other ingredients for the best texture."
+        }
+    ],
+    "conclusion": "Give this berry mint smoothie a try and enjoy a fresh, healthy start to your day. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "berry mint smoothie recipe",
+        "secondary_keywords": [
+            "healthy berry smoothie",
+            "how to make berry smoothie",
+            "best berry smoothie recipe",
+            "easy berry smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy smoothie bowl ideas",
+                "anchor": "healthy-smoothie-bowl-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_1.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_1.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_2.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_2.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_3.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_3.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_6.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_6.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_7.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_7.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_9.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_9.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_8.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_8.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_4.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_4.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_5.webp",
+            "filePath": "posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_5.webp",
+            "relativePath": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-blast-low-calorie-smoothie-for-healthy-mornings/images/berry-blast-low-calorie-smoothie-for-healthy-mornings_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776037408_429",
+    "slug": "berry-blast-low-calorie-smoothie-for-healthy-mornings",
+    "isOnline": true,
+    "createdAt": "2026-04-13T01:57:31+02:00",
+    "updatedAt": "2026-04-13T01:57:31+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "berry-blast-low-calorie-smoothie-for-healthy-mornings/images"
+}
