@@ -283,13 +283,57 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_7.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_7.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_8.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_8.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_6.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_6.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_5.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_5.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_9.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_9.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_4.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_4.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_LummyRecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "id": "post_1776123949_814",
     "slug": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost",
-    "isOnline": false,
-    "createdAt": "2026-04-14T01:45:49+02:00",
-    "updatedAt": "2026-04-14T01:45:49+02:00",
+    "isOnline": true,
+    "createdAt": "2026-04-15T01:51:58+02:00",
+    "updatedAt": "2026-04-15T01:51:58+02:00",
     "author_id": "author_001",
     "category_id": "cat_1761230422_512",
     "image_dir": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images"
