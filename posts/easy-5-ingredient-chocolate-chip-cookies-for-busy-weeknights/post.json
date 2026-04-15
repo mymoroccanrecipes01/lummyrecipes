@@ -1,0 +1,337 @@
+{
+    "title": "Classic Soft and Chewy Five-Ingredient Chocolate Chip Cookies",
+    "promptIMG": "Food photography: Soft and Chewy Chocolate Chip Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chocolate chip cookies are my quick go-to treat when I crave something sweet but don’t want to spend hours baking. With just five simple ingredients, they come out soft, chewy, and delicious every time. Perfect right after dinner or whenever you need a little comfort!",
+    "hashtags": "#chocolatechipcookies #easybaking #quickdessert",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Soft Chocolate Chip Cookies in Under 30 Minutes You’ll Love",
+            "description": "Craving a quick sweet fix? These soft chocolate chip cookies are ready fast and always turn out chewy and delicious. Save this recipe for your next cozy night in! 🍪❤️ #chocolatechipcookies #bakinglove #easyrecipes"
+        },
+        {
+            "title": "The Best Chewy Chocolate Chip Cookies Made With 5 Ingredients",
+            "description": "No fancy ingredients, no fuss—just chewy, soft chocolate chip cookies that hit the spot every time. Try making these today and discover your new favorite cookie recipe! 🍪✨ #cookieaddict #easybaking #homemadecookies"
+        },
+        {
+            "title": "Quick Homemade Chocolate Chip Cookies That Taste Like Magic",
+            "description": "Want cookies that are soft, chewy, and made with minimal effort? This five-ingredient recipe is your answer! Perfect for last-minute dessert cravings. Save it now and bake soon! 🍫🍪 #quickdessert #chocolatechipcookies #bakingtips"
+        },
+        {
+            "title": "Easy & Delicious Chocolate Chip Cookies From Scratch in Minutes",
+            "description": "Make these classic chocolate chip cookies with just five ingredients and enjoy a warm, chewy treat anytime. They’re simple, fast, and a family favorite! Try it today! 🍪🔥 #easycookies #homemadebaking #dessertideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 12,
+    "servings": 12,
+    "ingredients": [
+        "1 cup unsalted butter, softened",
+        "3/4 cup brown sugar, packed",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 cup semi-sweet chocolate chips"
+    ],
+    "yield": "About 12 cookies",
+    "introduction": "I first stumbled upon this simple chocolate chip cookie recipe when I needed a sweet treat but had zero time to fuss in the kitchen. What I love about these cookies is how few ingredients they require—just five! That’s it. No eggs, no baking soda, no complicated steps. The trick I learned was to use softened butter and brown sugar, which gives the cookies a wonderfully chewy texture and a rich caramel flavor. I’ve tried many chocolate chip cookie recipes over the years, but this one remains my favorite for busy days or last-minute cravings. The cookies bake up soft with slightly crisp edges—just how I like them. Plus, the chocolate chips melt into gooey pockets of yum in every bite. I think the simplicity is what makes it so satisfying; it’s pure comfort in cookie form. Whenever I make these, my family disappears into the kitchen like moths to a flame. Honestly, I’ve had a few batches turn out a bit flatter if I rushed the butter softening step, so patience there really pays off. These cookies are perfect for an after-dinner treat or a quick snack anytime you want something sweet without the fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by creaming the softened butter and brown sugar together in a large bowl using a hand mixer or stand mixer. This step is crucial because creaming incorporates air into the mixture, which helps create a tender, chewy texture in the final cookies. Beat them together until the mixture looks light and fluffy, about 2-3 minutes. If you don’t cream long enough, the cookies may turn out dense and flat. Avoid using melted butter here, as it won’t trap air and will affect the cookie’s texture.",
+            "timing": 3,
+            "doneness_cue": "Mixture looks pale, smooth, and fluffy"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the vanilla extract to the butter and sugar mixture, then gradually mix in the all-purpose flour. Don’t overmix once you add the flour; stir just until combined to avoid developing too much gluten, which can make cookies tough. The dough will be thick and slightly sticky. If you rush adding the flour or mix too vigorously, you risk a dense cookie instead of a soft one. Use a spatula or wooden spoon to gently fold in the flour.",
+            "timing": 4,
+            "doneness_cue": "Dough comes together in a thick, slightly sticky ball"
+        },
+        {
+            "step": 3,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough using a spatula. This ensures every cookie has delicious pockets of melted chocolate without overmixing the dough, which can toughen it. Make sure not to add too many chips—stick to the recipe’s amount for the perfect balance of dough and chocolate. Overcrowding the dough with chips can cause cookies to spread unevenly during baking.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips are evenly distributed throughout the dough"
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper or a silicone baking mat. This prevents sticking and helps cookies bake evenly. Using a cookie scoop or spoon, drop dough balls about 2 inches apart on the prepared sheet. Spacing is important because the cookies will spread as they bake. Crowding the pan can cause them to merge into one large cookie.",
+            "timing": 5,
+            "doneness_cue": "Dough balls are spaced evenly and look neat on the baking sheet"
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the cookies in the preheated oven for 10-12 minutes. Keep a close eye starting at 10 minutes—the edges should look set and lightly golden while the centers remain soft. This timing is key to getting that chewy texture. If you bake too long, the cookies will dry out and become crunchy. Remove the cookies when the centers still look slightly underbaked; they’ll continue to cook on the hot baking sheet after coming out of the oven.",
+            "timing": 12,
+            "doneness_cue": "Edges are golden, centers look soft but not raw"
+        },
+        {
+            "step": 6,
+            "instruction": "Let the cookies cool on the baking sheet for at least 5 minutes before transferring them to a wire rack. Cooling on the sheet allows the cookies to firm up and finish baking gently. Moving them too soon can cause them to fall apart, while waiting too long can make them stick. After transferring, let them cool completely or enjoy warm for the best gooey texture.",
+            "timing": 10,
+            "doneness_cue": "Cookies hold shape when gently lifted and feel set but soft"
+        },
+        {
+            "step": 7,
+            "instruction": "If you prefer thicker cookies, chill the dough for 30 minutes before baking. This step firms up the butter, slowing spread and helping the cookies keep a nice shape. Skipping chilling may result in flatter, thinner cookies. Chilling also lets the flavors meld, adding depth. Just remember to adjust baking time slightly if baking from chilled dough, adding 1-2 minutes.",
+            "timing": 30,
+            "doneness_cue": "Dough feels firm and cool to the touch before baking"
+        },
+        {
+            "step": 8,
+            "instruction": "For extra flavor, sprinkle a tiny pinch of flaky sea salt on top of each cookie dough ball before baking. The salt enhances the sweetness and chocolate flavor, giving a subtle contrast that makes the cookies taste more complex and bakery-like. Don’t overdo it; just a light sprinkle is enough. This little touch can elevate your cookies from good to unforgettable.",
+            "timing": 1,
+            "doneness_cue": "Light shimmer of salt crystals visible on dough surface"
+        },
+        {
+            "step": 9,
+            "instruction": "Store cooled cookies in an airtight container at room temperature. To keep them soft, add a slice of bread inside the container; the cookies absorb moisture from the bread and stay chewy longer. Avoid refrigerating unless necessary, as cold air can dry them out quickly. If you need to reheat, warm in the microwave for 10-15 seconds to revive softness.",
+            "timing": 2,
+            "doneness_cue": "Cookies remain soft and chewy after storage"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Simple Cookie Recipe Works So Well",
+        "content": "<p>This recipe’s success hinges on a few key factors that create the perfect balance of softness, chewiness, and flavor. First, the creaming of softened butter with brown sugar is essential. Creaming traps tiny air bubbles in the fat, which expand during baking and give the cookie a tender crumb. Brown sugar adds moisture and a subtle caramel note thanks to its molasses content, which also helps keep the cookies soft.</p><p>Next, using all-purpose flour without additional leavening agents results in a cookie that spreads just enough without puffing up too much. The flour provides structure, but by avoiding baking soda or powder, the cookies remain dense and chewy rather than cakey. Gently folding in the flour and chocolate chips prevents overworking the dough, which can develop gluten and make cookies tough.</p><p>The baking temperature and time are carefully chosen to set the edges while leaving the centers slightly underbaked. This technique leverages residual heat after removing the cookies from the oven to finish cooking, keeping the centers soft and gooey. Adding a pinch of flaky sea salt just before baking enhances the chocolate flavor and balances the sweetness, making the cookie taste more complex and bakery-quality.</p><p>Finally, the optional chilling step firms up the butter, slowing spread and allowing the dough to develop deeper flavor. This step is great if you want thicker, more substantial cookies. Overall, the recipe’s simplicity and attention to ingredient interactions make it a reliable and delicious classic.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Use high-quality unsalted butter that’s just softened, not melted. Softened butter creams better with sugar, trapping air that helps create a tender cookie texture. Avoid melted or cold butter here, as melted butter leads to flat cookies, while cold butter won’t cream properly. Unsalted butter lets you control the salt level precisely, which is important for balancing sweetness.",
+            "brown sugar": "Packed brown sugar adds moisture and a rich, caramel-like flavor due to its molasses content. It helps keep the cookies chewy and soft even after baking. Light or dark brown sugar can be used, but dark will produce a more intense flavor. Make sure to pack the sugar firmly when measuring for consistent sweetness and texture.",
+            "vanilla extract": "Pure vanilla extract enhances the cookie’s flavor with warm, sweet notes that complement the chocolate. Avoid imitation vanilla, which can taste artificial. Adding vanilla at the creaming stage helps distribute the flavor evenly throughout the dough, making every bite taste balanced.",
+            "all-purpose flour": "Regular all-purpose flour provides the right balance of protein to create structure without making the cookies tough. Avoid using bread flour or cake flour, as bread flour’s higher protein can make cookies chewy but dense, while cake flour may yield overly soft, crumbly cookies. Sift the flour if it’s lumpy to ensure even mixing.",
+            "semi-sweet chocolate chips": "Choose good-quality semi-sweet chocolate chips that melt well but hold shape during baking. These provide the classic chocolate burst in every bite. Avoid overly cheap chips that can be waxy or flavorless. For variation, you can use chunks or a mix of bittersweet and milk chocolate, but keep the quantity consistent to maintain dough balance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always soften butter to room temperature before creaming.",
+            "reason": "Softened butter traps air bubbles when creamed with sugar, creating a lighter dough that bakes into tender, chewy cookies. Using cold butter won’t incorporate enough air, resulting in dense cookies, while melted butter causes excessive spreading and thin cookies."
+        },
+        {
+            "tip": "Don’t overmix the dough after adding flour.",
+            "reason": "Overworking the dough develops gluten strands, which can make cookies tough and chewy in an unpleasant way. Mixing just until flour is incorporated keeps the texture soft and tender, preventing a dense or rubbery bite."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking.",
+            "reason": "These liners prevent sticking and promote even baking. Baking directly on metal sheets can cause uneven heat distribution, leading to burnt bottoms or uneven cookie spread. They also make cleanup easier and cookies slide off effortlessly."
+        },
+        {
+            "tip": "Add a pinch of flaky sea salt on top before baking.",
+            "reason": "The salt enhances the chocolate’s sweetness and adds a subtle contrast that makes the flavor pop. It also mimics bakery-style cookies, giving a sophisticated edge to a simple recipe without overpowering sweetness."
+        },
+        {
+            "tip": "Chill the dough before baking for thicker cookies.",
+            "reason": "Chilling firms the butter, slowing dough spread during baking. This produces thicker, chewier cookies with more developed flavor as the dough rests. Baking from chilled dough may require an extra minute or two of baking time."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform cookie sizes.",
+            "reason": "Consistent-sized cookies bake evenly, preventing some from burning while others remain undercooked. It also makes portioning easier and your cookies look more professional and uniform."
+        },
+        {
+            "tip": "Cool cookies on the baking sheet before transferring.",
+            "reason": "Letting cookies cool on the hot pan allows them to set and finish cooking gently. Moving them too soon can cause breakage, while waiting too long can make them stick. This step ensures they hold their shape and texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using melted butter instead of softened butter",
+            "why_it_happens": "People often melt butter thinking it will mix easier or speed up the process, but this changes the dough’s texture drastically.",
+            "fix": "Always use butter softened to room temperature, about 65-70°F (18-21°C). If you accidentally melt it, chill the butter until it firms up slightly before creaming. This ensures proper aeration and prevents cookies from spreading too much and becoming thin and crispy."
+        },
+        {
+            "mistake": "Overmixing after adding flour",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but overmixing develops gluten, toughening the cookies.",
+            "fix": "Mix flour in gently and only until just combined. Stop as soon as you don’t see dry flour. Folding with a spatula rather than beating helps prevent overworking the dough."
+        },
+        {
+            "mistake": "Not spacing cookies properly on the baking sheet",
+            "why_it_happens": "Some assume cookies won’t spread much and put them too close together.",
+            "fix": "Space dough balls at least 2 inches apart to allow for spreading. Crowding causes cookies to merge into one large cookie, ruining texture and appearance."
+        },
+        {
+            "mistake": "Baking too long for desired softness",
+            "why_it_happens": "Waiting for cookies to look fully set can lead to overbaking and dry, crunchy results.",
+            "fix": "Remove cookies when edges are golden but centers still look soft and slightly underbaked. They firm up as they cool, preserving chewiness."
+        },
+        {
+            "mistake": "Skipping the chilling step when thicker cookies are desired",
+            "why_it_happens": "Impatience or lack of planning leads to skipping chilling, resulting in thin cookies.",
+            "fix": "Chill dough for at least 30 minutes before baking if you want thicker, chewier cookies. This step slows butter melting and dough spread."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add chopped nuts",
+            "description": "Stir in 1/2 cup chopped walnuts or pecans with the chocolate chips for a crunchy texture and nutty flavor that balances the sweetness. The nuts add a lovely contrast and make the cookies feel more substantial.",
+            "technical_note": "Fold nuts in gently with chocolate chips to maintain dough texture. Baking time remains the same."
+        },
+        {
+            "name": "Use white chocolate chips and dried cranberries",
+            "description": "Swap semi-sweet chips for white chocolate and add 1/2 cup dried cranberries for a sweet-tart twist. This variation brightens the flavor and adds a festive touch perfect for holidays.",
+            "technical_note": "Dried cranberries add moisture; dough may be slightly stickier. Bake as usual but monitor for doneness."
+        },
+        {
+            "name": "Make vegan with coconut oil and flax egg",
+            "description": "Replace butter with solid coconut oil and substitute one egg with a flaxseed egg (1 tbsp ground flaxseed + 3 tbsp water). This makes the cookies dairy- and egg-free while keeping them soft and chewy.",
+            "technical_note": "Coconut oil changes texture slightly, producing a more tender cookie. Chilling dough is recommended for best shape."
+        },
+        {
+            "name": "Add a pinch of cinnamon",
+            "description": "Mix 1/2 teaspoon ground cinnamon into the flour for a warm, cozy flavor that enhances the chocolate. It’s subtle but adds a lovely depth especially in cooler months.",
+            "technical_note": "Cinnamon blends easily; no changes to baking time needed."
+        },
+        {
+            "name": "Use dark chocolate chunks instead of chips",
+            "description": "Swap chips for roughly chopped dark chocolate bars. This creates larger, melty pockets of chocolate and a richer taste.",
+            "technical_note": "Chunks melt differently, so watch cookies closely to avoid burning the chocolate."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "11g",
+        "fiber_grams": "1g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to avoid melting chocolate chips. Adding a slice of fresh bread inside the container helps maintain softness by adding moisture.",
+        "refrigerator": "Cookies can be refrigerated in an airtight container for up to 7 days. Refrigeration may cause them to harden slightly, so warm briefly in the microwave for 10-15 seconds before serving to restore softness.",
+        "freezer": "Freeze cookies in an airtight container or freezer bag for up to 3 months. Wrap individually in plastic wrap to prevent freezer burn. Thaw at room temperature for about 30 minutes before eating. Reheat briefly in the microwave if desired.",
+        "reheating": "Warm cookies in the microwave for 10-15 seconds or in a preheated 300°F oven for 5 minutes to bring back softness. Avoid overheating as that can dry them out. Adding a small pat of butter before reheating can add extra moisture.",
+        "make_ahead_strategy": "Prepare the dough up to 2 days in advance and store tightly wrapped in the fridge. When ready to bake, scoop dough balls and bake as directed. This resting time enhances flavor and texture, making for even better cookies."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute white sugar for brown sugar?",
+            "answer": "You can, but it will change the texture and flavor. Brown sugar adds moisture and a slight caramel taste, making cookies chewier and richer. Using white sugar alone tends to produce crisper, less flavorful cookies. If substituting, try half brown and half white sugar to balance texture and sweetness."
+        },
+        {
+            "question": "Why did my cookies turn out flat and greasy?",
+            "answer": "This often happens if the butter was melted or too warm when mixed, causing excessive spreading. Also, too much sugar or insufficient flour can cause flat cookies. Make sure to use softened (not melted) butter and measure ingredients accurately. Chilling dough before baking can help prevent spreading."
+        },
+        {
+            "question": "Can I use gluten-free flour for this recipe?",
+            "answer": "Yes, but results may vary depending on the blend. Use a 1:1 gluten-free all-purpose flour that includes xanthan gum for best texture. The cookies may be slightly more crumbly or less chewy, so adjust baking time carefully and watch for doneness."
+        },
+        {
+            "question": "Why are my cookies dry and crumbly?",
+            "answer": "Overbaking is the most common cause. Cookies dry out if baked too long or at too high a temperature. Also, using too much flour or not enough brown sugar can make them dry. Follow the recipe timing closely and remove cookies when centers look slightly underbaked."
+        },
+        {
+            "question": "Can I add nuts or other mix-ins?",
+            "answer": "Absolutely! Chopped nuts, dried fruit, or different types of chocolate all work well. Just keep the total mix-ins to about 1 cup to maintain dough balance. Add them at the final mixing step and fold gently to avoid overworking the dough."
+        },
+        {
+            "question": "How do I store leftover cookies to keep them fresh?",
+            "answer": "Store cooled cookies in an airtight container at room temperature for up to 3 days. Adding a slice of bread helps keep them soft. For longer storage, freeze cookies wrapped tightly and thaw before eating. Avoid refrigerating if possible, as it can dry cookies out."
+        },
+        {
+            "question": "Can I make these cookies vegan?",
+            "answer": "Yes! Replace butter with solid coconut oil and use a flax egg (1 tbsp ground flaxseed mixed with 3 tbsp water) instead of eggs. This keeps the texture soft and chewy. You may want to chill the dough before baking to prevent spreading."
+        },
+        {
+            "question": "Why do some cookies spread more than others?",
+            "answer": "Butter temperature, dough chilling, and ingredient ratios all affect spreading. Warm or melted butter causes more spread, while chilled dough spreads less. Also, too little flour or too much sugar can cause excessive spreading. Follow the recipe closely and chill dough if you want thicker cookies."
+        }
+    ],
+    "conclusion": "I hope you give these simple chocolate chip cookies a try—they’re truly a no-fail favorite in my kitchen. Share how they turn out; I’d love to hear your tweaks and stories!",
+    "seo": {
+        "primary_keyword": "five ingredient chocolate chip cookies",
+        "secondary_keywords": [
+            "easy chocolate chip cookie recipe",
+            "soft chewy chocolate chip cookies",
+            "how to make chocolate chip cookies",
+            "best chocolate chip cookie recipe",
+            "quick chocolate chip cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make perfect chocolate chip cookies",
+                "anchor": "perfect-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_7.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_9.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_8.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_5.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_6.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_4.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776264485_254",
+    "slug": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-04-15T17:05:34+02:00",
+    "updatedAt": "2026-04-15T17:05:34+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images"
+}
