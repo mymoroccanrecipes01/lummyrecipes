@@ -1,0 +1,337 @@
+{
+    "title": "Simple 5-Ingredient Chocolate Fudge Cake That Melts in Your Mouth",
+    "promptIMG": "Food photography: chocolate fudge cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate fudge cake is pure comfort with minimal fuss—just five ingredients and under an hour to a deeply fudgy, moist treat. I love it for quick celebrations or when you need a chocolate fix ASAP!",
+    "hashtags": "#chocolatecake #fudgecake #easybaking",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Melt-In-Your-Mouth 5-Ingredient Fudge Cake Recipe",
+            "description": "Craving chocolate? This fudgy cake comes together in under an hour with just five simple ingredients. Perfect for beginners or last-minute treats. Save this recipe and indulge tonight! 🍫🎂 #fudgecake #easyrecipe #chocolatelover"
+        },
+        {
+            "title": "Quick & Moist Chocolate Fudge Cake for Busy Bakers",
+            "description": "No fancy ingredients, no stress—just a rich, moist chocolate cake ready in 45 minutes. This recipe is a total game-changer for busy days. Try it today and enjoy every bite! 🍰✨ #easybaking #chocolatefix #desserttime"
+        },
+        {
+            "title": "5 Ingredients, 45 Minutes: Irresistible Fudge Cake",
+            "description": "I love how this simple cake tastes like a decadent bakery treat! With just five ingredients, you can whip it up fast and impress everyone. Discover the secret to fudgy perfection—try it now! 🍫❤️ #chocolatecake #quickdessert #yum"
+        },
+        {
+            "title": "Beginner-Friendly Chocolate Fudge Cake You’ll Adore",
+            "description": "If you’re new to baking, this fudge cake is your best friend. Easy steps, minimal ingredients, and a rich chocolatey finish that’s hard to resist. Save this recipe and bake your first masterpiece today! 🎉🍫 #bakingmadeeasy #fudgecake #chocolate"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup unsalted butter, melted and slightly cooled",
+        "1 cup granulated sugar",
+        "3/4 cup unsweetened cocoa powder",
+        "3 large eggs",
+        "1 cup all-purpose flour"
+    ],
+    "yield": "One 8-inch round cake, 8 servings",
+    "introduction": "I first made this chocolate fudge cake on a lazy Sunday when I had zero time but a serious chocolate craving. What I love about this recipe is how it nails that rich, fudgy texture with just five ingredients and no complicated steps. It’s perfect for when you want something indulgent but don’t want to fuss over a dozen ingredients or techniques. The trick I learned is melting the butter first and mixing it with cocoa and sugar before adding eggs and flour—this gives the cake its dense, moist crumb without any dryness. I’ve tried more complex fudge cakes before, but this one always wins in my book because it’s so straightforward yet delicious. When it’s done, you get this deep chocolate flavor with a slightly gooey center that feels like a hug in cake form. It’s great for casual family dinners or when friends drop by unexpectedly. Honestly, it’s become my go-to when I want something quick but still impressive. Just grab your ingredients, and you’re set for a chocolatey treat that everyone will ask for again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8-inch round cake pan with butter or line it with parchment paper. This step is crucial because a properly greased pan prevents sticking and helps the cake release cleanly once baked. If you skip this, you might end up tearing your cake when removing it, which is frustrating especially for a fudgy cake that’s delicate on the edges.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased with no dry spots or pooling butter"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, combine the melted butter, granulated sugar, and unsweetened cocoa powder. Whisk them together thoroughly until the mixture is smooth and glossy. This step is important because mixing the cocoa with the fat and sugar first helps distribute the cocoa evenly, which results in a richer chocolate flavor and smoother texture in the final cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks homogenous and shiny with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the eggs one at a time to the chocolate mixture, whisking well after each addition. Incorporating eggs slowly helps create a stable batter that traps air, which contributes to the cake’s tender crumb. If you rush adding eggs, the batter might separate or become grainy, affecting the final texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth, slightly thickened, and uniform in color"
+        },
+        {
+            "step": 4,
+            "instruction": "Sift the all-purpose flour over the wet ingredients and gently fold it in using a spatula. Folding rather than stirring vigorously prevents overworking the gluten in the flour, which would make the cake tough instead of fudgy. Be gentle here—you want the flour just incorporated.",
+            "timing": "3 minutes",
+            "doneness_cue": "No visible streaks of flour remain, batter is thick but smooth"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into your prepared pan and smooth the top with a spatula. Tap the pan lightly on the counter to release any air bubbles trapped inside. This helps the cake bake evenly and prevents holes or cracks on the surface.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter surface is even and free of bubbles"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick into the center; it should come out with a few moist crumbs but not wet batter. Baking too long will dry out the cake, so watch carefully. The edges will look set and slightly pulling away from the pan when it’s done.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Toothpick test passes with moist crumbs, edges slightly pulling from pan"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cake from the oven and let it cool in the pan for 10-15 minutes. Cooling slightly helps the cake set and makes it easier to remove from the pan without breaking. Don’t rush this step—if you try to unmold too early, the cake might crumble.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake feels firm to the touch around edges but still soft in center"
+        },
+        {
+            "step": 8,
+            "instruction": "Run a knife around the edges to loosen the cake, then invert it onto a cooling rack or serving plate. This technique prevents the cake from sticking and keeps its fudgy texture intact. If it resists, let it cool a bit longer before trying again.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cake releases cleanly with no tearing"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm or at room temperature. This cake is fantastic on its own, but you can add a scoop of vanilla ice cream or a dusting of powdered sugar for an extra touch. Enjoy immediately for the best fudgy texture, or store leftovers properly to keep it moist.",
+            "timing": "0 minutes",
+            "doneness_cue": "Cake is moist, fudgy, and rich in flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Chocolate Fudge Cake",
+        "content": "<p>This chocolate fudge cake succeeds because of the delicate balance between fat, sugar, and flour, combined with precise mixing techniques. Melting the butter first allows it to act as a binder that envelops the cocoa powder and sugar, creating a smooth, shiny batter. This fat distribution is key to the moist, dense crumb that sets fudge cakes apart from lighter chocolate cakes.</p><p>Adding eggs one at a time and whisking thoroughly incorporates air gently, which helps the cake rise just enough without becoming cakey or crumbly. Eggs also provide structure through coagulation proteins when heated, but the low flour content keeps it tender and fudgy rather than chewy.</p><p>The folding technique when adding flour is crucial. Overmixing develops gluten, which makes cakes tough and less tender. By folding gently, we ensure the flour is just combined, preserving the soft, moist texture. Baking times are short to prevent drying out but long enough for Maillard reactions to develop that deep, complex chocolate flavor and rich brown crust.</p><p>Finally, letting the cake rest before removing it from the pan allows the crumb to set, reducing the risk of breaking. All these factors work together to create a simple yet luxurious chocolate fudge cake that’s easy to make and reliably delicious.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for the best flavor and control over salt levels in your cake. Butter provides richness and moisture, helping create that fudgy texture. Melt it gently to avoid overheating, which can alter the fat’s structure and affect batter consistency. If substituting with margarine or oil, expect a different texture and flavor.",
+            "granulated sugar": "Regular granulated sugar is perfect here because it dissolves well in the melted butter, helping create a smooth batter. Sugar not only sweetens but also tenderizes the cake by interfering with gluten formation. Avoid coarse sugars or substitutes that don’t dissolve easily, as they can lead to grainy textures.",
+            "unsweetened cocoa powder": "Use good-quality unsweetened cocoa powder with a deep chocolate flavor. Dutch-processed cocoa can be used but may alter the cake’s acidity and rise slightly. Cocoa powder provides the intense chocolate taste and contributes to the dark color and fudgy texture. Store cocoa in a cool, dry place to preserve freshness.",
+            "eggs": "Fresh large eggs provide structure and moisture. They help emulsify fat and liquid ingredients, creating a uniform batter. Using cold eggs can cause the batter to seize or become lumpy, so room temperature eggs are best. If you must use smaller eggs, adjust quantities accordingly to maintain balance.",
+            "all-purpose flour": "All-purpose flour is the right choice here because it has enough protein to provide structure without making the cake tough. Avoid using cake flour, which is too low in protein and can make the cake crumbly, or bread flour, which can make it chewy. Sifting flour before adding ensures no lumps and better incorporation."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for a smoother batter.",
+            "reason": "Cold eggs can cause the melted butter and sugar mixture to seize or curdle, making it harder to mix smoothly. Room temperature eggs blend more evenly, resulting in a consistent batter that bakes into a tender cake."
+        },
+        {
+            "tip": "Don’t overmix after adding flour.",
+            "reason": "Overmixing develops gluten in the flour, which toughens the cake and ruins the fudgy texture. Fold gently just until no flour streaks remain to keep the crumb soft and moist."
+        },
+        {
+            "tip": "Line your pan with parchment paper for easy release.",
+            "reason": "Even with greasing, fudgy cakes can stick because of their moist texture. Parchment prevents sticking and ensures your cake comes out cleanly without breaking or tearing."
+        },
+        {
+            "tip": "Check the cake early when baking.",
+            "reason": "Ovens vary, and baking too long dries out fudge cakes. Start testing for doneness a few minutes before the timer ends to keep it moist and gooey inside."
+        },
+        {
+            "tip": "Let the cake cool before slicing.",
+            "reason": "Cutting too soon can cause the cake to crumble because the structure hasn’t set yet. Cooling helps it firm up, making clean slices easier."
+        },
+        {
+            "tip": "Use unsweetened cocoa powder for intense chocolate flavor.",
+            "reason": "Sweetened or low-quality cocoa powders can alter the taste and texture. Unsweetened cocoa gives a rich, deep flavor essential for this fudge cake."
+        },
+        {
+            "tip": "Tap the pan after pouring batter to remove air bubbles.",
+            "reason": "Air pockets can cause holes or uneven baking. Tapping helps settle the batter for a smoother, even crumb."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the cake",
+            "why_it_happens": "Many bakers leave the cake in too long thinking it’ll improve texture, but fudge cakes dry out quickly.",
+            "fix": "Start checking with a toothpick at 25 minutes and remove as soon as it comes out with moist crumbs. This keeps the cake moist and fudgy."
+        },
+        {
+            "mistake": "Using cold eggs",
+            "why_it_happens": "It’s easy to forget to prep ingredients, and cold eggs don’t mix well with melted butter.",
+            "fix": "Always use room temperature eggs to ensure smooth batter and proper emulsification, leading to better cake texture."
+        },
+        {
+            "mistake": "Overmixing after adding flour",
+            "why_it_happens": "Inexperienced cooks think mixing more will make batter smoother, but it activates gluten.",
+            "fix": "Fold the flour gently just until combined to avoid toughness and keep the cake tender."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "Skipping or rushing this step can cause sticking.",
+            "fix": "Grease the pan evenly or use parchment paper to ensure the cake releases cleanly."
+        },
+        {
+            "mistake": "Using the wrong cocoa powder",
+            "why_it_happens": "Substituting with low-quality or sweetened cocoa can affect flavor and texture.",
+            "fix": "Stick to good-quality unsweetened cocoa powder for deep chocolate taste and proper batter consistency."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Chocolate Fudge Cake",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter before baking for a crunchy texture contrast. Nuts add a lovely earthy flavor that complements the rich chocolate and make the cake feel more special.",
+            "technical_note": "Gently fold nuts in last to avoid overmixing flour. Baking time remains the same."
+        },
+        {
+            "name": "Espresso-Infused Fudge Cake",
+            "description": "Stir 1 tablespoon of instant espresso powder into the melted butter and cocoa mixture. The espresso enhances the chocolate depth without making the cake taste like coffee, giving it a subtle, grown-up flavor.",
+            "technical_note": "Ensure espresso powder is fully dissolved to avoid graininess."
+        },
+        {
+            "name": "Gluten-Free Fudge Cake",
+            "description": "Replace all-purpose flour with a gluten-free flour blend in equal amounts. This keeps the fudgy texture while making the cake suitable for gluten-sensitive eaters. Expect a slightly different crumb but still very satisfying.",
+            "technical_note": "Use a blend with xanthan gum for best structure."
+        },
+        {
+            "name": "Vegan Chocolate Fudge Cake",
+            "description": "Swap eggs for flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use a plant-based butter. This version is a bit denser but still fudgy and rich, perfect for vegan diets.",
+            "technical_note": "Allow flax eggs to thicken before adding and watch baking time closely."
+        },
+        {
+            "name": "Spicy Chocolate Fudge Cake",
+            "description": "Add 1/4 teaspoon cayenne pepper and 1/2 teaspoon cinnamon to the cocoa mixture for a warm, spicy kick. It’s unexpected but adds complexity and pairs beautifully with chocolate’s richness.",
+            "technical_note": "Mix spices thoroughly to avoid clumps."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the cake covered at room temperature for up to 2 days. Make sure it’s in an airtight container or wrapped tightly with plastic wrap to prevent it from drying out.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 5 days. The cake may firm up and become denser when cold, so bring it to room temperature or warm slightly before serving to restore softness.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw overnight in the fridge and then bring to room temperature before serving. Avoid refreezing.",
+        "reheating": "Warm slices gently in the microwave for 10-15 seconds or in a low oven (300°F) for 5-7 minutes. Add a small splash of milk or water if it seems dry. Avoid overheating as it can dry out the cake.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead, cover it tightly, and refrigerate. Bring to room temperature before baking. Alternatively, bake the cake a day early and store covered at room temp or refrigerated; warm before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use cocoa powder substitutes like hot chocolate mix?",
+            "answer": "Hot chocolate mix usually contains sugar and milk powder, which can alter the flavor and texture of the cake. It’s best to use pure unsweetened cocoa powder for the rich chocolate taste and proper consistency."
+        },
+        {
+            "question": "What if I don’t have an 8-inch pan?",
+            "answer": "You can use a 9-inch pan, but the cake will be thinner and bake faster, so check for doneness around 20 minutes. For smaller pans, the cake will be thicker and may need extra baking time."
+        },
+        {
+            "question": "How do I know when the cake is done without a toothpick?",
+            "answer": "Look for edges pulling slightly away from the pan and the center looking set but still moist. The top should be firm to the touch but not dry or cracked."
+        },
+        {
+            "question": "Can I make this cake dairy-free?",
+            "answer": "Yes, substitute butter with a plant-based margarine or coconut oil. The texture might be slightly different but still delicious and fudgy."
+        },
+        {
+            "question": "Why is my cake dry even though I followed the recipe?",
+            "answer": "Overbaking is the most common cause. Ovens vary, so start checking at 25 minutes and remove the cake as soon as a toothpick has moist crumbs. Also, avoid overmixing flour to prevent toughness."
+        },
+        {
+            "question": "Can I add frosting to this cake?",
+            "answer": "Absolutely! A simple chocolate ganache or cream cheese frosting complements the fudge cake beautifully. Just make sure the cake is completely cooled before frosting to avoid melting."
+        },
+        {
+            "question": "Is it okay to use salted butter?",
+            "answer": "You can use salted butter, but reduce any added salt in the recipe (if any) to avoid oversalting. Unsalted butter gives you better control over flavor."
+        },
+        {
+            "question": "How do I store leftover cake?",
+            "answer": "Store leftovers in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months."
+        }
+    ],
+    "conclusion": "I hope you try this easy chocolate fudge cake soon—it’s a simple way to satisfy your chocolate cravings with minimal effort. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "easy chocolate fudge cake",
+        "secondary_keywords": [
+            "simple chocolate cake",
+            "moist fudge cake recipe",
+            "how to make fudge cake",
+            "best chocolate fudge cake recipe",
+            "easy fudge cake"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_1.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_2.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_3.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_4.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_4.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_9.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_9.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_8.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_8.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_7.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_7.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_5.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_5.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_6.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_6.webp",
+            "relativePath": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images/quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776640658_322",
+    "slug": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners",
+    "isOnline": true,
+    "createdAt": "2026-04-20T01:55:40+02:00",
+    "updatedAt": "2026-04-20T01:55:40+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "quick-5-ingredient-chocolate-fudge-cake-recipe-for-beginners/images"
+}

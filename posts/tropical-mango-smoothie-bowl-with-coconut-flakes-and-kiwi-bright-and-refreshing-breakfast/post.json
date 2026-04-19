@@ -1,0 +1,340 @@
+{
+    "title": "Tropical Mango Smoothie Bowl with Coconut & Kiwi - Fresh & Easy",
+    "promptIMG": "Food photography: Tropical Mango Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This mango smoothie bowl is like sunshine in a bowl! Creamy, tropical mango blends with crunchy coconut flakes and tangy kiwi for a refreshing start. Perfect for busy mornings or a light afternoon boost.",
+    "hashtags": "#mangosmoothiebowl #tropicalbreakfast #healthysnack",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Morning with This Tropical Mango Smoothie Bowl!",
+            "description": "Start your day with a burst of tropical flavors 🌞🥭! This mango smoothie bowl is creamy, fresh, and topped with coconut and kiwi for the perfect crunch. Save this recipe and try it today! #smoothiebowl #tropicalrecipes #healthybreakfast"
+        },
+        {
+            "title": "Easy Mango Smoothie Bowl Recipe for Busy Mornings",
+            "description": "Looking for a quick, healthy breakfast? This mango smoothie bowl takes just minutes and tastes like a tropical getaway. 🥥🍈 Discover the secret to creamy texture and fresh toppings. Save & enjoy! #easybreakfast #mangosmoothie #quickrecipes"
+        },
+        {
+            "title": "Refresh Your Snack Game with This Mango Smoothie Bowl!",
+            "description": "Need a light, energizing snack? This mango smoothie bowl with coconut flakes and kiwi is just the ticket! Perfect for any time of day. Try it now and share your favorites! 🥭✨ #healthysnack #smoothiebowls #fruitlover"
+        },
+        {
+            "title": "Creamy Mango Smoothie Bowl with Fresh Kiwi & Coconut Toppings",
+            "description": "Dive into tropical goodness with this creamy mango smoothie bowl topped with crunchy coconut and zesty kiwi. A perfect blend of textures and flavors that’s both healthy and delicious. Save this vibrant recipe! 🥥🥝 #breakfastbowl #tropicalfruit #healthyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 1/2 cups frozen mango chunks",
+        "1/2 cup Greek yogurt, plain and cold",
+        "1/4 cup coconut milk",
+        "1 tablespoon honey or maple syrup (optional)",
+        "1 kiwi, peeled and sliced",
+        "2 tablespoons unsweetened coconut flakes",
+        "1 tablespoon chia seeds (optional)",
+        "Fresh mint leaves for garnish (optional)"
+    ],
+    "yield": "2 smoothie bowls",
+    "introduction": "I first tried this tropical mango smoothie bowl on a trip to a sunny beach town, and it instantly became my go-to for a fresh, energizing breakfast. It’s not your average smoothie bowl—the creamy mango base blends beautifully with coconut milk for a silky texture, while the crunchy coconut flakes and tangy kiwi slices add a fun contrast. I love how easy it is to whip up in under 10 minutes, making it perfect for rushed mornings or even a light afternoon snack. The trick I learned is to use frozen mango chunks straight from the freezer, which creates that thick, spoonable texture without needing ice. Plus, blending in a bit of Greek yogurt adds protein and creaminess without overpowering the tropical flavors. This bowl feels like a mini vacation in every bite, bright and refreshing with just enough sweetness. It's light but satisfying, so it keeps me going without feeling heavy. If you’re craving something healthy, colorful, and quick, this recipe is a winner every time. I’ve made it countless times, and it’s always a crowd-pleaser in my family, especially when we’re after something fresh and wholesome.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by adding the frozen mango chunks, Greek yogurt, and coconut milk to your blender. Using frozen mango is key to getting that thick, creamy texture that feels indulgent but is still healthy. Blend on high until smooth, scraping down the sides if needed. Avoid adding too much coconut milk at once; you want a thick consistency that you can eat with a spoon, not a drinkable smoothie. If it's too thick, add a splash more coconut milk gradually.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Smooth, creamy texture with no large chunks; thick enough to hold shape in a bowl"
+        },
+        {
+            "step": 2,
+            "instruction": "Taste the mango base and add honey or maple syrup if you want extra sweetness. Blend again briefly to combine. This step lets you adjust sweetness to your liking since mangoes can vary in natural sugar. Be careful not to oversweeten because the toppings add natural tartness and crunch that balance the flavors.",
+            "timing": "1 minute",
+            "doneness_cue": "Sweetness balanced but not overpowering; smooth and creamy base"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the mango mixture into bowls, spreading evenly. This sets the stage for your toppings, so smooth it out nicely with the back of a spoon. Presentation matters here—make it inviting and colorful to boost that tropical vibe.",
+            "timing": "1 minute",
+            "doneness_cue": "Smooth surface with slight thickness, ready for toppings"
+        },
+        {
+            "step": 4,
+            "instruction": "Slice the kiwi thinly and arrange over the smoothie base. The tangy, juicy kiwi adds a bright flavor contrast and a pop of green color. You can fan the slices or scatter them casually for a more natural look. Fresh kiwi is best here for that zingy freshness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly distributed kiwi slices with vibrant green color"
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the coconut flakes over the top. Toasted coconut flakes add a lovely crunch and deepen the flavor with a hint of nuttiness. You can toast them lightly in a dry pan for a minute or two until golden and fragrant, but plain flakes work fine too. This step adds texture contrast, which is essential for a satisfying bowl.",
+            "timing": "2 minutes",
+            "doneness_cue": "Coconut flakes evenly scattered and slightly crisp"
+        },
+        {
+            "step": 6,
+            "instruction": "Optional: sprinkle chia seeds over the bowl for an extra boost of fiber and omega-3s. They add a subtle crunch and a bit of nutritional punch without altering the flavor much. If you prefer, you can soak chia seeds in water beforehand to make them gelatinous, but dry seeds work well here.",
+            "timing": "1 minute",
+            "doneness_cue": "Chia seeds evenly sprinkled, adding visual interest"
+        },
+        {
+            "step": 7,
+            "instruction": "Garnish with fresh mint leaves for a refreshing aroma and pretty presentation. Mint brightens the whole bowl and adds a lovely herbal note that pairs well with tropical fruits.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh mint leaves placed attractively on top"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately to enjoy the fresh, vibrant flavors and textures. The smoothie base is best eaten right away before it starts to melt or separate. If you need to wait, cover loosely and refrigerate for up to an hour, but it tastes freshest freshly made.",
+            "timing": "Immediate",
+            "doneness_cue": "Smoothie bowl fresh, cold, and vibrant in appearance"
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to prepare ahead, blend the mango base and store it in the fridge for up to 24 hours. Add toppings just before serving to keep them crisp and fresh. This way, you can save time on busy mornings but still enjoy a fresh bowl.",
+            "timing": "Preparation step",
+            "doneness_cue": "Smooth base stored chilled without separation"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Tropical Mango Smoothie Bowl Shines",
+        "content": "<p>This smoothie bowl works because it balances creamy texture with fresh, crunchy toppings, creating a satisfying mouthfeel that feels indulgent but is actually healthy. Using frozen mango chunks is crucial—they provide natural sweetness and thickness without added sugars or ice, which can water down flavor. The frozen fruit acts like ice cream in texture but keeps the dish light and refreshing.</p><p>The addition of coconut milk instead of water or juice lends a subtle richness and tropical note that complements the mango beautifully. Coconut milk’s fat content helps emulsify the smoothie base, making it silky and smooth. Greek yogurt adds protein and tang, balancing the sweetness and enhancing creaminess without overpowering the fruit flavors.</p><p>Fresh kiwi slices contribute a tart contrast to the sweet mango, brightening the bowl’s overall flavor profile. The coconut flakes provide a crunchy texture contrast, which is important because texture variety keeps each bite interesting. Toasting the flakes brings out their nutty aroma and deepens flavor, elevating the bowl beyond a simple smoothie.</p><p>Finally, the layering and presentation make this bowl inviting and colorful, which psychologically enhances the eating experience. The combination of vibrant colors, fresh ingredients, and varied textures makes this bowl feel like a special treat, perfect for breakfast or a light snack.</p>",
+        "ingredient_notes": {
+            "Frozen Mango Chunks": "Choose ripe, high-quality frozen mango chunks without added sugar or preservatives. Frozen mango is essential for thickening the smoothie bowl without diluting flavor. It retains natural sweetness and provides a creamy texture when blended, unlike fresh mango, which is too soft and watery for this purpose.",
+            "Greek Yogurt": "Plain Greek yogurt adds protein and creaminess while lending a slight tang that balances the sweetness of mango. Opt for full-fat or 2% for richer texture, but low-fat works too. Avoid flavored yogurts that can add unwanted sugars and flavors. Greek yogurt also helps thicken the bowl and improve mouthfeel.",
+            "Coconut Milk": "Use canned or carton coconut milk with no added sugars. Coconut milk’s fat content helps emulsify the smoothie, making it silky and smooth. It adds subtle tropical richness that pairs perfectly with mango. Light coconut milk can be used but will yield a thinner texture.",
+            "Kiwi": "Fresh kiwi adds a bright, tart contrast to the sweet mango base. Choose firm but ripe kiwis to avoid mushiness. Kiwi’s vibrant green color and tiny black seeds add visual appeal. It’s best sliced just before serving to maintain freshness and texture.",
+            "Coconut Flakes": "Unsweetened coconut flakes provide crunch and a nutty aroma, especially when lightly toasted. Choose medium-sized flakes for texture contrast. Toasting enhances flavor but be careful not to burn them as they can turn bitter."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use frozen mango chunks instead of fresh mango.",
+            "reason": "Frozen mango gives your smoothie bowl that thick, creamy texture without needing ice, which can water down the flavor. It also provides natural sweetness and keeps the bowl cold and refreshing."
+        },
+        {
+            "tip": "Toast your coconut flakes lightly before adding.",
+            "reason": "Toasting coconut flakes brings out their natural oils and adds a deeper, nuttier flavor and crunch, elevating the texture and taste of the bowl significantly."
+        },
+        {
+            "tip": "Add Greek yogurt for extra protein and creaminess.",
+            "reason": "Greek yogurt enriches the smoothie bowl with protein and a tangy flavor that balances the sweetness, while also thickening the texture for a satisfying mouthfeel."
+        },
+        {
+            "tip": "Don’t overblend the smoothie base.",
+            "reason": "Overblending can warm the mixture and thin the texture. Blend just until smooth and creamy to keep the bowl cold and thick."
+        },
+        {
+            "tip": "Add toppings just before serving.",
+            "reason": "Toppings like kiwi and coconut flakes stay fresh and crunchy only when added moments before eating. Adding them too early can cause sogginess."
+        },
+        {
+            "tip": "Use ripe but firm kiwis for best texture.",
+            "reason": "Firm kiwis hold their shape better and provide a pleasant tartness that contrasts with the creamy mango base without becoming mushy."
+        },
+        {
+            "tip": "Adjust sweetness after blending.",
+            "reason": "Mango sweetness can vary, so taste your smoothie base first and add honey or maple syrup as needed to avoid over-sweetening."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using fresh mango instead of frozen.",
+            "why_it_happens": "People often assume fresh fruit is better, but fresh mango is too watery to create a thick smoothie bowl texture.",
+            "fix": "Use frozen mango chunks to achieve the thick, creamy consistency necessary for a proper smoothie bowl. If you only have fresh mango, freeze it in chunks for a few hours before blending."
+        },
+        {
+            "mistake": "Adding too much coconut milk.",
+            "why_it_happens": "To speed blending or loosen the mixture, cooks may pour in excess liquid, resulting in a runny smoothie bowl.",
+            "fix": "Add coconut milk gradually and stop when the mixture is thick enough to eat with a spoon. You can always thin it slightly later if needed."
+        },
+        {
+            "mistake": "Skipping the yogurt or using flavored yogurt.",
+            "why_it_happens": "Some skip yogurt to keep it dairy-free or use flavored yogurts for ease, which can add unwanted sugars.",
+            "fix": "Use plain Greek yogurt to add creaminess and protein without extra sugars. For dairy-free, substitute with a plant-based yogurt but expect a different flavor and texture."
+        },
+        {
+            "mistake": "Adding toppings too early.",
+            "why_it_happens": "In an effort to prep ahead, toppings are sometimes added hours before serving, leading to soggy, unappealing textures.",
+            "fix": "Add crunchy toppings like coconut flakes and kiwi slices just before serving to maintain their texture and freshness."
+        },
+        {
+            "mistake": "Overblending the smoothie base.",
+            "why_it_happens": "Trying to get an ultra-smooth texture, cooks blend too long, which warms the mixture and thins it out.",
+            "fix": "Blend just until smooth and creamy. Stop as soon as the texture looks thick and uniform to keep the bowl cold and thick."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry Mango Smoothie Bowl",
+            "description": "Add a handful of frozen mixed berries to the mango base for a vibrant twist. The berries add tartness and beautiful color, plus extra antioxidants. Top with fresh berries and granola for crunch.",
+            "technical_note": "Blending berries with mango may thin the texture slightly; reduce coconut milk accordingly."
+        },
+        {
+            "name": "Dairy-Free Tropical Smoothie Bowl",
+            "description": "Replace Greek yogurt with coconut or almond yogurt to make this bowl vegan and dairy-free. It will be a bit lighter but still creamy and delicious.",
+            "technical_note": "Plant-based yogurts can be thinner, so use less coconut milk to maintain thickness."
+        },
+        {
+            "name": "Add Protein Boost Smoothie Bowl",
+            "description": "Mix in a scoop of vanilla or unflavored protein powder to the base for a post-workout meal. It adds creaminess and keeps you fuller longer.",
+            "technical_note": "Some protein powders thicken the mixture more; blend slowly to adjust texture."
+        },
+        {
+            "name": "Spiced Mango Smoothie Bowl",
+            "description": "Add a pinch of ground ginger or cinnamon to the mango base for a warm spice note that complements the tropical fruit beautifully. Great for cooler mornings.",
+            "technical_note": "Start with a small pinch and adjust to taste to avoid overpowering the fresh fruit flavors."
+        },
+        {
+            "name": "Green Mango Smoothie Bowl",
+            "description": "Blend in a handful of spinach or kale for a green smoothie bowl packed with nutrients. The mild greens won’t overpower the mango but add vibrant color and health benefits.",
+            "technical_note": "Add a little extra coconut milk if the greens make the mixture too thick."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "9g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "6g",
+        "fiber_grams": "5g",
+        "sodium_mg": "40mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie bowl is best enjoyed immediately. If left at room temperature, it should not be kept longer than 1 hour to avoid spoilage and texture degradation. Cover loosely to protect from contaminants.",
+        "refrigerator": "Store the mango smoothie base in an airtight container in the fridge for up to 24 hours. Add fresh toppings just before serving since they may become soggy or lose texture when refrigerated together. The base may thicken when chilled; stir gently to loosen before eating.",
+        "freezer": "You can freeze the mango smoothie base for up to 2 months in a freezer-safe container. Thaw overnight in the fridge and stir well before serving. Avoid freezing toppings as they will lose texture and flavor.",
+        "reheating": "No reheating recommended. If the smoothie bowl is too thick after refrigeration, add a splash of coconut milk and stir to loosen. Serve cold for best flavor and texture.",
+        "make_ahead_strategy": "Prepare the mango smoothie base up to 24 hours in advance and store in the refrigerator. Keep toppings separate and add just before serving to ensure crispness and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh mango instead of frozen?",
+            "answer": "Fresh mango can be used, but it won't give the thick, creamy texture typical of a smoothie bowl. To mimic the texture, freeze fresh mango chunks for a few hours before blending. This keeps the bowl thick and spoonable."
+        },
+        {
+            "question": "What can I substitute for Greek yogurt?",
+            "answer": "You can substitute Greek yogurt with plant-based yogurts like coconut or almond yogurt for a dairy-free version. Keep in mind these alternatives may be thinner and less tangy, so adjust the coconut milk quantity to maintain creaminess."
+        },
+        {
+            "question": "How do I prevent the smoothie bowl from being watery?",
+            "answer": "Avoid adding too much liquid like coconut milk or juice. Start with small amounts and blend until you reach a thick, spoonable consistency. Using frozen fruit instead of fresh helps keep the bowl thick."
+        },
+        {
+            "question": "Can I prepare this smoothie bowl the night before?",
+            "answer": "You can prepare the mango base the night before and store it in the refrigerator. However, add fresh toppings like kiwi and coconut flakes just before serving to keep them crisp and fresh."
+        },
+        {
+            "question": "How do I make this smoothie bowl sweeter if my mango isn't ripe?",
+            "answer": "Add a small amount of honey, maple syrup, or agave nectar to the smoothie base after blending. Blend again briefly to combine. Taste as you go to avoid over-sweetening."
+        },
+        {
+            "question": "What other toppings work well on this smoothie bowl?",
+            "answer": "Besides kiwi and coconut flakes, try fresh berries, sliced bananas, granola, chopped nuts, or chia seeds. These add texture, flavor, and nutritional benefits."
+        },
+        {
+            "question": "Can I add protein powder to this recipe?",
+            "answer": "Yes, adding a scoop of vanilla or unflavored protein powder blends well with the mango base and boosts protein content. Some powders may thicken the mixture, so add liquid as needed to maintain texture."
+        },
+        {
+            "question": "Is it possible to make this recipe vegan?",
+            "answer": "Absolutely! Use plant-based yogurt instead of Greek yogurt and maple syrup or agave instead of honey. This keeps the bowl vegan and still delicious."
+        }
+    ],
+    "conclusion": "I hope you give this tropical mango smoothie bowl a try—it’s such a bright and refreshing way to start your day! Don’t forget to share your creations and let me know your favorite toppings.",
+    "seo": {
+        "primary_keyword": "tropical mango smoothie bowl",
+        "secondary_keywords": [
+            "healthy smoothie bowl recipe",
+            "easy mango smoothie bowl",
+            "how to make smoothie bowl",
+            "best tropical smoothie bowl recipe",
+            "quick mango breakfast bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "smoothie bowl toppings guide",
+                "anchor": "smoothie-bowl-toppings-guide"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_1.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_1.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_2.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_2.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_3.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_3.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_7.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_7.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_9.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_9.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_6.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_6.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_8.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_8.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_4.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_4.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_5.webp",
+            "filePath": "posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_5.webp",
+            "relativePath": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images/tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776641929_124",
+    "slug": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast",
+    "isOnline": true,
+    "createdAt": "2026-04-20T01:55:40+02:00",
+    "updatedAt": "2026-04-20T01:55:40+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "tropical-mango-smoothie-bowl-with-coconut-flakes-and-kiwi-bright-and-refreshing-breakfast/images"
+}
