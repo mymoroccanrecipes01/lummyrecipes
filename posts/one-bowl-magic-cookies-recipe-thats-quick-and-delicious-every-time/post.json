@@ -1,0 +1,342 @@
+{
+    "title": "One-Bowl Magic Cookies: Chewy, Nutty & Chocolatey Bliss",
+    "promptIMG": "Food photography: One-Bowl Magic Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These magic cookies come together in one bowl—no fuss, no mess. They’re chewy with a nutty crunch and a perfect chocolate hit. Great for last-minute dessert or an anytime snack!",
+    "hashtags": "#magiccookies #easybaking #chocolatecookies",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "No-Fuss One-Bowl Cookies That Everyone Will Love!",
+            "description": "Whip up these magic cookies in just one bowl—chewy, nutty, and loaded with chocolate. Perfect for busy days or when you crave a quick treat. Save this recipe and bake today! 🍪✨ #easybaking #cookies #snacktime"
+        },
+        {
+            "title": "Chewy & Nutty Chocolate Cookies Made Simple",
+            "description": "Love chocolate and nuts? These one-bowl magic cookies are your new go-to! Quick to mix and bake, they’re perfect for a cozy afternoon or last-minute dessert. Try it now and enjoy! 🍫🌰 #magiccookies #dessertlover #quickrecipes"
+        },
+        {
+            "title": "Bake These Magic Cookies with Just One Bowl!",
+            "description": "Mess-free and delicious! These chewy chocolate-nut cookies come together fast and taste like a treat you’d pay for. Discover how easy baking can be—try this recipe today! 🍪❤️ #easycookies #bakinglove #chocolate"
+        },
+        {
+            "title": "Quick & Easy One-Bowl Magic Cookies for Any Occasion",
+            "description": "Fast, simple, and so tasty! These magic cookies are chewy, nutty, and chocolatey with zero cleanup. Perfect for a sweet fix anytime. Save this recipe and bake soon! 🌟🍫 #chocolatecookies #easybaking #desserttime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 24,
+    "ingredients": [
+        "1 cup unsalted butter, melted",
+        "1 cup packed light brown sugar",
+        "1/2 cup granulated sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 1/2 cups semisweet chocolate chips",
+        "1 cup chopped walnuts or pecans"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I stumbled upon this magic cookie recipe one hectic afternoon when I wanted a quick, no-fuss treat that didn’t require hauling out multiple bowls and gadgets. What I love about this recipe is how everything goes into one bowl—no creaming butter and sugar separately, no dirtying the mixer. I remember the first time I made these cookies; I was skeptical about how chewy they'd turn out without the usual steps, but the result was beyond delicious. They have this perfect balance of soft chewiness with a little nutty crunch and rich chocolate bursts. The trick I learned is melting the butter first, which helps the sugars dissolve perfectly, giving the cookies that irresistible texture. Plus, tossing in chopped nuts adds a lovely crunch and depth. These cookies are great for casual get-togethers or just when you want a comforting snack. They bake quickly and keep well, so you can enjoy that fresh-baked feeling anytime. Honestly, I think this simple approach makes baking so much more approachable and fun.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by melting the butter completely, either in a microwave or on the stove. Melted butter helps the sugars dissolve better, which creates a chewier cookie texture. Pour the melted butter into a large mixing bowl and add both the brown and granulated sugars. Stir them together until well combined and the mixture looks glossy. This step is crucial because if the sugars aren’t fully dissolved, the cookies can turn out grainy or crumbly. Taking your time here ensures a smooth base for the dough.",
+            "timing": 5,
+            "doneness_cue": "Mixture should be shiny and smooth with no visible sugar granules."
+        },
+        {
+            "step": 2,
+            "instruction": "Beat in the eggs one at a time, mixing well after each addition. Then add the vanilla extract. Incorporating the eggs slowly allows them to emulsify properly with the butter and sugar, which helps the dough hold together and rise evenly. If you rush this step, you might get a lumpy batter or uneven texture in your cookies. Mix until the batter looks silky and a bit fluffy.",
+            "timing": 3,
+            "doneness_cue": "Batter should be uniform and slightly thickened, no streaks of egg visible."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk together the flour, baking soda, and salt. This ensures the leavening agent and salt are evenly distributed throughout the flour, which is important for consistent rise and flavor. If you skip this step or add these dry ingredients directly without mixing, you might get pockets of baking soda that taste bitter or uneven texture in the cookies.",
+            "timing": 5,
+            "doneness_cue": "Flour mixture should be light, airy, and evenly combined with no clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, stirring gently with a wooden spoon or spatula. Avoid overmixing here — mix just until you don’t see any flour streaks. Overmixing develops gluten in the flour, which can make the cookies tough instead of soft and chewy. The dough should be thick but pliable.",
+            "timing": 3,
+            "doneness_cue": "Dough is thick, slightly sticky, and homogenous."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the chocolate chips and chopped nuts evenly throughout the dough. Folding gently ensures you don’t break up the chips or nuts, preserving their texture. Distributing them well means every cookie gets a good balance of chocolate and crunch. Resist the urge to dump them all in and stir aggressively — it could cause uneven chunks or breakage.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips and nuts are evenly scattered throughout the dough."
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 350°F (175°C). Line baking sheets with parchment paper or silicone mats to prevent sticking. This step is important because baking on an unlined sheet can cause cookies to spread too much or stick, ruining their shape and texture. Also, make sure your oven is fully preheated to get even baking from the start.",
+            "timing": 10,
+            "doneness_cue": "Oven reaches full temperature; baking sheets are prepared."
+        },
+        {
+            "step": 7,
+            "instruction": "Use a cookie scoop or spoon to drop dough balls about 1.5 tablespoons each onto the baking sheets, spacing them about 2 inches apart. Proper spacing lets the cookies spread naturally without merging into each other. If you crowd the pan, you’ll end up with a giant cookie blob instead of individual treats. For uniform cookies, try to keep the dough balls consistent in size.",
+            "timing": 5,
+            "doneness_cue": "Dough balls are evenly spaced and similar in size."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies for 10 to 12 minutes. Keep an eye on them starting at 10 minutes — you want the edges to be set and lightly golden, but the centers still soft and slightly underbaked. This timing ensures chewy centers instead of dry, crumbly cookies. If you bake too long, they lose that soft texture and become crispier.",
+            "timing": 12,
+            "doneness_cue": "Edges are golden, centers look slightly soft and puffed."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the baking sheets from the oven and let the cookies cool on the sheets for 5 minutes before transferring to wire racks. Cooling on the sheet lets the cookies set so they don’t break apart when moved. If you try to move them right away, they’ll be too soft and likely crumble. After 5 minutes, they should have firmed up but still be soft inside.",
+            "timing": 5,
+            "doneness_cue": "Cookies hold their shape when gently lifted and have a soft center."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Bowl Cookie Recipe Works So Well",
+        "content": "<p>What makes these magic cookies truly special is the melted butter technique. When butter is melted, it coats the sugar crystals, allowing them to dissolve better during mixing. This creates a batter that’s smoother and helps produce a chewy texture rather than a cakey crumb. The sugar dissolving also encourages a glossy, tender crumb in the final cookie.</p><p>Using both brown sugar and granulated sugar balances moisture and sweetness. Brown sugar contains molasses, which adds moisture and chewiness, while granulated sugar contributes to crisp edges. The combination is key to achieving the classic chewy yet slightly crisp cookie.</p><p>The baking soda acts as a leavening agent that reacts with the acidic components in brown sugar, causing the dough to rise just enough for a soft, tender bite without puffing up too much. Properly measuring and evenly incorporating it ensures the cookies rise evenly and have that perfect texture.</p><p>Finally, folding in chocolate chips and nuts last prevents overworking the dough, which can develop gluten and toughen the cookies. The nuts add a welcome crunch and contrast to the soft, chocolatey centers, creating a satisfying bite every time.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for consistent flavor and control over salt content. Melting it first allows the sugars to dissolve properly, creating a chewy texture. Avoid using margarine or spreads as they contain water and emulsifiers that can alter texture and flavor.",
+            "brown sugar": "Light brown sugar adds moisture and a mild molasses flavor that keeps the cookies soft and chewy. Pack it firmly when measuring to ensure accurate quantities. Using dark brown sugar will increase molasses flavor and moisture, which can be nice but may affect baking time.",
+            "all-purpose flour": "Regular all-purpose flour provides the right protein content to create structure without toughness. Make sure to measure by spooning into the cup and leveling off to avoid dense cookies. Avoid using self-rising or cake flour, which can alter texture and rise.",
+            "baking soda": "Baking soda reacts with acidic ingredients like brown sugar to provide leavening and spread. Use fresh baking soda for proper rise; expired soda can result in flat, dense cookies. Measure carefully—too much can cause a metallic taste.",
+            "chopped nuts": "Walnuts or pecans add a crunchy texture and nutty flavor that complements the chocolate perfectly. Toasting the nuts lightly beforehand can deepen their flavor, but it’s optional. Chop them uniformly to ensure even distribution and consistent texture in every bite."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for better emulsification.",
+            "reason": "Room temperature eggs blend more easily with the melted butter and sugars, creating a smoother dough. Cold eggs can cause the butter to seize or clump, making mixing harder and potentially leading to uneven texture."
+        },
+        {
+            "tip": "Chill the dough for 30 minutes before baking.",
+            "reason": "Chilling firms up the dough which helps control spreading during baking. This results in thicker, chewier cookies. If you skip chilling, cookies may spread thin and bake crispier than desired."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats on baking sheets.",
+            "reason": "These liners prevent sticking and promote even heat distribution. Without them, cookies can stick or brown unevenly, affecting shape and texture."
+        },
+        {
+            "tip": "Don’t overmix the dough once flour is added.",
+            "reason": "Overmixing develops gluten in the flour, which can make cookies tough and dense. Stir just until combined for tender, soft cookies."
+        },
+        {
+            "tip": "Add a pinch of flaky sea salt on top before baking.",
+            "reason": "A little sea salt enhances the chocolate and balances sweetness, adding a sophisticated flavor contrast. It also adds a nice texture when you bite into the cookie."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform cookie sizes.",
+            "reason": "Uniform sizes bake evenly, so all cookies finish at the same time. Uneven sizes can result in some cookies being over or underbaked."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before transferring.",
+            "reason": "Cookies are fragile when hot and can break apart if moved too soon. Cooling helps them set and hold their shape better."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter instead of melted butter",
+            "why_it_happens": "Many assume butter should be softened or creamed, but this recipe relies on melted butter for texture.",
+            "fix": "Melt the butter fully before mixing. This ensures the sugars dissolve properly and creates a chewy cookie rather than a crumbly one."
+        },
+        {
+            "mistake": "Overmixing the dough after adding flour",
+            "why_it_happens": "It’s easy to keep stirring to combine, but overmixing develops gluten.",
+            "fix": "Mix just until the flour disappears. Stop as soon as the dough is uniform to keep cookies tender."
+        },
+        {
+            "mistake": "Skipping parchment paper or silicone mats",
+            "why_it_happens": "Some think greasing pans is enough, but cookies stick or bake unevenly.",
+            "fix": "Always line baking sheets for easy release and even baking."
+        },
+        {
+            "mistake": "Baking too long for crisp cookies",
+            "why_it_happens": "Waiting for a golden color all over can dry out the centers.",
+            "fix": "Remove cookies when edges are golden but centers still look soft to keep chewiness."
+        },
+        {
+            "mistake": "Crowding the baking sheet with dough balls",
+            "why_it_happens": "Trying to bake more cookies at once saves time but causes merging.",
+            "fix": "Leave 2 inches between dough balls for proper spreading."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Double Chocolate Magic Cookies",
+            "description": "Swap half the flour for cocoa powder and add white chocolate chips instead of semisweet. This creates a rich, fudgy cookie with contrasting sweet bursts. Expect a denser, more chocolate-forward flavor with a velvety texture.",
+            "technical_note": "Add cocoa powder with the dry ingredients and be careful not to overbake, as cocoa can dry cookies faster."
+        },
+        {
+            "name": "Oatmeal Nut Magic Cookies",
+            "description": "Add 1 cup of old-fashioned oats to the dough for a heartier texture and nutty flavor. This variation adds chew and a rustic feel, perfect for a wholesome snack.",
+            "technical_note": "Reduce flour by 1/2 cup to compensate for oats and mix oats in with the dry ingredients."
+        },
+        {
+            "name": "Peanut Butter Swirl Magic Cookies",
+            "description": "Fold in 1/2 cup peanut butter chunks or swirl peanut butter into the dough before baking. This adds a creamy, nutty richness that pairs beautifully with chocolate chips.",
+            "technical_note": "Swirling peanut butter requires gentle folding to maintain cookie structure and prevent greasy spots."
+        },
+        {
+            "name": "Gluten-Free Magic Cookies",
+            "description": "Use a 1:1 gluten-free baking flour blend instead of all-purpose flour. The texture will be slightly different—less chewy but still delicious, with a tender crumb.",
+            "technical_note": "Make sure your baking soda and other ingredients are gluten-free certified for best results."
+        },
+        {
+            "name": "Vegan Magic Cookies",
+            "description": "Replace butter with vegan margarine and eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg). Use dairy-free chocolate chips. The texture will be a bit softer but still tasty and satisfying.",
+            "technical_note": "Flax eggs need a few minutes to thicken before mixing; bake slightly longer if needed."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "9g",
+        "fiber_grams": "1g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to prevent melting chocolate chips and drying out. Covering well keeps them soft.",
+        "refrigerator": "You can refrigerate cookies in an airtight container for up to 7 days. Refrigeration may firm them up and slightly change texture, so bring to room temperature before serving or warm briefly in the microwave.",
+        "freezer": "Freeze cookies in a sealed container or freezer bag for up to 3 months. Separate layers with parchment paper to prevent sticking. Thaw at room temperature for 30 minutes or warm in a low oven to refresh texture.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes or microwave for 10-15 seconds with a damp paper towel to restore softness. Avoid overheating which can dry them out.",
+        "make_ahead_strategy": "Prepare the dough up to 24 hours ahead and refrigerate. Scoop dough balls onto baking sheets and freeze before baking, then bake from frozen adding a minute or two to baking time for fresh cookies anytime."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, but reduce or omit added salt in the recipe to avoid over-salting. Unsalted butter gives you better control over the final flavor, but salted butter works fine if adjusted."
+        },
+        {
+            "question": "Why do my cookies spread too much?",
+            "answer": "Too much butter or warm dough can cause excess spreading. Chill the dough and measure ingredients accurately. Also, make sure your baking soda is fresh to help with proper rise."
+        },
+        {
+            "question": "Can I substitute nuts with something else?",
+            "answer": "Sure! You can swap nuts for seeds, dried fruit, or extra chocolate chips. Just keep the total mix-ins about the same to maintain texture balance."
+        },
+        {
+            "question": "How do I make these cookies more cakey?",
+            "answer": "Add a bit more flour (about 1/4 cup) and reduce butter slightly. Also, avoid melting the butter and instead cream softened butter with sugars for a fluffier texture."
+        },
+        {
+            "question": "Can I use brown sugar only?",
+            "answer": "Yes, using all brown sugar will make cookies moister and chewier with a deeper molasses flavor, but they may spread more and be softer."
+        },
+        {
+            "question": "How do I store leftover cookies?",
+            "answer": "Place them in an airtight container at room temperature. Adding a slice of bread can help keep them soft by retaining moisture."
+        },
+        {
+            "question": "Why are my cookies dry or crumbly?",
+            "answer": "Overbaking or too much flour can cause dryness. Follow baking times closely and measure flour properly by spooning and leveling. Also, ensure not to overmix dough."
+        },
+        {
+            "question": "Can I freeze the cookie dough?",
+            "answer": "Absolutely! Scoop dough balls onto a tray, freeze until firm, then store in a freezer bag. Bake from frozen, adding a couple extra minutes to baking time."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these magic cookies as much as I do! Let me know how they turn out and if you try any fun variations.",
+    "seo": {
+        "primary_keyword": "one bowl magic cookie recipe",
+        "secondary_keywords": [
+            "easy magic cookies",
+            "chewy chocolate nut cookies",
+            "how to make magic cookies",
+            "best magic cookie recipe",
+            "quick one bowl cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chewy chocolate chip cookies",
+                "anchor": "classic-chewy-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_1.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_2.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_3.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_8.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_8.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_7.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_7.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_5.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_5.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_9.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_9.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_4.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_4.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_6.webp",
+            "filePath": "posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_6.webp",
+            "relativePath": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images/one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777028756_400",
+    "slug": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time",
+    "isOnline": true,
+    "createdAt": "2026-04-24T13:13:04+02:00",
+    "updatedAt": "2026-04-24T13:13:04+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "one-bowl-magic-cookies-recipe-thats-quick-and-delicious-every-time/images"
+}
