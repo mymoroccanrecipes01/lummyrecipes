@@ -1,0 +1,337 @@
+{
+    "title": "One Pot Hearty Spiced Chicken and Rice for Easy Gatherings",
+    "promptIMG": "Food photography: One Pot Hearty Spiced Chicken and Rice, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one pot chicken and rice is a total lifesaver when feeding friends without the fuss. The secret? A cozy blend of warm spices that give it a comforting kick. Perfect for casual dinners or weekend hangouts!",
+    "hashtags": "#onepotmeal #chickenandrice #easyrecipes",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy One Pot Chicken and Rice That Feeds a Crowd",
+            "description": "Looking for a fuss-free meal to impress friends? This spiced chicken and rice comes together in one pot with minimal cleanup. Save this recipe and try it tonight! 🍲👌 #onepotmeal #comfortfood #easyweeknightdinner"
+        },
+        {
+            "title": "Easy Spiced Chicken and Rice for Busy Weeknights",
+            "description": "Busy evenings call for simple, hearty dishes. This one pot chicken and rice uses fragrant spices for a flavor punch without extra work. Give it a go and see for yourself! 🍛✨ #quickdinner #chickenrecipes #weeknightmeal"
+        },
+        {
+            "title": "Flavorful One Pot Chicken and Rice Everyone Will Love",
+            "description": "This recipe is all about big flavors with minimal effort. The blend of spices makes it special, and cooking everything in one pot keeps things easy. Try it today and enjoy a stress-free dinner! 🍗🍚 #easymeals #familydinner #onepotrecipes"
+        },
+        {
+            "title": "Simple, Delicious One Pot Chicken Rice for Casual Gatherings",
+            "description": "Hosting made easy with this tasty one pot chicken and rice recipe. It’s packed with warm spices and cooks all in one pot—less mess, more flavor! Save this for your next get-together. 🎉🔥 #partyfood #easyrecipes #comfortfoodideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 tablespoon olive oil, room temperature",
+        "1 pound boneless, skinless chicken thighs, cut into chunks",
+        "1 medium onion, finely chopped",
+        "3 garlic cloves, minced",
+        "1 teaspoon ground cumin",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon cayenne pepper (optional)",
+        "1 cup long grain white rice, rinsed",
+        "2 1/2 cups chicken broth, warm",
+        "1 cup diced tomatoes, drained",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this one pot chicken and rice recipe on a whim when I was hosting a small group of friends and wanted something comforting but super easy. Honestly, the blend of spices—cumin, smoked paprika, and a hint of cinnamon—was a game changer that made it feel special without extra effort. I’ve tried a few versions over the years, but this one sticks because it balances the warmth of spices with juicy, tender chicken and perfectly fluffy rice. The trick I learned? Sautéing the onion and garlic first to build flavor, then letting the rice cook gently in the broth with the chicken. It results in a cozy, aromatic dish that’s both hearty and satisfying. Plus, cooking everything in one pot means less cleanup, which I’m always grateful for. The finished dish has this lovely golden color from the spices and a rich, inviting aroma. It’s perfect for casual weekend dinners or when friends drop by unexpectedly. I think you’ll love how easy it is to pull together and how it feels like a warm hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large heavy-bottomed pot over medium heat. Add the chopped onion and cook, stirring occasionally, until it turns translucent and starts to soften, about 5 minutes. This step is crucial because it develops the base flavor and sweetness that complements the spices later. Avoid rushing this part or turning the heat too high; you want gentle caramelization, not burning, to keep the dish balanced.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions should be soft, translucent, and slightly golden around the edges without browning harshly."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the onions and sauté for about 1 minute until fragrant. Then stir in the cumin, smoked paprika, cinnamon, and cayenne pepper if using. Cooking the spices in the oil releases their essential oils and deepens their flavor. Be careful not to burn the garlic or spices, as that can introduce bitterness. Stir continuously and watch for the spices to become aromatic, usually after about 30 seconds.",
+            "timing": "2 minutes",
+            "doneness_cue": "You’ll smell a warm, fragrant aroma from the spices and garlic, signaling they’re properly toasted."
+        },
+        {
+            "step": 3,
+            "instruction": "Increase the heat to medium-high and add the chicken pieces. Season with salt and pepper. Sear the chicken until lightly browned on all sides but not fully cooked through, about 5-7 minutes. Browning the meat adds depth and texture to the dish through the Maillard reaction. Avoid overcrowding the pot, which can cause the chicken to steam rather than brown. Work in batches if needed.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken should have a golden crust but remain slightly pink inside as it will finish cooking later."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the rinsed rice and diced tomatoes, coating them well with the spices and chicken juices. This step ensures every grain of rice absorbs the flavors. Rinsing the rice beforehand removes excess starch, preventing it from becoming gummy. Mix gently to avoid breaking the rice grains.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice and tomatoes look evenly mixed and glossy with the spice oil."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the warm chicken broth and stir everything once to combine. Bring the mixture to a gentle boil over medium-high heat. Using warm broth helps maintain an even cooking temperature and prevents shocking the rice. Don’t stir once it starts boiling to avoid releasing starch and making the rice mushy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Broth should simmer lightly with bubbles forming around the edges."
+        },
+        {
+            "step": 6,
+            "instruction": "Reduce the heat to low and cover the pot tightly with a lid. Let it simmer gently for 18-20 minutes without lifting the lid. This steaming process cooks the rice evenly and fully cooks the chicken. Resist the urge to peek early, as it lets steam escape, affecting texture and cooking time.",
+            "timing": "20 minutes",
+            "doneness_cue": "Rice should be tender and liquid fully absorbed, chicken cooked through."
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and let the pot sit, still covered, for another 5 minutes. This resting period allows the rice to finish steaming and helps flavors to meld. It also prevents the dish from being wet or sticky. Don't skip this step; it’s key for perfect texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Rice looks fluffy and separated, and aroma is rich and inviting."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the lid and gently fluff the rice and chicken mixture with a fork to separate grains and evenly distribute the chicken pieces. Fluffing prevents clumping and gives a light, airy texture. Avoid stirring vigorously, which can break grains and create mush.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice grains appear separated and fluffy, chicken is evenly distributed."
+        },
+        {
+            "step": 9,
+            "instruction": "Taste and adjust seasoning with salt and pepper if needed. Garnish with freshly chopped parsley for a pop of color and fresh flavor. Serving immediately keeps the dish at its best texture and warmth. If you wait too long, the rice may clump or dry out.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced seasoning with fresh herb aroma and vibrant color on top."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One Pot Chicken and Rice Works So Well",
+        "content": "<p>This recipe succeeds because of how it layers flavors and textures through simple but intentional steps. Starting with sautéing onions and garlic creates a savory, aromatic base that infuses the whole dish. Cooking the spices in oil releases their essential oils, making them more fragrant and deeply integrated rather than just sprinkled on top.</p><p>The Maillard reaction during the chicken searing step adds complexity and richness, which contrasts beautifully with the soft, fluffy rice. Browning the chicken first also locks in juices, keeping the meat tender after simmering. Using rinsed rice prevents excess starch from making the dish gummy, ensuring the grains remain separate and light.</p><p>Simmering the rice and chicken together in warm broth allows the rice to absorb all those savory flavors, while the gentle heat cooks the chicken perfectly without drying it out. The resting period off the heat lets steam finish cooking the rice evenly and helps flavors meld, which is often overlooked but essential for texture and taste.</p><p>Finally, fluffing the rice gently with a fork prevents clumping and keeps the dish visually appealing and pleasant to eat. Each step builds on the last, resulting in a comforting, flavorful one pot meal that’s as easy as it is satisfying.</p>",
+        "ingredient_notes": {
+            "Chicken Thighs": "Chicken thighs are perfect here because they stay juicy and tender during the simmering process. Their higher fat content compared to breasts means they’re less likely to dry out and add richness to the dish. When buying, look for fresh, skinless thighs with a nice pink color and avoid any with an unpleasant odor. You can substitute with chicken breasts if you prefer leaner meat, but be careful not to overcook them.",
+            "Long Grain White Rice": "Long grain rice is ideal for this recipe because it cooks up fluffy and separate, absorbing the broth without becoming sticky. Rinsing the rice before cooking removes surface starch, which helps prevent clumping and mushiness. Avoid using short grain or sticky rice varieties, as they’ll change the texture and can make the dish overly dense.",
+            "Spices (Cumin, Smoked Paprika, Cinnamon, Cayenne)": "The combination of these spices adds warmth, smokiness, and subtle heat that elevate the dish beyond basic chicken and rice. Cumin provides earthiness, smoked paprika adds depth and a mild smoky flavor, cinnamon introduces a sweet warmth, and cayenne gives a gentle kick. Using fresh, high-quality ground spices guarantees the best aroma and flavor. Toasting them briefly in oil unlocks their essential oils, intensifying their impact.",
+            "Chicken Broth": "Using warm chicken broth instead of water enriches the rice with savory depth and umami. Homemade or low-sodium broth is best, so you can control salt levels. The temperature matters too—warm broth keeps the cooking temperature stable and prevents sudden cooling that can affect rice texture. Avoid cold broth straight from the fridge to ensure even cooking.",
+            "Olive Oil": "Olive oil is used here for its flavor and ability to gently sauté aromatics and spices without burning. Choose a good quality extra virgin olive oil for the best taste. It also helps in the Maillard browning of chicken and carries the spices’ flavors throughout the dish. If you prefer, you can substitute with a neutral oil like vegetable or canola, but the flavor profile will be milder."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always rinse your rice before cooking.",
+            "reason": "Rinsing removes excess surface starch that would otherwise cause the rice to clump and become gummy. This simple step ensures fluffy, separate grains that soak up the broth perfectly without turning sticky."
+        },
+        {
+            "tip": "Don’t lift the lid while the rice simmers.",
+            "reason": "Steam trapped inside the pot is what cooks the rice evenly. Opening the lid releases that steam, leading to uneven cooking and potentially undercooked rice. Patience here really pays off in texture."
+        },
+        {
+            "tip": "Use warm broth instead of cold.",
+            "reason": "Adding warm broth keeps the pot’s temperature steady, allowing the rice to cook gently and evenly. Cold liquid can shock the rice, causing uneven texture and longer cooking times."
+        },
+        {
+            "tip": "Sear the chicken before simmering.",
+            "reason": "Browning the chicken triggers Maillard reactions that add rich flavor and texture. It also seals in juices, keeping the meat tender after simmering. Skipping this step makes the dish less flavorful and the chicken less juicy."
+        },
+        {
+            "tip": "Toast spices briefly in oil.",
+            "reason": "Heating spices in oil releases their essential oils, maximizing aroma and depth of flavor. Without this, spices can taste flat or raw, diminishing the dish’s complexity."
+        },
+        {
+            "tip": "Let the dish rest off heat before serving.",
+            "reason": "Resting allows residual steam to finish cooking the rice and lets flavors meld. Serving immediately after cooking can result in wetter rice and less integrated taste."
+        },
+        {
+            "tip": "Fluff the rice gently with a fork.",
+            "reason": "Using a fork to fluff separates the grains without crushing them, preserving a light, airy texture. Stirring vigorously with a spoon can break grains and make the rice mushy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not rinsing the rice",
+            "why_it_happens": "Many cooks skip rinsing to save time or don’t realize how much starch affects texture.",
+            "fix": "Always rinse the rice under cold water until it runs clear to remove excess starch. This prevents clumping and ensures fluffy grains after cooking."
+        },
+        {
+            "mistake": "Lifting the lid during cooking",
+            "why_it_happens": "It’s natural to want to check if it’s done, but this lets steam escape.",
+            "fix": "Trust the cooking time and resist opening the lid. The trapped steam is essential for even rice cooking and moisture retention."
+        },
+        {
+            "mistake": "Overcrowding the pan when searing chicken",
+            "why_it_happens": "Trying to cook everything at once can lower the pan temperature.",
+            "fix": "Sear chicken in batches if needed to ensure proper browning, which adds flavor and texture."
+        },
+        {
+            "mistake": "Using cold broth",
+            "why_it_happens": "Using broth straight from the fridge is convenient but affects cooking.",
+            "fix": "Warm the broth slightly before adding to maintain even cooking temperature and perfect rice texture."
+        },
+        {
+            "mistake": "Stirring the rice during simmering",
+            "why_it_happens": "Some think stirring helps cook rice faster or prevents sticking.",
+            "fix": "Avoid stirring once simmering begins to prevent releasing starch and making rice gummy."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian One Pot Rice with Chickpeas",
+            "description": "Swap chicken for canned chickpeas and use vegetable broth instead. Add extra spices like turmeric and coriander for a vibrant twist. This version is just as hearty and perfect for meat-free meals.",
+            "technical_note": "Cooking time remains similar, but chickpeas don’t need searing. Add them with the rice and broth."
+        },
+        {
+            "name": "Spicy One Pot Chicken and Rice",
+            "description": "Add chopped jalapeños or increase cayenne for more heat. Finish with a squeeze of lime and fresh cilantro to balance the spice with brightness.",
+            "technical_note": "Adjust spice levels carefully to avoid overpowering the dish; add fresh herbs at the end for freshness."
+        },
+        {
+            "name": "Creamy Coconut Chicken and Rice",
+            "description": "Replace half the broth with coconut milk and add a touch of ginger for a creamy, tropical flavor. This version is rich and comforting with a subtle sweetness.",
+            "technical_note": "Simmer gently to prevent coconut milk from curdling; reduce broth slightly to maintain consistency."
+        },
+        {
+            "name": "Herb-Infused One Pot Chicken and Rice",
+            "description": "Add fresh rosemary, thyme, and bay leaf during cooking for a fragrant, herbaceous profile. Remove herbs before serving and garnish with chopped parsley.",
+            "technical_note": "Herbs infuse slowly during simmering; avoid overcooking to keep flavors bright."
+        },
+        {
+            "name": "One Pot Chicken and Rice with Vegetables",
+            "description": "Toss in diced carrots, peas, and bell peppers with the rice for added color and nutrition. This makes the dish more vibrant and balanced.",
+            "technical_note": "Add vegetables that cook quickly to avoid mushiness; stir in peas at the end for best texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "450 kcal",
+        "protein_grams": "32g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit out covered for up to 2 hours. Beyond that, bacteria can grow, so it’s best to refrigerate promptly. Cover tightly with foil or a lid to keep moisture in and prevent drying.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The rice may firm up and dry slightly when cold, so I recommend reheating gently with a splash of broth or water to revive moisture and fluffiness.",
+        "freezer": "Freeze leftovers in airtight containers for up to 2 months. To avoid freezer burn, wrap containers tightly and remove excess air. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of chicken broth or water, stirring occasionally until warmed through. Alternatively, microwave in short bursts covered to retain moisture. Avoid overheating, which can dry out the chicken and rice.",
+        "make_ahead_strategy": "You can prep the chicken and sauté the aromatics a day ahead, then refrigerate separately. Assemble and cook the rice fresh on the day of serving for best texture and flavor. Alternatively, fully cook and refrigerate, then reheat gently before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, you can substitute chicken breasts for thighs, but breasts are leaner and can dry out more easily. To avoid this, sear them quickly and reduce simmering time slightly. Keep an eye on the texture to ensure they stay juicy and tender."
+        },
+        {
+            "question": "What type of rice is best for this recipe?",
+            "answer": "Long grain white rice works best because it cooks up fluffy and separate. Avoid sticky or short grain rice varieties, which can make the dish mushy. Always rinse the rice before cooking to remove excess starch."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! All the ingredients are naturally gluten-free as long as you use gluten-free chicken broth. Always check labels on broth and spices to be sure there are no hidden gluten-containing additives."
+        },
+        {
+            "question": "How do I store leftovers properly?",
+            "answer": "Cool the dish quickly after serving, then transfer to airtight containers. Refrigerate for up to 3 days or freeze for up to 2 months. Reheat gently with a splash of broth to restore moisture and prevent dryness."
+        },
+        {
+            "question": "Can I add vegetables to this one pot meal?",
+            "answer": "Yes, adding quick-cooking vegetables like peas, bell peppers, or diced carrots works great. Add them towards the end of the simmering time to avoid overcooking and maintain their texture and color."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute with regular paprika, but the smoky depth will be less pronounced. Adding a small pinch of chipotle powder or a drop of liquid smoke can help mimic the flavor if you have those on hand."
+        },
+        {
+            "question": "Why do I need to let the dish rest after cooking?",
+            "answer": "Resting off heat allows residual steam to finish cooking the rice evenly and helps flavors meld together. Skipping this step can result in unevenly cooked rice or a wet texture."
+        },
+        {
+            "question": "Can I prepare this recipe in advance?",
+            "answer": "You can prep ingredients like chopping onions, garlic, and chicken a day ahead. Cooking everything fully in advance is possible, but the rice texture is best when freshly made. If reheating, do so gently to preserve moisture."
+        }
+    ],
+    "conclusion": "I hope you give this cozy one pot chicken and rice a try soon—it’s become a favorite in my kitchen for good reason! Don’t forget to share how it turns out for you.",
+    "seo": {
+        "primary_keyword": "one pot chicken and rice",
+        "secondary_keywords": [
+            "easy chicken and rice recipe",
+            "best one pot meals",
+            "how to make chicken and rice",
+            "simple chicken rice dinner",
+            "quick one pot chicken recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Weeknight Chicken Recipes",
+                "anchor": "easy-weeknight-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_5.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_5.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_4.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_4.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_6.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_6.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_8.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_8.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_7.webp",
+            "filePath": "posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_7.webp",
+            "relativePath": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images/one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777223081_190",
+    "slug": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:07+00:00",
+    "updatedAt": "2026-04-26T17:29:07+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "one-pot-party-recipes-recipe-easy-flavorful-and-crowd-pleasing/images"
+}

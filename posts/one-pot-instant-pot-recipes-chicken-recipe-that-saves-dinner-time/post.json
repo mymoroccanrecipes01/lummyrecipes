@@ -1,0 +1,335 @@
+{
+    "title": "One-Pot Instant Pot Chicken Dinner That’s Ready in Under an Hour",
+    "promptIMG": "Food photography: one-pot Instant Pot chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot Instant Pot chicken meal is a total game-changer for busy nights. Tender chicken cooked with simple seasonings and veggies, all in one pot. It’s ready fast and perfect for cozy dinners!",
+    "hashtags": "#InstantPotChicken #OnePotMeal #EasyDinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Cozy Instant Pot Chicken Dinner for Busy Nights",
+            "description": "Whip up this comforting Instant Pot chicken dinner in less than an hour! Tender, juicy, and full of flavor — perfect for those hectic evenings. Save this recipe and try it tonight! 🍗🔥 #EasyDinner #InstantPotMeals #WeeknightCooking"
+        },
+        {
+            "title": "How to Make Tender One-Pot Chicken in Your Instant Pot",
+            "description": "Discover the secret to juicy chicken cooked perfectly in your Instant Pot. This one-pot meal saves you time and dishes! Give it a go and impress your family tonight. 🍽️💛 #OnePotMeals #ChickenDinner #InstantPotRecipes"
+        },
+        {
+            "title": "Family-Friendly Instant Pot Chicken That’s Ready Fast",
+            "description": "Looking for a fuss-free family dinner? This Instant Pot chicken recipe is quick, tender, and packed with flavor. Try it today and enjoy a wholesome meal everyone will love! 🥘❤️ #FamilyDinner #InstantPotChicken #QuickMeals"
+        },
+        {
+            "title": "Simple One-Pot Instant Pot Chicken That Tastes Like Home",
+            "description": "Nothing beats a home-cooked meal, especially one that’s this easy! This one-pot Instant Pot chicken is full of comforting flavors and ready in under an hour. Save it for your next dinner! 🍗🏡 #ComfortFood #EasyChicken #InstantPot"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds boneless, skinless chicken thighs, trimmed",
+        "1 tablespoon olive oil",
+        "1 medium onion, chopped",
+        "3 cloves garlic, minced",
+        "1 cup chicken broth",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon dried thyme",
+        "Salt and pepper, to taste",
+        "2 cups baby potatoes, halved",
+        "1 cup baby carrots",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this one-pot Instant Pot chicken recipe on a hectic weeknight when I desperately needed dinner on the table fast. What I loved immediately was how simple it was—no multiple pans, no fussing with timing. Just throw everything in, set the pressure cooker, and you’re done. Since then, it’s become a go-to in my house whenever I want a comforting meal without spending hours in the kitchen. What sets this version apart is the combination of smoked paprika and thyme, which gives the chicken this subtle smoky, herbaceous flavor that’s so satisfying. Also, using chicken thighs keeps the meat juicy and tender, even under high pressure. One trick I learned is to brown the chicken first in the Instant Pot using the sauté function—that step adds a depth of flavor that you can really taste. When it’s done, the potatoes and carrots are perfectly cooked, soaking up all the savory juices. It’s exactly the kind of dinner that feels like a warm hug after a long day.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Set your Instant Pot to the sauté function and add the olive oil. Once hot, add the chicken thighs in a single layer. Brown them for about 3-4 minutes on each side until they develop a nice golden crust. This browning step is crucial because it creates those flavorful browned bits that add depth to the final dish. Don’t crowd the pot; do this in batches if necessary. Watch carefully so the oil doesn’t burn, and avoid moving the chicken too much so it can form a good sear.",
+            "timing": 8,
+            "doneness_cue": "Golden brown crust on chicken, not gray or pale"
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the browned chicken and set aside. Add the chopped onion and garlic to the pot and sauté for 2-3 minutes until fragrant and translucent. This softens the onion and releases the garlic’s aroma, building the flavor base. Stir frequently to prevent burning, as burnt garlic can taste bitter and ruin the dish.",
+            "timing": 3,
+            "doneness_cue": "Onions translucent and soft, garlic fragrant but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth and use a wooden spoon to scrape up any browned bits stuck to the bottom of the pot. These bits are full of flavor and help prevent the dreaded 'burn' warning on the Instant Pot. Make sure to loosen all the flavorful residue before moving on.",
+            "timing": 2,
+            "doneness_cue": "Pot broth slightly bubbling with no stuck bits"
+        },
+        {
+            "step": 4,
+            "instruction": "Return the chicken thighs to the pot, nestling them into the broth. Sprinkle smoked paprika, dried thyme, salt, and pepper evenly over the chicken. These spices add warmth and complexity, balancing the rich meatiness of the thighs. Season well but adjust salt later if needed.",
+            "timing": 2,
+            "doneness_cue": "Chicken coated evenly with spices"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the halved baby potatoes and baby carrots around and on top of the chicken. These veggies will steam perfectly with the chicken, absorbing the cooking juices. Layering them on top ensures they don’t sit in too much liquid, which keeps their texture intact after pressure cooking.",
+            "timing": 3,
+            "doneness_cue": "Veggies arranged evenly, not crowded"
+        },
+        {
+            "step": 6,
+            "instruction": "Seal the Instant Pot lid and set the valve to the sealing position. Cook on high pressure for 10 minutes. The pressure cooking cooks the chicken and vegetables quickly while keeping everything tender and juicy. Don’t rush this step or release pressure early, or the chicken may be undercooked or the veggies too firm.",
+            "timing": 10,
+            "doneness_cue": "Instant Pot timer completes full 10 minutes"
+        },
+        {
+            "step": 7,
+            "instruction": "Allow the pressure to release naturally for 10 minutes after cooking. This gentle release helps the chicken retain moisture and finish cooking evenly. Quick release here can cause the meat to toughen or the liquid to splatter.",
+            "timing": 10,
+            "doneness_cue": "Pressure indicator drops and lid unlocks easily"
+        },
+        {
+            "step": 8,
+            "instruction": "Carefully open the lid, then use tongs to remove the chicken and vegetables to a serving dish. Give the broth a quick stir and taste for seasoning; add salt or pepper if needed. The broth will be rich and flavorful, perfect for spooning over the chicken or mopping up with bread.",
+            "timing": 3,
+            "doneness_cue": "Chicken tender, veggies soft but not mushy, broth flavorful"
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish with freshly chopped parsley for a pop of color and fresh herbal note. Serve immediately while everything is warm and cozy. This finishing touch brightens the dish and adds a little freshness to balance the rich flavors.",
+            "timing": 2,
+            "doneness_cue": "Parsley bright green and evenly sprinkled"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This One-Pot Instant Pot Chicken",
+        "content": "<p>Pressure cooking is a brilliant technique that traps steam inside a sealed pot, raising the boiling point of water and cooking food faster. For this chicken dish, it means the thighs and vegetables cook evenly and quickly, staying juicy and tender rather than drying out. The sealed environment also concentrates flavors as nothing escapes, making the broth rich and savory.</p><p>Browning the chicken first is a key step. This Maillard reaction creates complex flavor compounds and caramelizes the meat’s surface. Those browned bits stuck to the pot dissolve into the broth, giving the dish a deeper, more satisfying taste. Skipping this step would result in a blander meal.</p><p>The spices—smoked paprika and thyme—work together to complement the chicken’s natural richness. Paprika adds a smoky warmth without heat, while thyme brings a subtle earthy, herbal aroma. Because the pressure cooker seals in all aromas, these spices infuse the entire dish beautifully.</p><p>Vegetables like baby potatoes and carrots are chosen for their ability to withstand pressure cooking without turning to mush. Their starches thicken the broth slightly, giving it body and a comforting texture. The natural sugars in carrots also caramelize slightly during the sauté step, enhancing sweetness and balance.</p>",
+        "ingredient_notes": {
+            "Chicken Thighs": "Look for fresh, boneless, skinless chicken thighs with a pinkish color and firm texture. Thighs are preferred here because their higher fat content keeps the meat moist and tender during pressure cooking, unlike leaner breast meat that can dry out. If using frozen thighs, thaw fully for even cooking. Avoid pre-seasoned or marinated thighs to control flavor balance.",
+            "Smoked Paprika": "Choose a good quality smoked paprika for a subtle smoky flavor that elevates the dish without overpowering. This spice adds warmth and depth, complementing the chicken’s richness. Avoid regular paprika here, as it lacks the smoky notes that make this recipe special. Store in a cool, dark place to preserve its aroma.",
+            "Chicken Broth": "Opt for low-sodium chicken broth so you can control the saltiness in the dish. The broth provides the liquid needed for pressure cooking and infuses flavor into the chicken and vegetables. Homemade broth works beautifully for extra richness, but high-quality store-bought broth is fine. Avoid broth with added herbs or spices to keep flavors clean.",
+            "Baby Potatoes": "Small, waxy baby potatoes hold their shape well during pressure cooking, preventing a mushy texture. Their thin skins also add a rustic feel without needing peeling. Russet potatoes are not ideal here as they break down too much. Halve the potatoes to ensure even cooking and quicker heat penetration.",
+            "Olive Oil": "Use extra virgin olive oil for sautéing to add a fruity, slightly peppery note. The oil helps brown the chicken and soften the onions, which are foundational flavor steps. Avoid oils with low smoke points here, as the sauté step requires medium heat to achieve proper browning without burning."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip browning the chicken before pressure cooking.",
+            "reason": "Browning initiates the Maillard reaction, which creates complex flavors and a richer color. This step adds a depth of taste that can’t be achieved by pressure cooking alone. Without it, the dish risks tasting bland and the broth will lack body."
+        },
+        {
+            "tip": "Use natural pressure release instead of quick release.",
+            "reason": "Allowing the pressure to release naturally lets the meat fibers relax slowly, keeping the chicken tender and juicy. Quick release can shock the meat, making it tough, and cause the liquid to splatter, which is messy and unsafe."
+        },
+        {
+            "tip": "Cut vegetables into uniform sizes.",
+            "reason": "Evenly sized potatoes and carrots ensure they cook at the same rate under pressure. If pieces are too large, they may be undercooked; too small, and they could become mushy. Uniformity gives you perfect texture every time."
+        },
+        {
+            "tip": "Season well but adjust salt after cooking.",
+            "reason": "Salt concentrates during pressure cooking, so it’s better to add a moderate amount at the start and adjust at the end. Over-salting early can’t be fixed later, but you can always add more salt or seasoning after tasting."
+        },
+        {
+            "tip": "Use fresh garlic and onions for the best flavor.",
+            "reason": "Fresh aromatics release vibrant, natural flavors that build the dish’s foundation. Powdered or dried substitutes lack the depth and can make the dish taste flat or artificial."
+        },
+        {
+            "tip": "Deglaze the pot well after sautéing.",
+            "reason": "Scraping up browned bits prevents the Instant Pot from triggering a burn warning and adds rich flavor to the broth. Missing this step can cause the dish to burn or cook unevenly."
+        },
+        {
+            "tip": "Garnish with fresh herbs just before serving.",
+            "reason": "Fresh parsley or other herbs add a bright, fresh contrast to the rich chicken and broth. Adding them too early can cause herbs to wilt and lose their vibrant color and flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step",
+            "why_it_happens": "Many cooks want to save time and skip sautéing, thinking pressure cooking alone is enough.",
+            "fix": "Take the extra 8 minutes to brown chicken; it dramatically improves flavor. Use the sauté function on medium heat, avoid overcrowding, and don’t move the chicken until a crust forms."
+        },
+        {
+            "mistake": "Using quick release pressure too soon",
+            "why_it_happens": "Impatience or fear of overcooking pushes cooks to release pressure immediately.",
+            "fix": "Let the pressure release naturally for at least 10 minutes. This results in juicier chicken and prevents splattering. Plan ahead to allow this time."
+        },
+        {
+            "mistake": "Not deglazing the pot properly",
+            "why_it_happens": "Rushing through after browning or sautéing can leave stuck bits that cause burning.",
+            "fix": "Pour in broth and scrape bottom thoroughly to lift browned bits. This prevents burn errors and adds flavor."
+        },
+        {
+            "mistake": "Uneven vegetable sizes",
+            "why_it_happens": "Cutting vegetables unevenly leads to inconsistent cooking.",
+            "fix": "Cut potatoes and carrots into similar sizes to ensure they cook evenly and hold texture."
+        },
+        {
+            "mistake": "Over-seasoning before cooking",
+            "why_it_happens": "Not accounting for flavor concentration during pressure cooking.",
+            "fix": "Season moderately at first, then taste and adjust salt and spices after cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Instant Pot Chicken",
+            "description": "Add 1 teaspoon Cajun seasoning and a pinch of cayenne pepper with the paprika and thyme for a spicy kick. Swap baby carrots for sliced bell peppers to add sweetness and color. This version has a bold, smoky heat that’s perfect if you like your meals with some zip.",
+            "technical_note": "Spicy seasonings cook well under pressure but be cautious with cayenne to avoid overpowering. Vegetables like bell peppers soften quickly, so slice thinly."
+        },
+        {
+            "name": "Creamy Mushroom Chicken Instant Pot",
+            "description": "Add 1 cup sliced mushrooms and stir in ½ cup heavy cream after pressure cooking for a rich, creamy sauce. This variation turns the dish into a comforting, velvety meal that’s great served over rice or noodles.",
+            "technical_note": "Add cream only after pressure cooking to prevent curdling. Sauté mushrooms with onions for extra flavor before pressure cooking."
+        },
+        {
+            "name": "Mediterranean Instant Pot Chicken",
+            "description": "Swap smoked paprika for oregano and rosemary, add ½ cup chopped sun-dried tomatoes and olives. This gives the dish a bright, herby Mediterranean flair with briny accents, perfect with crusty bread.",
+            "technical_note": "Olives add saltiness; reduce added salt accordingly. Sun-dried tomatoes soften during pressure cooking, infusing flavor."
+        },
+        {
+            "name": "Instant Pot Chicken with Sweet Potatoes",
+            "description": "Replace baby potatoes with cubed sweet potatoes and add a dash of cinnamon with the spices. This variation offers a sweet-savory balance and a vibrant color contrast, ideal for fall dinners.",
+            "technical_note": "Sweet potatoes cook faster; cut into larger pieces to avoid mushiness. Add cinnamon sparingly to complement but not overpower."
+        },
+        {
+            "name": "Herbed Lemon Garlic Instant Pot Chicken",
+            "description": "Add zest and juice of one lemon along with garlic and thyme for a fresh, zesty flavor profile. This brightens the dish and pairs wonderfully with steamed green beans or a simple salad.",
+            "technical_note": "Add lemon juice after pressure cooking to keep fresh brightness. Lemon zest can be added before cooking for subtle aroma."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly. Keep it covered with a lid or plastic wrap to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors deepen but the potatoes may soften further. Reheat gently to avoid drying out the chicken; adding a splash of broth during reheating helps maintain moisture.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge before reheating to preserve texture and flavor.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of chicken broth, stirring occasionally until warmed through. Alternatively, microwave covered in short bursts, stirring in between. Avoid overheating, which can dry out the chicken and toughen vegetables.",
+        "make_ahead_strategy": "You can brown the chicken and sauté the aromatics 1-2 days ahead, storing them separately in the fridge. Assemble all ingredients in the Instant Pot insert the day of cooking and pressure cook fresh for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "You can substitute boneless skinless chicken breasts, but be careful not to overcook them as they dry out faster than thighs. Reduce the pressure cooking time by 2-3 minutes and use natural release to keep them juicy."
+        },
+        {
+            "question": "What if I don’t have an Instant Pot?",
+            "answer": "You can make this recipe on the stovetop in a heavy pot or Dutch oven. Brown the chicken and sauté aromatics, then add broth and vegetables. Simmer covered on low heat for about 40 minutes until chicken is cooked and veggies are tender."
+        },
+        {
+            "question": "How do I avoid the burn warning on the Instant Pot?",
+            "answer": "Always deglaze the pot after browning by scraping up browned bits with broth before pressure cooking. This prevents food from sticking to the bottom and triggering the burn alert."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Yes! Green beans, bell peppers, or zucchini can be added but add more delicate veggies after pressure cooking to avoid them becoming mushy."
+        },
+        {
+            "question": "Is it okay to freeze leftovers?",
+            "answer": "Absolutely. Freeze in airtight containers for up to 3 months. Thaw in the fridge overnight and reheat gently to preserve texture."
+        },
+        {
+            "question": "Can I make this recipe spicy?",
+            "answer": "Definitely! Add cayenne pepper or hot paprika with the other spices to your preferred heat level. Just be careful not to overpower the dish."
+        },
+        {
+            "question": "Why is browning chicken important?",
+            "answer": "Browning creates complex flavors through the Maillard reaction, which pressure cooking alone can’t achieve. It also improves the color and depth of the final dish."
+        },
+        {
+            "question": "How do I know when the chicken is done?",
+            "answer": "The Instant Pot timing is designed to fully cook the chicken thighs. They should be fork-tender and reach an internal temperature of 165°F. The vegetables should also be tender but not mushy."
+        }
+    ],
+    "conclusion": "I hope you give this one-pot Instant Pot chicken a try soon—it’s truly a lifesaver on busy days. Don’t forget to share how it turns out, I’d love to hear your thoughts!",
+    "seo": {
+        "primary_keyword": "one pot instant pot chicken",
+        "secondary_keywords": [
+            "easy instant pot chicken recipe",
+            "quick pressure cooker chicken",
+            "how to make instant pot chicken",
+            "best one pot chicken dinner",
+            "simple instant pot meals"
+        ],
+        "internal_links": [
+            {
+                "text": "pressure cooking basics",
+                "anchor": "pressure-cooking-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_6.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_6.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_4.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_4.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_8.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_8.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_7.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_7.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_5.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_5.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777221905_606",
+    "slug": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:07+00:00",
+    "updatedAt": "2026-04-26T17:29:07+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images"
+}

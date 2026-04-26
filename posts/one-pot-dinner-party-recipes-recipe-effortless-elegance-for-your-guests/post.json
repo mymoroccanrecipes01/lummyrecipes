@@ -1,0 +1,336 @@
+{
+    "title": "One-Pot Dinner Party Chicken with Herbs and Veggies",
+    "promptIMG": "Food photography: One-Pot Dinner Party Chicken with Herbs and Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot chicken dinner is pure magic—simple ingredients, cooked together to build cozy, rich flavors. The secret? Slow simmering with fresh herbs that makes it perfect for relaxed dinners with friends or family.",
+    "hashtags": "#onepotmeal #dinnerparty #easychickenrecipe",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "How to Make the Best One-Pot Chicken Dinner Ever",
+            "description": "Looking for a fuss-free dinner that tastes like you spent hours? This one-pot chicken recipe is your new go-to. Packed with herbs and veggies, it’s cozy and comforting. Save this for your next get-together! 🍗🌿 #onepotmeal #easyrecipes #comfortfood"
+        },
+        {
+            "title": "Impress Guests with This Simple One-Pot Chicken Dish",
+            "description": "Hosting a dinner but short on time? Try this one-pot chicken with fresh herbs and veggies. It’s flavorful, easy, and cleanup is a breeze! Try it today and wow your guests. 🍽️✨ #dinnerparty #easychicken #weeknightdinner"
+        },
+        {
+            "title": "Cozy Up with This Flavor-Packed One-Pot Chicken Dinner",
+            "description": "Nothing beats a warm, hearty meal that’s easy to make. This one-pot chicken dinner is loaded with herbs and vegetables for a comforting, rich flavor. Perfect for chilly nights—give it a try! 🍲❤️ #comfortfood #onepotmeal #easychicken"
+        },
+        {
+            "title": "Easy One-Pot Chicken Dinner for Busy Weeknights",
+            "description": "Need an easy dinner that feels special? This one-pot chicken with herbs and veggies comes together fast and tastes incredible. Minimal effort, maximum flavor—discover it now! 🥘👌 #weeknightmeals #easyrecipes #chickendinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 bone-in, skin-on chicken thighs, about 1.5 lbs",
+        "1 tablespoon olive oil",
+        "1 medium onion, sliced",
+        "3 cloves garlic, minced",
+        "2 medium carrots, peeled and sliced",
+        "1 cup baby potatoes, halved",
+        "1 cup green beans, trimmed",
+        "1 cup chicken broth",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried rosemary",
+        "Salt and pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one-pot chicken dinner during a hectic week when I wanted something impressive but manageable for friends coming over. What I love about this recipe is how it combines simple pantry staples and fresh herbs to create something that tastes so much more complex than the effort it takes. It’s not just a quick fix; it’s a cozy, satisfying meal that fills your kitchen with the most inviting aromas. The trick I learned early on was searing the chicken skin first to lock in flavor and then simmering everything together so the veggies soak up all those juices. The finished dish is tender, juicy chicken with perfectly cooked veggies, all in one pot for easy cleanup. It’s become my go-to for casual dinner parties or family nights when I want to relax and not fuss over multiple pans. Plus, it’s forgiving if you need to adjust veggies or herbs based on what you have, which makes it feel like a recipe you can really make your own.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large heavy-bottomed pot over medium-high heat. Once hot, add the chicken thighs skin-side down. Searing the chicken first is crucial because it locks in the juices and creates that beautiful golden-brown crust that adds flavor and texture. Don’t rush this step—let the skin crisp up nicely without moving the pieces around too much. It usually takes about 5-7 minutes. Watch for a rich golden color and some resistance when you try to lift the chicken, which means it’s ready to flip.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken skin is golden brown and releases easily from the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Flip the chicken thighs and cook the other side for 3 minutes. Then remove the chicken and set aside. This step ensures even cooking and that the chicken stays juicy. The initial sear creates the base flavor, so don't skip it. Removing the chicken now frees up space to sauté the veggies without crowding the pan, which helps them cook evenly and develop flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Second side is lightly browned and chicken is partially cooked"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the sliced onions to the pot and sauté over medium heat until soft and translucent, about 5 minutes. Stir occasionally to prevent burning. Cooking the onions slowly releases their natural sugars, adding sweetness and depth to the dish. Don’t rush here—if the heat is too high, they’ll brown unevenly or burn, which can add bitterness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are soft, translucent, and slightly golden at edges"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the minced garlic and cook for 1 minute until fragrant. Garlic cooks quickly and can burn easily, which turns it bitter, so keep an eye on it and stir constantly. This short cook time is just enough to release those amazing aromas that build the base flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant but not browned"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the carrots, baby potatoes, and green beans to the pot. Stir to combine with the onions and garlic. These veggies bring texture and color, plus they soak up the flavorful broth. Cutting them into similar-sized pieces ensures they cook evenly. Don’t overcrowd the pot; if necessary, reduce quantities or cook in batches.",
+            "timing": "3 minutes",
+            "doneness_cue": "Vegetables are mixed well and start to soften slightly"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour in the chicken broth and sprinkle the dried thyme and rosemary over the top. Season with salt and pepper. The broth will steam and simmer the ingredients, melding flavors together. Herbs like thyme and rosemary add a fresh, earthy note that complements the chicken beautifully. Stir gently to distribute everything evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Broth covers veggies partially, herbs are visible and evenly spread"
+        },
+        {
+            "step": 7,
+            "instruction": "Return the chicken thighs to the pot, skin-side up, nestling them on top of the vegetables. Keeping the skin up helps it stay somewhat crispy during simmering. Cover the pot with a tight-fitting lid and reduce the heat to low. Simmer gently for 25 minutes. This slow cooking lets the chicken finish cooking through and allows the veggies to absorb all those rich flavors.",
+            "timing": "25 minutes",
+            "doneness_cue": "Chicken is cooked through, veggies are tender, broth is fragrant"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the lid and increase heat to medium-high for the last 5 minutes to slightly reduce the broth if it seems too watery. This concentrates the flavors and thickens the sauce a bit. Keep an eye on it and stir occasionally to prevent sticking or burning at the bottom.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broth thickens slightly and coats the back of a spoon"
+        },
+        {
+            "step": 9,
+            "instruction": "Sprinkle chopped fresh parsley over the dish before serving. This adds a pop of color and a fresh, bright flavor that balances the richness. Serve straight from the pot for a rustic, comforting presentation. Enjoy warm with crusty bread or a simple side salad.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh parsley sprinkled and vibrant green"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Chicken Dinner Works So Well",
+        "content": "<p>This recipe succeeds because it layers flavors through careful technique and ingredient synergy. First, searing the chicken skin creates Maillard reactions, those browning reactions that develop complex, savory flavors and a crispy texture. This step is essential to avoid bland, boiled chicken and adds a delicious base to the dish.</p><p>Next, sautéing the onions slowly breaks down their sugars and softens their texture, creating a sweet, mellow foundation that complements the garlic’s pungency. Adding fresh herbs like thyme and rosemary during the simmering step infuses the broth with aromatic oils, enhancing the overall depth without overpowering.</p><p>The choice of vegetables—carrots, baby potatoes, and green beans—balances texture and flavor. Potatoes bring creaminess when cooked through, carrots add subtle sweetness, and green beans offer a slight snap, preventing the dish from becoming mushy. Simmering everything together allows the broth to thicken slightly as starches release from the potatoes, binding the flavors and creating a comforting sauce.</p><p>Finally, finishing with fresh parsley brightens the plate visually and flavor-wise, cutting through the richness with a fresh herbal note. The one-pot method minimizes cleanup and allows all flavors to meld beautifully, making this recipe both practical and delicious.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Bone-in, skin-on chicken thighs are ideal because they stay juicy and flavorful during cooking. The skin crisps up when seared, adding texture, while the bone helps retain moisture and deepen flavor. Avoid boneless or skinless for this recipe, as they don’t develop the same richness and tend to dry out faster.",
+            "olive oil": "Use a good-quality extra virgin olive oil for searing the chicken. Its moderate smoke point works well for this recipe’s medium-high heat, and it adds a subtle fruity flavor. Avoid using oils with very low smoke points, which can burn and impart bitterness.",
+            "fresh herbs (thyme & rosemary)": "Fresh or dried thyme and rosemary bring a fragrant, earthy aroma that complements chicken perfectly. Fresh herbs offer brighter flavor, but dried are more concentrated and work well if fresh aren’t available. Avoid overpowering quantities; a teaspoon of each balances the dish without overwhelming it.",
+            "vegetables (carrots, baby potatoes, green beans)": "Choosing baby potatoes ensures even cooking and a creamy texture without falling apart. Carrots add natural sweetness, balancing savory notes, and green beans provide a fresh snap. Uniform slicing helps all vegetables cook evenly. Feel free to swap veggies based on seasonality, but adjust cooking times accordingly.",
+            "chicken broth": "Use a low-sodium, good-quality chicken broth or stock to control salt levels and add rich umami flavor. Homemade broth adds extra depth but store-bought works fine. Avoid broth with artificial flavors or excessive salt, as it can mask the delicate balance of herbs and chicken."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken dry before searing.",
+            "reason": "Removing moisture from the chicken skin ensures it crisps up properly during searing. If the skin is wet, it will steam instead of brown, resulting in a soggy texture and less flavor development."
+        },
+        {
+            "tip": "Don’t overcrowd the pot when searing chicken.",
+            "reason": "Crowding traps steam and prevents the skin from crisping. Sear in batches if necessary to get a nice golden crust on each piece, which adds flavor and texture."
+        },
+        {
+            "tip": "Use a heavy-bottomed pot or Dutch oven.",
+            "reason": "This ensures even heat distribution and prevents hot spots that can burn ingredients. A heavy pot also retains heat well during simmering, promoting gentle, even cooking."
+        },
+        {
+            "tip": "Simmer gently with the lid on.",
+            "reason": "A low simmer allows chicken to cook through without drying out and lets flavors meld slowly. Boiling or cooking uncovered too soon can dry out meat and cause uneven cooking."
+        },
+        {
+            "tip": "Add fresh herbs at the end if possible.",
+            "reason": "Fresh herbs added at the end preserve their bright flavors and vibrant color. Dried herbs are better for cooking during simmering to release their oils gradually."
+        },
+        {
+            "tip": "Use a wooden spoon to stir vegetables gently.",
+            "reason": "Wooden spoons are gentle on the pot surface and won’t bruise delicate vegetables. Stirring carefully prevents breaking the veggies, keeping texture intact."
+        },
+        {
+            "tip": "Let the dish rest a few minutes before serving.",
+            "reason": "Resting allows juices to redistribute within the chicken and the sauce to thicken slightly, enhancing flavor and texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear on chicken skin.",
+            "why_it_happens": "Sometimes cooks want to save time or avoid the extra step, thinking the simmer will cook everything fine.",
+            "fix": "Always sear chicken skin first over medium-high heat without moving it too soon. This creates flavor and texture that simmering alone can’t achieve."
+        },
+        {
+            "mistake": "Cooking on too high heat when simmering.",
+            "why_it_happens": "In a rush, cooks might crank heat to speed up cooking.",
+            "fix": "Reduce heat to low once broth is added to prevent tough chicken and mushy vegetables. Slow simmering ensures tenderness and flavor melding."
+        },
+        {
+            "mistake": "Not drying chicken before searing.",
+            "why_it_happens": "Overlooking this step or short on prep time.",
+            "fix": "Pat chicken dry with paper towels to get a good crisp on the skin and avoid steaming."
+        },
+        {
+            "mistake": "Adding too much liquid at once.",
+            "why_it_happens": "Trying to cover all ingredients fully without considering evaporation.",
+            "fix": "Add enough broth to partially cover veggies; you can always add more later. Too much liquid dilutes flavors and prevents sauce from thickening."
+        },
+        {
+            "mistake": "Overcooking vegetables.",
+            "why_it_happens": "Not cutting veggies uniformly or cooking too long.",
+            "fix": "Cut vegetables into similar sizes and keep an eye on texture during simmering to prevent mushiness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy One-Pot Chicken",
+            "description": "Add a teaspoon of smoked paprika and a pinch of cayenne pepper to the broth for a smoky heat twist. Swap green beans for bell peppers for extra color and sweetness. Expect a slightly bolder flavor and a vibrant, colorful dish.",
+            "technical_note": "Spices may darken broth color; adjust heat level to taste to avoid overpowering delicate flavors."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Use lemon slices, olives, and a handful of chopped sun-dried tomatoes. Replace rosemary with oregano and add a splash of white wine to the broth. This variation offers bright, tangy notes with a Mediterranean flair.",
+            "technical_note": "Add lemon slices on top before simmering to infuse subtle citrus aroma without bitterness."
+        },
+        {
+            "name": "Creamy One-Pot Chicken",
+            "description": "Stir in ½ cup heavy cream or coconut milk toward the end of cooking for a rich, velvety sauce. Use mushrooms instead of green beans for earthiness. The result is a comforting, creamy dish with a silky texture.",
+            "technical_note": "Add cream off heat to avoid curdling and stir gently to combine."
+        },
+        {
+            "name": "Vegetarian Version",
+            "description": "Skip the chicken and double the vegetables—add zucchini, bell peppers, and chickpeas for protein. Use vegetable broth and increase herbs for flavor. Expect a hearty, plant-based one-pot meal that’s just as satisfying.",
+            "technical_note": "Adjust cooking times since vegetables cook faster; add chickpeas towards the end to avoid mushiness."
+        },
+        {
+            "name": "Asian-Inspired One-Pot Chicken",
+            "description": "Swap herbs for ginger and lemongrass, add soy sauce and a drizzle of sesame oil. Include bok choy and snap peas instead of green beans. This version gives a fragrant, umami-packed twist to the classic recipe.",
+            "technical_note": "Add soy sauce gradually to control saltiness and finish with fresh cilantro for brightness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours. Cover it loosely with foil or a clean kitchen towel to keep debris out. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. Flavors may deepen overnight, but the chicken skin will lose crispness. Reheat gently to avoid drying out the meat; the dish can be served warm or at room temperature.",
+        "freezer": "Freeze in a sealed container or heavy-duty freezer bag for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating. Texture may soften slightly but flavors remain intact.",
+        "reheating": "Reheat on the stovetop over low heat, adding a splash of broth or water to loosen the sauce if needed. Alternatively, microwave in short bursts, stirring occasionally. Avoid overheating to keep chicken tender and prevent drying.",
+        "make_ahead_strategy": "You can prepare the chicken and vegetables and keep them refrigerated separately for up to 2 days. Assemble and simmer the dish on the day of serving for best freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use boneless chicken breasts instead of thighs?",
+            "answer": "You can, but boneless breasts cook faster and can dry out easily. If using breasts, reduce simmer time and watch closely. Searing is still helpful for flavor, but the texture will be less rich than with thighs."
+        },
+        {
+            "question": "What can I substitute for green beans?",
+            "answer": "Snap peas, asparagus, or broccoli florets work well as substitutes. Just add firmer vegetables earlier in cooking and delicate ones toward the end to maintain texture."
+        },
+        {
+            "question": "How do I make this recipe spicier?",
+            "answer": "Add chili flakes, cayenne pepper, or a diced jalapeño when sautéing the onions and garlic. Start with small amounts and adjust to your heat preference to avoid overpowering the dish."
+        },
+        {
+            "question": "Can I make this recipe in a slow cooker?",
+            "answer": "Yes! Sear the chicken first, then add all ingredients to the slow cooker. Cook on low for 4-6 hours or high for 2-3 hours. The texture will be softer, especially the vegetables, so adjust cooking times accordingly."
+        },
+        {
+            "question": "What if I don’t have fresh parsley?",
+            "answer": "Dried parsley can be used but add it earlier in cooking to allow flavor release. Alternatively, fresh basil or cilantro can provide a different but fresh herbal note."
+        },
+        {
+            "question": "Is it okay to use water instead of chicken broth?",
+            "answer": "Water can be used, but the dish will lack depth and umami. To compensate, add extra herbs, garlic, or a splash of soy sauce or bouillon for flavor."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "The chicken is done when it reaches an internal temperature of 165°F (74°C) and the juices run clear. The meat should feel tender and not rubbery. Using a meat thermometer is the most accurate method."
+        },
+        {
+            "question": "Can I add rice or pasta to this one-pot meal?",
+            "answer": "You can add rice or small pasta, but adjust liquid quantities and cooking times. Add rice with the broth early on; pasta should be added later to avoid overcooking. Keep an eye on texture to prevent mushiness."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this cozy one-pot chicken dinner as much as I do. Let me know how it turns out and what twists you try!",
+    "seo": {
+        "primary_keyword": "one pot chicken dinner",
+        "secondary_keywords": [
+            "easy one pot chicken",
+            "one pot dinner recipe",
+            "how to make one pot chicken",
+            "best one pot chicken recipe",
+            "easy chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "Simple Garlic Herb Roasted Chicken",
+                "anchor": "garlic-herb-roasted-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_8.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_8.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_4.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_4.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_7.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_7.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_6.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_6.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_5.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_5.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777223305_930",
+    "slug": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:07+00:00",
+    "updatedAt": "2026-04-26T17:29:07+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images"
+}
