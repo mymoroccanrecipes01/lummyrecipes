@@ -1,0 +1,334 @@
+{
+    "title": "The Ultimate Gooey Sheet Pan Cookie with a Touch of Sea Salt",
+    "promptIMG": "Food photography: gooey sheet pan cookie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This giant sheet pan cookie is pure joy—crispy on the edges, melty in the center, and that sprinkle of sea salt? Game changer. Perfect for sharing at any party or cozy family night.",
+    "hashtags": "#sheetpancookie #dessertlover #familydessert",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "How to Make the Best Gooey Sheet Pan Cookie Ever",
+            "description": "You won’t believe how easy this sheet pan cookie is to make and how delicious it turns out! Crispy edges, soft middle, and a hint of sea salt that takes it over the top. Save this recipe for your next party 🍪✨ #sheetpancookie #dessertrecipe #bakingfun"
+        },
+        {
+            "title": "Big, Gooey Cookie Recipe Perfect for Sharing",
+            "description": "Looking for a dessert that feeds a crowd? This gooey sheet pan cookie is your answer! It’s buttery, chocolatey, and salty-sweet all at once. Try it today and watch everyone swoon 😍🍫 #dessertideas #cookieparty #easybaking"
+        },
+        {
+            "title": "Easy Sheet Pan Cookie with Sea Salt Finish You’ll Love",
+            "description": "This recipe is a total winner—simple to make and seriously addictive. The sea salt sprinkle adds a perfect flavor contrast. Trust me, you’ll want to make this again and again. Discover the secret now! 🧂🍪 #sheetpancookie #dessertlove #familyfavorite"
+        },
+        {
+            "title": "Perfect Crowd-Pleasing Sheet Pan Cookie for Any Occasion",
+            "description": "Hosting a get-together? This gooey sheet pan cookie is exactly what you need. Crispy edges meet a soft, melty center, topped with a little sea salt for that wow factor. Save it and bake it soon! 🎉🍪 #partyfood #easyrecipe #cookiecravings"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "2 1/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, melted and slightly cooled",
+        "1 cup packed brown sugar",
+        "1/2 cup granulated sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 cups semisweet chocolate chips",
+        "Flaky sea salt, for sprinkling"
+    ],
+    "yield": "One 9x13 inch sheet pan cookie, approximately 12 servings",
+    "introduction": "I first made this sheet pan cookie a few years ago when I needed an easy dessert for a big family gathering. It was a hit from the start! The best part is how it manages to be crispy around the edges but incredibly gooey and soft in the center. Unlike regular cookies, baking it in a sheet pan means you get those perfect contrasting textures in every bite. I love sprinkling flaky sea salt on top right after baking—it adds this subtle salty crunch that balances the sweetness beautifully. The trick I learned is to melt the butter instead of creaming it; this helps the cookie spread evenly and stay chewy. Plus, mixing the sugars gives a richer flavor and better texture. When it comes out of the oven, it looks a bit underbaked, but that’s exactly what you want—let it cool slightly and it firms up just enough while keeping that irresistible gooeyness. It’s become my go-to for parties and casual get-togethers because it’s so simple yet feels special. Honestly, it’s like the ultimate comfort dessert that everyone asks for again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Line a 9x13 inch baking pan with parchment paper or lightly grease it to prevent sticking. This step ensures even cooking and easy removal of the cookie once baked. Lining with parchment also helps catch any butter that might bubble out, avoiding messy cleanups.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated to 350°F and pan fully prepared"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, and salt. Mixing these dry ingredients first ensures even distribution of the leavening and seasoning agents, which is crucial for a consistent texture and flavor throughout the cookie.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients fully combined with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, combine the melted butter, brown sugar, and granulated sugar. Stir until the mixture is smooth and glossy. Using melted butter instead of softened butter helps the cookie spread evenly and results in a chewier texture. The sugars dissolve better, giving a richer flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sugar and butter mixture is smooth with no graininess"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time to the butter and sugar mixture, beating well after each addition. This helps incorporate air for a lighter texture while ensuring the eggs are fully blended. Then, stir in the vanilla extract for that warm, comforting aroma that makes this cookie special.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth, slightly thickened, and glossy"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients into the wet ingredients, folding gently with a spatula until just combined. Avoid overmixing here to keep the cookie tender and prevent it from becoming tough. You want to see a few streaks of flour before folding them in completely to avoid overworking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough is cohesive with no dry flour patches"
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough. This ensures you get chocolate in every bite. Be gentle to keep the dough light and avoid overmixing, which can affect texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chocolate chips are evenly distributed without clumping"
+        },
+        {
+            "step": 7,
+            "instruction": "Spread the cookie dough evenly into the prepared baking pan, smoothing the top with a spatula. An even layer helps the cookie bake uniformly, so you get that perfect crispy edge all around and gooey center. Don’t press the dough down too hard; keep it airy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough is evenly spread and smooth on top"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 25 to 30 minutes. Start checking around 25 minutes by inserting a toothpick near the center; it should come out with a few moist crumbs but not wet batter. The edges should be golden brown, signaling that crispy texture is forming while the center remains soft.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges are golden, center looks set but slightly soft"
+        },
+        {
+            "step": 9,
+            "instruction": "Once out of the oven, immediately sprinkle flaky sea salt evenly over the warm cookie. This little touch adds a burst of flavor that balances the sweetness perfectly. Let the cookie cool in the pan for at least 15 minutes before slicing to allow it to set up without losing gooeyness.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cookie has cooled slightly, salt adheres, and edges firm up"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Gooey Sheet Pan Cookie",
+        "content": "<p>What makes this sheet pan cookie so irresistible is the balance of texture and flavor achieved through a few key techniques. Melting the butter instead of creaming it changes the chemistry of the dough. Melted butter coats the flour proteins differently, resulting in a denser, chewier cookie rather than a cakey one. It also helps the cookie spread evenly in the pan, creating those delicious crispy edges.</p><p>The combination of brown and granulated sugar is another crucial factor. Brown sugar contains molasses, which adds moisture and acidity, contributing to the chewiness and deeper flavor. Granulated sugar helps with the crisp edges and overall structure. Together, they create that perfect tender yet slightly crunchy bite.</p><p>Using a sheet pan instead of individual cookies changes the baking dynamics. The cookie bakes as one large slab, allowing the edges to caramelize and crisp while the center stays soft and gooey. This contrast is enhanced by the sea salt sprinkled on top, which cuts through the sweetness and highlights the chocolate chips.</p><p>Finally, the timing is essential. Removing the cookie while the center is still slightly underbaked ensures it won’t dry out. As it cools, it firms up just enough to slice cleanly but retains that melt-in-your-mouth softness that makes it so addictive.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-11%). This ensures enough gluten development for structure but not so much that the cookie becomes tough. Sifting the flour helps aerate it, making it easier to mix and yielding a lighter cookie texture.",
+            "unsalted butter": "Use unsalted butter to control salt levels precisely, especially since sea salt is added later. Melting the butter changes its fat crystallization, which affects spread and chewiness in the cookie. Let it cool slightly after melting to avoid cooking the eggs when mixed.",
+            "brown sugar": "Packed brown sugar adds moisture and a rich, caramel-like flavor from its molasses content. It also contributes to the chewy texture that contrasts nicely with the crispy edges. Make sure it’s fresh to avoid clumps and uneven sweetness.",
+            "baking soda": "Baking soda acts as a leavening agent and helps with browning through the Maillard reaction. It raises the pH slightly, which enhances color and flavor development. Too much can cause a metallic taste, so precise measurement is important.",
+            "flaky sea salt": "Flaky sea salt is essential for the final touch. Its coarse crystals provide bursts of saltiness and a slight crunch, balancing the cookie’s sweetness. Avoid fine salt here as it would dissolve too quickly and lose its textural impact."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Let the melted butter cool before mixing with eggs.",
+            "reason": "If the butter is too hot, it can cook the eggs prematurely, causing curdling and a grainy texture. Cooling the butter ensures a smooth, even batter and proper emulsification, which affects the cookie’s final texture."
+        },
+        {
+            "tip": "Don’t overmix when combining wet and dry ingredients.",
+            "reason": "Overmixing activates gluten excessively, making the cookie tough instead of tender. Folding gently until just combined keeps the dough light and results in a soft, chewy cookie."
+        },
+        {
+            "tip": "Use parchment paper to line your baking pan.",
+            "reason": "Parchment prevents sticking and makes cleanup a breeze. It also promotes even baking by insulating the bottom of the cookie and preventing over-browning."
+        },
+        {
+            "tip": "Sprinkle sea salt immediately after baking while the cookie is hot.",
+            "reason": "The residual heat helps the salt crystals stick and slightly dissolve, creating a perfect balance of salty and sweet flavors with a pleasant crunch."
+        },
+        {
+            "tip": "Cool the cookie in the pan before slicing.",
+            "reason": "Cutting too soon can cause the cookie to crumble or fall apart. Cooling allows the interior to set just enough to hold together without losing that gooey texture."
+        },
+        {
+            "tip": "Use a sharp knife or pizza cutter for clean slices.",
+            "reason": "A dull blade will drag and tear the cookie, ruining the presentation. A sharp tool helps maintain neat edges and prevents crumbling."
+        },
+        {
+            "tip": "Store leftovers in an airtight container at room temperature.",
+            "reason": "This keeps the cookie soft and chewy. Refrigeration can dry it out, and freezing requires careful thawing to preserve texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using hot melted butter directly with eggs",
+            "why_it_happens": "Sometimes in a rush, cooks add butter immediately after melting without cooling it first, thinking it saves time.",
+            "fix": "Always let melted butter cool to warm or room temperature before combining with eggs. This prevents the eggs from cooking and curdling, ensuring a smooth batter and better cookie texture."
+        },
+        {
+            "mistake": "Overmixing dough after adding flour",
+            "why_it_happens": "People often think thorough mixing is necessary for even flavor and texture.",
+            "fix": "Mix just until the flour disappears to avoid developing too much gluten, which can make cookies tough instead of tender and chewy."
+        },
+        {
+            "mistake": "Skipping the sea salt topping",
+            "why_it_happens": "Some might omit it thinking it’s unnecessary or too much work.",
+            "fix": "Don’t skip the flaky sea salt—it adds essential flavor contrast and crunch that elevates the cookie from ordinary to extraordinary."
+        },
+        {
+            "mistake": "Baking too long for a dry cookie",
+            "why_it_happens": "Waiting for the cookie to look fully set can lead to overbaking.",
+            "fix": "Remove the cookie when the center still looks slightly underbaked; it will continue to set as it cools, keeping it soft and gooey."
+        },
+        {
+            "mistake": "Not lining the pan with parchment",
+            "why_it_happens": "Some assume greasing is enough or don’t want to bother with parchment.",
+            "fix": "Use parchment paper for even baking and easy removal. It prevents sticking and helps maintain the cookie’s perfect texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Chocolate Chunk Sheet Pan Cookie",
+            "description": "Add 1 cup chopped toasted walnuts or pecans along with the chocolate chips for extra crunch and a nutty flavor twist. Toasting the nuts beforehand enhances their aroma and flavor, making the cookie even more irresistible.",
+            "technical_note": "Mix nuts in with the chocolate chips and spread dough evenly. Baking time remains the same, but watch for edges to avoid burning due to added nuts."
+        },
+        {
+            "name": "Salted Caramel Sheet Pan Cookie",
+            "description": "Drizzle homemade or store-bought caramel sauce over the cookie right after baking, then sprinkle with sea salt. This adds gooey caramel pockets and amplifies the salty-sweet balance, making each bite decadently rich.",
+            "technical_note": "Add caramel just after baking and before cooling to allow it to set slightly without melting off the cookie."
+        },
+        {
+            "name": "Double Chocolate Sheet Pan Cookie",
+            "description": "Swap half the flour for unsweetened cocoa powder and use dark chocolate chips to make a rich, fudgy chocolate version. This variation is perfect for serious chocolate lovers craving an intense, gooey treat.",
+            "technical_note": "Add cocoa powder with dry ingredients. Dough will be thicker; spread carefully to maintain even baking."
+        },
+        {
+            "name": "Peanut Butter Swirl Sheet Pan Cookie",
+            "description": "Drop dollops of peanut butter on top of the spread dough and swirl gently with a knife before baking. This adds a creamy, nutty layer that pairs beautifully with chocolate chips for a classic flavor combo.",
+            "technical_note": "Swirl peanut butter lightly to avoid overmixing; bake as usual."
+        },
+        {
+            "name": "Vegan Sheet Pan Cookie",
+            "description": "Use coconut oil instead of butter, flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg), and dairy-free chocolate chips. This version keeps the gooey texture and rich flavor while accommodating plant-based diets.",
+            "technical_note": "Chill dough slightly before spreading to help it hold together, as vegan dough can be softer."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "16g",
+        "fiber_grams": "2g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the sheet pan cookie covered tightly with plastic wrap or in an airtight container at room temperature for up to 2 days. This keeps the cookie soft and fresh. Avoid leaving it uncovered to prevent drying out.",
+        "refrigerator": "You can refrigerate leftovers for up to 5 days in an airtight container. The cookie may firm up and lose some gooeyness, so warm slices briefly in the microwave or oven before serving to revive softness.",
+        "freezer": "Freeze individual slices wrapped tightly in plastic wrap and placed in a freezer-safe bag for up to 3 months. To thaw, leave at room temperature for an hour or microwave briefly. Reheating restores texture better than eating cold from the freezer.",
+        "reheating": "Reheat slices in a 350°F oven for 5-7 minutes or microwave for 20-30 seconds with a small splash of water on a paper towel to keep moist. Avoid overheating, which can dry the cookie out.",
+        "make_ahead_strategy": "You can prepare the dough a day ahead and refrigerate it tightly wrapped. Spread it into the pan right before baking to maintain freshness. This saves time on busy days and still delivers that fresh-baked taste."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, you can use salted butter but reduce or skip adding extra salt in the dough since the sea salt topping adds saltiness too. Using salted butter may slightly alter the flavor balance, so taste the dough if you can before baking."
+        },
+        {
+            "question": "Why is my cookie too cakey instead of gooey?",
+            "answer": "This often happens if you use too much flour, overmix the dough, or bake it too long. Make sure to measure flour correctly by spooning it into your cup and leveling it off. Also, remove the cookie from the oven when the center is still slightly underbaked for best gooey texture."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes, substitute the all-purpose flour with a gluten-free baking blend that includes xanthan gum for structure. The texture may be slightly different but still delicious. Avoid overmixing to keep it tender."
+        },
+        {
+            "question": "How do I store leftovers to keep them soft?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days. Adding a slice of bread in the container helps maintain moisture. Refrigeration tends to dry the cookie out, but warming slices before serving can help."
+        },
+        {
+            "question": "Can I add nuts or other mix-ins?",
+            "answer": "Absolutely! Chopped nuts, dried fruit, or different types of chocolate chips work great. Just fold them into the dough along with the chocolate chips and adjust baking time slightly if needed."
+        },
+        {
+            "question": "Why is the cookie spreading too much?",
+            "answer": "Too much melted butter or warm dough can cause excessive spreading. Chill the dough briefly before spreading if your kitchen is warm, and measure butter carefully to avoid this issue."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, use plant-based butter or coconut oil and replace eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg). Use dairy-free chocolate chips. The texture will be slightly different but still tasty and gooey."
+        },
+        {
+            "question": "What’s the best way to cut the cookie?",
+            "answer": "Use a sharp knife or pizza cutter after the cookie has cooled for at least 15 minutes. Warm the blade under hot water and dry it before slicing for cleaner cuts."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this gooey sheet pan cookie as much as my family does. Don’t forget to sprinkle on that sea salt—it really makes all the difference! Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "gooey sheet pan cookie",
+        "secondary_keywords": [
+            "sheet pan cookie recipe",
+            "easy sheet pan dessert",
+            "how to make sheet pan cookie",
+            "best sheet pan cookie recipe",
+            "easy gooey cookie"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_1.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_2.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_3.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_6.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_6.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_7.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_7.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_8.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_8.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_5.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_5.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_4.webp",
+            "filePath": "posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_4.webp",
+            "relativePath": "full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/full-sheet-pan-dessert-recipes-that-wow-every-time/images/full-sheet-pan-dessert-recipes-that-wow-every-time_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383459_170",
+    "slug": "full-sheet-pan-dessert-recipes-that-wow-every-time",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:41+00:00",
+    "updatedAt": "2026-04-28T13:46:41+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "full-sheet-pan-dessert-recipes-that-wow-every-time/images"
+}
