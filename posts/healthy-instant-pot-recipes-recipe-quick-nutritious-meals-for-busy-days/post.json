@@ -287,13 +287,49 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_8.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_8.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_6.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_6.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_7.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_7.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_5.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_5.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_4.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_4.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_LummyRecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "id": "post_1778072410_897",
     "slug": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days",
-    "isOnline": false,
-    "createdAt": "2026-05-06T13:00:10+00:00",
-    "updatedAt": "2026-05-06T13:00:10+00:00",
+    "isOnline": true,
+    "createdAt": "2026-05-08T18:40:17+00:00",
+    "updatedAt": "2026-05-08T18:40:17+00:00",
     "author_id": "author_001",
     "category_id": "cat_1761230636_499",
     "image_dir": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images"
