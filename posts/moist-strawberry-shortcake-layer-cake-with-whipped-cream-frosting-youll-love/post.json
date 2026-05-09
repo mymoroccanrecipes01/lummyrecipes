@@ -1,0 +1,337 @@
+{
+    "title": "Moist Strawberry Shortcake Layer Cake with Fluffy Whipped Cream Frosting",
+    "promptIMG": "Food photography: Strawberry Shortcake Layer Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This strawberry shortcake layer cake is packed with juicy fresh berries and topped with a cloud-like whipped cream frosting. It’s a bright, fresh dessert that’s perfect for spring or any time you want a light, sweet treat.",
+    "hashtags": "#strawberryshortcake #springdessert #freshberries",
+    "board_name": "Spring Desserts",
+    "pin_variations": [
+        {
+            "title": "Light & Fluffy Strawberry Shortcake Cake Recipe You’ll Love",
+            "description": "Craving a fresh and airy dessert? This strawberry shortcake layer cake is bursting with juicy berries and topped with whipped cream frosting. Save this recipe for your next spring gathering! 🍓✨ #strawberrycake #dessertlover #springrecipes"
+        },
+        {
+            "title": "How to Make the Perfect Strawberry Shortcake Layer Cake",
+            "description": "Discover the secret to a super moist cake layered with fresh strawberries and fluffy whipped cream. It’s easier than you think! Try it today and wow your friends. 🍰💖 #homemadedessert #berries #cakeideas"
+        },
+        {
+            "title": "Fresh Berry Strawberry Shortcake Cake with Whipped Cream Frosting",
+            "description": "This strawberry shortcake cake is light, moist, and packed with fresh berries. Perfect for weekend treats or celebrations. Don’t miss out—give it a go and enjoy! 🍓🎉 #freshberries #shortcake #desserttime"
+        },
+        {
+            "title": "Spring’s Best Strawberry Shortcake Layer Cake Recipe",
+            "description": "Celebrate spring with this moist strawberry shortcake layer cake topped with fluffy whipped cream. Easy to make and absolutely delicious. Save it now and bake soon! 🌸🍓 #springdessert #sweettooth #whippedcreamcake"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 35,
+    "servings": 8,
+    "ingredients": [
+        "2 1/2 cups all-purpose flour, sifted",
+        "2 1/2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "1 3/4 cups granulated sugar",
+        "4 large eggs, room temperature",
+        "1 teaspoon pure vanilla extract",
+        "1 cup whole milk, room temperature",
+        "4 cups fresh strawberries, hulled and sliced",
+        "2 tablespoons granulated sugar (for strawberries)",
+        "2 cups heavy whipping cream, cold",
+        "1/4 cup powdered sugar",
+        "1 teaspoon vanilla extract (for whipped cream)"
+    ],
+    "yield": "8 servings",
+    "introduction": "I first made this strawberry shortcake layer cake a few springs ago when I wanted something lighter than the usual dense desserts. My family had always loved classic strawberry shortcake, but I wanted to turn it into a proper layer cake that was moist and not too heavy. What makes this version special is the balance of textures—the cake stays moist without being soggy, thanks to the gentle folding of whipped cream into the batter and the fresh berries layered in between. Plus, the whipped cream frosting is fluffy and lightly sweetened, so it doesn’t overpower the delicate strawberry flavor. One trick I learned after a few attempts is to macerate the strawberries with a bit of sugar beforehand; it really brings out their natural juices and sweetness, which soak into the cake just right. When it’s done, you get soft layers of cake with bright, juicy strawberries and a cloud of whipped cream that’s absolutely irresistible. It’s perfect for spring gatherings, weekend treats, or any time you want a fresh, light dessert that still feels indulgent. I hope you enjoy making it as much as my family loves eating it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease two 8-inch round cake pans. Lightly flour the pans to prevent sticking. This step is crucial to ensure your cakes release easily without tearing. Make sure the pans are evenly greased, especially the edges, or your cake layers might stick and crumble when you try to remove them.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pans are evenly coated with no bare spots or excess grease pooling"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, and salt. Sifting the flour and baking powder helps aerate the mixture, which leads to a lighter cake texture. It also removes any lumps that could create dense spots in your cake layers.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined and lump-free"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter and sugar together on medium speed until light and fluffy—about 4-5 minutes. This creaming step incorporates air into the batter, which helps the cake rise and gives it a tender crumb. Don’t rush it; if the mixture looks pale and fluffy, you’re on the right track.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter and sugar mixture is pale, fluffy, and smooth"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time, beating well after each addition, then stir in the vanilla extract. Adding eggs slowly ensures they’re fully incorporated and helps maintain the batter’s volume. If you add them too fast, the batter might curdle or become too dense.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth and slightly thickened without lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Alternately add the dry ingredients and milk to the butter mixture in three parts, starting and ending with the dry ingredients. Mix gently after each addition just until combined. Overmixing at this stage can develop gluten and make the cake tough, so be gentle and stop as soon as you don’t see flour streaks.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth, thick but pourable, with no flour visible"
+        },
+        {
+            "step": 6,
+            "instruction": "Divide the batter evenly between the prepared pans and smooth the tops with a spatula. Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean. Avoid opening the oven early as this can cause your cakes to sink in the middle. The cakes should be golden and spring back slightly when pressed.",
+            "timing": "30-35 minutes",
+            "doneness_cue": "Golden top, toothpick clean, and cake springs back when pressed"
+        },
+        {
+            "step": 7,
+            "instruction": "While the cakes cool, macerate the sliced strawberries with 2 tablespoons sugar in a bowl. Let them sit for at least 20 minutes to release their juices. This step intensifies the strawberry flavor and creates a natural, flavorful syrup that keeps the cake moist when layered.",
+            "timing": "20 minutes",
+            "doneness_cue": "Strawberries are glossy and slightly softened with syrup forming"
+        },
+        {
+            "step": 8,
+            "instruction": "For the whipped cream frosting, beat the cold heavy cream, powdered sugar, and vanilla extract on high speed until stiff peaks form. Be careful not to overwhip or the cream will turn grainy and start to separate. The whipped cream should hold its shape but still be smooth and fluffy.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Cream forms stiff peaks that hold shape without graininess"
+        },
+        {
+            "step": 9,
+            "instruction": "To assemble, place one cake layer on your serving plate, spread a generous layer of whipped cream, then spoon over some macerated strawberries with their juices. Top with the second cake layer and cover the entire cake with the remaining whipped cream. Decorate with extra strawberries if you like. Refrigerate for at least an hour before serving to let the flavors meld and the whipped cream set.",
+            "timing": "15 minutes + chilling",
+            "doneness_cue": "Cake layers are evenly frosted, with juicy berries visible between layers"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Strawberry Shortcake Layer Cake",
+        "content": "<p>This strawberry shortcake layer cake succeeds because of a few key interactions between ingredients and techniques. The creaming method used for the butter and sugar introduces air bubbles that act as leavening agents, helping the cake rise and giving it a tender crumb. If you skip or shorten this step, the cake can turn out dense and heavy.</p><p>Alternating the addition of dry ingredients and milk prevents overmixing the flour, which would develop gluten and make the texture chewy instead of soft. The gentle folding and careful mixing ensure the cake stays moist and tender.</p><p>Macerating the strawberries with sugar draws out their natural juices, creating a syrup that seeps into the cake layers. This not only adds flavor but also keeps the cake moist without making it soggy. The whipped cream frosting is lightly sweetened and whipped to stiff peaks, which allows it to hold its shape while remaining airy and smooth, perfectly complementing the soft cake and juicy berries.</p><p>Chilling the assembled cake helps the layers settle and the whipped cream to firm up, making slicing cleaner and flavors more harmonious. Each step is designed to balance moisture, texture, and flavor for a fresh, light dessert that still feels indulgent.</p>",
+        "ingredient_notes": {
+            "All-purpose flour": "Look for a good quality, unbleached all-purpose flour with moderate protein content (around 10-12%). This flour type provides enough gluten to give structure without making the cake tough. Sifting before use aerates the flour and removes lumps, which helps produce a lighter crumb.",
+            "Unsalted butter": "Use room temperature unsalted butter for better control over salt content and to ensure it creams properly with sugar. Butter contributes flavor and moisture, and its fat coats flour proteins to tenderize the crumb. Avoid melted or cold butter for this recipe as it can affect texture.",
+            "Fresh strawberries": "Choose ripe, fragrant strawberries with a bright red color and no bruising. Fresh berries provide natural sweetness and juiciness important for the shortcake layers. Macerating them with sugar enhances their flavor and creates a syrup that moistens the cake.",
+            "Heavy whipping cream": "Use cold, fresh heavy cream with at least 36% fat for stable, fluffy whipped cream frosting. The fat content is crucial for whipping to stiff peaks and holding shape. Avoid ultra-pasteurized cream if possible, as it can be harder to whip.",
+            "Granulated sugar": "Regular granulated sugar is used both in the cake and for macerating strawberries. It dissolves well during creaming and helps tenderize the crumb by interfering with gluten formation. Using the right amount balances sweetness without overpowering the fresh berry flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature eggs and butter for the batter.",
+            "reason": "Room temperature ingredients blend more evenly, which helps create a smooth batter that traps air bubbles efficiently during creaming. Cold ingredients can cause the batter to curdle or mix unevenly, leading to dense, uneven cakes."
+        },
+        {
+            "tip": "Don’t skip sifting the dry ingredients.",
+            "reason": "Sifting aerates the flour and baking powder, removing lumps that could cause uneven rising and dense spots. It also helps evenly distribute the baking powder, ensuring a uniform rise throughout the cake layers."
+        },
+        {
+            "tip": "Macerate the strawberries for at least 20 minutes before assembling.",
+            "reason": "This process extracts juices and softens the berries, intensifying their flavor and creating a natural syrup. This syrup seeps into the cake layers, keeping the dessert moist and flavorful without making it soggy."
+        },
+        {
+            "tip": "Use cold heavy cream straight from the fridge for whipping.",
+            "reason": "Cold cream whips better because the fat is solidified, allowing it to trap air more effectively and create a stable, fluffy whipped cream. Warmer cream won’t hold its shape as well and can turn runny quickly."
+        },
+        {
+            "tip": "Chill the assembled cake for at least an hour before slicing.",
+            "reason": "Chilling firms up the whipped cream, making the cake easier to slice and preventing the layers from sliding. It also allows the flavors to meld, so the berries and cream taste more harmonious."
+        },
+        {
+            "tip": "Use an offset spatula to spread whipped cream evenly.",
+            "reason": "An offset spatula gives you better control and helps create smooth, even layers without tearing the cake. It also helps keep the whipped cream fluffy and prevents overworking the delicate frosting."
+        },
+        {
+            "tip": "Don’t overmix the batter after adding flour.",
+            "reason": "Overmixing develops gluten, which toughens the cake crumb. Mixing just until combined keeps the texture tender and soft, which is essential for a light shortcake."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter and eggs in the batter",
+            "why_it_happens": "Many assume that ingredients can go straight from the fridge to the bowl, but cold ingredients don’t combine well, affecting batter texture.",
+            "fix": "Take butter and eggs out of the fridge 30-60 minutes before baking to let them reach room temperature. This ensures smoother creaming and better air incorporation, resulting in a lighter cake."
+        },
+        {
+            "mistake": "Skipping the maceration of strawberries",
+            "why_it_happens": "Some think fresh berries alone are enough, but un-macerated strawberries don’t release their juices, leaving the cake dry.",
+            "fix": "Always toss sliced strawberries with sugar and let them sit at least 20 minutes. This step draws out natural juices, adding moisture and sweetness to the cake layers."
+        },
+        {
+            "mistake": "Overwhipping the cream for frosting",
+            "why_it_happens": "It’s easy to keep whipping past stiff peaks, causing the cream to become grainy and start turning into butter.",
+            "fix": "Stop whipping as soon as stiff peaks form—when the cream holds a peak but still looks smooth. If you overwhip, gently fold in a little unwhipped cream to fix the texture."
+        },
+        {
+            "mistake": "Opening the oven door too early while baking",
+            "why_it_happens": "Impatient bakers sometimes check too soon, causing temperature drops and uneven rising.",
+            "fix": "Avoid opening the oven door for at least 25 minutes. Use the oven light to check progress. Opening early can cause the cake to sink or bake unevenly."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "Rushing or vigorously mixing after flour addition develops gluten, making the cake tough.",
+            "fix": "Mix just until the flour disappears. It’s okay if the batter looks slightly lumpy. This keeps the crumb tender and delicate."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon-Infused Strawberry Shortcake Cake",
+            "description": "Add 1 tablespoon of fresh lemon zest to the batter and a teaspoon of lemon juice to the whipped cream frosting for a bright citrus twist. This adds a refreshing zing that complements the strawberries beautifully.",
+            "technical_note": "Zesting lemon before creaming butter ensures the oils distribute evenly. Adding lemon juice to whipped cream can slightly soften it, so whip to firm peaks."
+        },
+        {
+            "name": "Strawberry Shortcake with Mascarpone Whipped Cream",
+            "description": "Fold 1/2 cup mascarpone cheese into the whipped cream for a richer, tangy frosting. It adds creaminess and depth while still keeping the light texture.",
+            "technical_note": "Beat mascarpone until smooth before folding gently into whipped cream to avoid deflating the mixture."
+        },
+        {
+            "name": "Gluten-Free Strawberry Shortcake Cake",
+            "description": "Replace all-purpose flour with a 1-to-1 gluten-free baking blend and add 1/2 teaspoon xanthan gum for structure. The cake will still be moist and tender with a slightly different texture.",
+            "technical_note": "Gluten-free batters often require gentle mixing and careful baking time adjustments to prevent dryness."
+        },
+        {
+            "name": "Strawberry Shortcake with Chocolate Drizzle",
+            "description": "Drizzle melted dark chocolate over the top of the whipped cream for a decadent touch. The bittersweet chocolate pairs wonderfully with the sweet berries and cream.",
+            "technical_note": "Let the cake chill completely before drizzling chocolate to prevent melting the whipped cream."
+        },
+        {
+            "name": "Vegan Strawberry Shortcake Cake",
+            "description": "Use plant-based butter, flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg), and coconut cream whipped frosting. The cake remains moist and flavorful with a subtle coconut undertone.",
+            "technical_note": "Flax eggs need 5-10 minutes to thicken before adding, and coconut cream should be chilled and whipped like heavy cream."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can be safely kept at room temperature for up to 4 hours if covered loosely with a cake dome or plastic wrap. Avoid direct sunlight or warm spots to prevent the whipped cream from melting.",
+        "refrigerator": "Store the cake in an airtight container or tightly covered with plastic wrap in the fridge for up to 3 days. The whipped cream may firm up and the cake will be chilled, which some prefer. Bring to room temperature for 20 minutes before serving for best texture.",
+        "freezer": "Freeze the cake wrapped tightly in plastic wrap and then in aluminum foil for up to 2 months. Thaw overnight in the refrigerator. Whipped cream texture may change slightly but still tastes delicious. Avoid freezing if you want perfect texture.",
+        "reheating": "Reheating is not recommended for this cake as it’s best served chilled or at room temperature. If you want to soften the cake layers slightly, let it sit at room temperature for 30 minutes before slicing.",
+        "make_ahead_strategy": "Bake the cake layers up to two days ahead and store wrapped at room temperature. Macerate strawberries and prepare whipped cream frosting on the day of serving for best freshness. Assemble the cake a few hours before guests arrive and chill."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries instead of fresh?",
+            "answer": "Frozen strawberries release a lot of water when thawed, which can make the cake soggy. If you must use frozen, thaw and drain them well, then pat dry before macerating with sugar. Fresh berries are best for texture and flavor."
+        },
+        {
+            "question": "How do I prevent the whipped cream frosting from melting quickly?",
+            "answer": "Make sure to use cold heavy cream and whip it to stiff peaks. Keep the cake refrigerated until serving and avoid leaving it out in warm environments. You can also add a stabilizer like gelatin or cream of tartar to help the whipped cream hold up longer."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes, substitute all-purpose flour with a gluten-free baking blend that includes xanthan gum. Be gentle when mixing to avoid drying out the cake. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "What if I don’t have an electric mixer for the whipped cream?",
+            "answer": "You can whip the cream by hand using a large whisk, but it will take longer and require some elbow grease. Chill your bowl and whisk beforehand to help the cream whip more easily."
+        },
+        {
+            "question": "How long can I store the assembled cake?",
+            "answer": "Refrigerated, the cake is best eaten within 3 days. The whipped cream frosting and fresh berries don’t keep well longer than that. For longer storage, freeze the cake layers and assemble fresh."
+        },
+        {
+            "question": "Why did my cake sink in the middle?",
+            "answer": "Opening the oven door too early or underbaking can cause sinking. Also, overmixing the batter after adding flour can develop gluten, making the cake heavy. Follow the timing carefully and avoid rushing the bake."
+        },
+        {
+            "question": "Can I add other fruits besides strawberries?",
+            "answer": "Absolutely! Blueberries, raspberries, or sliced peaches work wonderfully. Just macerate them similarly to strawberries to enhance their flavor and moisture."
+        },
+        {
+            "question": "Is there a way to make the whipped cream frosting more stable?",
+            "answer": "Yes, you can add a small amount of gelatin dissolved in water or use a commercial whipped cream stabilizer. This helps the cream hold its shape longer, especially in warmer conditions."
+        }
+    ],
+    "conclusion": "I hope you give this strawberry shortcake layer cake a try—it’s one of my favorites for fresh, light dessert moments. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "strawberry shortcake layer cake",
+        "secondary_keywords": [
+            "fresh strawberry cake recipe",
+            "whipped cream frosting cake",
+            "how to make strawberry shortcake",
+            "best strawberry shortcake recipe",
+            "easy strawberry shortcake cake"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade whipped cream tips",
+                "anchor": "whipped-cream-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_7.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_7.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_4.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_4.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_8.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_8.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_6.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_6.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_5.webp",
+            "filePath": "posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_5.webp",
+            "relativePath": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images/moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778340644_351",
+    "slug": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-05-09T15:31:47+00:00",
+    "updatedAt": "2026-05-09T15:31:47+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "moist-strawberry-shortcake-layer-cake-with-whipped-cream-frosting-youll-love/images"
+}
