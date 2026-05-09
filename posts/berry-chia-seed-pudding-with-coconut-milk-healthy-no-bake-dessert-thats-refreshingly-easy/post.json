@@ -281,13 +281,49 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_5.webp",
+            "filePath": "posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_5.webp",
+            "relativePath": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_8.webp",
+            "filePath": "posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_8.webp",
+            "relativePath": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_7.webp",
+            "filePath": "posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_7.webp",
+            "relativePath": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_4.webp",
+            "filePath": "posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_4.webp",
+            "relativePath": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_6.webp",
+            "filePath": "posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_6.webp",
+            "relativePath": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images/berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy_LummyRecipes_image_6.webp",
+            "type": "template"
         }
     ],
     "id": "post_1778265271_524",
     "slug": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy",
-    "isOnline": false,
-    "createdAt": "2026-05-08T18:34:31+00:00",
-    "updatedAt": "2026-05-08T18:34:31+00:00",
+    "isOnline": true,
+    "createdAt": "2026-05-09T15:16:24+00:00",
+    "updatedAt": "2026-05-09T15:16:24+00:00",
     "author_id": "author_001",
     "category_id": "cat_1761230636_499",
     "image_dir": "berry-chia-seed-pudding-with-coconut-milk-healthy-no-bake-dessert-thats-refreshingly-easy/images"
