@@ -1,0 +1,333 @@
+{
+    "title": "Simple 5-Ingredient Chocolate Chip Cookies with a Sea Salt Twist",
+    "promptIMG": "Food photography: Simple 5-Ingredient Chocolate Chip Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chocolate chip cookies are so easy and quick to whip up with just five ingredients. The sprinkle of sea salt on top adds a perfect balance to the sweet chocolate. Great for an afternoon snack or when friends drop by!",
+    "hashtags": "#chocolatechipcookies #easybaking #quickdessert",
+    "board_name": "Easy Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "5-Ingredient Chocolate Chip Cookies You’ll Love to Bake Today",
+            "description": "Craving something sweet but short on time? These 5-ingredient chocolate chip cookies come together in no time with a sprinkle of sea salt for that irresistible flavor. Save this recipe and try it today! 🍪✨ #easybaking #chocolatechipcookies #snacktime",
+            "hashtags": "#easybaking #chocolatechipcookies #snacktime #quickdessert #homemadecookies"
+        },
+        {
+            "title": "Quick & Irresistible Chocolate Chip Cookies with Sea Salt Finish",
+            "description": "Whip up these simple chocolate chip cookies with just five ingredients and a touch of sea salt for a gourmet twist. Perfect for sharing or a cozy night in. Discover this easy recipe now! 🍫🧂 #quickcookies #homebaking #sweettooth",
+            "hashtags": "#quickcookies #homebaking #sweettooth #chocolatechipcookies #bakinglove"
+        },
+        {
+            "title": "Sea Salt Chocolate Chip Cookies in Under 30 Minutes!",
+            "description": "Love salty-sweet combos? These chocolate chip cookies with a sea salt sprinkle are your new favorite treat. Ready fast and so satisfying. Try making them this week! 🍪❤️ #saltedsweets #chocolatechip #bakingfun",
+            "hashtags": "#saltedsweets #chocolatechip #bakingfun #easyrecipes #dessertideas"
+        },
+        {
+            "title": "The Easiest 5-Ingredient Chocolate Chip Cookies You’ll Make All Year",
+            "description": "No fuss, no complicated ingredients—just simple chocolate chip cookies with a hint of sea salt to make them pop. Perfect for beginners or a quick bake. Save this recipe and enjoy! 🍪👌 #simplebaking #cookies #homemade",
+            "hashtags": "#simplebaking #cookies #homemade #chocolatechipcookies #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 12,
+    "servings": 24,
+    "ingredients": [
+        "1 cup unsalted butter, softened",
+        "1 cup brown sugar, packed",
+        "2 cups all-purpose flour",
+        "1 cup chocolate chips",
+        "1/2 teaspoon sea salt, plus extra for sprinkling"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I stumbled upon this simple chocolate chip cookie recipe a few years ago when I needed a fast, fuss-free treat for an unexpected visit from friends. What really hooked me was how few ingredients it uses—just five! No complicated steps or fancy stuff, just straightforward baking magic. I love that a little sprinkle of sea salt on top makes these cookies stand out from the usual sweet-only versions. It balances the chocolate perfectly and adds a subtle crunch. Over time, I tweaked the butter and sugar ratio to make them chewy but still soft in the middle, which is my favorite cookie texture. The trick I learned was not to overmix the dough—this keeps them tender and prevents them from becoming tough. When they come out of the oven, these cookies have that golden edge with a slightly gooey center, and the salt crystals catch the light and your attention. Honestly, I think these are perfect for any occasion—whether it’s a quick afternoon snack, a last-minute dessert, or just because. My family always asks for second helpings, and I bet yours will too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C) and lining two baking sheets with parchment paper. This step ensures your cookies bake evenly and don’t stick. Preparing the baking sheets ahead saves time and keeps the bottoms from burning or sticking, which can happen if you skip the parchment or use non-stick spray that sometimes alters texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven is fully heated, and baking sheets are ready with parchment paper smoothly laid."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, cream together the softened butter and brown sugar using a hand mixer or stand mixer on medium speed. This usually takes about 2-3 minutes. Creaming incorporates air into the mixture, which helps the cookies rise and gives them a tender crumb. Don’t rush this or skip it, or your cookies might turn out dense.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture looks pale, fluffy, and smooth with no visible sugar grains."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the flour gradually to the butter-sugar mixture, folding it in gently with a spatula or on low mixer speed. Overmixing the flour can develop gluten, making cookies tough. Aim for just combined dough with no large flour pockets but still a bit of a rustic texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough is thick, slightly sticky, and uniform in color with no dry flour visible."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough. This distributes the chocolate in every bite. If you add them all at once and mix too vigorously, the chips can break or melt slightly before baking.",
+            "timing": "1 minute",
+            "doneness_cue": "Chocolate chips are evenly scattered without clumping or melting."
+        },
+        {
+            "step": 5,
+            "instruction": "Using a cookie scoop or tablespoon, drop dough balls about 2 inches apart onto the prepared baking sheets. Spacing is important to allow spreading without merging. If you crowd them, cookies can bake into each other and lose their round shape.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly spaced dough balls with smooth tops on the baking sheet."
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle a tiny pinch of sea salt on top of each cookie dough ball. This step is key because the salt highlights the chocolate’s sweetness and adds a subtle crunch that makes these cookies unique. Don’t skip it or overdo it—just a light sprinkle is enough.",
+            "timing": "1 minute",
+            "doneness_cue": "Visible flakes of sea salt evenly sprinkled on each cookie."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cookies in the preheated oven for 10-12 minutes. Keep a close eye starting at 10 minutes because ovens vary. The edges should be golden while the centers look slightly soft and underbaked. This ensures a chewy middle once cooled.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Golden edges with soft, slightly shiny centers that jiggle a bit when nudged."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the baking sheets from the oven and let the cookies cool on the sheets for 5 minutes. This rest lets the cookies firm up so they don’t fall apart when you transfer them. If you try to move them too soon, they can break or lose shape.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies feel set at the edges but still soft in the center."
+        },
+        {
+            "step": 9,
+            "instruction": "Transfer the cookies to a wire rack to cool completely. Cooling fully prevents sogginess and helps the texture develop its perfect chewiness. Once cool, store in an airtight container at room temperature to keep them fresh.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Cookies are firm but chewy, cool to the touch, and not sticky underneath."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Simple Cookie Recipe Works So Well",
+        "content": "<p>The magic behind these chocolate chip cookies starts with the butter and sugar creaming process. When you cream softened butter with brown sugar, you’re incorporating tiny air bubbles into the mixture, which expands during baking and gives the cookies a light, tender crumb. Brown sugar adds moisture and a subtle caramel flavor that enriches the cookie beyond just sweetness.</p><p>The choice of all-purpose flour is important because it contains enough protein to provide structure but not so much that the cookies become tough. Mixing the flour in gently prevents excess gluten development, keeping the texture soft and chewy rather than dense and bread-like.</p><p>Adding chocolate chips last and folding them in carefully ensures they stay intact and evenly distributed. The sea salt sprinkled on top isn’t just a garnish; it enhances the chocolate’s flavor by balancing sweetness and adding a slight crunch that surprises the palate. This salty-sweet combo is what makes these cookies stand out from the typical recipe.</p><p>Baking at 350°F for just the right amount of time lets the edges set and brown while the centers remain soft and slightly underbaked. This contrast between crisp edges and soft middles is a texture hallmark that makes these cookies irresistible. Cooling on the pan before moving to a rack also helps them finish setting perfectly without crumbling.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Look for high-quality unsalted butter with at least 80% fat content for the best texture and flavor. Using unsalted butter lets you control the salt level precisely, especially since this recipe adds a sprinkle of sea salt on top. Softened butter should be pliable but not melted, which ensures proper creaming and air incorporation.",
+            "brown sugar": "Use light or dark brown sugar depending on your flavor preference. Brown sugar contains molasses, which adds moisture and a deeper flavor than white sugar. Packing the sugar firmly when measuring ensures the right sweetness and moisture balance in the dough.",
+            "all-purpose flour": "Choose a reliable all-purpose flour with moderate protein content (around 10-12%) for the ideal structure. Too much protein (like bread flour) makes cookies tough, while too little (like cake flour) can make them fragile and crumbly. Sifting is optional but helps avoid lumps.",
+            "chocolate chips": "Semi-sweet chocolate chips work great here, offering a balance of sweetness and richness. Avoid mini chips if you want distinct pockets of melted chocolate rather than a more uniform texture. Quality chips melt better and taste richer, so opt for a trusted brand.",
+            "sea salt": "Use flaky sea salt crystals for a delicate crunch and visual appeal on top of the cookies. Regular table salt is too fine and can overpower the sweetness. The salt enhances the chocolate flavor and adds a gourmet touch to this simple recipe."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the dough once you add flour.",
+            "reason": "Overmixing develops gluten, which toughens cookies and ruins the desired soft, chewy texture. Mixing just until combined keeps the dough tender and prevents a dense, dry result."
+        },
+        {
+            "tip": "Use room temperature butter for creaming.",
+            "reason": "Butter that’s too cold won’t cream properly, and melted butter will make the dough too loose. Properly softened butter traps air during creaming, which helps the cookies rise and become fluffy."
+        },
+        {
+            "tip": "Chill the dough for 15 minutes before baking if you have time.",
+            "reason": "Chilling firms the dough, preventing excessive spreading in the oven. This results in thicker cookies with a better texture and more even baking."
+        },
+        {
+            "tip": "Use parchment paper instead of greasing the pan.",
+            "reason": "Parchment prevents sticking without adding extra fat, which can cause uneven browning or greasy bottoms. It also makes cleanup easier and helps cookies bake evenly."
+        },
+        {
+            "tip": "Sprinkle sea salt just before baking.",
+            "reason": "Adding salt on top before baking ensures it stays visible and crunchy, rather than dissolving into the dough. This keeps the salty contrast distinct and visually appealing."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before transferring.",
+            "reason": "Cooling allows cookies to set and firm up, reducing the risk of breaking apart. Moving them too soon can cause them to fall apart or stick to the pan."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform sizes.",
+            "reason": "Evenly sized cookies bake more consistently, so none are under- or overcooked. This also makes portioning easier and the final presentation neater."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using melted butter instead of softened butter.",
+            "why_it_happens": "Sometimes people melt butter to speed up the process or by mistake, thinking it will mix better.",
+            "fix": "Always use softened butter that’s cool but pliable. Softened butter traps air during creaming, which helps create a tender and airy cookie. Melted butter leads to greasy, flat cookies."
+        },
+        {
+            "mistake": "Overmixing after adding flour.",
+            "why_it_happens": "It’s easy to think mixing thoroughly is better for uniform dough, but this develops gluten.",
+            "fix": "Mix just until the flour disappears to avoid tough cookies. Stop as soon as the dough looks combined."
+        },
+        {
+            "mistake": "Skipping the sea salt topping.",
+            "why_it_happens": "Some might think salt isn’t necessary or forget this step.",
+            "fix": "Don’t skip it! The sea salt balances sweetness and adds a wonderful crunch. Sprinkle lightly on top before baking."
+        },
+        {
+            "mistake": "Crowding the baking sheet.",
+            "why_it_happens": "Trying to bake too many cookies at once to save time.",
+            "fix": "Leave enough space (about 2 inches) between cookies so they bake evenly and don’t merge."
+        },
+        {
+            "mistake": "Baking too long until cookies are fully firm.",
+            "why_it_happens": "People often wait until cookies look fully set and browned all over.",
+            "fix": "Remove cookies when edges are golden but centers still look soft. They firm up as they cool, ensuring chewy centers."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add chopped walnuts or pecans",
+            "description": "Mix in 1/2 cup of chopped nuts with the chocolate chips for extra crunch and a nutty flavor. This adds texture contrast and richness, making the cookies more complex and satisfying.",
+            "technical_note": "Chop nuts evenly so they distribute well, and fold them in gently to avoid breaking the dough."
+        },
+        {
+            "name": "Use white chocolate chips instead",
+            "description": "Swap the semi-sweet chips for white chocolate for a sweeter, creamier cookie. This variation pairs beautifully with the sea salt topping for a sweet-salty combo that’s a little different.",
+            "technical_note": "White chocolate melts faster, so watch the baking time closely to avoid burning."
+        },
+        {
+            "name": "Make vegan using coconut oil and flax eggs",
+            "description": "Replace butter with solid coconut oil and eggs with flaxseed meal mixed with water to make this cookie vegan-friendly. The texture will be slightly different—more crumbly but still delicious and rich.",
+            "technical_note": "Chill the dough longer to help it hold together better when using coconut oil."
+        },
+        {
+            "name": "Add a teaspoon of espresso powder",
+            "description": "A small amount of espresso powder enhances the chocolate flavor without making it taste like coffee. It deepens the overall taste and adds a subtle complexity perfect for chocolate lovers.",
+            "technical_note": "Dissolve the espresso powder in the butter and sugar mixture for even flavor distribution."
+        },
+        {
+            "name": "Use oat flour for gluten-free option",
+            "description": "Swap all-purpose flour with oat flour to make these cookies gluten-free. The texture will be a bit denser and chewier, with a pleasant nutty flavor from the oats.",
+            "technical_note": "Add an extra 1/4 teaspoon baking soda to help with leavening since oat flour is denser."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "9g",
+        "fiber_grams": "1g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cookies keep well at room temperature for up to 3 days when stored in an airtight container. Avoid leaving them uncovered, as they will dry out and become hard.",
+        "refrigerator": "Store cookies in an airtight container in the fridge for up to 7 days. They might firm up and lose some chewiness but will still taste great. Let them come to room temperature before serving for best texture.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. To prevent freezer burn, wrap tightly and remove excess air. Thaw at room temperature before eating.",
+        "reheating": "Warm cookies in a microwave for 10-15 seconds or in a 300°F oven for 5 minutes to restore softness. Adding a small piece of bread in the container can help retain moisture during reheating.",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead and keep it tightly wrapped in the fridge. When ready to bake, just scoop and bake as usual. This resting time actually improves flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "You can, but reduce or omit the extra sea salt sprinkled on top to avoid making the cookies too salty. Unsalted butter gives you better control over the salt level, which is important for the perfect sweet-salty balance."
+        },
+        {
+            "question": "Why are my cookies spreading too much?",
+            "answer": "This usually happens if the dough is too warm or the baking sheet is greased instead of lined with parchment. Chilling the dough before baking and using parchment paper helps cookies keep their shape and prevents excessive spreading."
+        },
+        {
+            "question": "Can I substitute brown sugar with white sugar?",
+            "answer": "You can, but brown sugar adds moisture and a richer flavor due to molasses content. Using white sugar alone may make the cookies crisper and less chewy. For best results, stick to brown sugar or a mix of both."
+        },
+        {
+            "question": "How do I store leftover cookies to keep them fresh?",
+            "answer": "Store cookies in an airtight container at room temperature for up to 3 days. To keep them soft, add a slice of bread to the container, which helps maintain moisture. For longer storage, freeze them as described in the storage section."
+        },
+        {
+            "question": "My cookies are dry and crumbly, what went wrong?",
+            "answer": "Overbaking or overmixing the dough can cause dryness. Also, using too much flour or not enough fat leads to crumbly texture. Follow the recipe measurements carefully and bake until edges are just golden with soft centers."
+        },
+        {
+            "question": "Can I add nuts or other mix-ins?",
+            "answer": "Absolutely! Chopped nuts, dried fruit, or different types of chocolate chips can be folded in. Just be mindful of the total volume to avoid overly dense dough and adjust baking time if needed."
+        },
+        {
+            "question": "Why do my cookies come out flat and greasy?",
+            "answer": "This often happens if the butter was too warm or melted when mixed, causing the dough to spread too much. Use properly softened butter and chill the dough if needed to maintain shape and texture."
+        },
+        {
+            "question": "Can I make these cookies gluten-free?",
+            "answer": "Yes, by substituting all-purpose flour with oat flour or a gluten-free baking blend. The texture may be a bit different—denser and chewier—but still tasty. You might want to add a bit more leavening for best results."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these simple, salty-sweet chocolate chip cookies as much as I do. Don’t forget to share your results—I’d love to hear how they turn out!",
+    "seo": {
+        "primary_keyword": "easy chocolate chip cookie recipe",
+        "secondary_keywords": [
+            "simple chocolate chip cookies",
+            "quick cookie recipe",
+            "how to make chocolate chip cookies",
+            "best chocolate chip cookie recipe",
+            "easy chocolate chip cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookie recipe",
+                "anchor": "classic-chocolate-chip-cookie"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_5.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_6.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_7.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_8.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_4.webp",
+            "relativePath": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images/easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778341059_134",
+    "slug": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-05-09T15:39:58+00:00",
+    "updatedAt": "2026-05-09T15:39:58+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-5-ingredient-chocolate-chip-cookies-with-sea-salt-finish-that-youll-love/images"
+}
