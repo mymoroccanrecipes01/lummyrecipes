@@ -1,0 +1,340 @@
+{
+    "title": "Cozy One-Pot Creamy Chicken and Spinach Pasta for Busy Nights",
+    "promptIMG": "Food photography: creamy chicken and spinach pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy chicken and spinach pasta is my favorite quick dinner fix. Everything cooks in one pot, which means the flavors blend beautifully and cleanup is super easy. Perfect for hectic weeknights when you want comfort without the fuss!",
+    "hashtags": "#onepotmeal #chickenpasta #quickdinner",
+    "board_name": "Easy Chicken Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Easy One-Pot Creamy Chicken Pasta You’ll Love Tonight",
+            "description": "Whip up this creamy chicken and spinach pasta in one pot! It’s rich, comforting, and ready fast—ideal for busy evenings. Save this for your next dinner plan 🍝✨ #onepotmeal #weeknightdinner #comfortfood",
+            "hashtags": "#onepotmeal #weeknightdinner #comfortfood #chickenrecipes #spinachpasta"
+        },
+        {
+            "title": "30-Minute Creamy Chicken and Spinach Pasta Recipe",
+            "description": "Looking for a quick, creamy pasta with chicken and spinach? This one-pot recipe is your new go-to. Ready in just 30 minutes with minimal cleanup. Try it today and see! 🍽️🌿 #quickdinner #chickenpasta #easyrecipes",
+            "hashtags": "#quickdinner #chickenpasta #easyrecipes #spinachrecipes #mealprep"
+        },
+        {
+            "title": "Comforting Creamy Chicken Spinach Pasta in One Pot",
+            "description": "This creamy chicken spinach pasta is pure comfort food and so easy. Cooking it all in one pot means flavors meld perfectly, and cleanup is a breeze. Discover this cozy dish now! 🍲💚 #comfortfood #onepotpasta #chickendinner",
+            "hashtags": "#comfortfood #onepotpasta #chickendinner #spinachpasta #easymeals"
+        },
+        {
+            "title": "Quick and Creamy Chicken Spinach Pasta for Weeknights",
+            "description": "Busy night? This creamy chicken spinach pasta comes together quickly in one pot, saving time and effort. It’s creamy, flavorful, and perfect for a satisfying dinner. Save this recipe! 🍴❤️ #weeknightmeals #onepotmeal #chickenrecipes",
+            "hashtags": "#weeknightmeals #onepotmeal #chickenrecipes #spinachdishes #easyweeknight"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, extra virgin, cold-pressed",
+        "1 pound boneless skinless chicken breasts, cut into bite-sized pieces",
+        "3 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "4 cups fresh spinach, washed and roughly chopped",
+        "8 ounces penne pasta, uncooked",
+        "3 cups chicken broth, low sodium",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese, freshly grated",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 teaspoon red pepper flakes (optional)",
+        "Juice of half a lemon"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one-pot creamy chicken and spinach pasta during a particularly chaotic week when I wanted something comforting but quick. I’d tried several creamy pasta recipes before, but they usually meant multiple pots and lots of dishes afterward. This version changed the game for me because everything cooks together, allowing the flavors to blend beautifully while saving precious time on cleanup. The trick I learned is to add the pasta directly to the chicken broth and cook it covered, so the pasta absorbs all that savory chicken flavor. Plus, stirring in fresh spinach at the end keeps it vibrant and fresh without overcooking. The final dish is creamy without being heavy, with tender chicken bites and just the right amount of garlicky, cheesy goodness. It’s become a staple in my weeknight rotation because it’s simple, satisfying, and feels like a warm hug after a busy day. Honestly, the first time I made it, I was worried the pasta might get mushy, but keeping a close eye on the liquid and stirring gently made all the difference. I think you’ll love how effortless and delicious this dish is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large deep skillet or wide pot over medium heat until shimmering. Add the bite-sized chicken pieces and cook them undisturbed for about 4-5 minutes until they develop a golden-brown crust on one side. Then stir and cook another 3-4 minutes until mostly cooked through but still juicy inside. Browning the chicken first is key because it builds flavor through the Maillard reaction, which adds depth to the final dish. Avoid overcrowding the pan, or the chicken will steam rather than brown, so cook in batches if needed.",
+            "timing": 8,
+            "doneness_cue": "Chicken pieces are golden brown with no pink inside but still moist"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onion and minced garlic to the pot with the chicken. Sauté for 2-3 minutes until the onions are translucent and fragrant, stirring frequently to prevent burning the garlic. This step brings out the sweetness of the onions and mellows the raw garlic flavor, which helps create a balanced base for the creamy sauce. Be careful not to brown the garlic too much as it can turn bitter.",
+            "timing": 3,
+            "doneness_cue": "Onions look soft and translucent, garlic aroma is fragrant but not burnt"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth and bring everything to a gentle boil. Add the uncooked penne pasta, stirring to submerge the pasta fully. Reduce the heat to medium-low and cover the pot. Let the pasta cook for about 12-15 minutes, stirring occasionally to prevent sticking. Cooking the pasta directly in the broth infuses it with flavor and eliminates the need for draining later. Keep an eye on the liquid level—if it looks too dry before the pasta is done, add a splash more broth or water.",
+            "timing": 15,
+            "doneness_cue": "Pasta is tender but still has a slight bite (al dente), broth is mostly absorbed"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the fresh spinach and cook uncovered for 2-3 minutes until wilted. Adding spinach late in the cooking process preserves its bright green color and fresh flavor. Overcooking spinach can make it mushy and dull. Folding it gently into the pasta ensures even distribution without breaking it down too much.",
+            "timing": 3,
+            "doneness_cue": "Spinach is wilted but vibrant green and tender"
+        },
+        {
+            "step": 5,
+            "instruction": "Lower the heat and pour in the heavy cream, stirring to combine. Let the mixture simmer gently for 3-4 minutes to thicken the sauce slightly. The cream adds luscious richness and smooth texture, balancing the savory chicken broth. Avoid boiling vigorously after adding cream as it can cause the sauce to separate or curdle.",
+            "timing": 4,
+            "doneness_cue": "Sauce is creamy and slightly thickened, coats the back of a spoon"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the grated Parmesan cheese gradually while stirring continuously until melted and fully incorporated. Parmesan adds a salty, nutty depth and helps emulsify the sauce for a silky finish. Use freshly grated cheese for best melting and flavor; pre-grated cheese often contains anti-caking agents that prevent smooth melting.",
+            "timing": 2,
+            "doneness_cue": "Cheese is melted smoothly, sauce looks glossy and cohesive"
+        },
+        {
+            "step": 7,
+            "instruction": "Season the dish with salt, freshly ground black pepper, and red pepper flakes if using. Taste and adjust seasoning as needed. The red pepper flakes add a subtle heat that balances the richness, but skip or reduce if you prefer mild flavors. Seasoning at the end ensures you don’t over-salt before the cheese and broth concentrate flavors.",
+            "timing": 2,
+            "doneness_cue": "Flavors are balanced with a slight kick if flakes are added"
+        },
+        {
+            "step": 8,
+            "instruction": "Squeeze the juice of half a lemon over the pasta and stir gently to brighten the flavors. The acidity cuts through the creamy sauce and lifts the entire dish, making it taste fresh and less heavy. This final touch is a game changer, so don’t skip it!",
+            "timing": 1,
+            "doneness_cue": "Subtle citrus aroma and fresh flavor in the sauce"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy chicken and spinach pasta immediately, garnished with extra Parmesan or fresh herbs if desired. The sauce is best enjoyed fresh and warm, as it thickens upon standing. If you need to reheat leftovers, add a splash of broth or cream to loosen the sauce and stir gently over low heat.",
+            "timing": 1,
+            "doneness_cue": "Dish is hot, creamy, and visually inviting with bright green spinach"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pot Creamy Chicken and Spinach Pasta Works So Well",
+        "content": "<p>This recipe succeeds because it combines efficient cooking techniques with thoughtful ingredient choices that maximize flavor and texture. Cooking the pasta directly in chicken broth allows it to absorb savory notes rather than being cooked in plain water. This layering of flavor from the start is a major reason the dish tastes so rich and satisfying.</p><p>Browning the chicken first creates complex Maillard reaction flavors, adding depth and a slight caramelized crust that contrasts nicely with the creamy sauce. The timing of adding spinach late in the process preserves its bright color and fresh taste, preventing it from becoming mushy or dull. This balance keeps the dish vibrant and appealing.</p><p>Using heavy cream and freshly grated Parmesan cheese creates a smooth, emulsified sauce that clings beautifully to the pasta and chicken. The cream provides luscious mouthfeel while the cheese adds saltiness and umami. Adding lemon juice at the end brightens the dish, balancing richness with acidity and preventing it from feeling too heavy.</p><p>Overall, this recipe showcases how layering flavors, controlling cooking times, and using complementary ingredients can turn a simple one-pot meal into a comforting yet elegant dish. The minimal cleanup is just the cherry on top for busy cooks!</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose fresh, boneless, skinless chicken breasts for tender, lean protein that cooks quickly and evenly. Cutting into bite-sized pieces ensures they cook through without drying out. Avoid frozen chicken unless fully thawed to prevent uneven cooking and watery texture.",
+            "fresh spinach": "Opt for fresh baby spinach for tenderness and vibrant color. It wilts quickly and blends well without overpowering the dish. Avoid pre-washed bagged spinach that may be watery or wilted. If substituting with frozen spinach, thaw and drain thoroughly to avoid excess moisture.",
+            "penne pasta": "Penne is ideal for this recipe because its ridges hold onto the creamy sauce well. Use uncooked pasta added directly to the broth so it cooks and absorbs flavor simultaneously. Avoid fresh pasta here as it cooks too quickly and can become mushy in the broth.",
+            "chicken broth": "Use low-sodium chicken broth to control salt levels and add savory depth. The broth is the cooking liquid for the pasta, so a flavorful base is essential. Homemade broth or high-quality store-bought options work best. Avoid bouillon cubes alone as they can be too salty or artificial.",
+            "Parmesan cheese": "Freshly grated Parmesan is key for smooth melting and rich umami flavor. Pre-grated cheese often contains additives that prevent melting and can affect texture. Choose aged Parmesan for nutty complexity which complements the creamy sauce beautifully."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when browning chicken.",
+            "reason": "Crowding causes the chicken to steam rather than brown, preventing the Maillard reaction that develops flavor and texture. Browning adds a savory crust and depth that enhances the entire dish."
+        },
+        {
+            "tip": "Stir the pasta occasionally while cooking in broth.",
+            "reason": "This prevents the pasta from sticking to the bottom of the pot and ensures even cooking. Uneven cooking can lead to mushy or underdone pieces, ruining the texture."
+        },
+        {
+            "tip": "Add spinach at the very end of cooking.",
+            "reason": "Spinach cooks very quickly and wilts almost instantly. Adding it last preserves its bright color, fresh flavor, and slight texture, making the dish more visually appealing and balanced."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated cheese melts smoothly and adds authentic umami flavor. Pre-grated cheeses often contain anti-caking agents that prevent proper melting and can affect the sauce texture."
+        },
+        {
+            "tip": "Simmer cream gently without boiling.",
+            "reason": "Boiling cream can cause it to separate or curdle, ruining the sauce’s smooth consistency. A gentle simmer thickens the sauce while maintaining its creamy texture."
+        },
+        {
+            "tip": "Add lemon juice just before serving.",
+            "reason": "The acidity brightens and balances the rich cream sauce. Adding lemon too early can cause the cream to curdle, so timing is important for flavor and texture."
+        },
+        {
+            "tip": "Use low-sodium broth to control saltiness.",
+            "reason": "Since Parmesan and broth both add salt, using low-sodium broth prevents the dish from becoming overly salty and allows you to adjust seasoning at the end."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping browning the chicken.",
+            "why_it_happens": "Many cooks want to save time and add chicken directly to broth, not realizing browning builds essential flavor.",
+            "fix": "Take the extra time to brown chicken pieces in oil first until golden. This step adds savory depth through Maillard reactions that can’t be achieved by boiling alone."
+        },
+        {
+            "mistake": "Overcooking pasta in broth.",
+            "why_it_happens": "Leaving pasta too long or using too high heat can make it mushy and break down the starch structure.",
+            "fix": "Keep an eye on cooking time and test pasta a minute or two before package instructions. Stir occasionally and add more liquid if needed to prevent sticking."
+        },
+        {
+            "mistake": "Adding spinach too early.",
+            "why_it_happens": "Spinach cooks rapidly and cooks down to almost nothing if added too soon.",
+            "fix": "Add spinach in the last few minutes of cooking to keep it bright and tender without turning it to mush."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan.",
+            "why_it_happens": "Pre-grated cheese contains additives that prevent smooth melting, resulting in grainy sauce.",
+            "fix": "Grate your own Parmesan fresh for the best melting quality and richer flavor."
+        },
+        {
+            "mistake": "Boiling cream vigorously.",
+            "why_it_happens": "High heat causes cream to separate or curdle, ruining sauce texture.",
+            "fix": "Simmer cream gently over low heat and remove from heat once thickened to avoid curdling."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mushroom and Herb Creamy Chicken Pasta",
+            "description": "Add sliced mushrooms along with the onions for an earthy twist. Stir in fresh thyme and parsley at the end for herbal freshness. The mushrooms add umami and texture, making the dish heartier.",
+            "technical_note": "Cook mushrooms until browned before adding broth to develop flavor and prevent sogginess."
+        },
+        {
+            "name": "Spicy Cajun Chicken and Spinach Pasta",
+            "description": "Season the chicken with Cajun spices before browning and add cayenne pepper with the red pepper flakes. This variation gives the creamy dish a bold, spicy kick.",
+            "technical_note": "Adjust spice levels to taste and consider adding diced bell peppers for extra crunch."
+        },
+        {
+            "name": "Creamy Chicken and Kale Pasta",
+            "description": "Swap spinach for chopped kale for a more robust leafy green. Kale holds up well and adds a slightly bitter contrast to the creamy sauce.",
+            "technical_note": "Massage kale with a little olive oil before adding to soften it and reduce bitterness."
+        },
+        {
+            "name": "Sun-Dried Tomato and Basil Chicken Pasta",
+            "description": "Stir in chopped sun-dried tomatoes and fresh basil leaves at the end for a bright, Mediterranean flavor. This adds a sweet-tart note that complements the creaminess.",
+            "technical_note": "Use oil-packed sun-dried tomatoes for richer flavor and sauté briefly with garlic."
+        },
+        {
+            "name": "Gluten-Free Creamy Chicken and Spinach Pasta",
+            "description": "Use gluten-free pasta to make this dish suitable for gluten sensitivities. The cooking time may vary slightly, so watch the pasta closely to maintain perfect texture.",
+            "technical_note": "Add gluten-free pasta gradually to broth and adjust cooking time according to package directions."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "42g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "690mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta dish should not be left at room temperature for more than 2 hours to avoid bacterial growth. Cover it loosely if you need to keep it out briefly before serving.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the pasta absorb more liquid, so reheat gently with a splash of broth or cream to loosen it.",
+        "freezer": "Freeze in airtight containers for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat slowly to maintain creamy texture.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally with a splash of chicken broth or cream to restore sauce consistency. Avoid microwave reheating at high power to prevent drying out or curdling.",
+        "make_ahead_strategy": "You can brown the chicken and sauté onions and garlic 1-2 days ahead, then store separately. Assemble and cook the pasta with broth fresh on the day you want to serve for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes, boneless skinless chicken thighs are a great substitute and add extra juiciness and flavor. Just cut them into similar-sized pieces and brown as usual. Keep in mind thighs may take a minute or two longer to cook through."
+        },
+        {
+            "question": "What if I don’t have heavy cream?",
+            "answer": "You can substitute half-and-half or whole milk for a lighter version, but the sauce won’t be as rich or thick. To compensate, add a teaspoon of flour or cornstarch mixed with a little water to help thicken the sauce gently."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes! Swap heavy cream for coconut milk or a dairy-free cream alternative, and use nutritional yeast instead of Parmesan for a cheesy flavor. The texture will be slightly different but still delicious and creamy."
+        },
+        {
+            "question": "How do I prevent the pasta from sticking?",
+            "answer": "Stir the pasta occasionally during cooking and ensure it’s fully submerged in broth. Adding enough liquid and stirring prevents clumping and uneven cooking."
+        },
+        {
+            "question": "Can I use frozen spinach?",
+            "answer": "You can, but thaw and squeeze out excess water before adding to avoid watering down the sauce. Fresh spinach is preferred for texture and color."
+        },
+        {
+            "question": "What if my sauce is too thin?",
+            "answer": "Simmer it uncovered a few extra minutes to reduce and thicken. Alternatively, stir in a bit more grated Parmesan to help thicken and enrich the sauce."
+        },
+        {
+            "question": "Is it okay to prepare this in advance?",
+            "answer": "Partially—brown the chicken and sauté aromatics ahead, but cook the pasta fresh to avoid mushiness. Assemble and finish the dish just before serving for best texture."
+        },
+        {
+            "question": "How spicy is the recipe with red pepper flakes?",
+            "answer": "It adds a mild to moderate heat depending on how much you use. Start with a small pinch and adjust to taste to keep it balanced and not overpowering."
+        }
+    ],
+    "conclusion": "Give this creamy chicken and spinach pasta a try—you’ll love how easy and satisfying it is! Don’t forget to share how it turns out for you.",
+    "seo": {
+        "primary_keyword": "creamy chicken spinach pasta",
+        "secondary_keywords": [
+            "one pot chicken pasta",
+            "easy creamy chicken pasta",
+            "how to make chicken spinach pasta",
+            "best creamy chicken pasta recipe",
+            "quick chicken pasta dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy one pot meals",
+                "anchor": "easy-one-pot-meals"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_7.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_7.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_4.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_4.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_8.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_8.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_6.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_6.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_5.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_5.webp",
+            "relativePath": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images/one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778492458_908",
+    "slug": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing",
+    "isOnline": true,
+    "createdAt": "2026-05-11T09:47:26+00:00",
+    "updatedAt": "2026-05-11T09:47:26+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "one-pot-creamy-chicken-and-spinach-pasta-for-weeknight-dinners-that-save-time-and-taste-amazing/images"
+}
