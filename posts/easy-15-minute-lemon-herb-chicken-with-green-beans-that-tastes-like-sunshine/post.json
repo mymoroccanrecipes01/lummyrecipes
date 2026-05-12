@@ -1,0 +1,310 @@
+{
+    "title": "Bright and Zesty Lemon Herb Chicken with Crisp Green Beans",
+    "promptIMG": "Food photography: Lemon Herb Chicken with Green Beans, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon herb chicken is fresh, light, and packed with flavor thanks to a vibrant lemon-garlic marinade. The green beans stay crisp, making it a perfect quick dinner for any busy night.",
+    "hashtags": "#lemonchicken #weeknightdinner #freshflavors",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Lemon Herb Chicken Dinner Ready in 30 Minutes!",
+            "description": "Looking for a fresh, healthy dinner that’s done fast? This lemon herb chicken with crisp green beans is your new weeknight hero. Save this recipe and try it tonight! 🍋🍗 #easyrecipes #chickendinner #healthyeats"
+        },
+        {
+            "title": "Brighten Up Dinner with This Zesty Lemon Herb Chicken",
+            "description": "Add a burst of flavor to your meals with this lemon garlic chicken and green beans. It’s light, satisfying, and super simple to make. Discover the secret marinade and cook it today! 🌿🍋 #lemonherbchicken #quickmeals #freshdinner"
+        },
+        {
+            "title": "Healthy Weeknight Meal: Lemon Garlic Chicken & Green Beans",
+            "description": "Need a nutritious dinner that’s packed with flavor and ready fast? This lemon garlic chicken with crisp green beans is just the ticket. Perfect for busy evenings! Try it now and enjoy! 🥗🍗 #healthyweeknight #quickdinner #chickenrecipes"
+        },
+        {
+            "title": "Simple Lemon Herb Chicken That Feels Fancy but Is Easy",
+            "description": "Impress without the stress with this lemon herb chicken and green beans recipe. It’s fresh, zesty, and comes together in under 45 minutes. Save it for your next cozy night in! 🍋✨ #easychicken #herbchicken #weeknightmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, trimmed",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "Zest and juice of 1 large lemon",
+        "1 teaspoon dried oregano",
+        "1 teaspoon fresh thyme leaves",
+        "Salt and pepper to taste",
+        "12 ounces fresh green beans, trimmed",
+        "1 tablespoon butter",
+        "1/4 cup chopped fresh parsley"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled on this lemon herb chicken recipe when I was craving something light but still satisfying after a long day. What hooked me was how the bright lemon and garlic marinade completely transformed simple chicken breasts into something flavorful and juicy. Over time, I tweaked the marinade by adding fresh herbs like thyme and oregano, which really elevate the dish without complicating it. The green beans are cooked just right — crisp and vibrant — thanks to a quick sauté with butter and parsley. I’ve learned the trick of marinating the chicken for at least 20 minutes to let the flavors soak in, which makes all the difference. Unlike many heavy chicken dinners, this one leaves you feeling fresh and energized, perfect for busy weeknights when you want healthy but don’t want to spend hours in the kitchen. Plus, it’s easy enough that you can whip it up even if you’re not a pro cook. The finished dish looks bright and inviting, with golden chicken and glossy green beans, making it a dinner that’s as pretty as it is delicious. I hope you enjoy making it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the marinade. In a bowl, whisk together olive oil, minced garlic, lemon zest and juice, oregano, thyme, salt, and pepper. This blend not only seasons the chicken but also tenderizes it thanks to the acidity of the lemon. Make sure the garlic is finely minced to infuse its flavor evenly without overpowering. Avoid skipping the zest — it adds a bright citrus aroma that juice alone can’t provide.",
+            "timing": 10,
+            "doneness_cue": "Marinade is well combined and aromatic, with no large chunks of garlic"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the chicken breasts in a shallow dish or zip-top bag and pour the marinade over them, making sure each piece is coated evenly. Marinate in the fridge for at least 20 minutes, but ideally up to an hour. This resting time allows the lemon and herbs to penetrate the meat, resulting in juicy, flavorful chicken. Rushing this step can lead to bland chicken.",
+            "timing": 20,
+            "doneness_cue": "Chicken looks glossy and slightly plumped from absorbing the marinade"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken marinates, prepare the green beans. Rinse and trim them, then bring a pot of salted water to a boil. Blanch the green beans for 2-3 minutes until they turn bright green and are just tender-crisp. This quick blanching preserves their color and fresh snap while removing any raw edge.",
+            "timing": 5,
+            "doneness_cue": "Green beans are vibrant green and slightly tender but still crisp when bitten"
+        },
+        {
+            "step": 4,
+            "instruction": "Drain the green beans and immediately plunge them into an ice bath or run under cold water to stop the cooking process. This step locks in their color and texture perfectly. Skipping this will cause overcooking and dull color.",
+            "timing": 3,
+            "doneness_cue": "Green beans feel cold and firm to the touch after cooling"
+        },
+        {
+            "step": 5,
+            "instruction": "Heat a large skillet over medium-high heat and add a drizzle of olive oil. Remove chicken from marinade, letting excess drip off, and place in the hot pan. Sear the chicken for about 5-6 minutes per side until golden brown and cooked through. Don’t crowd the pan; cook in batches if needed. Searing locks in juices and develops a flavorful crust.",
+            "timing": 12,
+            "doneness_cue": "Chicken has a deep golden crust and registers 165°F internal temperature"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the chicken and cover loosely with foil to rest while you finish the beans. Resting lets juices redistribute, keeping the meat moist. Avoid cutting into it too soon or the juices will escape.",
+            "timing": 5,
+            "doneness_cue": "Chicken feels firm but not hard, juices settle inside"
+        },
+        {
+            "step": 7,
+            "instruction": "In the same skillet, melt butter over medium heat. Add the blanched green beans and toss to coat in the buttery pan juices. Cook for 3-4 minutes until warmed through and lightly coated. This quick sauté adds richness and flavor without softening the beans too much.",
+            "timing": 4,
+            "doneness_cue": "Green beans are glossy and tender but still have a slight snap"
+        },
+        {
+            "step": 8,
+            "instruction": "Turn off the heat and stir in fresh chopped parsley for a burst of color and fresh herb flavor. Parsley brightens the dish and adds a subtle earthiness that complements the lemon chicken perfectly.",
+            "timing": 1,
+            "doneness_cue": "Parsley looks vibrant and evenly distributed without wilting"
+        },
+        {
+            "step": 9,
+            "instruction": "Plate the chicken breasts alongside the green beans. Spoon any remaining pan juices over the chicken for extra flavor. Serve immediately to enjoy the contrast of warm, juicy chicken with crisp green beans. If desired, garnish with extra lemon wedges.",
+            "timing": 2,
+            "doneness_cue": "Dish looks vibrant, glossy, and inviting with a fresh citrus aroma"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Lemon Herb Chicken Recipe Shines",
+        "content": "<p>This recipe succeeds because it balances bright acidity, herbal freshness, and proper cooking techniques to elevate simple ingredients. The lemon juice in the marinade serves as a tenderizer by breaking down muscle fibers in the chicken, which helps keep it juicy and tender rather than dry. The garlic and herbs infuse aromatic compounds that penetrate the meat during marination, creating depth of flavor beyond just salt and pepper.</p><p>Marinating long enough is key: too short and the flavors won’t fully develop; too long and the acid can start to 'cook' the chicken, making it mushy. The blanching and shocking of green beans preserves their vibrant color and crisp texture, which contrasts nicely with the tender chicken. Searing the chicken over medium-high heat triggers the Maillard reaction, developing a flavorful crust that locks in moisture and adds savory notes.</p><p>Using butter to finish the green beans adds richness that balances the bright lemon and herbs, while fresh parsley adds a final fresh herbal note. The combination of these techniques results in a dinner that’s both healthy and satisfying, with layers of flavor and texture that feel special but come together quickly.</p><p>Overall, the chemistry of acid tenderizing, heat caramelization, and quick vegetable cooking makes this recipe reliably delicious and a perfect example of how simple ingredients can be elevated with the right methods.</p>",
+        "ingredient_notes": {
+            "Chicken Breasts": "Choose fresh, boneless, skinless chicken breasts that are relatively uniform in size for even cooking. Thicker breasts can be butterflied if needed to avoid drying out. Fresh chicken absorbs marinades better and cooks more evenly, while frozen-thawed meat can release excess water, diluting flavors.",
+            "Lemon": "Use fresh lemons for both zest and juice to get the bright, fragrant citrus flavor that bottled lemon juice can’t replicate. The zest contains essential oils that add aromatic complexity, while the juice provides acidity to tenderize and brighten the dish. Avoid overusing lemon juice to prevent overpowering the chicken.",
+            "Garlic": "Fresh garlic cloves, minced finely, provide pungent, savory depth. Crushing or finely chopping garlic releases allicin, which mellows and sweetens with cooking. Pre-minced or powdered garlic lacks this fresh punch and can alter flavor balance.",
+            "Green Beans": "Select fresh green beans that snap easily when bent and have a vibrant green color. Older beans can be tough and fibrous, making them less pleasant even after cooking. Proper trimming and blanching preserve their texture and color for the best eating experience.",
+            "Butter": "Butter adds creamy richness and helps finish the green beans with a silky coating. Use unsalted butter to control seasoning precisely. Substituting with oil changes mouthfeel and flavor, making the beans less luscious."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate chicken for at least 20 minutes but no more than 1 hour.",
+            "reason": "The acid in lemon juice tenderizes the meat, but too long can break down proteins excessively, leading to a mushy texture. A moderate marinating time allows flavor absorption without compromising the chicken’s structure."
+        },
+        {
+            "tip": "Blanch green beans before sautéing to maintain crispness and color.",
+            "reason": "Blanching halts enzyme activity that causes vegetables to lose color and texture during cooking. The ice bath stops cooking instantly, locking in the beans’ vibrant green and fresh crunch."
+        },
+        {
+            "tip": "Sear chicken over medium-high heat without overcrowding the pan.",
+            "reason": "Crowding lowers pan temperature, causing the chicken to steam rather than sear. A proper sear develops the Maillard crust that locks in juices and adds flavor complexity."
+        },
+        {
+            "tip": "Rest chicken after cooking for 5 minutes before slicing.",
+            "reason": "Resting allows juices to redistribute evenly inside the meat. Cutting too soon causes flavorful juices to spill out, resulting in drier chicken."
+        },
+        {
+            "tip": "Use fresh herbs like thyme and parsley for better aroma and flavor.",
+            "reason": "Fresh herbs contain volatile oils that release during cooking, enhancing aroma and taste. Dried herbs can be used but will lack brightness and might require more quantity."
+        },
+        {
+            "tip": "Add lemon zest to the marinade, not just juice.",
+            "reason": "Lemon zest contains essential oils that provide a fragrant citrus note distinct from the tartness of juice, enriching the overall flavor profile."
+        },
+        {
+            "tip": "Use unsalted butter when sautéing green beans.",
+            "reason": "Unsalted butter lets you control salt levels precisely, avoiding over-seasoning. It also creates a rich mouthfeel that complements the fresh vegetables."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Over-marinating the chicken in lemon juice.",
+            "why_it_happens": "Many think longer marinating means more flavor, but the acid can break down meat fibers too much, causing a mushy texture.",
+            "fix": "Limit marinating to 20-60 minutes. If marinating longer, dilute lemon juice with a bit of water or oil to reduce acidity and protect the chicken’s texture."
+        },
+        {
+            "mistake": "Skipping blanching the green beans before sautéing.",
+            "why_it_happens": "People often want to save time, but raw green beans take longer to cook and can become unevenly cooked or dull in color.",
+            "fix": "Blanch green beans for 2-3 minutes in boiling water, then immediately cool in ice water to preserve their bright color and crisp texture before finishing in the pan."
+        },
+        {
+            "mistake": "Cooking chicken straight from the fridge without resting it at room temp.",
+            "why_it_happens": "Some rush to cook immediately, but cold chicken cooks unevenly and can dry out on the outside before the inside cooks through.",
+            "fix": "Let chicken sit at room temperature for 15-20 minutes before cooking to ensure even heat penetration and juicier results."
+        },
+        {
+            "mistake": "Overcrowding the pan when searing chicken.",
+            "why_it_happens": "Trying to cook all pieces at once lowers pan temperature, causing steaming instead of searing.",
+            "fix": "Cook chicken in batches if needed, giving each piece enough space to brown properly and develop a flavorful crust."
+        },
+        {
+            "mistake": "Not resting chicken after cooking.",
+            "why_it_happens": "Impatience leads to slicing right away, causing juices to run out and dry meat.",
+            "fix": "Cover chicken loosely with foil and rest for 5 minutes to let juices redistribute for moist, tender meat."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Lemon Herb Chicken",
+            "description": "Add a pinch of red pepper flakes or a dash of cayenne to the marinade for a subtle heat that pairs beautifully with the lemon and herbs. This gives the dish a lively kick without overpowering the fresh flavors.",
+            "technical_note": "Adjust the amount of spice according to your heat tolerance. The additional acidity can intensify spiciness, so balance carefully."
+        },
+        {
+            "name": "Lemon Herb Chicken with Roasted Potatoes",
+            "description": "Swap the green beans for crispy roasted baby potatoes tossed in the same lemon herb marinade. This makes for a heartier, comforting meal while keeping the fresh citrus notes intact.",
+            "technical_note": "Roast potatoes at 425°F for 25-30 minutes until golden and crispy, then serve alongside the chicken for contrast in texture."
+        },
+        {
+            "name": "Grilled Lemon Herb Chicken",
+            "description": "For a smoky twist, grill the marinated chicken breasts instead of pan-searing. The grill adds charred flavor that complements the bright lemon and herb marinade perfectly.",
+            "technical_note": "Preheat grill to medium-high and cook chicken 5-6 minutes per side until internal temperature reaches 165°F."
+        },
+        {
+            "name": "Lemon Herb Chicken with Garlic Mashed Cauliflower",
+            "description": "Serve the chicken with creamy garlic mashed cauliflower instead of green beans for a low-carb, comforting side that still feels fresh and flavorful.",
+            "technical_note": "Steam cauliflower until tender, then mash with roasted garlic, butter, and a splash of cream for a silky texture."
+        },
+        {
+            "name": "Lemon Herb Chicken Salad",
+            "description": "Slice the cooked chicken and toss with mixed greens, cherry tomatoes, cucumber, and a light vinaigrette for a refreshing, protein-packed salad perfect for warmer days.",
+            "technical_note": "Use leftover chicken chilled or at room temperature and add the vinaigrette just before serving to keep greens crisp."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "15g",
+        "fiber_grams": "4g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be left out at room temperature for more than 2 hours. Cover with foil or a lid if you plan to serve it within that timeframe to keep it protected and fresh.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The chicken may firm up slightly when cold; reheat gently to avoid drying it out. Green beans are best eaten within 1-2 days for optimal texture.",
+        "freezer": "Freeze cooked chicken breasts and green beans separately in airtight containers or freezer bags for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat chicken and green beans gently in a skillet over low heat with a splash of water or broth to keep them moist. Avoid microwaving on high as it can dry out the chicken and soften the beans excessively.",
+        "make_ahead_strategy": "Marinate the chicken up to 1 day in advance and keep refrigerated. Trim and blanch the green beans earlier in the day, then finish sautéing right before serving. This cuts down active cooking time on busy nights."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are more forgiving and stay juicy even if slightly overcooked. Adjust cooking time slightly since thighs are thicker and may take longer to reach 165°F internal temperature."
+        },
+        {
+            "question": "Can I use bottled lemon juice instead of fresh?",
+            "answer": "Fresh lemon juice is best for flavor and aroma, but bottled lemon juice can be used in a pinch. Use slightly less to avoid an overly acidic taste."
+        }
+    ],
+    "conclusion": "Give this lemon herb chicken a try and enjoy a fresh, flavorful dinner that’s quick enough for any weeknight. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "lemon herb chicken recipe",
+        "secondary_keywords": [
+            "easy lemon chicken",
+            "healthy chicken dinner",
+            "how to make lemon herb chicken",
+            "best lemon chicken recipe",
+            "quick chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "simple garlic green beans",
+                "anchor": "simple-garlic-green-beans"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_1.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_2.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_3.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_6.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_8.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_7.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_4.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_5.webp",
+            "relativePath": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/posts/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images/easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778576687_943",
+    "slug": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine",
+    "isOnline": true,
+    "createdAt": "2026-05-12T09:15:26+00:00",
+    "updatedAt": "2026-05-12T09:15:26+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "easy-15-minute-lemon-herb-chicken-with-green-beans-that-tastes-like-sunshine/images"
+}
