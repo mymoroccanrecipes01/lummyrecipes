@@ -1,0 +1,343 @@
+{
+    "title": "Simple 5-Ingredient Chocolate Cake with Luscious Ganache Frosting",
+    "promptIMG": "Food photography: Simple 5-Ingredient Chocolate Cake with Ganache Frosting, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is a total game changer—only five ingredients and a rich ganache frosting. It’s super easy to make and perfect for last-minute celebrations or a cozy night in.",
+    "hashtags": "#chocolatecake #easybaking #ganache",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Whip Up This 5-Ingredient Chocolate Cake in No Time!",
+            "description": "Craving chocolate? This simple cake uses just five ingredients and a silky ganache frosting. Perfect for last-minute treats or celebrations. Save this recipe to impress your friends! 🍫🎂 #chocolatecake #easyrecipes #dessertlover"
+        },
+        {
+            "title": "The Easiest Chocolate Cake You'll Ever Make - Try It Today!",
+            "description": "No fuss, just pure chocolate bliss with this 5-ingredient cake topped with luscious ganache. Great for when you need a quick sweet fix. Discover now and bake your new favorite dessert! 🍰✨ #chocolate #bakingmadeeasy #ganache"
+        },
+        {
+            "title": "5-Ingredient Chocolate Cake with Ganache - Perfect for Beginners!",
+            "description": "If you’re new to baking, this chocolate cake is your best friend. Only 5 ingredients and a smooth ganache frosting make it a breeze. Try it today and wow everyone! 🎉🍫 #easybaking #chocolatecake #dessertideas"
+        },
+        {
+            "title": "Last-Minute Chocolate Cake That’s Rich, Simple, and Delicious!",
+            "description": "Need a quick dessert? This 5-ingredient chocolate cake with ganache frosting is rich and easy to make. Perfect for cozy nights or unexpected guests. Save this recipe for later! 🍫❤️ #quickdessert #chocolatecake #ganachefrosting"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsweetened cocoa powder",
+        "1 teaspoon baking powder",
+        "1/2 cup milk, room temperature",
+        "1/4 cup vegetable oil",
+        "1 large egg, room temperature",
+        "1 teaspoon vanilla extract",
+        "For ganache frosting:",
+        "1 cup heavy cream",
+        "8 ounces bittersweet chocolate, chopped"
+    ],
+    "yield": "One 8-inch round cake, 8 servings",
+    "introduction": "I first stumbled upon this chocolate cake recipe during a weekend when I had almost no ingredients but a serious chocolate craving. What amazed me was how just five simple pantry staples came together to make a moist and flavorful cake, topped with a silky ganache that feels so indulgent. Unlike some complicated desserts that require dozens of steps or fancy gadgets, this cake is straightforward and forgiving. I’ve tweaked the original a bit, adding a touch of vanilla and using vegetable oil instead of butter to keep it incredibly moist and tender. One trick I learned is warming the milk slightly before mixing; it helps the batter come together smoothly and improves the crumb. The ganache is the real star here — just heavy cream and good quality bittersweet chocolate melted together, creating a shiny, rich frosting that’s easy to spread and hard to resist. When it’s done, the cake looks glossy and elegant but feels cozy and homemade. It’s perfect for last-minute celebrations or just a comforting treat on a quiet evening. Honestly, it’s become my go-to when I want chocolate without fuss but with maximum flavor and texture.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour an 8-inch round cake pan to prevent sticking. This step is crucial because even a well-mixed batter can stick to the pan if it’s not properly prepared, ruining the cake’s edges and making it hard to remove.",
+            "timing": 10,
+            "doneness_cue": "Pan surface is evenly coated with no bare spots or excess flour clumps."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, sift together the flour, cocoa powder, sugar, and baking powder. Sifting helps break up any lumps and aerates the dry ingredients, which leads to a lighter, more tender cake texture.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are combined into a fine, even mixture with no clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Warm the milk slightly until just lukewarm (not hot) and add it to the dry ingredients along with the vegetable oil, egg, and vanilla extract. Mix gently with a whisk until just combined. Overmixing can develop gluten and make the cake tough, so stop as soon as the batter is smooth with no streaks.",
+            "timing": 5,
+            "doneness_cue": "Batter is uniform, smooth, and slightly thick but pourable."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. Tap the pan gently on the counter to release any air bubbles trapped inside the batter, which helps prevent holes or tunnels in the cake.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is even and free of bubbles."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake in the preheated oven for 28-32 minutes. Start checking at 28 minutes by inserting a toothpick into the center; it should come out with a few moist crumbs but no wet batter. Baking too long dries the cake, too short leaves it undercooked.",
+            "timing": 30,
+            "doneness_cue": "Toothpick inserted in center comes out mostly clean with moist crumbs."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the cake from the oven and let it cool in the pan for 10 minutes. This resting period helps the cake firm up a bit, making it easier to remove without breaking.",
+            "timing": 10,
+            "doneness_cue": "Cake edges slightly pull away from the pan and surface looks set."
+        },
+        {
+            "step": 7,
+            "instruction": "Invert the cake onto a wire rack to cool completely before frosting. Cooling fully prevents the ganache from melting and sliding off, which keeps your frosting smooth and glossy.",
+            "timing": 30,
+            "doneness_cue": "Cake feels cool to the touch and no steam rises."
+        },
+        {
+            "step": 8,
+            "instruction": "To make the ganache, heat the heavy cream in a small saucepan over medium heat until it just begins to simmer. Pour it over the chopped bittersweet chocolate and let it sit for 3-4 minutes to soften. Stir gently until the mixture is smooth and shiny. Avoid stirring too soon or vigorously, as that can cause the ganache to seize or become grainy.",
+            "timing": 10,
+            "doneness_cue": "Ganache is fully melted, smooth, and glossy with no lumps."
+        },
+        {
+            "step": 9,
+            "instruction": "Pour the ganache over the cooled cake, using a spatula to spread it evenly over the top and sides. Let it set at room temperature for about 30 minutes or refrigerate briefly to firm up before slicing and serving.",
+            "timing": 30,
+            "doneness_cue": "Ganache is set but still soft, with a shiny, smooth finish."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Simple Chocolate Cake",
+        "content": "<p>This recipe succeeds because it balances simplicity with technique to deliver moistness, tenderness, and rich flavor. Using vegetable oil instead of butter keeps the cake moist longer since oil remains liquid at room temperature, preventing the cake from drying out quickly. The slight warmth of the milk helps dissolve the sugar and cocoa evenly, encouraging a smooth batter and uniform crumb.</p><p>The sifting step aerates the dry ingredients, which lightens the texture and helps the baking powder distribute evenly, allowing the cake to rise consistently. Baking powder releases gas bubbles that expand in the heat, creating the fluffy structure. Overmixing is avoided to prevent gluten development, which would toughen the crumb.</p><p>The ganache is a simple emulsion of fat from the cream and cocoa solids from the chocolate, melted together to create a glossy, rich topping. The temperature of the cream is key—too hot and the chocolate can seize, too cool and it won't melt properly. Letting the ganache rest before stirring ensures a smooth finish. Pouring it over a fully cooled cake prevents melting and sliding, so the frosting sets perfectly.</p><p>Overall, this recipe combines minimal ingredients with essential techniques that maximize texture and flavor, proving you don’t need complicated steps to make an impressive chocolate cake.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a fresh bag of all-purpose flour with a fine texture and no clumps. It provides the structure for the cake through gluten formation, but since this cake requires tenderness, avoid overmixing after adding liquids to prevent toughness. If you want a slightly lighter cake, you can sift the flour twice or substitute up to 1/4 cup with cake flour for a softer crumb.",
+            "unsweetened cocoa powder": "Choose a high-quality unsweetened cocoa powder with a rich, deep chocolate flavor. Dutch-processed cocoa is smoother and less acidic, but natural cocoa powder works well here. Cocoa powder adds both color and intense chocolate flavor while also absorbing some moisture, so balance with the liquid ingredients is important.",
+            "baking powder": "Baking powder is the leavening agent that helps the cake rise by releasing carbon dioxide bubbles when heated. Make sure your baking powder is fresh (not expired) for reliable rising. Using too much can cause a bitter taste or cause the cake to rise too quickly and collapse, so precise measurement is key.",
+            "vegetable oil": "Vegetable oil keeps the cake moist and tender because it stays liquid at room temperature, unlike butter which solidifies. Neutral-flavored oils like canola or sunflower work best to not overpower the cocoa. Avoid extra virgin olive oil as it has a strong taste. Using oil also helps the cake stay soft and fresh longer.",
+            "bittersweet chocolate": "For the ganache, choose high-quality bittersweet chocolate with at least 60% cocoa solids for rich flavor and smooth melting. Avoid chips with stabilizers; instead, chop a chocolate bar finely for even melting. The chocolate’s fat content influences the ganache’s texture—higher cocoa butter content yields a silkier finish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Warm the milk slightly before mixing into the batter.",
+            "reason": "Warming milk helps dissolve sugar and cocoa powder better, resulting in a smoother batter and finer crumb. Cold milk can cause lumps and uneven mixing, which affects cake texture."
+        },
+        {
+            "tip": "Sift all dry ingredients together before combining with wet ingredients.",
+            "reason": "Sifting aerates the flour and cocoa powder, preventing clumps and promoting an even rise. This step also ensures the baking powder is evenly distributed, which helps the cake bake uniformly."
+        },
+        {
+            "tip": "Avoid overmixing the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the flour, leading to a dense, tough cake. Mix just until ingredients are combined and the batter is smooth for a tender crumb."
+        },
+        {
+            "tip": "Tap the pan on the counter after pouring batter to release air bubbles.",
+            "reason": "This helps remove trapped air that could cause large holes or tunnels in the cake, resulting in a more even texture."
+        },
+        {
+            "tip": "Cool the cake completely before pouring ganache frosting.",
+            "reason": "A warm cake will melt the ganache, causing it to slide off and lose its glossy finish. Cooling ensures the frosting sets beautifully."
+        },
+        {
+            "tip": "Chop the chocolate finely for the ganache to melt evenly.",
+            "reason": "Smaller chocolate pieces melt faster and more uniformly when combined with hot cream, producing a smooth, shiny ganache without lumps."
+        },
+        {
+            "tip": "Use a wire rack to cool the cake after removing it from the pan.",
+            "reason": "Cooling on a rack allows air circulation around the cake, preventing sogginess and helping it cool evenly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping sifting the dry ingredients",
+            "why_it_happens": "Many skip sifting to save time, thinking it’s unnecessary.",
+            "fix": "Always sift flour, cocoa, and baking powder together to remove lumps and incorporate air. This ensures even mixing and a light cake texture."
+        },
+        {
+            "mistake": "Overmixing the batter after adding wet ingredients",
+            "why_it_happens": "Some believe mixing longer makes the batter smoother.",
+            "fix": "Mix just until combined to avoid gluten development, which causes a dense, chewy cake. Stop once no dry streaks remain."
+        },
+        {
+            "mistake": "Pouring ganache on a warm cake",
+            "why_it_happens": "Impatience or rushing cooling time.",
+            "fix": "Wait until the cake is completely cool to prevent ganache from melting and sliding off, ensuring a smooth, glossy finish."
+        },
+        {
+            "mistake": "Using cold milk straight from the fridge",
+            "why_it_happens": "Forgot to warm milk or skipped step.",
+            "fix": "Warm milk slightly before mixing to help dissolve ingredients and create a smooth batter, improving crumb texture."
+        },
+        {
+            "mistake": "Not checking cake doneness early",
+            "why_it_happens": "Assuming baking time is exact.",
+            "fix": "Start testing with a toothpick a few minutes before the timer ends. This prevents overbaking and drying out the cake."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mocha Chocolate Cake",
+            "description": "Add 1 tablespoon of instant espresso powder to the dry ingredients to enhance the chocolate flavor with a subtle coffee note. The espresso intensifies the richness without overpowering the cake.",
+            "technical_note": "Make sure to dissolve the espresso powder evenly to avoid gritty spots. The batter consistency remains similar."
+        },
+        {
+            "name": "Gluten-Free Chocolate Cake",
+            "description": "Swap all-purpose flour with a gluten-free baking blend that includes xanthan gum. This keeps the cake tender and moist for those avoiding gluten.",
+            "technical_note": "Baking time may vary slightly; check doneness carefully as gluten-free flours can behave differently."
+        },
+        {
+            "name": "Vegan Chocolate Cake",
+            "description": "Replace the egg with a flaxseed egg (1 tablespoon ground flaxseed + 3 tablespoons water) and use plant-based milk and oil. This keeps the cake moist and delicious while vegan-friendly.",
+            "technical_note": "The flax egg adds moisture but may slightly change texture; mix batter gently to keep it light."
+        },
+        {
+            "name": "Spiced Chocolate Cake",
+            "description": "Add 1 teaspoon cinnamon and 1/4 teaspoon cayenne pepper to the dry ingredients for a warm, spicy twist that complements the chocolate beautifully.",
+            "technical_note": "The spices don’t affect baking time but add complexity to flavor. Adjust cayenne to taste."
+        },
+        {
+            "name": "Chocolate Orange Cake",
+            "description": "Add 1 tablespoon orange zest to the batter and substitute vanilla with orange extract. This gives a fresh citrus aroma that brightens the rich chocolate flavor.",
+            "technical_note": "Zest finely to avoid bitter pith; batter consistency remains unchanged."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cake can safely stay at room temperature for up to 2 days if covered tightly with plastic wrap or stored in an airtight cake container to prevent drying out and contamination.",
+        "refrigerator": "Store the cake in an airtight container for up to 5 days. The ganache may firm up and the cake might become denser when cold, so bring it to room temperature or warm slightly before serving for best texture.",
+        "freezer": "Freeze the cake wrapped tightly in plastic wrap and then foil, for up to 3 months. To thaw, move it to the refrigerator overnight, then bring to room temperature before serving to restore texture and flavor.",
+        "reheating": "Warm individual slices gently in the microwave for 10-15 seconds or in a low oven (300°F) for 5-7 minutes. Avoid overheating as ganache can melt too much. A small splash of milk can refresh moistness if needed.",
+        "make_ahead_strategy": "Bake the cake layers up to 2 days ahead and store wrapped well. Prepare ganache the day of serving for best gloss and texture. Assemble and frost just before guests arrive for a fresh finish."
+    },
+    "faq": [
+        {
+            "question": "Can I use butter instead of vegetable oil?",
+            "answer": "Yes, you can substitute melted butter for oil in equal amounts. Butter adds flavor but can make the cake slightly denser and less moist over time because it solidifies at room temperature. Using oil keeps the cake tender and moist longer."
+        },
+        {
+            "question": "What if I don’t have heavy cream for the ganache?",
+            "answer": "You can substitute with full-fat coconut milk or evaporated milk, but the texture and flavor will differ slightly. Coconut milk adds a subtle coconut flavor, and evaporated milk makes the ganache less rich and less glossy."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Insert a toothpick in the center; it should come out with a few moist crumbs but no wet batter. The top should spring back slightly when pressed and start pulling away from the sides of the pan."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes, use a gluten-free baking blend that includes xanthan gum for structure. Baking time may vary slightly, so check doneness carefully. The texture might be a bit different but still delicious."
+        },
+        {
+            "question": "What’s the best way to store leftover cake?",
+            "answer": "Keep leftovers in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. Bring to room temperature before serving to restore softness."
+        },
+        {
+            "question": "Can I double the recipe for a larger cake?",
+            "answer": "Absolutely! Double all ingredients and bake in a larger pan or two pans. Adjust baking time accordingly; start checking for doneness a few minutes before the original time multiplied by volume."
+        },
+        {
+            "question": "Why is my ganache grainy or separated?",
+            "answer": "Ganache can seize if the cream is too hot or if the chocolate is stirred too vigorously before melting properly. Let the cream sit on the chocolate for a few minutes before stirring gently and use good quality chocolate."
+        },
+        {
+            "question": "Can I add frosting between layers?",
+            "answer": "Yes, you can slice the cake horizontally and spread ganache between layers for a richer dessert. Chill the cake after assembling to help the ganache set firmly."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this simple chocolate cake as much as I do! Don’t forget to share your baking wins and tweaks — I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "5 ingredient chocolate cake",
+        "secondary_keywords": [
+            "easy chocolate cake recipe",
+            "simple chocolate cake",
+            "how to make chocolate cake",
+            "best chocolate cake recipe",
+            "quick chocolate cake"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade ganache frosting",
+                "anchor": "homemade-ganache-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_1.png",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_1.png",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_2.png",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_2.png",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_3.png",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_3.png",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779750177_978",
+    "slug": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-05-25T23:21:14+00:00",
+    "updatedAt": "2026-05-25T23:21:14+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love/images"
+}
