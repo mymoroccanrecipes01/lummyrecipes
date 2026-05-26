@@ -1,0 +1,339 @@
+{
+    "title": "Creamy Garlic Chicken Skillet with Fresh Spinach for Quick Weeknight Dinners",
+    "promptIMG": "Food photography: Creamy Garlic Chicken Skillet, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy garlic chicken skillet is a lifesaver on busy nights. Loaded with tender chicken, a rich garlic cream sauce, and fresh spinach folded in last minute. Perfect for cozy dinners that come together fast!",
+    "hashtags": "#GarlicChicken #QuickDinner #CreamyChicken",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Creamy Garlic Chicken That Everyone Will Love Tonight!",
+            "description": "Whip up this creamy garlic chicken skillet in under 45 minutes 🍽️. It’s packed with flavor and fresh spinach for a healthy twist. Save this easy recipe for your next busy weeknight! #QuickDinners #GarlicChicken #WeeknightMeals"
+        },
+        {
+            "title": "How to Make Creamy Garlic Chicken with Spinach in One Pan",
+            "description": "Looking for a simple, one-pan dinner? This creamy garlic chicken with spinach is perfect. It’s creamy, garlicky, and ready fast. Try it tonight and discover your new favorite comfort meal! 🧄🥘 #OnePanMeals #ChickenDinner #EasyRecipes"
+        },
+        {
+            "title": "The Best Creamy Garlic Chicken Skillet Recipe with Fresh Spinach",
+            "description": "This skillet meal is creamy, garlicky, and loaded with fresh spinach. It’s a quick fix that feels special and comforting. Perfect when you want something delicious without the fuss! Try it today! 🍗🌿 #CreamyChicken #GarlicLovers #WeeknightDinner"
+        },
+        {
+            "title": "One-Pan Creamy Garlic Chicken with Spinach – Ready in 30 Minutes!",
+            "description": "Need a fast, tasty dinner? This one-pan creamy garlic chicken with spinach is your answer. It’s rich, flavorful, and easy to make. Save it now and impress your family tonight! 🍴✨ #EasyChickenDinner #GarlicChicken #HealthyMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, cut into bite-sized pieces",
+        "2 tbsp olive oil",
+        "4 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup chicken broth",
+        "2 cups fresh spinach leaves",
+        "Salt and pepper, to taste",
+        "1/4 cup grated Parmesan cheese",
+        "1 tsp dried Italian herbs"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this creamy garlic chicken skillet on a hectic weeknight when I wanted something quick but comforting. I’d tried similar dishes before, but they often felt heavy or bland. This version stands out because of the fresh garlic and the splash of cream that creates a luscious sauce without being overwhelming. What really makes it shine is folding in fresh spinach at the last moment—it adds a vibrant color and a fresh bite that balances the richness. I’ve learned that cooking the chicken just right to get a nice golden sear locks in flavor and keeps it juicy. Plus, letting the cream sauce gently thicken while stirring in Parmesan makes all the difference. When it’s done, the dish looks inviting with tender chicken nestled in a creamy garlicky sauce speckled with bright green spinach. It’s become a favorite in my family, especially when time is tight but I still want to serve something homemade and satisfying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet over medium-high heat. Add the chicken pieces in a single layer and season with salt, pepper, and Italian herbs. Sear the chicken without moving it too much for about 5-6 minutes until golden brown on one side. This step is crucial because it develops flavor through the Maillard reaction, giving the chicken a nice crust and locking in juices. Avoid overcrowding the pan to ensure the chicken browns rather than steams.",
+            "timing": "6 minutes",
+            "doneness_cue": "Chicken pieces are golden brown on one side and release easily from the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Flip the chicken pieces and cook for another 4-5 minutes until browned on the other side and nearly cooked through. This even cooking ensures the chicken stays juicy and tender. If you rush this step by turning too soon or cooking on too high heat, the chicken could be unevenly cooked or dry out. You want a consistent golden color all over.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken is golden on both sides and firm but not dry when pressed"
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to medium and add the minced garlic to the skillet. Stir constantly for about 1 minute until fragrant but not browned. Garlic burns quickly and becomes bitter, so watch closely. This step infuses the oil and chicken with rich garlicky aroma, key for the sauce’s depth.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant and slightly softened, no browning"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and scrape the bottom of the pan with a wooden spoon to loosen any browned bits. These bits add intense flavor to the sauce. Simmer gently for 3-4 minutes to reduce the broth slightly, concentrating the taste and preparing the pan for the cream.",
+            "timing": "4 minutes",
+            "doneness_cue": "Broth has reduced by about a third and the pan looks deglazed"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly stir in the heavy cream, mixing well to combine. Keep the heat at medium-low to avoid boiling, which can cause the cream to separate. Let the sauce gently thicken for 5-6 minutes, stirring occasionally. This slow simmer helps the sauce develop a silky texture and meld all the flavors together.",
+            "timing": "6 minutes",
+            "doneness_cue": "Sauce is thickened, creamy, and coats the back of a spoon"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the grated Parmesan cheese and stir until melted and fully incorporated. This adds a nutty, salty richness that elevates the sauce. Be sure to add it off the highest heat to prevent clumping. The cheese also helps thicken the sauce further and adds depth.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is melted smoothly into the sauce without lumps"
+        },
+        {
+            "step": 7,
+            "instruction": "Fold in the fresh spinach leaves and gently stir until wilted, about 2-3 minutes. Adding the spinach last preserves its bright color and fresh flavor while softening it just enough. Overcooking spinach would make it lose its vibrancy and texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Spinach is wilted but still bright green and tender"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce and adjust seasoning with more salt and pepper if needed. This final step ensures the flavors are balanced and the dish is perfectly seasoned for your palate. Skipping this can leave the dish bland or uneven.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce tastes balanced with a creamy garlic flavor and proper saltiness"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy garlic chicken skillet immediately over rice, pasta, or crusty bread to soak up the sauce. This dish tastes best fresh and hot, with the sauce silky and the chicken tender. Leftovers can be reheated gently but fresh is always best.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is hot, sauce is creamy, and chicken is juicy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Garlic Chicken Skillet Works So Well",
+        "content": "<p>This recipe succeeds because of the perfect balance between searing, sauce building, and folding in fresh ingredients last. The initial sear on the chicken is essential to create that deep golden crust that locks in moisture and adds complex flavor through the Maillard reaction. Without this, the chicken would be bland and dry.</p><p>The garlic is introduced after the chicken is mostly cooked to avoid burning and bitterness, giving a fresh, pungent aroma that infuses the entire dish. Deglazing the pan with chicken broth lifts the caramelized bits that hold concentrated flavor, enriching the sauce base.</p><p>Adding heavy cream at a gentle simmer prevents curdling and allows the sauce to thicken slowly, creating a luscious texture. Parmesan cheese adds umami and saltiness, rounding out the creaminess and thickening the sauce further. Finally, folding in fresh spinach at the end keeps it vibrant and tender, providing a fresh contrast to the rich sauce.</p><p>Each step is designed to maximize flavor and texture while keeping the process simple and quick, perfect for weeknight cooking. The interplay of seared protein, aromatic garlic, creamy sauce, and fresh greens is what makes this dish so comforting and satisfying.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose boneless skinless chicken breasts that are fresh and firm to the touch. They should be pale pink without any gray spots or odors. Chicken breasts work best here because they cook quickly and remain tender when seared properly. Avoid frozen or previously frozen for best texture. Cutting into uniform bite-sized pieces ensures even cooking and a golden sear on each piece.",
+            "heavy cream": "Use heavy cream with at least 36% fat content for the richest, creamiest sauce. Lower fat creams or milk can cause the sauce to be thin or curdle when heated. Heavy cream emulsifies with the broth and cheese to create a smooth, luscious texture that coats the chicken beautifully. Always add cream over medium-low heat to prevent separation.",
+            "garlic": "Fresh garlic cloves minced finely release a bright, pungent flavor that is key to this dish. Avoid pre-minced jar garlic as it lacks the fresh aroma. Adding garlic after the chicken sears prevents burning and bitterness, which can ruin the sauce's delicate balance. The garlic infuses the oil and sauce, giving a warm depth of flavor.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese melts smoothly into the cream sauce and adds salty umami richness. Pre-grated powders often have anti-caking agents that can cause clumping. Adding Parmesan off the highest heat prevents curdling and ensures a silky, cohesive sauce. It also helps thicken the sauce naturally.",
+            "fresh spinach": "Use vibrant, fresh spinach leaves that are crisp and unblemished. Baby spinach works well for tenderness. Adding spinach right at the end allows it to wilt gently without losing color or texture, adding freshness and a mild earthy flavor that balances the richness of the cream."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken.",
+            "reason": "Crowding traps steam and prevents the chicken from browning properly. The Maillard reaction is what creates those delicious golden crusts and deep flavors, so giving each piece space is crucial for the best texture and taste."
+        },
+        {
+            "tip": "Add garlic after the chicken is mostly cooked, not at the start.",
+            "reason": "Garlic burns quickly and turns bitter if exposed to high heat too long. Adding it later allows it to soften and release flavor without burning, keeping the sauce bright and aromatic."
+        },
+        {
+            "tip": "Simmer cream sauce gently over medium-low heat.",
+            "reason": "High heat can cause the cream to curdle or separate. A gentle simmer allows the sauce to thicken slowly and evenly, resulting in a smooth, velvety texture."
+        },
+        {
+            "tip": "Use freshly grated Parmesan instead of pre-grated cheese.",
+            "reason": "Pre-grated cheese often contains additives that can affect melting and texture. Freshly grated Parmesan melts better and enriches the sauce without clumping."
+        },
+        {
+            "tip": "Fold in spinach at the very end to preserve its color and texture.",
+            "reason": "Cooking spinach too long makes it lose its vibrant green color and become mushy. Adding it last keeps it fresh, tender, and visually appealing."
+        },
+        {
+            "tip": "Let the chicken rest a few minutes after cooking before serving.",
+            "reason": "Resting allows the juices to redistribute in the meat, making it more tender and juicy instead of drying out when cut immediately."
+        },
+        {
+            "tip": "Deglaze the pan with broth before adding cream.",
+            "reason": "Scraping the browned bits from the pan adds intense flavor to the sauce base, enhancing the overall taste of the dish significantly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear and just cooking chicken in sauce.",
+            "why_it_happens": "Sometimes cooks want to save time and skip browning, assuming it’s unnecessary.",
+            "fix": "Always sear chicken first to develop flavor and texture. It only takes a few extra minutes but transforms the dish from bland to rich and savory."
+        },
+        {
+            "mistake": "Burning garlic by adding it too early or over high heat.",
+            "why_it_happens": "Garlic cooks very fast and cooks unevenly on high heat if unattended.",
+            "fix": "Add garlic after chicken is mostly cooked on medium heat and stir constantly. Watch closely to avoid bitterness."
+        },
+        {
+            "mistake": "Boiling cream which causes curdling.",
+            "why_it_happens": "High heat makes dairy proteins separate.",
+            "fix": "Keep heat medium-low and simmer gently. Stir often to keep sauce smooth."
+        },
+        {
+            "mistake": "Overcooking spinach until mushy and dull.",
+            "why_it_happens": "Cooking spinach too long destroys texture and color.",
+            "fix": "Add spinach last and stir just enough to wilt it."
+        },
+        {
+            "mistake": "Using pre-shredded Parmesan cheese.",
+            "why_it_happens": "Pre-shredded cheese has additives that affect melting.",
+            "fix": "Use freshly grated Parmesan for best melt and flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Swap Spinach for Kale or Swiss Chard",
+            "description": "Try using kale or Swiss chard instead of spinach for a heartier, earthier flavor. These greens add a bit more texture and stand up well to the creamy sauce. You may want to cook them a minute or two longer to soften.",
+            "technical_note": "Since kale and chard are tougher than spinach, allow extra wilting time and possibly add a splash of broth to help soften."
+        },
+        {
+            "name": "Add Mushrooms for Earthy Depth",
+            "description": "Sauté sliced mushrooms with the chicken for an earthy flavor boost. Mushrooms add umami and a meaty texture that pairs wonderfully with the creamy garlic sauce.",
+            "technical_note": "Cook mushrooms first until golden and their moisture evaporates before adding chicken to avoid watery sauce."
+        },
+        {
+            "name": "Make it Spicy with Red Pepper Flakes",
+            "description": "Add a pinch or two of red pepper flakes when cooking the garlic to introduce a gentle heat that contrasts nicely with the creamy sauce.",
+            "technical_note": "Add red pepper flakes early with garlic to toast their flavor, but watch carefully to prevent burning."
+        },
+        {
+            "name": "Use Half-and-Half Instead of Heavy Cream",
+            "description": "For a lighter version, substitute half-and-half for heavy cream. The sauce will be less rich but still creamy enough to coat the chicken nicely.",
+            "technical_note": "Reduce heat slightly and stir frequently to prevent curdling since half-and-half has less fat."
+        },
+        {
+            "name": "Serve Over Cauliflower Rice for Low Carb",
+            "description": "Skip traditional rice or pasta and serve this creamy garlic chicken over sautéed cauliflower rice for a low-carb, veggie-packed meal.",
+            "technical_note": "Cauliflower rice cooks quickly; prepare separately and serve immediately to keep texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "28g",
+        "fiber_grams": "2g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and spinach will soften further. Reheat gently to avoid drying out the chicken.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, press plastic wrap directly on the surface before sealing. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring occasionally. Add a splash of chicken broth or water if the sauce is too thick. Avoid microwaving on high to prevent drying out or curdling.",
+        "make_ahead_strategy": "You can prep the chicken and sauce base up to the simmering step 1-2 days ahead, then add spinach and cheese fresh when reheating. This keeps the spinach vibrant and cheese melty."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Adjust cooking time slightly as thighs take a bit longer to cook through. They add a richer flavor and work really well in this creamy sauce."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "Half-and-half or whole milk mixed with a bit of butter can work in a pinch, but the sauce will be less rich and may be thinner. To prevent curdling, cook gently and avoid boiling."
+        },
+        {
+            "question": "How do I prevent the cream sauce from curdling?",
+            "answer": "Keep the heat medium-low and stir frequently. Avoid boiling the sauce, as high heat causes dairy proteins to separate. Adding cheese off the highest heat also helps maintain a smooth texture."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "You can cook the chicken and sauce base a day ahead, but add the spinach and cheese fresh when reheating to keep the greens bright and the sauce fresh-tasting."
+        },
+        {
+            "question": "What side dishes pair well with this skillet meal?",
+            "answer": "Rice, pasta, or crusty bread are classic options to soak up the creamy sauce. For a lighter meal, serve over cauliflower rice or alongside steamed veggies."
+        },
+        {
+            "question": "Is this recipe freezer-friendly?",
+            "answer": "Yes, you can freeze leftovers for up to 2 months. Freeze in airtight containers with plastic wrap pressed on top to prevent freezer burn. Thaw overnight in the fridge before reheating slowly."
+        },
+        {
+            "question": "How can I make this dish spicier?",
+            "answer": "Add red pepper flakes or a dash of hot sauce when cooking the garlic. Start with a small amount and adjust to your heat preference."
+        },
+        {
+            "question": "Can I use pre-minced garlic?",
+            "answer": "Fresh minced garlic is best for flavor and aroma, but pre-minced can be used if necessary. Just add it carefully to avoid overcooking or burning."
+        }
+    ],
+    "conclusion": "Give this creamy garlic chicken skillet a try—you’ll love how quick and comforting it is. Don’t forget to share your results, I can’t wait to hear what you think!",
+    "seo": {
+        "primary_keyword": "creamy garlic chicken skillet",
+        "secondary_keywords": [
+            "easy garlic chicken recipe",
+            "quick creamy chicken dinner",
+            "how to make creamy garlic chicken",
+            "best creamy chicken skillet recipe",
+            "easy chicken skillet dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "one-pan chicken recipes",
+                "anchor": "one-pan-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_1.png",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_1.png",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_2.png",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_2.png",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_3.png",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_3.png",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "filePath": "posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "relativePath": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images/15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779791814_216",
+    "slug": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream",
+    "isOnline": true,
+    "createdAt": "2026-05-26T10:59:40+00:00",
+    "updatedAt": "2026-05-26T10:59:40+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream/images"
+}
