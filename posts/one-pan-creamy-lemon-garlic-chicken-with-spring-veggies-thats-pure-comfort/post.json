@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Lemon Garlic Chicken with Fresh Spring Veggies for Cozy Dinners",
+    "promptIMG": "Food photography: Creamy Lemon Garlic Chicken with Fresh Spring Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pan chicken is creamy and zesty with a bright lemon-garlic sauce and fresh spring veggies. It’s an easy, cozy dinner that feels special without much fuss. Great for busy weeknights when you want something comforting but fresh!",
+    "hashtags": "#chickendinner #onepanmeal #easyweeknightrecipes",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "One-Pan Creamy Lemon Chicken That Will Wow Your Family Tonight!",
+            "description": "Looking for an effortless dinner that tastes like you spent hours? This creamy lemon garlic chicken with fresh veggies is your new go-to. Save this recipe and try it today for a cozy meal! 🍋🍗 #chickendinner #easyrecipes #comfortfood"
+        },
+        {
+            "title": "How to Make Zesty Lemon Garlic Chicken with Spring Veggies in 30 Minutes",
+            "description": "Discover the secret to a quick, flavorful chicken dinner with a tangy lemon garlic sauce and crisp spring veggies. Perfect for busy nights! Give it a shot and let me know how it turns out! 🌿🍋 #weeknightdinner #onepanmeal #easychicken"
+        },
+        {
+            "title": "Cozy Up with This Creamy Lemon Garlic Chicken and Veggie Skillet Tonight",
+            "description": "This creamy lemon garlic chicken skillet loaded with fresh veggies is comfort food turned bright and fresh. It’s simple, fast, and absolutely delicious. Try it tonight and enjoy! 🍗💛 #comfortfood #easychickenrecipes #dinnerideas"
+        },
+        {
+            "title": "Brighten Your Dinner Table with This Easy Lemon Garlic Chicken & Veggies",
+            "description": "A creamy, zesty lemon garlic sauce coats tender chicken and fresh spring veggies in this easy one-pan meal. Perfect for a quick, tasty dinner. Save this and make it your new favorite! 🍋🥕 #chickenrecipe #easymeals #healthycomfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken thighs, trimmed",
+        "1 tablespoon olive oil",
+        "4 cloves garlic, minced",
+        "1 cup low-sodium chicken broth",
+        "1/2 cup heavy cream",
+        "Juice and zest of 1 lemon",
+        "1 teaspoon Dijon mustard",
+        "1 cup asparagus, trimmed and cut into 2-inch pieces",
+        "1 cup snap peas, trimmed",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper to taste",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy lemon garlic chicken recipe when I was craving something both comforting and bright during early spring. I wanted a dish that screamed freshness but didn’t require a ton of cleanup or complicated steps. After a few experiments, I landed on this one-pan wonder that nails the balance between rich, creamy sauce and vibrant spring veggies. What I love most is how the lemon zest and juice cut through the creaminess, giving it a lively zing that makes every bite pop. The secret I discovered is to sear the chicken just right to get that golden crust, then simmer it gently with the sauce and veggies so everything stays tender and flavorful. It’s a dish that feels fancy enough for guests but is so simple that I make it on busy weeknights when I’m short on time but craving something satisfying. The finished dish is creamy, zesty, and packed with fresh green veggies that add a nice crunch. It’s one of those meals that warms you up but still feels light and fresh—perfect for spring or any time you want a quick, elegant dinner at home.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken thighs dry with paper towels to ensure a nice sear. Heat the olive oil in a large skillet over medium-high heat until shimmering. Add the chicken thighs skin-side down (if skin-on) or just the smooth side down, spacing them out so they don’t crowd the pan. Let them cook undisturbed for about 5-6 minutes until the bottom turns golden brown and crispy. This step is crucial because it locks in juices and creates that flavorful crust that makes the chicken irresistible. Avoid moving the chicken too soon or you risk tearing the meat and losing that crust.",
+            "timing": 6,
+            "doneness_cue": "Chicken bottoms are golden brown and release easily from the pan without sticking"
+        },
+        {
+            "step": 2,
+            "instruction": "Flip the chicken over and cook for another 4-5 minutes on the other side until browned. Then remove the chicken from the pan and set it aside on a plate. This step ensures the chicken is mostly cooked through but will finish in the sauce, staying juicy and tender. If you skip this or rush it, the chicken won’t brown properly and the final texture will be less appealing.",
+            "timing": 5,
+            "doneness_cue": "Chicken is browned on both sides but still slightly undercooked in the center"
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to medium and add the minced garlic to the same skillet. Stir it around for about 30 seconds until fragrant but not browned. Garlic burns quickly and turns bitter, so keep a close eye and stir constantly. This step infuses the pan with that classic garlic aroma that’s the base for the sauce.",
+            "timing": 0.5,
+            "doneness_cue": "Garlic is fragrant and slightly softened but not browned"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth, scraping up any browned bits stuck to the pan with a wooden spoon. Those bits, called fond, are packed with flavor and will enrich the sauce. Bring the broth to a gentle simmer to reduce slightly, about 3 minutes. This concentrates the flavors and thickens the sauce base.",
+            "timing": 3,
+            "doneness_cue": "Broth is simmering gently and has reduced by about 10-15%"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the heavy cream, lemon juice, lemon zest, and Dijon mustard. Whisk gently to combine everything into a smooth sauce. The cream adds richness, while the lemon juice and zest brighten the flavor, balancing the heaviness. The mustard helps emulsify the sauce, giving it a silky texture. Avoid boiling at this stage or the cream might curdle.",
+            "timing": 2,
+            "doneness_cue": "Sauce is smooth, creamy, and gently simmering"
+        },
+        {
+            "step": 6,
+            "instruction": "Return the chicken thighs to the skillet, nestling them into the sauce. Scatter the asparagus and snap peas around the chicken. Cover the pan with a lid and let everything simmer gently for 8-10 minutes. This cooks the veggies until tender-crisp and finishes cooking the chicken through without drying it out. If you skip covering, the sauce might reduce too quickly and veggies won’t steam properly.",
+            "timing": 10,
+            "doneness_cue": "Chicken is cooked through (internal temp 165°F), veggies are bright green and tender-crisp"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the lid and sprinkle the Parmesan cheese over the chicken and veggies. Stir gently to melt the cheese into the sauce, creating a savory, slightly thickened finish. Parmesan adds a nutty depth and helps thicken the sauce further. Don’t skip this step if you want that luscious, creamy texture.",
+            "timing": 2,
+            "doneness_cue": "Cheese is melted and sauce has thickened slightly"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce and season with salt and freshly ground black pepper to your preference. The seasoning will bring all the flavors together. Remember that Parmesan adds salt, so add salt gradually and taste as you go to avoid over-salting.",
+            "timing": 1,
+            "doneness_cue": "Sauce tastes balanced and flavorful, neither bland nor overly salty"
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish with chopped fresh parsley for a pop of color and fresh herbaceous note. Serve the chicken, sauce, and veggies hot, spooning plenty of sauce over everything. This final touch brightens the dish and adds a fresh contrast to the creamy sauce.",
+            "timing": 1,
+            "doneness_cue": "Dish looks vibrant and fresh with green parsley scattered on top"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Balances Creaminess and Brightness Perfectly",
+        "content": "<p>This recipe succeeds because it balances rich, creamy textures with bright, fresh flavors, creating a harmonious dish that never feels heavy. The key is the lemon-garlic sauce, which uses acidity from fresh lemon juice and zest to cut through the heaviness of the cream and Parmesan. This acid brightens the palate and keeps the dish lively.</p><p>Another important factor is the searing technique for the chicken. Searing the thighs until golden brown develops Maillard reactions, which create deep, savory flavors and an appealing crust. This crust locks in moisture, so the chicken stays juicy when simmered in the sauce later. Skipping this step would result in bland, rubbery chicken.</p><p>The one-pan approach also enhances flavor by allowing the fond (the browned bits stuck to the pan) to dissolve into the sauce, adding complexity without extra ingredients. Simmering the sauce gently avoids curdling the cream and lets the flavors meld beautifully. Adding Parmesan at the end enriches the sauce with umami and helps thicken it without overwhelming the lemony brightness.</p><p>Finally, the fresh spring veggies add texture and color, providing a crisp contrast to the creamy sauce. Cooking them just until tender-crisp preserves their vibrant green color and fresh flavor, preventing the dish from becoming too heavy or uniform in texture.</p>",
+        "ingredient_notes": {
+            "Chicken Thighs": "Choose boneless, skinless chicken thighs for the best balance of flavor and tenderness. Thighs stay juicy and flavorful compared to breast meat, which can dry out easily. Patting them dry before searing ensures a golden crust instead of steaming. You can substitute with chicken breasts but adjust cooking time to avoid dryness.",
+            "Lemon": "Fresh lemons are essential here for their bright, zesty juice and fragrant zest. Bottled lemon juice won’t provide the same fresh acidity or aromatic oils from the zest, which add depth. The lemon juice balances the richness of cream and Parmesan, keeping the sauce lively and refreshing.",
+            "Heavy Cream": "Heavy cream gives the sauce its luscious, silky texture. Using full-fat cream is key; lower-fat substitutes might curdle when simmered or produce a thinner sauce. Adding cream late and simmering gently prevents separation and ensures a smooth finish.",
+            "Parmesan Cheese": "Freshly grated Parmesan adds umami and helps thicken the sauce naturally. Pre-grated cheese often contains anti-caking agents that prevent smooth melting. Use good quality Parmesan for the best flavor and avoid skipping this step, as it enriches the sauce beautifully.",
+            "Spring Vegetables": "Asparagus and snap peas provide fresh crunch and vibrant color. Choose crisp, bright green veggies without blemishes. Cooking them just until tender-crisp preserves their texture and nutrients, adding contrast to the creamy sauce. Overcooking will make them mushy and dull the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken dry before searing.",
+            "reason": "Removing excess moisture allows the chicken to brown properly instead of steaming. This creates the Maillard reaction that gives the chicken its golden crust and deep flavor, which is essential for a tasty final dish."
+        },
+        {
+            "tip": "Simmer the sauce gently after adding cream.",
+            "reason": "High heat can cause cream to curdle or separate, ruining the sauce’s texture. Keeping the heat low allows the flavors to meld and the sauce to thicken smoothly without breaking."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice.",
+            "reason": "The zest contains aromatic oils that add brightness and complexity beyond just acidity. Fresh juice balances the cream’s richness, making the sauce lively and fresh instead of heavy."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken.",
+            "reason": "Crowding traps steam and prevents browning. Searing in batches ensures each piece develops a crisp crust for maximum flavor and texture."
+        },
+        {
+            "tip": "Add Parmesan cheese at the end.",
+            "reason": "Adding cheese late prevents it from overcooking or clumping. It melts smoothly into the sauce, enriching flavor and thickening the sauce naturally."
+        },
+        {
+            "tip": "Cook veggies until just tender-crisp.",
+            "reason": "Overcooked veggies lose texture and color, making the dish dull. Tender-crisp veggies provide a fresh contrast to the creamy sauce and keep the dish vibrant."
+        },
+        {
+            "tip": "Use a wide skillet for even cooking.",
+            "reason": "A wide pan allows the chicken and veggies to cook evenly without crowding, ensuring proper browning and consistent doneness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear on the chicken.",
+            "why_it_happens": "Some cooks rush the process or want to avoid extra steps, thinking they can just cook the chicken in the sauce.",
+            "fix": "Pat chicken dry and sear over medium-high heat without moving it too soon. This step locks in juices and develops flavor. Don’t rush; wait for a golden crust before flipping."
+        },
+        {
+            "mistake": "Boiling the cream in the sauce.",
+            "why_it_happens": "High heat cooks the sauce too fast and causes cream to curdle.",
+            "fix": "Simmer sauce gently on medium or medium-low heat after adding cream. Stir frequently and avoid high heat to keep the sauce smooth."
+        },
+        {
+            "mistake": "Overcooking the vegetables.",
+            "why_it_happens": "Wanting soft veggies or cooking too long while finishing the chicken.",
+            "fix": "Add veggies later and cook just until tender-crisp, about 8-10 minutes covered. Check frequently to preserve texture and color."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh.",
+            "why_it_happens": "Convenience or not realizing the flavor difference.",
+            "fix": "Always use fresh lemon juice and zest for bright, fresh flavor and aroma that bottled juice lacks."
+        },
+        {
+            "mistake": "Not seasoning the sauce properly.",
+            "why_it_happens": "Relying on Parmesan saltiness alone or forgetting to taste.",
+            "fix": "Season gradually with salt and pepper, tasting as you go to balance flavors without over-salting."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Lemon Chicken with Mushrooms",
+            "description": "Add sliced cremini or button mushrooms when sautéing garlic for an earthy twist. Mushrooms soak up the lemon garlic sauce beautifully and add a meaty texture. This variation deepens the flavor profile and adds umami richness.",
+            "technical_note": "Sauté mushrooms until golden before adding broth to prevent sogginess and concentrate their flavor."
+        },
+        {
+            "name": "Spicy Lemon Garlic Chicken",
+            "description": "Stir in red pepper flakes or a dash of cayenne with the garlic for a little heat. This adds a lively kick that complements the creamy, zesty sauce perfectly, making it more exciting and warming.",
+            "technical_note": "Add spices early with garlic to infuse the oil and develop flavor without burning."
+        },
+        {
+            "name": "Lemon Garlic Chicken with Cauliflower Rice",
+            "description": "Serve the creamy chicken and veggies over cauliflower rice for a low-carb, gluten-free meal. The light rice soaks up the sauce and keeps the dish fresh and healthy without extra carbs.",
+            "technical_note": "Cook cauliflower rice separately to avoid sogginess and maintain texture."
+        },
+        {
+            "name": "Herbed Lemon Garlic Chicken",
+            "description": "Add fresh herbs like thyme or rosemary alongside parsley for extra aroma and flavor layers. These herbs pair beautifully with lemon and garlic, making the dish fragrant and herbaceous.",
+            "technical_note": "Add herbs during simmering to infuse flavor but remove woody stems before serving."
+        },
+        {
+            "name": "Chicken Breast Version",
+            "description": "Use boneless skinless chicken breasts instead of thighs for a leaner option. Be careful not to overcook as breasts dry out more easily. Pound breasts to even thickness for quick, even cooking.",
+            "technical_note": "Reduce simmer time slightly and monitor internal temperature to avoid dryness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "28g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the cooked chicken covered at room temperature for up to 2 hours safely. Beyond that, bacteria growth increases risk, so refrigerate promptly. Cover with foil or a lid to prevent drying.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and veggies soften when cold. Reheat gently on the stove or microwave with a splash of broth or water to loosen the sauce and maintain creaminess.",
+        "freezer": "Freeze cooked chicken and sauce in a freezer-safe container for up to 2 months. Wrap well to prevent freezer burn. Thaw overnight in the refrigerator before reheating. Texture of veggies may soften after freezing.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally. Add a little broth or water if sauce is too thick. Microwave in short bursts, stirring between, to avoid overheating cream which can curdle.",
+        "make_ahead_strategy": "You can sear the chicken and prepare the sauce up to 2 days ahead, storing separately. When ready to serve, combine and simmer with fresh veggies until tender-crisp. This keeps veggies fresh and saves time on the day."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, you can substitute chicken breasts for thighs. Just be sure to pound breasts to even thickness so they cook evenly and watch cooking time carefully to avoid drying out. Chicken breasts cook faster and can become tough if overcooked, so reduce simmer time and check for doneness often."
+        },
+        {
+            "question": "What if I don’t have heavy cream? Can I use milk?",
+            "answer": "Milk is much thinner and won’t create the same rich, creamy sauce. If you want a lighter option, try half-and-half or a mix of milk with a little butter or cream cheese to thicken it. Avoid using skim milk alone as it can curdle when heated."
+        },
+        {
+            "question": "How do I avoid curdling the cream in the sauce?",
+            "answer": "Simmer the sauce gently on medium to low heat after adding cream. Avoid boiling or high heat, which causes the proteins in cream to separate and curdle. Stir frequently and add cream towards the end of cooking to keep it smooth."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes, you can substitute heavy cream with full-fat coconut milk or a dairy-free cream alternative. Use nutritional yeast instead of Parmesan for cheesy flavor. The texture and flavor will be slightly different but still delicious and creamy."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat leftovers gently on the stovetop over low heat, stirring often. Add a splash of chicken broth or water if the sauce is too thick. Avoid high heat or microwave overheating to prevent curdling. You can also microwave in short intervals stirring between."
+        },
+        {
+            "question": "Can I add other vegetables to this dish?",
+            "answer": "Absolutely! Feel free to add mushrooms, cherry tomatoes, or zucchini. Add them according to their cooking times—harder veggies earlier and softer ones later—to keep texture balanced. This recipe is versatile and welcomes seasonal veggies."
+        },
+        {
+            "question": "Why is my chicken dry after cooking?",
+            "answer": "Dry chicken often means it was overcooked or cooked at too high a temperature. Sear the chicken properly then simmer gently in sauce to finish cooking without drying out. Use a meat thermometer to check for 165°F internal temperature and avoid overcooking."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes, you can sear the chicken and make the sauce 1-2 days ahead. Store separately from veggies, which are best added fresh to keep their texture. Combine and simmer veggies with chicken and sauce just before serving for best results."
+        }
+    ],
+    "conclusion": "I hope you give this creamy lemon garlic chicken a try—it’s one of my favorite quick dinners that feels a little special. Let me know how it turns out and what veggies you add!",
+    "seo": {
+        "primary_keyword": "creamy lemon garlic chicken",
+        "secondary_keywords": [
+            "easy chicken dinner",
+            "one pan chicken recipe",
+            "how to make lemon garlic chicken",
+            "best creamy chicken recipe",
+            "easy lemon chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "how to sear chicken perfectly",
+                "anchor": "perfect-chicken-sear"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_1.png",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_1.png",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_2.png",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_2.png",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_3.png",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_3.png",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_7.webp",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_7.webp",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_9.webp",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_9.webp",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_4.webp",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_4.webp",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_6.webp",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_6.webp",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_8.webp",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_8.webp",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_5.webp",
+            "filePath": "posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_5.webp",
+            "relativePath": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images/one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780009882_837",
+    "slug": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort",
+    "isOnline": true,
+    "createdAt": "2026-05-29T00:24:03+01:00",
+    "updatedAt": "2026-05-29T00:24:03+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "one-pan-creamy-lemon-garlic-chicken-with-spring-veggies-thats-pure-comfort/images"
+}

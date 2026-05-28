@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=home</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=posts</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;15-minute-budget-friendly-one-pot-spaghetti-bolognese</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -39,6 +39,12 @@
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;15-minute-creamy-garlic-chicken-dinner-with-asparagus-that-youll-love</loc>
     <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream</loc>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -62,7 +68,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;15-minute-high-protein-breakfast-bowls-for-spring-mornings</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -115,6 +121,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;30-minute-honey-garlic-chicken-stir-fry-with-seasonal-veggies-that-everyone-will-love</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -123,6 +135,12 @@
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;30-quick-lunch-ideas-ready-in-15-minutes-for-busy-days</loc>
     <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;5-ingredient-cajun-chicken-alfredo-pasta-thats-ready-in-30-minutes</loc>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -164,7 +182,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;5-ingredient-fudgy-chocolate-brownies-ready-in-30-minutes</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -189,6 +207,18 @@
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;adorable-easter-bunny-cupcakes-kids-will-love-making-and-eating</loc>
     <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;antioxidant-rich-healthy-high-protein-berry-smoothie-bowl-that-energizes-your-morning</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -260,13 +290,13 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;berry-blast-low-calorie-smoothie-for-healthy-mornings</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;berry-blast-low-calorie-weight-loss-smoothie-bowl-that-energizes-your-morning</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -284,7 +314,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;berry-oat-protein-smoothie-for-a-healthy-morning-boost</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -403,6 +433,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;budget-friendly-chicken-and-rice-casserole-for-busy-weeknights</loc>
     <lastmod>2026-04-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -470,7 +506,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;chewy-maple-walnut-cookies-perfect-for-springtime-snacking</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -512,7 +548,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -536,7 +572,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;cozy-and-delicious-baked-casserole-recipes-recipe-youll-love</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -608,7 +644,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-garlic-parmesan-chicken-with-mushrooms-dinner-thats-simply-irresistible</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -620,7 +656,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -632,19 +668,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-no-bake-blueberry-cheesecake-for-summer-bliss</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-no-bake-cheesecake-brownie-bars-perfect-for-summer</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-no-bake-cheesecake-cups-trending-on-tiktok-that-everyone-loves</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -657,6 +693,12 @@
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-no-bake-chocolate-cheesecake-bars-for-summer-indulgence</loc>
     <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-no-bake-chocolate-peanut-butter-cheesecake-cups-that-melt-in-your-mouth</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -703,6 +745,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-tomato-basil-penne-with-chicken-in-5-ingredients-that-youll-love</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about</loc>
     <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -727,6 +775,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-airfryer-garlic-parmesan-chicken-wings-ready-in-20-minutes</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -734,13 +788,13 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -752,25 +806,25 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-fried-radishes-a-surprisingly-delicious-snack-or-side-dish</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-pickled-radish-recipe-that-adds-a-tangy-crunch-to-any-meal</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -788,7 +842,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -806,13 +860,13 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -914,7 +968,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-5-ingredient-cheesy-baked-ziti-for-family-dinners</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -926,7 +980,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-5-ingredient-chocolate-cake-with-chocolate-ganache-frosting-that-everyone-will-love</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,6 +1011,12 @@
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-airfryer-crispy-chicken-wings-for-game-day-fun</loc>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1016,7 +1076,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1051,8 +1111,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-gluten-free-chocolate-chip-cookies-for-spring-gatherings</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1105,6 +1171,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-no-bake-chocolate-peanut-butter-cheesecake-bars-that-everyone-will-love</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-no-bake-lemon-blueberry-cheesecake-bars-that-everyone-will-love</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -1118,7 +1190,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-no-bake-strawberry-cheesecake-cups-for-warm-weather-treats</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1136,7 +1208,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1364,19 +1436,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;fudgy-5-ingredient-chocolate-brownies-ready-in-30-minutes</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;fudgy-easy-5-ingredient-chocolate-brownies-for-quick-desserts</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;fudgy-espresso-brownies-topped-with-toasted-pecans-for-the-ultimate-treat</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1412,7 +1484,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;gluten-free-5-ingredient-brownies-for-quick-dessert</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1435,6 +1507,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;green-detox-smoothie-bowl-with-creamy-avocado-and-fresh-spinach</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;green-protein-smoothie-bowl-with-avocado-and-chia-seeds-for-a-nourishing-start</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1448,7 +1526,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;green-protein-smoothie-bowl-with-spinach-and-banana-a-fresh-start-to-your-day</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1520,7 +1598,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;healthy-high-protein-breakfast-oatmeal-bowls-with-almond-butter-that-fuel-your-morning</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1574,7 +1652,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1586,13 +1664,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-berry-overnight-oats-for-a-healthy-morning-boost</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-berry-smoothie-with-greek-yogurt-and-chia-seeds-for-a-healthy-boost</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-birthday-cake-protein-oats-for-a-sweet-start-to-your-day</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1604,7 +1688,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1622,13 +1706,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-overnight-oats-with-greek-yogurt-and-berries-for-a-healthy-start</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-peanut-butter-banana-overnight-oats-for-busy-mornings</loc>
     <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;high-protein-spinach-and-feta-egg-muffins-for-busy-mornings</loc>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1730,7 +1820,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;how-to-crisp-up-radishes-simple-tips-for-perfect-crunch-every-time</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1742,7 +1832,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;lemon-lavender-pound-cake-with-fresh-edible-flowers-for-springtime-bliss</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1765,6 +1855,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;light-low-calorie-mixed-berry-parfaits-with-greek-yogurt-and-honey</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -1778,7 +1874,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;low-calorie-green-smoothie-for-weight-loss-and-energy-boost</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1790,7 +1886,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;low-calorie-high-protein-chicken-stir-fry-for-busy-weeknights</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1819,8 +1915,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;mini-caprese-skewers-with-balsamic-glaze-drizzle-for-easy-entertaining</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;mini-chicken-meatball-sliders-for-crowd-pleasing-snacks-that-everyone-will-love</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1844,7 +1946,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1856,13 +1958,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-cheesecake-brownie-bars-with-fresh-berries-a-delightful-treat</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing</loc>
     <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-chocolate-peanut-butter-cheesecake-for-summer-parties-that-everyone-will-love</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1874,13 +1982,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-coconut-lime-cheesecake-cups-with-graham-cracker-crust-that-are-pure-bliss</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat</loc>
     <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-gluten-free-lemon-cheesecake-cups-perfect-for-warm-weather</loc>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1904,7 +2018,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-lemon-cheesecake-with-fresh-berries-for-spring-delights</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1934,7 +2048,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;no-bake-tiktok-cheesecake-with-raspberry-swirl-thats-pure-bliss</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2012,7 +2126,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2024,7 +2138,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2102,7 +2216,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;one-pot-creamy-chicken-and-rice-comfort-dinner-that-feels-like-a-warm-hug</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2198,19 +2312,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;overnight-protein-oats-with-berries-and-almond-butter-for-a-nourishing-start</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;protein-packed-oatmeal-bowls-with-berries-and-nuts-that-fuel-your-morning</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2282,7 +2396,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2330,13 +2444,13 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;quick-and-easy-party-finger-foods-with-fresh-herbs-that-everyone-will-love</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;quick-and-moist-5-ingredient-chocolate-cake-for-busy-weeknights</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2395,8 +2509,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;quick-lemon-herb-chicken-breast-with-roasted-veggies-that-everyone-will-love</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;quick-lemon-rosemary-chicken-thighs-with-roasted-asparagus-for-easy-weeknight-dinners</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;quick-moist-5-ingredient-brownies-for-busy-weeknights</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;refreshing-high-protein-berry-smoothie-for-busy-mornings-that-kickstart-your-day</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;refreshing-low-calorie-peach-cobbler-with-a-cinnamon-oat-crust-thats-simply-irresistible</loc>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2438,7 +2576,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;sheet-pan-chicken-with-veggies-high-protein-family-dinner</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2498,19 +2636,19 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;simple-5-ingredient-brownies-you-can-make-in-30-minutes</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;simple-5-ingredient-chocolate-cake-for-beginners-that-actually-works</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2582,7 +2720,13 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;soft-cinnamon-sugar-cookies-with-a-hint-of-cardamom-that-melt-in-your-mouth</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;spicy-airfryer-crispy-chicken-wings-with-honey-drizzle-for-game-night-or-any-night</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2594,13 +2738,25 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning</loc>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;spring-carrot-cake-with-cream-cheese-frosting-recipe-that-feels-like-sunshine</loc>
     <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;spring-herb-goat-cheese-stuffed-mushrooms-that-wow-every-time</loc>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2660,13 +2816,13 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;tropical-green-low-calorie-weight-loss-smoothie-bowl-that-refreshes-and-energizes</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;tropical-mango-and-pineapple-smoothie-bowl-recipe-for-a-refreshing-start</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2726,7 +2882,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2756,7 +2912,7 @@
   </url>
   <url>
     <loc>http://www.lummyrecipes.com/base.html?page=post-detail&amp;viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
