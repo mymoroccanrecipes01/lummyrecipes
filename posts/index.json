@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 21:25:27",
-    "count": 496,
+    "generated": "2026-06-01 21:41:14",
+    "count": 497,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -473,6 +473,7 @@
         "spring-herb-goat-cheese-stuffed-mushrooms-that-wow-every-time",
         "spring-lamb-and-roasted-asparagus-sheet-pan-dinner-thats-perfect-for-easy-weeknight-meals",
         "spring-nails-2026-15-trending-designs-youll-love-this-season",
+        "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
         "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine",
         "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends",
         "sweet-easter-basket-brownies-kids-can-make-and-love",
@@ -500,6 +501,21 @@
         "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast"
     ],
     "posts": [
+        {
+            "slug": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
+            "title": "Fresh Strawberry Shortcake with a Hint of Basil for Springtime Treats",
+            "description": "This strawberry shortcake feels like spring in every bite, thanks to juicy berries and fluffy whipped cream. The surprise twist? Fresh basil adds a subtle herbal note that makes it extra special. Great for a light desser",
+            "image": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T21:41:14+01:00",
+            "updatedAt": "2026-06-01T21:41:14+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "15-minute-no-bake-lemon-blueberry-cheesecake-cups-that-impress-every-time",
             "title": "No-Bake Blueberry Lemon Cheesecake Cups That Are Perfectly Creamy and Quick",
