@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 22:28:09",
-    "count": 499,
+    "generated": "2026-06-01 22:55:48",
+    "count": 500,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -476,6 +476,7 @@
         "spring-lamb-and-roasted-asparagus-sheet-pan-dinner-thats-perfect-for-easy-weeknight-meals",
         "spring-nails-2026-15-trending-designs-youll-love-this-season",
         "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
+        "springtime-fresh-berry-cheesecake-bars-with-lemon-zest-that-brighten-any-day",
         "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine",
         "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends",
         "sweet-easter-basket-brownies-kids-can-make-and-love",
@@ -503,6 +504,21 @@
         "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast"
     ],
     "posts": [
+        {
+            "slug": "springtime-fresh-berry-cheesecake-bars-with-lemon-zest-that-brighten-any-day",
+            "title": "Lemon Berry Cheesecake Bars with a Buttery Crisp Crust",
+            "description": "These cheesecake bars combine creamy tanginess with fresh berries and a bright splash of lemon zest. The buttery crust adds a delightful crunch. Perfect for a spring dessert or a sunny afternoon treat!",
+            "image": "posts/springtime-fresh-berry-cheesecake-bars-with-lemon-zest-that-brighten-any-day/images/springtime-fresh-berry-cheesecake-bars-with-lemon-zest-that-brighten-any-day_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T22:55:48+01:00",
+            "updatedAt": "2026-06-01T22:55:48+01:00",
+            "isOnline": true,
+            "difficulty": "Medium",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 9
+        },
         {
             "slug": "15-minute-garlic-herb-chicken-with-spring-vegetable-stir-fry-thats-ready-fast",
             "title": "Quick Garlic Herb Chicken with Vibrant Spring Veggie Stir Fry",
