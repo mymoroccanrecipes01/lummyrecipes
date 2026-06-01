@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 23:18:58",
-    "count": 501,
+    "generated": "2026-06-01 23:31:51",
+    "count": 502,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -497,6 +497,7 @@
         "vegan-dessert-recipes-with-coconut-milk-recipe-that-will-delight-your-taste-buds",
         "vegan-dessert-recipes-with-strawberries-recipe-that-will-sweeten-your-day",
         "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day",
+        "vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning",
         "viral-no-bake-strawberry-cheesecake-cups-from-tiktok-that-everyones-talking-about",
         "viral-no-bake-strawberry-cheesecake-jar-dessert-that-everyone-loves",
         "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about",
@@ -505,6 +506,21 @@
         "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast"
     ],
     "posts": [
+        {
+            "slug": "vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning",
+            "title": "Refreshing Kiwi Spinach Smoothie Bowl for a Bright Start to Your Day",
+            "description": "This smoothie bowl is like a fresh breath of spring. Creamy and tangy, with vibrant kiwi and spinach, it’s a natural energy boost that’s perfect for mornings or after a workout. The kiwi’s tartness really makes it pop!",
+            "image": "posts/vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning/images/vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning_pinrecipes_image_1.png",
+            "category_id": "cat_1761230119_510",
+            "createdAt": "2026-06-01T23:31:51+01:00",
+            "updatedAt": "2026-06-01T23:31:51+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 2
+        },
         {
             "slug": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth",
             "title": "Strawberry Rhubarb Cake with Honey Glaze That Feels Like Spring",
