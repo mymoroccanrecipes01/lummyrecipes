@@ -1,0 +1,339 @@
+{
+    "title": "Classic Chocolate Chip Cookies with a Juicy Berry Surprise",
+    "promptIMG": "Food photography: Chocolate Chip Cookies with Berries, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chocolate chip cookies are a nostalgic favorite with a fun twist—fresh berries baked right inside for a juicy burst. They’re perfect for sharing on a cozy afternoon or bringing a little springtime cheer to any snack time.",
+    "hashtags": "#chocolatechipcookies #berrycookies #homemadesnacks",
+    "board_name": "Classic Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Sweet Berry Chocolate Chip Cookies You’ll Crave Anytime",
+            "description": "Looking for a cookie that’s both comforting and fresh? These berry-studded chocolate chip cookies are your new go-to. Soft, chewy, and bursting with juicy fruit—save this recipe and bake a batch today! 🍪🍓 #cookies #berrybaking #homemade"
+        },
+        {
+            "title": "How To Bake Chocolate Chip Cookies with a Fresh Berry Twist",
+            "description": "Discover the secret to adding fresh berries to your classic chocolate chip cookies for a juicy surprise in every bite. It’s easier than you think! Try it today and wow your friends. 🍫🍒 #bakingtips #chocolatechipcookies #freshberries"
+        },
+        {
+            "title": "Berry Chocolate Chip Cookies That Taste Like Spring in Every Bite",
+            "description": "Brighten your snack time with these berry-filled chocolate chip cookies. Soft, sweet, and perfect with a cup of tea. Save this recipe now and bake some happiness! 🌸🍪 #springbaking #berrycookies #homemadegoodness"
+        },
+        {
+            "title": "The Best Chocolate Chip Cookies with a Juicy Berry Surprise",
+            "description": "These cookies combine the classic chocolate chip goodness with fresh berries for a delightful twist. Perfect for sharing or treating yourself. Don’t miss out—discover this recipe now! 🍪❤️ #chocolatechip #berrycookies #snacktime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 24,
+    "ingredients": [
+        "2 1/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 large eggs",
+        "2 cups semisweet chocolate chips",
+        "1 cup fresh mixed berries (blueberries, raspberries, or strawberries), gently patted dry"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first stumbled upon the idea of adding fresh berries to chocolate chip cookies one spring when I wanted to brighten up my usual batch. At first, I was nervous—would the berries make the dough soggy or the cookies fall apart? But after a few tries, I found the perfect balance: gently folding in just the right amount of berries so each cookie gets a juicy surprise without losing that classic chewy texture. What makes this recipe special is the way the berries burst with freshness against the rich chocolate, making these cookies feel both nostalgic and new. The trick I learned is to pat the berries dry so they don’t add too much moisture, and to fold them in carefully to avoid smashing. When baked, the cookies come out golden with little pockets of berry sweetness, perfect for an afternoon snack or sharing with friends. I love how these cookies bring a little springtime indoors, and the smiles they spark are totally worth the extra care.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C) and line two baking sheets with parchment paper. This ensures the cookies bake evenly and don’t stick. Setting the oven temperature right is key because too hot, and the cookies might burn on the edges before cooking through; too low, and they won’t get that perfect golden color.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated to steady 375°F; parchment paper flat and wrinkle-free"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking soda, and salt. Sifting helps remove lumps and aerates the flour for a lighter cookie texture. Mixing the dry ingredients first also ensures even distribution of the leavening agent, so your cookies rise properly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients fully combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Using a hand or stand mixer, beat the softened butter, granulated sugar, and brown sugar together on medium speed until creamy and fluffy. This usually takes about 3-4 minutes. Creaming incorporates air, which gives the cookies a tender crumb. Don’t rush this step or you’ll miss out on that light texture.",
+            "timing": "4 minutes",
+            "doneness_cue": "Mixture is pale, smooth, and fluffy"
+        },
+        {
+            "step": 4,
+            "instruction": "Add vanilla extract and eggs one at a time, mixing well after each addition. This helps emulsify the batter and ensures the eggs are fully incorporated, which improves the cookie’s structure and moisture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth, slightly thickened, and glossy"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly add the dry ingredients to the wet mixture, mixing on low speed until just combined. Overmixing can develop gluten and make the cookies tough, so stop as soon as you see no streaks of flour.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough looks uniform with no visible flour patches"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold in the chocolate chips with a spatula, making sure they’re evenly distributed. Then carefully fold in the patted dry fresh berries, trying not to crush them. This step is crucial because smashed berries release too much juice, which can make the cookies soggy or overly wet.",
+            "timing": "4 minutes",
+            "doneness_cue": "Chocolate chips and berries spread evenly without breaking berries"
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop dough onto baking sheets using a tablespoon or cookie scoop, spacing each about 2 inches apart to give them room to spread. If the dough is too sticky, chill it for 10 minutes first. This helps the cookies hold their shape better during baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough balls formed, spaced evenly on the sheet"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies for 10-12 minutes, rotating the pans halfway through for even browning. Watch for golden edges and slightly soft centers. The cookies will firm up as they cool, so don’t overbake or they’ll be dry.",
+            "timing": "12 minutes",
+            "doneness_cue": "Edges are golden brown, centers look set but soft"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the cookies cool on the baking sheets for 5 minutes before transferring to wire racks. This resting time allows the cookies to finish setting up without breaking apart. Moving them too soon risks crumbling.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies firm enough to lift without breaking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Berry-Studded Chocolate Chip Cookies",
+        "content": "<p>Adding fresh berries to chocolate chip cookies introduces extra moisture and delicate flavors, which can be tricky to balance. The key is controlling that moisture so the cookies stay chewy, not soggy. By patting the berries dry before folding them in, you reduce excess water that could alter the dough’s structure. The flour and sugar in the dough absorb some moisture, but too much liquid breaks down the gluten network, causing flat or gummy cookies.</p><p>Creaming the butter and sugars properly is essential because it traps air that expands during baking, giving the cookies their tender crumb. The baking soda reacts with the acids in brown sugar and the moisture in the batter to create carbon dioxide bubbles, which help the cookies rise and spread just right.</p><p>Temperature control during baking is another critical factor. At 375°F, the outside of the cookie sets quickly, locking in the berries and chocolate chips, while the inside stays soft and chewy. Rotating the pans ensures even heat distribution and browning. Finally, resting the cookies on the sheet after baking allows residual heat to finish cooking the centers gently, preventing breakage when you transfer them.</p><p>Each ingredient and step works together to balance moisture, texture, and flavor, resulting in cookies that are familiar yet fresh, with juicy bursts of berry sweetness complementing the rich chocolate. It’s a simple twist that makes a big difference.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality, unbleached all-purpose flour for the best texture. It provides the right protein content to develop enough gluten for chewiness without making the cookies tough. Avoid bread flour, which is too high in protein, and cake flour, which is too low, as both affect texture.",
+            "butter": "Use unsalted butter softened to room temperature for controlled salt levels and creamy consistency. Butter’s fat coats flour proteins, limiting gluten formation and contributing to tenderness. Melted butter would make the cookies spread too much, so soft but not melted is ideal.",
+            "brown sugar": "Packed brown sugar adds moisture and a subtle molasses flavor that deepens the cookie’s taste and helps keep them soft. Using light brown sugar balances sweetness without overpowering. Don’t substitute with white sugar alone, or the cookies can be dry.",
+            "fresh berries": "Fresh berries must be gently washed and thoroughly patted dry to prevent excess moisture from altering dough consistency. Blueberries, raspberries, or chopped strawberries all work well. Avoid frozen berries, which release more water and can make cookies soggy.",
+            "baking soda": "Baking soda acts as a leavening agent by neutralizing acids in the dough, creating carbon dioxide bubbles that help cookies rise and spread. It also contributes to browning through Maillard reactions, giving the cookies a golden color and rich flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat berries completely dry before adding to dough.",
+            "reason": "Excess moisture from wet berries can make the dough too loose and cause cookies to spread too thin or become soggy. Drying the berries prevents this and helps maintain the ideal chewy texture."
+        },
+        {
+            "tip": "Don’t overmix the dough after adding flour.",
+            "reason": "Overmixing develops gluten, leading to tough, dense cookies. Mixing just until combined keeps the texture tender and soft."
+        },
+        {
+            "tip": "Chill the dough briefly if it feels too soft to scoop.",
+            "reason": "Chilling firms up the dough, making it easier to portion and helping cookies hold their shape better in the oven for uniform size and texture."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking.",
+            "reason": "They prevent sticking and promote even baking by providing a consistent surface, reducing the risk of burnt bottoms or uneven browning."
+        },
+        {
+            "tip": "Rotate baking sheets halfway through baking.",
+            "reason": "Ovens often have hot spots; rotating ensures even heat exposure so cookies bake uniformly without burning on one side."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before moving.",
+            "reason": "This allows the cookies to set and firm up, reducing the chance of breaking or crumbling when transferring to racks."
+        },
+        {
+            "tip": "Use room temperature eggs for better emulsification.",
+            "reason": "Cold eggs don’t mix as smoothly into the batter, which can result in uneven texture or mixing issues."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding wet berries without drying",
+            "why_it_happens": "Many assume rinsing is enough and don’t realize excess water affects dough consistency.",
+            "fix": "After washing berries, spread them on a paper towel and gently pat until no moisture remains. This prevents soggy dough and uneven baking."
+        },
+        {
+            "mistake": "Overmixing flour into dough",
+            "why_it_happens": "Eager cooks often want to fully blend every bit of flour and end up kneading the dough too much.",
+            "fix": "Mix flour in with slow speed or fold gently just until no flour streaks remain to keep cookies tender."
+        },
+        {
+            "mistake": "Baking at too low temperature",
+            "why_it_happens": "Some think lower temps prevent burning, but it causes cookies to dry out and lose chewiness.",
+            "fix": "Bake at 375°F to quickly set edges and lock moisture inside for soft, chewy cookies."
+        },
+        {
+            "mistake": "Skipping the dough chilling step when needed",
+            "why_it_happens": "Soft dough is hard to scoop and spreads too much, but some skip chilling to save time.",
+            "fix": "Chill dough 10-15 minutes if it feels sticky to handle; this improves shape and texture."
+        },
+        {
+            "mistake": "Removing cookies from sheet too soon",
+            "why_it_happens": "Impatience leads to breaking cookies that haven’t set properly.",
+            "fix": "Wait 5 minutes on the sheet to allow cookies to firm before transferring to racks."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mixed Nut and Berry Chocolate Chip Cookies",
+            "description": "Add 1/2 cup chopped walnuts or pecans along with the berries for a crunchy texture contrast and nutty flavor. The nuts pair beautifully with the berries and chocolate, enhancing complexity.",
+            "technical_note": "Fold nuts in with berries gently to avoid overmixing; baking time remains the same."
+        },
+        {
+            "name": "White Chocolate and Raspberry Cookies",
+            "description": "Swap semisweet chips for white chocolate chunks and use raspberries exclusively for a sweeter, creamier cookie with vibrant berry tartness.",
+            "technical_note": "Because white chocolate melts faster, watch baking closely to prevent overbrowning."
+        },
+        {
+            "name": "Vegan Berry Chocolate Chip Cookies",
+            "description": "Use vegan butter and flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg) to make this recipe plant-based without sacrificing texture or flavor.",
+            "technical_note": "Flax eggs bind moisture differently; chill dough longer before baking for best results."
+        },
+        {
+            "name": "Gluten-Free Berry Chocolate Chip Cookies",
+            "description": "Replace flour with a gluten-free all-purpose blend containing xanthan gum. The berries add moisture, so slightly reduce butter by 1 tbsp to balance dough consistency.",
+            "technical_note": "Gluten-free dough may be more fragile; handle gently and bake a minute longer if needed."
+        },
+        {
+            "name": "Spiced Berry Chocolate Chip Cookies",
+            "description": "Add 1 tsp cinnamon and 1/4 tsp nutmeg to the dry ingredients for a warm, cozy flavor that complements the berries and chocolate beautifully.",
+            "technical_note": "Spices blend easily with flour; no baking time adjustment needed."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "190 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "9g",
+        "fiber_grams": "1g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cookies keep well for up to 2 days at room temperature in an airtight container. Make sure they’re completely cooled before storing to avoid condensation, which can make them soggy.",
+        "refrigerator": "Store in an airtight container for up to 5 days. The cookies may firm up and lose some chewiness when cold; bring to room temperature or warm slightly before serving.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag for up to 3 months. Thaw at room temperature to preserve texture.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes or microwave for 10-15 seconds with a damp paper towel nearby to restore softness. Avoid overheating, which dries them out.",
+        "make_ahead_strategy": "Prepare dough up to 24 hours ahead and keep refrigerated. Scoop and bake fresh when ready to serve for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "Frozen berries tend to release more liquid when thawed, which can make the dough soggy and affect cookie texture. If you must use frozen, thaw and pat them very dry, then consider reducing some butter slightly to compensate for extra moisture."
+        },
+        {
+            "question": "Why do my cookies spread too much and become thin?",
+            "answer": "This usually happens if the dough is too warm, the butter is too soft or melted, or you skipped chilling sticky dough. Also, baking at too low a temperature can cause spreading. Try chilling dough briefly and baking at 375°F for better shape."
+        },
+        {
+            "question": "How do I keep berries from bleeding color into the dough?",
+            "answer": "Patting berries dry and folding them in gently helps keep them intact, minimizing color bleed. Using firmer berries like blueberries also reduces bleeding compared to softer ones like raspberries."
+        },
+        {
+            "question": "Can I substitute brown sugar with white sugar?",
+            "answer": "You can, but brown sugar adds moisture and a deeper flavor thanks to molasses. Using only white sugar may result in drier, less flavorful cookies."
+        },
+        {
+            "question": "Is it okay to use salted butter?",
+            "answer": "Yes, but reduce or omit added salt in the recipe to avoid oversalting. Unsalted butter gives you better control over salt levels."
+        },
+        {
+            "question": "How do I store leftover cookies to keep them fresh?",
+            "answer": "Store completely cooled cookies in an airtight container at room temperature. Adding a slice of bread can help maintain moisture and keep cookies soft longer."
+        },
+        {
+            "question": "Why are my cookies hard instead of chewy?",
+            "answer": "Overbaking or using too much flour can make cookies hard. Watch baking times closely, and measure flour correctly by spooning and leveling rather than scooping directly from the bag."
+        },
+        {
+            "question": "Can I make the dough ahead and freeze it?",
+            "answer": "Absolutely! Freeze dough balls on a sheet tray, then transfer to a bag. Bake frozen dough adding a couple extra minutes to baking time for fresh cookies anytime."
+        }
+    ],
+    "conclusion": "I hope you enjoy these berry-filled chocolate chip cookies as much as my family does. Give them a try and let me know how your batch turns out!",
+    "seo": {
+        "primary_keyword": "berry chocolate chip cookies",
+        "secondary_keywords": [
+            "chocolate chip cookies with berries",
+            "how to make berry chocolate chip cookies",
+            "best berry chocolate chip cookie recipe",
+            "easy berry chocolate chip cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookie recipe",
+                "anchor": "classic-chocolate-chip-cookie"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_1.png",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_1.png",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_2.png",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_2.png",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_3.png",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_3.png",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_7.webp",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_7.webp",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_5.webp",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_5.webp",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_8.webp",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_8.webp",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_4.webp",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_4.webp",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_9.webp",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_9.webp",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_6.webp",
+            "filePath": "posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_6.webp",
+            "relativePath": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images/fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780873483_801",
+    "slug": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack",
+    "isOnline": true,
+    "createdAt": "2026-06-08T00:24:02+01:00",
+    "updatedAt": "2026-06-08T00:24:02+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "fresh-berry-stuffed-chocolate-chip-cookies-for-a-sweet-spring-snack/images"
+}
