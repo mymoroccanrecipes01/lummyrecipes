@@ -1,0 +1,343 @@
+{
+    "title": "One-Pot Spring Veggie Pasta with Parmesan Finish",
+    "promptIMG": "Food photography: One-Pot Spring Veggie Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant pasta is packed with fresh spring veggies and topped with a sprinkle of Parmesan. It’s a quick, one-pot meal that’s perfect for busy weeknights when you want something colorful and satisfying.",
+    "hashtags": "#springpasta #onepotmeal #vegetarianrecipes",
+    "board_name": "Quick Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Quick & Fresh Spring Veggie Pasta You’ll Love Tonight!",
+            "description": "Craving a light but filling dinner? This one-pot spring veggie pasta is ready in just 30 minutes and bursting with fresh flavors. Save this recipe for your next busy night! 🌿🍝 #quickdinner #vegetarian #springrecipes"
+        },
+        {
+            "title": "Easy One-Pot Pasta Loaded with Spring Veggies and Cheese",
+            "description": "Looking for a fuss-free dinner? This colorful pasta cooks in one pot and finishes with Parmesan for that perfect cheesy touch. Try it today and enjoy a simple, tasty meal! 🧀🌸 #onepotmeal #easyrecipes #familydinner"
+        },
+        {
+            "title": "Brighten Your Dinner with This Colorful Spring Veggie Pasta",
+            "description": "This pasta is packed with fresh spring vegetables and comes together fast in one pot. It’s a healthy and delicious way to get dinner on the table. Discover this recipe now and make mealtime easier! 🥕🍃 #springveggies #pasta #dinnerideas"
+        },
+        {
+            "title": "Simple One-Pot Pasta with Fresh Veggies Perfect for Weeknights",
+            "description": "Need a quick, wholesome meal? This one-pot pasta combines fresh spring veggies and Parmesan for a comforting dinner that’s ready in no time. Save it and try it tonight! 🍽️🌱 #quickmeals #vegetarianrecipes #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces dried pasta (penne or fusilli)",
+        "2 tablespoons olive oil",
+        "1 small onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 cup asparagus, cut into 1-inch pieces",
+        "1 cup snap peas, trimmed",
+        "1 cup cherry tomatoes, halved",
+        "2 cups baby spinach",
+        "4 cups vegetable broth",
+        "1/2 cup grated Parmesan cheese, plus extra for serving",
+        "Salt and freshly ground black pepper, to taste",
+        "1 teaspoon lemon zest",
+        "1 tablespoon fresh basil, chopped (optional)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon this one-pot spring veggie pasta during a hectic week when I wanted something fresh but fast. What I love about this recipe is how it captures the bright flavors of spring vegetables without complicated steps or multiple pots to wash. Over time, I tweaked it to balance the veggies just right and learned that adding lemon zest at the end really lifts the whole dish. The secret to making this pasta shine is to add the veggies in stages so they keep their texture and vibrant color, which makes the dish feel lively and fresh rather than mushy. When it’s done, the pasta is perfectly tender, the veggies are crisp-tender, and the Parmesan adds a gentle, savory finish. It’s one of those meals that feels special but comes together in under 45 minutes—perfect for busy weeknights or casual weekend dinners. Plus, it’s easy to customize with whatever spring produce you have on hand. I think you’ll love how simple and satisfying this pasta is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large deep skillet or wide pot over medium heat. Add the chopped onion and cook, stirring occasionally, until it softens and becomes translucent, about 4-5 minutes. This step is important because it builds the base flavor for the whole dish — gently cooking the onion releases its natural sweetness and mellows its sharpness. Avoid browning the onion too much as it can add bitterness. Once translucent, add the minced garlic and cook for another 30 seconds until fragrant, stirring constantly to prevent burning.",
+            "timing": 6,
+            "doneness_cue": "Onions look translucent and soft; garlic is fragrant but not browned"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the dried pasta to the pot along with the vegetable broth. Stir well to submerge the pasta completely. Bring the mixture to a boil over medium-high heat. This method allows the pasta to cook directly in the broth, absorbing flavor as it softens. It's key to keep an eye on the liquid level and stir frequently to prevent sticking. If you rush this step or don’t stir enough, the pasta can clump or cook unevenly. Once boiling, reduce heat to maintain a gentle simmer.",
+            "timing": 10,
+            "doneness_cue": "Pasta is partially tender but still firm (al dente); broth is simmering gently"
+        },
+        {
+            "step": 3,
+            "instruction": "After the pasta has cooked for about 5 minutes, add the asparagus pieces and snap peas. Adding these veggies later in the cooking process keeps them crisp and bright rather than overcooked and mushy. Stir them in gently so they’re evenly distributed. This layering technique is what keeps the dish fresh and colorful, reflecting the best of spring produce.",
+            "timing": 5,
+            "doneness_cue": "Vegetables are bright green and slightly tender, not limp"
+        },
+        {
+            "step": 4,
+            "instruction": "When the pasta is just about al dente (usually around 8-10 minutes total cooking), stir in the cherry tomatoes and baby spinach. These delicate ingredients soften quickly and add a juicy sweetness and vibrant color. The spinach will wilt down, blending into the pasta, while the tomatoes add bursts of freshness. Be careful not to overcook at this stage to preserve texture.",
+            "timing": 3,
+            "doneness_cue": "Spinach is wilted but still bright green; tomatoes are warm but intact"
+        },
+        {
+            "step": 5,
+            "instruction": "Turn off the heat and stir in the grated Parmesan cheese and lemon zest. The residual heat melts the cheese, creating a silky sauce that lightly coats the pasta and veggies. Lemon zest adds a fresh, uplifting aroma that balances the richness of the cheese. This final step is crucial for flavor — don’t skip the zest! Season with salt and freshly ground black pepper to taste, adjusting as needed.",
+            "timing": 2,
+            "doneness_cue": "Cheese is melted and sauce is creamy; lemon scent is noticeable"
+        },
+        {
+            "step": 6,
+            "instruction": "Give everything a gentle final stir to combine all ingredients evenly. If the pasta looks dry, add a splash of reserved cooking water or broth to loosen the sauce. This technique helps achieve the perfect saucy consistency without making the dish too watery. Taste once more and adjust seasonings if necessary.",
+            "timing": 2,
+            "doneness_cue": "Pasta is coated in a light, glossy sauce that clings to the veggies"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the pasta warm, garnished with extra Parmesan and chopped fresh basil if you like. The basil adds a fragrant herbal note that complements the spring veggies perfectly. This dish pairs well with a simple green salad or crusty bread to round out the meal. It’s best enjoyed fresh but also reheats nicely for leftovers.",
+            "timing": 1,
+            "doneness_cue": "Dish looks vibrant with fresh herb garnish; aroma is inviting"
+        },
+        {
+            "step": 8,
+            "instruction": "For leftovers, cool the pasta completely before storing in an airtight container in the fridge. When reheating, add a splash of broth or water and warm gently over medium heat to revive the sauce and prevent drying out. Avoid microwaving without adding liquid as it can make the pasta tough or rubbery.",
+            "timing": 1,
+            "doneness_cue": "Reheated pasta is moist and tender without being mushy"
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to prep ahead, chop all the vegetables and grate the cheese in advance. Keep the veggies in a sealed container in the fridge and add them fresh during cooking. This saves time on busy nights and keeps the veggies crisp and fresh when added. The pasta and broth should be added just before cooking to ensure the best texture.",
+            "timing": 1,
+            "doneness_cue": "Prep ingredients look fresh and ready for quick cooking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Pasta Stands Out",
+        "content": "<p>This recipe works so well because it combines the convenience of one-pot cooking with careful layering of ingredients to preserve texture and flavor. Cooking the pasta directly in vegetable broth allows it to absorb seasoning as it softens, producing a more flavorful base than boiling in plain water. The broth also helps create a light sauce as the starches released from the pasta thicken the liquid during cooking.</p><p>Adding vegetables in stages is key to maintaining their bright color and crisp-tender texture. Asparagus and snap peas are heartier, so they go in earlier, while delicate spinach and cherry tomatoes are added near the end to avoid overcooking. This technique prevents the common pitfall of soggy veggies and keeps the dish fresh and vibrant.</p><p>The finishing touch of Parmesan cheese and lemon zest creates a luscious, balanced flavor profile. Parmesan melts into a creamy coating that binds the pasta and veggies, while lemon zest adds a bright, aromatic lift that cuts through the richness. This contrast makes the dish feel light but satisfying.</p><p>Overall, this recipe balances simplicity with thoughtful technique, turning a quick weeknight meal into something special. The one-pot method reduces cleanup, and the fresh spring ingredients ensure a colorful, nutrient-packed dish that feels both nourishing and indulgent.</p>",
+        "ingredient_notes": {
+            "dried pasta": "Choose a sturdy pasta shape like penne or fusilli for this recipe. These shapes hold sauce and bits of vegetables well, ensuring every bite is flavorful. Avoid very thin pastas like angel hair as they may overcook during the longer simmering in broth. Also, dried pasta is ideal here because it releases starch gradually, helping thicken the cooking liquid into a light sauce.",
+            "vegetable broth": "Using a good-quality vegetable broth is essential since it’s the cooking liquid and flavor base for the pasta. Homemade broth or a low-sodium store-bought version works best. Avoid broth with overpowering herbs or saltiness, as it can throw off the balance. The broth’s seasoning seeps into the pasta, so its quality directly affects the final taste.",
+            "spring vegetables": "Fresh, crisp spring vegetables like asparagus, snap peas, spinach, and cherry tomatoes bring brightness and texture to the dish. Select veggies that are firm and vibrant in color. Overripe or limp vegetables will become mushy during cooking. Adding them in stages preserves their individual character and ensures a pleasing contrast in each bite.",
+            "Parmesan cheese": "Freshly grated Parmesan is crucial for flavor and texture. Pre-grated cheese often contains anti-caking agents that prevent smooth melting. The cheese melts into the pasta, creating a creamy coating that binds the ingredients. It also adds a salty, umami depth that elevates the simple vegetables and pasta.",
+            "lemon zest": "Lemon zest adds a fresh aromatic note that brightens the entire dish. The essential oils in the zest provide a subtle citrus punch without adding acidity or liquid that could dilute the sauce. Using a microplane grater to get fine zest ensures even distribution and maximum flavor impact."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip stirring the pasta frequently while it cooks.",
+            "reason": "Pasta cooked in broth can stick to the bottom if not stirred regularly. Stirring ensures even cooking and prevents clumping, which keeps the pasta texture consistent and the dish smooth."
+        },
+        {
+            "tip": "Add vegetables in stages based on their cooking time.",
+            "reason": "Harder vegetables need more time to cook, while delicate ones require less. Adding them in sequence keeps each vegetable at its ideal tenderness, enhancing texture and flavor contrast."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese for best melting and flavor.",
+            "reason": "Pre-grated cheeses often don’t melt smoothly due to anti-caking agents. Freshly grated cheese melts better, creating a creamier sauce and richer taste."
+        },
+        {
+            "tip": "Reserve a little cooking liquid before draining if needed.",
+            "reason": "This starchy liquid can be added back to loosen a thick sauce, helping the pasta stay creamy and preventing dryness."
+        },
+        {
+            "tip": "Add lemon zest at the very end, off the heat.",
+            "reason": "Zest contains delicate oils that can evaporate or turn bitter if cooked too long. Adding it last preserves its bright, fresh aroma."
+        },
+        {
+            "tip": "Use a wide, deep skillet or pot for even cooking.",
+            "reason": "A wide surface area allows the liquid to evaporate evenly and pasta to cook uniformly, while depth accommodates all ingredients without overcrowding."
+        },
+        {
+            "tip": "Serve immediately after cooking.",
+            "reason": "This pasta is best fresh to maintain the crispness of the vegetables and the creamy texture of the sauce. Waiting too long can make it soggy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the vegetables until mushy.",
+            "why_it_happens": "Many cooks add all vegetables at once or cook too long, assuming it saves time, but this results in limp, flavorless veggies.",
+            "fix": "Add vegetables in stages according to their cooking times and watch closely. Remove from heat as soon as they’re tender-crisp to preserve texture and color."
+        },
+        {
+            "mistake": "Not stirring pasta enough during cooking.",
+            "why_it_happens": "People often leave pasta unattended to multitask, leading to sticking and uneven cooking.",
+            "fix": "Set a timer and stir the pasta frequently to keep it evenly submerged and prevent clumping."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan cheese.",
+            "why_it_happens": "Pre-grated cheese contains additives that prevent smooth melting, resulting in a grainy texture.",
+            "fix": "Grate fresh Parmesan just before adding it to the pasta for a creamy, cohesive sauce."
+        },
+        {
+            "mistake": "Skipping the lemon zest.",
+            "why_it_happens": "Some think it’s optional or forget to add it, missing the bright flavor it imparts.",
+            "fix": "Always add lemon zest at the end to brighten the dish and balance richness."
+        },
+        {
+            "mistake": "Using watery or limp vegetables.",
+            "why_it_happens": "Buying produce past peak freshness or not storing it properly can lead to poor texture.",
+            "fix": "Select firm, fresh vegetables and store them properly to keep their texture intact for cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Protein with Grilled Chicken",
+            "description": "For a heartier meal, toss in sliced grilled chicken breast after cooking the pasta. This adds protein and makes it a complete dinner. Use simple seasoning on the chicken to keep flavors balanced.",
+            "technical_note": "Add cooked chicken just before serving to keep it juicy and prevent overcooking."
+        },
+        {
+            "name": "Make It Vegan with Nutritional Yeast",
+            "description": "Replace Parmesan with nutritional yeast to keep the cheesy flavor vegan-friendly. Use a splash of olive oil to add richness and adjust seasoning accordingly.",
+            "technical_note": "Stir nutritional yeast in off heat to avoid bitterness and maintain flavor."
+        },
+        {
+            "name": "Spicy Kick with Red Pepper Flakes",
+            "description": "Add a pinch of red pepper flakes when cooking the garlic to infuse the dish with gentle heat. This variation adds warmth without overpowering the fresh vegetables.",
+            "technical_note": "Be cautious with the amount; you can always add more after cooking for desired spice level."
+        },
+        {
+            "name": "Swap Veggies for Seasonal Favorites",
+            "description": "Try swapping asparagus and snap peas for zucchini and bell peppers in summer, or kale and mushrooms in fall. This keeps the recipe versatile and seasonally fresh.",
+            "technical_note": "Adjust cooking times based on vegetable density to avoid over or undercooking."
+        },
+        {
+            "name": "Creamy Version with a Touch of Cream",
+            "description": "Stir in 1/4 cup heavy cream or coconut milk at the end for a richer, creamier sauce. This makes the pasta feel indulgent but still fresh with the veggies.",
+            "technical_note": "Add cream off heat to prevent curdling and keep sauce silky."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "58g",
+        "fat_grams": "12g",
+        "fiber_grams": "7g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta can safely sit at room temperature for up to 2 hours if covered loosely. Longer exposure may risk bacterial growth, so refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The pasta may absorb more liquid and soften, so it’s best gently reheated with a splash of broth or water to restore texture.",
+        "freezer": "Freeze the pasta in a sealed container or freezer bag for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently on the stovetop over medium-low heat with a splash of broth or water to loosen the sauce. Microwave reheating works too but add liquid and stir halfway to prevent drying out.",
+        "make_ahead_strategy": "Chop vegetables and grate cheese 1-2 days ahead and store separately in the fridge. Prepare the pasta and broth fresh on the day of serving to ensure best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use gluten-free pasta in this recipe?",
+            "answer": "Absolutely! Gluten-free pasta works well here, but cooking times may vary depending on the brand. Keep an eye on the texture and adjust cooking time as needed to avoid mushiness or undercooked pasta."
+        },
+        {
+            "question": "What if I don’t have asparagus or snap peas?",
+            "answer": "No worries! You can substitute with other spring vegetables like green beans, zucchini, or broccoli florets. Just add them according to their cooking times to maintain texture."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! Simply swap Parmesan for nutritional yeast or a vegan cheese alternative. Use olive oil or plant-based butter for richness. The dish will still be flavorful and satisfying."
+        },
+        {
+            "question": "Is it okay to add the cheese while the pot is still on the heat?",
+            "answer": "It’s better to add Parmesan off the heat or with the heat turned off to prevent it from clumping or becoming grainy. The residual warmth will melt the cheese smoothly into the pasta."
+        },
+        {
+            "question": "Can I double this recipe for a larger group?",
+            "answer": "You can double it, but use a larger pot to avoid overcrowding. Also, you might need to increase the cooking liquid slightly to ensure the pasta cooks evenly."
+        },
+        {
+            "question": "How do I keep the vegetables bright and crisp?",
+            "answer": "Add vegetables according to their cooking times and avoid overcooking. Remove the pot from heat as soon as veggies are tender-crisp to keep their color and texture vibrant."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can prep ingredients like chopping veggies and grating cheese a day or two ahead. However, cook the pasta fresh for best texture and flavor. Store prepped ingredients separately in the fridge."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat on the stovetop over low heat with a splash of broth or water to loosen the sauce. Stir often to heat evenly. Avoid overheating to prevent drying out or tough pasta."
+        }
+    ],
+    "conclusion": "Give this one-pot spring veggie pasta a try — it’s simple, fresh, and perfect for busy nights. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "one pot spring veggie pasta",
+        "secondary_keywords": [
+            "spring vegetable pasta recipe",
+            "easy one pot pasta",
+            "how to make veggie pasta",
+            "best spring pasta recipe",
+            "quick veggie pasta dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight pasta recipes",
+                "anchor": "easy-weeknight-pasta-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_1.png",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_1.png",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_2.png",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_2.png",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_3.png",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_3.png",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_5.webp",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_6.webp",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_9.webp",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_7.webp",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_8.webp",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_4.webp",
+            "relativePath": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images/easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781046897_129",
+    "slug": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-06-10T00:29:58+01:00",
+    "updatedAt": "2026-06-10T00:29:58+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-one-pot-spring-vegetable-primavera-pasta-with-parmesan-thats-ready-in-30-minutes/images"
+}

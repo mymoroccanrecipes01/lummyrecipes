@@ -1,0 +1,341 @@
+{
+    "title": "Creamy Tuscan Chicken with Spinach and Sun-Dried Tomatoes",
+    "promptIMG": "Food photography: Creamy Tuscan Chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy Tuscan chicken is my go-to for busy weeknights. The garlicky sauce with sun-dried tomatoes and fresh spinach gives it a rich, comforting flavor that’s surprisingly quick to whip up.",
+    "hashtags": "#TuscanChicken #CreamyChicken #WeeknightDinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Try This Creamy Tuscan Chicken Tonight—Ready in 30 Minutes!",
+            "description": "Looking for a quick, flavorful dinner? This creamy Tuscan chicken with spinach and sun-dried tomatoes hits all the right notes. Save this recipe and enjoy a cozy meal tonight! 🍽️🌿 #EasyDinner #ChickenRecipes #ComfortFood"
+        },
+        {
+            "title": "Why Everyone Loves This Creamy Tuscan Chicken Recipe",
+            "description": "Rich, garlicky, and packed with spinach and sun-dried tomatoes, this Tuscan chicken recipe is a weeknight winner. Discover how simple ingredients create big flavor. Try it today! 🍗✨ #TuscanChicken #QuickMeals #DinnerIdeas"
+        },
+        {
+            "title": "Creamy Tuscan Chicken: Your New Favorite Dinner Hack",
+            "description": "Whip up this creamy Tuscan chicken with sun-dried tomatoes and spinach in under 40 minutes. It’s easy, delicious, and perfect for busy nights. Don’t miss out—give it a go! 🍅🧄 #ChickenDinner #EasyRecipes #WeeknightMeals"
+        },
+        {
+            "title": "Make This Creamy Tuscan Chicken for a Cozy Dinner Tonight",
+            "description": "This creamy Tuscan chicken is packed with garlicky goodness, fresh spinach, and tangy sun-dried tomatoes. It’s comfort food made simple—save this recipe and enjoy! 🍴❤️ #ComfortFood #TuscanChicken #QuickDinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, pounded to even thickness",
+        "Salt and black pepper, to taste",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup sun-dried tomatoes, chopped (oil-packed preferred)",
+        "2 cups fresh spinach, roughly chopped",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "1/2 cup chicken broth",
+        "1 teaspoon Italian seasoning",
+        "1 tablespoon butter"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy Tuscan chicken recipe a few years ago when I needed a quick, comforting dinner after a long day. What hooked me was how simple ingredients like spinach and sun-dried tomatoes transform an ordinary chicken breast into something truly special. Over time, I tweaked the sauce simmering time and added a splash of chicken broth to get just the right balance of creaminess and tang. The trick I learned? Don’t rush the sauce—letting it simmer gently helps the flavors meld together perfectly. The finished dish has tender, juicy chicken smothered in a luscious, garlicky sauce dotted with vibrant greens and tangy tomatoes. It’s the kind of meal that feels fancy but comes together in under an hour, making it perfect for weeknights when you want something delicious but don’t want to spend all evening cooking. Plus, my family loves it, and I love that it reheats well for leftovers the next day. Honestly, this recipe has become a staple in my kitchen, and I think you’ll find it just as comforting and easy to make.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by seasoning the chicken breasts generously with salt and black pepper on both sides. This simple step enhances the natural flavor of the chicken and ensures every bite is well-seasoned. Use a meat mallet or rolling pin to pound the chicken to an even thickness—this helps the chicken cook evenly without drying out. Uneven thickness can lead to some parts overcooked while others remain underdone, so take your time here. Once pounded and seasoned, set the chicken aside while you prepare the sauce ingredients.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken breasts are evenly flattened and seasoned all over"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat until shimmering. Carefully add the chicken breasts and cook for about 5-6 minutes on each side until golden brown and cooked through. Avoid overcrowding the pan—if your skillet is small, cook in batches. Overcrowding traps steam and prevents browning. The golden crust adds flavor through the Maillard reaction, which develops depth and complexity. Once cooked, transfer the chicken to a plate and tent with foil to keep warm while you make the sauce.",
+            "timing": "12 minutes",
+            "doneness_cue": "Chicken is golden brown on both sides and registers 165°F internally"
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to medium and add butter to the same skillet. Once melted, toss in the minced garlic and sauté for about 30 seconds to 1 minute until fragrant. Garlic cooks quickly and can burn if left too long, so watch carefully. This step infuses the butter with garlic flavor, which forms the base of the sauce. The fond left from browning the chicken will mix with the garlic, adding even more depth.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is fragrant and lightly golden but not browned"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the chopped sun-dried tomatoes to the skillet and sauté with the garlic for 2-3 minutes. The tomatoes release their oils and soften, imparting a tangy sweetness to the sauce. Use oil-packed sun-dried tomatoes if possible—they’re more flavorful and help enrich the sauce. Stir frequently to prevent sticking and burning. This step builds the flavor base before adding liquids.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sun-dried tomatoes are softened and aromatic"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the chicken broth and scrape the bottom of the pan to loosen any browned bits. These bits, called fond, are packed with flavor and will enrich the sauce. Let the broth simmer for 3-4 minutes to reduce slightly. Reducing concentrates the flavor and thickens the sauce base before adding cream.",
+            "timing": "4 minutes",
+            "doneness_cue": "Broth is slightly reduced and sauce base begins to thicken"
+        },
+        {
+            "step": 6,
+            "instruction": "Slowly stir in the heavy cream and bring the sauce to a gentle simmer. Avoid boiling vigorously as this can cause the cream to separate. Simmer for 5-7 minutes, stirring occasionally, until the sauce thickens and becomes velvety. This slow simmer allows the flavors to meld and the sauce to thicken naturally without curdling.",
+            "timing": "7 minutes",
+            "doneness_cue": "Sauce coats the back of a spoon and has a creamy consistency"
+        },
+        {
+            "step": 7,
+            "instruction": "Add the grated Parmesan cheese and Italian seasoning to the sauce, stirring well to combine. The cheese melts into the sauce, adding a nutty richness and helping thicken it further. The Italian seasoning brings subtle herbal notes that brighten the sauce. Taste and adjust salt and pepper as needed—Parmesan can add saltiness, so season carefully.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is fully melted and sauce is smooth and flavorful"
+        },
+        {
+            "step": 8,
+            "instruction": "Add the chopped fresh spinach to the sauce, stirring until it wilts down, about 2-3 minutes. Spinach adds freshness and a lovely green color, balancing the richness of the sauce. Adding it last preserves its texture and nutrients. Overcooking spinach can make it mushy and dull the vibrant color, so watch closely.",
+            "timing": "3 minutes",
+            "doneness_cue": "Spinach is wilted but still bright green"
+        },
+        {
+            "step": 9,
+            "instruction": "Return the cooked chicken breasts to the skillet, nestling them into the creamy sauce. Spoon some sauce over the top and let everything warm together for 2-3 minutes on low heat. This final step melds the flavors and ensures the chicken is hot and juicy. Avoid overheating or simmering too long here, or the chicken can dry out.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken is heated through and sauce is bubbly but not boiling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Tuscan Chicken Recipe Succeeds",
+        "content": "<p>This recipe excels because of the careful layering of flavors and textures that create a harmonious dish. Browning the chicken first is crucial—it triggers the Maillard reaction, which develops complex flavors and a pleasing crust. This step locks in juices, keeping the chicken tender and moist throughout cooking. Skipping this would result in bland, dry meat.</p><p>Simmering the sauce gently is another key technique. Adding broth before cream allows the sauce to build body and depth without becoming too rich or heavy. The broth also helps deglaze the pan, lifting flavorful browned bits that enrich the sauce. The slow incorporation of cream at low heat prevents curdling, producing a smooth, velvety texture.</p><p>Sun-dried tomatoes contribute a tangy, slightly sweet punch that balances the richness of the cream and cheese. Using oil-packed tomatoes adds extra flavor and fat, enhancing the sauce’s silkiness. Fresh spinach adds a burst of color and freshness, preventing the dish from feeling too heavy. Adding it last preserves its texture and nutrients.</p><p>Finally, the Parmesan cheese acts as both a flavor enhancer and thickener. Its umami and saltiness elevate the sauce, while its proteins help bind and thicken it. The Italian seasoning complements the dish with subtle herbal notes, rounding out the flavor profile beautifully.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Choose fresh, boneless skinless chicken breasts that are plump and pink with minimal odor. Pounding them to an even thickness ensures uniform cooking, preventing dry edges or undercooked centers. If substituting with thighs, expect a slightly different texture and flavor but similar cooking times.",
+            "Sun-dried tomatoes": "Opt for oil-packed sun-dried tomatoes for richer flavor and added fat in the sauce. Dry-packed tomatoes can be used but should be rehydrated in warm water first and will yield less intense flavor. Chop them finely to distribute their tang evenly throughout the dish.",
+            "Heavy cream": "Use heavy cream with at least 36% fat for a rich, silky sauce that won’t curdle easily. Lower-fat creams may separate when heated. Adding cream slowly over low heat helps maintain a smooth texture and prevents breaking.",
+            "Parmesan cheese": "Freshly grated Parmesan is best for melting smoothly and imparting a sharp, nutty flavor. Pre-grated powders often contain anti-caking agents that affect texture and melting. Adding cheese gradually lets it dissolve into the sauce without clumping.",
+            "Fresh spinach": "Choose vibrant, tender spinach leaves free from yellowing or wilting. Baby spinach works well for mild flavor and delicate texture. Adding spinach at the end preserves its bright color and nutrients, preventing it from overcooking and becoming mushy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pound the chicken to an even thickness before cooking.",
+            "reason": "Even thickness ensures the chicken cooks uniformly, preventing some parts from drying out while others remain undercooked. Uneven pieces can lead to frustration and uneven texture, so taking a few extra minutes here pays off."
+        },
+        {
+            "tip": "Don’t rush the sauce simmering step.",
+            "reason": "Simmering gently allows flavors to meld and the sauce to thicken naturally. Boiling can cause the cream to separate, ruining the smooth texture. Patience here results in a velvety, rich sauce."
+        },
+        {
+            "tip": "Use oil-packed sun-dried tomatoes if possible.",
+            "reason": "They impart more intense flavor and add richness to the sauce. Dry-packed tomatoes require rehydration and yield less flavor, so the oil-packed variety elevates the dish significantly."
+        },
+        {
+            "tip": "Add spinach last and cook just until wilted.",
+            "reason": "Overcooked spinach becomes mushy and loses its vibrant green color and fresh taste. Adding it at the end preserves texture and nutrients, balancing the richness of the sauce."
+        },
+        {
+            "tip": "Scrape the pan after browning chicken to deglaze.",
+            "reason": "The browned bits (fond) stuck to the pan are packed with flavor. Deglazing with broth lifts these into the sauce, adding depth and complexity that makes the dish stand out."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated cheese melts better and provides sharper, nuttier flavor than pre-grated powders, which often contain additives that affect texture and taste."
+        },
+        {
+            "tip": "Tent cooked chicken with foil while making sauce.",
+            "reason": "This keeps the chicken warm and juicy without overcooking it. Leaving it uncovered can dry out the meat before the sauce is ready."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the chicken pounding step",
+            "why_it_happens": "Many assume chicken cooks evenly without flattening, but breasts vary in thickness.",
+            "fix": "Use a meat mallet or rolling pin to pound the chicken to an even thickness before cooking. This ensures even cooking and prevents dry or underdone spots."
+        },
+        {
+            "mistake": "Boiling the cream sauce too hard",
+            "why_it_happens": "Rushing the sauce to thicken by boiling can cause the cream to separate.",
+            "fix": "Simmer the sauce gently over medium-low heat and stir occasionally until thickened. Avoid high heat to keep the sauce smooth."
+        },
+        {
+            "mistake": "Using dry sun-dried tomatoes without rehydrating",
+            "why_it_happens": "Dry tomatoes are often used straight from the bag, resulting in tough texture and less flavor.",
+            "fix": "Soak dry sun-dried tomatoes in warm water for 10 minutes before chopping and adding to the sauce for better texture and flavor release."
+        },
+        {
+            "mistake": "Overcooking spinach",
+            "why_it_happens": "Spinach is left in the hot sauce too long, turning mushy and dull.",
+            "fix": "Add spinach at the very end and cook just until wilted—this keeps it bright and fresh."
+        },
+        {
+            "mistake": "Not deglazing the pan after browning chicken",
+            "why_it_happens": "The flavorful browned bits are ignored or discarded.",
+            "fix": "Pour broth into the hot pan and scrape the bottom to release those bits into the sauce, boosting flavor significantly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Mushrooms for Earthy Flavor",
+            "description": "Sauté sliced mushrooms with the garlic and sun-dried tomatoes for a deeper, earthier taste. Mushrooms add texture and umami, making the dish heartier without overpowering the creamy sauce.",
+            "technical_note": "Cook mushrooms until their moisture evaporates to avoid watering down the sauce."
+        },
+        {
+            "name": "Use Half-and-Half for a Lighter Sauce",
+            "description": "Swap heavy cream for half-and-half to reduce richness and calories. The sauce will be lighter but less thick, so simmer a bit longer to achieve desired consistency.",
+            "technical_note": "Avoid boiling to prevent curdling with lower-fat dairy."
+        },
+        {
+            "name": "Make It Spicy with Red Pepper Flakes",
+            "description": "Sprinkle in red pepper flakes with the garlic for a subtle kick. This variation adds warmth and balances the creamy richness with a little heat.",
+            "technical_note": "Add red pepper flakes early in the garlic sauté to bloom their flavor."
+        },
+        {
+            "name": "Swap Spinach for Kale",
+            "description": "Use chopped kale instead of spinach for a heartier green with more chew. Kale adds a slightly bitter note and stands up well to the creamy sauce.",
+            "technical_note": "Massage kale with a pinch of salt before adding to soften it and reduce bitterness."
+        },
+        {
+            "name": "Serve Over Pasta or Rice",
+            "description": "Transform this into a complete meal by serving the creamy Tuscan chicken over cooked pasta or rice. The sauce clings beautifully, making every bite satisfying and saucy.",
+            "technical_note": "Reserve some pasta water to thin the sauce if needed when serving over noodles."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "7g",
+        "fat_grams": "32g",
+        "fiber_grams": "2g",
+        "sodium_mg": "720mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be kept at room temperature for more than 2 hours. If serving buffet-style, keep warm or cover and refrigerate promptly to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken when cold; gently reheat on the stove with a splash of broth or cream to loosen it before serving.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap tightly with plastic wrap and foil. Thaw overnight in the fridge and reheat gently to restore creamy texture.",
+        "reheating": "Warm leftovers on the stovetop over low heat, stirring frequently. Add a splash of chicken broth or cream if the sauce is too thick. Avoid microwaving at high power to prevent sauce separation.",
+        "make_ahead_strategy": "You can prepare the sauce and cook the chicken separately up to 1 day ahead. Store them separately in the fridge and combine when ready to serve to keep chicken juicy and sauce fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs have more fat and stay juicy, which works well with this creamy sauce. Cooking time may vary slightly—thighs may take a bit longer to cook through, so check for doneness carefully."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "Half-and-half or whole milk mixed with a tablespoon of flour can work in a pinch, but the sauce will be less rich and may not thicken as well. To avoid curdling, simmer gently and don’t boil vigorously."
+        },
+        {
+            "question": "How do I prevent the sauce from separating?",
+            "answer": "Simmer the sauce over low to medium heat and add cream slowly. High heat or boiling can cause the fat to separate. Stir frequently and avoid rushing the thickening process for a smooth sauce."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "You can substitute coconut cream or cashew cream for the heavy cream and use nutritional yeast in place of Parmesan for a dairy-free version. The flavor and texture will be a bit different but still delicious."
+        },
+        {
+            "question": "Should I use fresh or dried Italian seasoning?",
+            "answer": "Either works, but dried Italian seasoning is more concentrated and easier to measure. Fresh herbs can be added as a finishing touch for brightness, but dried works well cooked into the sauce."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add crushed red pepper flakes when sautéing the garlic or a dash of cayenne pepper to the sauce. Start small—you can always add more if you want extra heat."
+        },
+        {
+            "question": "Is it okay to use jarred sun-dried tomatoes packed in water?",
+            "answer": "Yes, but they have less flavor and fat than oil-packed tomatoes. You might want to add a little olive oil to the sauce to compensate for the missing richness."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes! You can cook the chicken and make the sauce separately, then combine and reheat gently before serving. This helps keep the chicken juicy and the sauce fresh."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this creamy Tuscan chicken as much as I do—it's a comforting, flavorful dish that’s surprisingly easy. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy Tuscan chicken recipe",
+        "secondary_keywords": [
+            "Tuscan chicken with spinach",
+            "chicken sun-dried tomato recipe",
+            "how to make creamy Tuscan chicken",
+            "best creamy Tuscan chicken recipe",
+            "easy Tuscan chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy garlic chicken recipe",
+                "anchor": "easy-garlic-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_1.png",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_1.png",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_2.png",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_2.png",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_3.png",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_3.png",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_9.webp",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_8.webp",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_7.webp",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_4.webp",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_5.webp",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_6.webp",
+            "relativePath": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images/easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781046667_696",
+    "slug": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes",
+    "isOnline": true,
+    "createdAt": "2026-06-10T00:29:58+01:00",
+    "updatedAt": "2026-06-10T00:29:58+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "easy-30-minute-creamy-tuscan-garlic-chicken-with-spinach-and-sun-dried-tomatoes/images"
+}
