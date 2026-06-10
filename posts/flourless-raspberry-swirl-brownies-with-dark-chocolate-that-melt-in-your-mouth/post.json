@@ -1,0 +1,339 @@
+{
+    "title": "Rich Flourless Brownies with a Tangy Raspberry Swirl",
+    "promptIMG": "Food photography: Flourless Brownies with Raspberry Swirl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These flourless brownies are insanely fudgy and rich, with a fresh raspberry swirl that cuts through the chocolatey depth. Made with dark chocolate for a truly intense flavor, they're perfect for cozy nights or sharing with friends!",
+    "hashtags": "#flourlessbrownies #chocolatedessert #easybaking",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Fudgy Flourless Brownies with a Fresh Raspberry Twist",
+            "description": "These flourless brownies are the ultimate fudgy treat with a bright raspberry swirl that makes every bite pop. Perfect for impressing guests or a special night in. Save this recipe and try it today! 🍫🍓 #flourlessbrownies #dessertlover #bakingfun"
+        },
+        {
+            "title": "Decadent Flourless Chocolate Brownies with Raspberry Swirl",
+            "description": "Love rich chocolate? You'll adore these flourless brownies with a tangy raspberry swirl that balances the intense dark chocolate. Easy to make and perfect for sharing. Discover now and bake your heart out! 🍫❤️ #chocolatedessert #easyrecipes #brownierecipe"
+        },
+        {
+            "title": "Easy Flourless Brownies with a Bright Raspberry Swirl",
+            "description": "No flour, no problem! These brownies are fudgy, rich, and have a fresh raspberry swirl that adds a lovely zing. Ideal for a quick dessert fix. Try it today and wow your taste buds! 🍓👌 #glutenfreebaking #flourlessbrownies #quickdessert"
+        },
+        {
+            "title": "The Best Flourless Brownies with Raspberry Swirl—So Fudgy!",
+            "description": "If you want rich, fudgy brownies without flour, this recipe is a winner. The raspberry swirl adds a fresh, tangy brightness that’s just irresistible. Save this for your next dessert craving! 🍫🍓 #fudgybrownies #glutenfreedessert #homemadebaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 9,
+    "ingredients": [
+        "8 ounces dark chocolate, chopped",
+        "1/2 cup unsalted butter",
+        "3/4 cup granulated sugar",
+        "3 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon salt",
+        "1/3 cup unsweetened cocoa powder",
+        "1/2 cup fresh raspberries",
+        "2 tablespoons raspberry jam"
+    ],
+    "yield": "9 rich, fudgy brownies",
+    "introduction": "I first stumbled upon flourless brownies when I wanted a rich chocolate fix but had run out of flour. This recipe quickly became a favorite because it’s insanely fudgy and deeply chocolatey thanks to the dark chocolate base. What sets my version apart is the tangy raspberry swirl—fresh raspberries and a touch of jam fold right into the batter, giving each bite a bright contrast to the dense chocolate. I learned that melting the chocolate and butter gently together is key for that silky texture, and swirling the raspberry mixture just before baking keeps the flavor fresh and vibrant. The result is a glossy, crackly top with a moist, fudgy center that feels like a little slice of chocolate heaven. They’re perfect for cozy nights in or sharing with friends when you want something a bit fancy but fuss-free. I’ve made them for family gatherings and everyone always asks for the recipe—plus, they’re naturally gluten-free, which is a bonus for some of my friends. Just a heads up: don’t overbake or you’ll lose that luscious fudginess, so watch them closely near the end. Honestly, these brownies are a go-to for me when I want a chocolate treat that feels special but isn’t complicated. You’ll love how the raspberry swirl brightens every bite!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line an 8-inch square baking pan with parchment paper, leaving some overhang for easy removal. This step ensures even baking and easy cleanup. Properly lining the pan prevents sticking without adding extra grease that could affect the texture. Make sure the parchment is snug in the corners to avoid batter pooling unevenly.",
+            "timing": 10,
+            "doneness_cue": "Pan is fully lined with parchment, no wrinkles or folds"
+        },
+        {
+            "step": 2,
+            "instruction": "In a heatproof bowl set over a pan of simmering water (double boiler method), melt the chopped dark chocolate and unsalted butter together, stirring gently until smooth. This slow melting prevents burning and encourages a glossy, silky batter base. If you rush this or use a microwave without care, chocolate can seize or become grainy, ruining the texture.",
+            "timing": 8,
+            "doneness_cue": "Mixture is smooth, shiny, and fully combined without lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the chocolate mixture from heat and whisk in the sugar while still warm. This helps dissolve the sugar slightly, giving a better crumb and texture. If you add sugar after it cools, it might not incorporate as well, leading to graininess in the final brownies.",
+            "timing": 5,
+            "doneness_cue": "Sugar is fully dissolved, mixture looks glossy and smooth"
+        },
+        {
+            "step": 4,
+            "instruction": "Beat in the eggs one at a time, mixing well after each addition. This gradual method ensures the eggs emulsify properly with the chocolate, helping create a smooth, uniform batter that bakes evenly. Adding all eggs at once can cause the batter to curdle or separate.",
+            "timing": 5,
+            "doneness_cue": "Batter is smooth, thick, and shiny with no streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the vanilla extract and salt. These small ingredients enhance the chocolate’s depth and balance the sweetness. Don’t skip the salt—it really makes the chocolate flavor pop without making the brownies taste salty.",
+            "timing": 2,
+            "doneness_cue": "Batter has an even color and aromatic chocolate scent"
+        },
+        {
+            "step": 6,
+            "instruction": "Sift the cocoa powder over the batter and fold it in gently until just combined. Sifting prevents lumps and folding preserves the batter’s airiness, which helps create a tender crumb. Overmixing here can make the brownies dense and tough.",
+            "timing": 3,
+            "doneness_cue": "No visible streaks of cocoa powder, batter is uniform"
+        },
+        {
+            "step": 7,
+            "instruction": "In a small bowl, gently mash the fresh raspberries with the raspberry jam until mostly smooth but still a bit chunky. This creates that bright, fresh swirl without overpowering the chocolate. Using fresh raspberries instead of just jam adds a natural tang and texture contrast.",
+            "timing": 4,
+            "doneness_cue": "Mixture is thick, slightly chunky, and glossy"
+        },
+        {
+            "step": 8,
+            "instruction": "Pour half the brownie batter into the prepared pan, then spoon half the raspberry mixture over it. Use a knife or skewer to swirl the raspberry gently through the batter, creating a marbled effect. Repeat with the remaining batter and raspberry mixture. The swirling technique is key to getting ribbons of tart raspberry without mixing it completely in, which would dull the flavor.",
+            "timing": 5,
+            "doneness_cue": "Visible swirls of raspberry through the batter, not blended"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the brownies in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick near the center; it should come out with moist crumbs but not wet batter. Overbaking will dry them out and lose that fudgy texture, so keep a close eye especially near the end.",
+            "timing": 30,
+            "doneness_cue": "Toothpick has moist crumbs, edges look set and slightly pulled away"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Flourless Brownies",
+        "content": "<p>Flourless brownies rely entirely on eggs and chocolate for structure, so understanding their roles is crucial. The eggs act as both binder and leavening agent, providing a delicate lift without the gluten network you'd get from flour. This results in a dense, fudgy texture rather than cakey. The key is beating the eggs properly and adding them gradually to create an emulsion with the melted chocolate and butter, which traps air and moisture evenly.</p><p>The melted dark chocolate combined with butter creates a smooth, rich fat base that carries flavor and moisture. Dark chocolate's higher cocoa solids contribute to an intense, deep flavor and a glossy finish. The gentle double boiler melting technique prevents scorching and preserves the chocolate's delicate texture and sheen.</p><p>Incorporating cocoa powder adds an extra layer of chocolate flavor and balances the fat content, while sifting it in ensures no lumps disrupt the batter's smoothness. The raspberry swirl introduces acidity and brightness, cutting through the richness to prevent the brownies from feeling overly heavy. The fresh raspberries combined with jam provide both texture and natural sweetness, enhancing the overall flavor complexity.</p><p>Baking time and temperature are critical; too long or too hot, and the brownies dry out, losing the signature fudgy texture. The toothpick test for moist crumbs helps achieve the perfect balance of set edges with a gooey center. Altogether, these techniques and ingredients create flourless brownies that are indulgently rich yet fresh and balanced.</p>",
+        "ingredient_notes": {
+            "dark chocolate": "Choose a high-quality dark chocolate with at least 70% cocoa solids for rich flavor and smooth texture. Avoid chocolates with fillers or low cocoa content, as they can affect the fudginess and glossiness of the brownies. Chop the chocolate evenly to melt uniformly and prevent burning. If you prefer a sweeter brownie, you can opt for a slightly lower cocoa percentage but don’t go below 60% to maintain the intense flavor.",
+            "unsalted butter": "Use unsalted butter to control the salt level precisely. Butter adds richness and moisture, while its fat content helps create that silky texture. Room temperature butter melts evenly with the chocolate, so avoid using cold chunks directly. You can substitute with clarified butter (ghee) if desired, but it may slightly change the flavor profile.",
+            "eggs": "Fresh large eggs are essential as they provide structure and moisture. The proteins coagulate during baking, setting the brownie’s shape without flour. Adding eggs one at a time helps create a smooth emulsion, preventing curdling. For a more intense chocolate flavor, some bakers slightly under-beat the eggs to keep the batter dense and fudgy rather than airy.",
+            "cocoa powder": "Use unsweetened, natural cocoa powder for a deep chocolate flavor and to balance the fat from the butter and chocolate. Sifting it before adding prevents lumps which can cause uneven texture. Dutch-processed cocoa can be used but will alter the acidity and final flavor slightly, so natural cocoa is preferred here for the best balance.",
+            "fresh raspberries": "Fresh raspberries add a bright, tart contrast that lifts the rich chocolate. When selecting, pick ripe but firm berries to avoid excess moisture that could make the batter too wet. Mashing them gently with raspberry jam enhances flavor without overwhelming the texture. Frozen raspberries can be used but should be thawed and drained well to prevent sogginess."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a double boiler to melt chocolate and butter gently.",
+            "reason": "Melting chocolate slowly over simmering water prevents scorching and grainy texture. Direct heat can cause the chocolate to seize or burn, ruining the smooth base needed for fudgy brownies."
+        },
+        {
+            "tip": "Add eggs one at a time and whisk well after each addition.",
+            "reason": "Gradual incorporation creates a stable emulsion between eggs and fat. This prevents curdling and ensures the batter is smooth and shiny, which leads to even baking and perfect fudginess."
+        },
+        {
+            "tip": "Sift cocoa powder before folding into batter.",
+            "reason": "Sifting removes lumps and aerates the powder, so it blends evenly without clumps. Clumps can cause uneven texture and pockets of dry cocoa in the brownies."
+        },
+        {
+            "tip": "Don’t overbake; check brownies early with a toothpick.",
+            "reason": "Overbaking dries out the brownies, losing their signature fudgy texture. A toothpick with moist crumbs indicates perfect doneness with a gooey interior and set edges."
+        },
+        {
+            "tip": "Use fresh raspberries for the swirl instead of jam alone.",
+            "reason": "Fresh raspberries add natural tartness and texture, balancing the chocolate richness. Jam alone can be too sweet and overpowering."
+        },
+        {
+            "tip": "Line your pan with parchment paper leaving overhang.",
+            "reason": "This makes removing brownies from the pan super easy without sticking or breaking apart, preserving the beautiful edges and shape."
+        },
+        {
+            "tip": "Let brownies cool completely before slicing.",
+            "reason": "Cooling allows the fudgy center to set fully, making clean slices possible. Warm brownies tend to be too soft and can crumble."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "Many assume brownies should be fully dry and set, so they bake too long, aiming for a firm texture.",
+            "fix": "Start checking your brownies around 25 minutes with a toothpick. Pull them out when the toothpick has moist crumbs but no wet batter. This keeps the center fudgy and moist rather than dry."
+        },
+        {
+            "mistake": "Melting chocolate too quickly or over direct heat",
+            "why_it_happens": "Rushing the melting process or using a microwave without stirring can cause chocolate to seize or burn.",
+            "fix": "Use a double boiler or melt chocolate and butter slowly in short bursts in the microwave, stirring frequently to ensure smoothness."
+        },
+        {
+            "mistake": "Adding eggs all at once",
+            "why_it_happens": "Some skip the gradual addition for speed, causing the batter to curdle or separate.",
+            "fix": "Add eggs one at a time, whisking well after each to build a stable emulsion that leads to smooth batter and even texture."
+        },
+        {
+            "mistake": "Not sifting cocoa powder",
+            "why_it_happens": "Skipping sifting can leave lumps that don’t incorporate well.",
+            "fix": "Always sift cocoa powder before adding to the batter to ensure an even, smooth texture."
+        },
+        {
+            "mistake": "Using too much raspberry or mixing it fully into batter",
+            "why_it_happens": "Some mix the raspberry completely instead of swirling, which dilutes the chocolate flavor and changes texture.",
+            "fix": "Reserve some batter, add raspberry mixture on top, and swirl gently with a knife to keep distinct ribbons of flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Flourless Brownies",
+            "description": "Add 1/2 cup chopped toasted walnuts or pecans to the batter before baking. This adds crunch and a toasty flavor contrast that pairs beautifully with the fudgy texture and raspberry swirl.",
+            "technical_note": "Fold nuts gently at the end to avoid deflating the batter. Toasting nuts beforehand intensifies their flavor."
+        },
+        {
+            "name": "Spicy Raspberry Brownies",
+            "description": "Stir 1/4 teaspoon cayenne pepper into the batter for a subtle heat that complements the rich chocolate and tart raspberry. Great for those who love a little kick in their dessert!",
+            "technical_note": "Add cayenne with the cocoa powder to distribute evenly without clumping."
+        },
+        {
+            "name": "Vegan Flourless Brownies",
+            "description": "Replace eggs with flax eggs (3 tablespoons ground flaxseed + 9 tablespoons water) and use dairy-free chocolate and margarine. The texture will be slightly less fudgy but still rich and delicious.",
+            "technical_note": "Let flax eggs sit until gelled before mixing; baking time may increase by 3-5 minutes."
+        },
+        {
+            "name": "White Chocolate Raspberry Swirl",
+            "description": "Swap dark chocolate for white chocolate and add a raspberry swirl for a creamy, sweet twist. This changes the flavor profile to a milder, buttery brownie with bright raspberry notes.",
+            "technical_note": "White chocolate melts differently; melt gently and avoid overheating to prevent graininess."
+        },
+        {
+            "name": "Espresso Infused Brownies",
+            "description": "Add 1 tablespoon instant espresso powder to the melted chocolate mixture to enhance the chocolate flavor with a rich coffee undertone. Perfect for coffee lovers!",
+            "technical_note": "Dissolve espresso powder fully in the warm chocolate-butter mixture for even flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store these brownies covered at room temperature for up to 2 days. Use an airtight container or wrap tightly with foil to keep them moist. After 2 days, they may start to dry out and lose their fudgy texture.",
+        "refrigerator": "Keep brownies in an airtight container in the fridge for up to 5 days. The texture will firm up and become denser when cold, so bring to room temperature or warm slightly before serving for best results.",
+        "freezer": "Freeze brownies individually wrapped in plastic wrap and then in a freezer bag for up to 3 months. To thaw, leave at room temperature for a couple of hours or warm gently in the microwave. Freezing may slightly change texture but they remain delicious.",
+        "reheating": "Warm brownies in the microwave for 15-20 seconds or in a low oven (300°F) for about 5 minutes. Add a small splash of milk or cream if desired to restore moisture. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bring to room temperature before baking. Alternatively, bake the brownies and store them; the raspberry swirl flavor often intensifies after a day."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen raspberries instead of fresh?",
+            "answer": "You can use frozen raspberries, but be sure to thaw and drain them well to avoid adding too much moisture to the batter. Excess liquid can affect the fudgy texture and baking time. Pat raspberries dry gently with paper towels before mashing."
+        },
+        {
+            "question": "What if I don’t have cocoa powder?",
+            "answer": "Cocoa powder adds depth and balances the fat content, but if you don’t have it, you can omit it and slightly increase the dark chocolate amount. Keep in mind the texture and flavor will be different—more dense and less layered in chocolate flavor."
+        },
+        {
+            "question": "How do I prevent the raspberry swirl from sinking?",
+            "answer": "Swirl the raspberry mixture gently into the batter without overmixing. Pour half the batter first, then dollop the raspberry mix and swirl before adding the remaining batter on top. This layering helps keep the raspberry ribbons visible and prevents sinking."
+        },
+        {
+            "question": "Can I substitute the butter for coconut oil?",
+            "answer": "Yes, coconut oil works as a substitute and adds a subtle coconut flavor. Use the same amount, but be sure to melt it gently. The texture might be a bit softer, and the flavor will be different but still delicious."
+        },
+        {
+            "question": "Why are my brownies dry or cakey?",
+            "answer": "This usually happens if you overbake or overmix the batter. Flourless brownies rely on eggs and chocolate for moisture and structure, so baking until just set and folding ingredients gently helps keep them fudgy. Watch the baking time carefully."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Absolutely! Use dairy-free dark chocolate and substitute butter with vegan margarine or coconut oil. The texture may vary slightly but the brownies will still be rich and fudgy."
+        },
+        {
+            "question": "Is this recipe gluten-free?",
+            "answer": "Yes, since it contains no flour, these brownies are naturally gluten-free. Just make sure your cocoa powder and chocolate are certified gluten-free if you have severe sensitivities."
+        },
+        {
+            "question": "How do I store leftover brownies?",
+            "answer": "Store them in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. For longer storage, freeze them wrapped tightly to preserve freshness and texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these flourless brownies as much as I do! Don’t forget to share your raspberry swirl creations—I’d love to hear how they turn out.",
+    "seo": {
+        "primary_keyword": "flourless raspberry brownies",
+        "secondary_keywords": [
+            "flourless brownies recipe",
+            "easy chocolate brownies",
+            "how to make flourless brownies",
+            "best flourless brownie recipe",
+            "easy flourless brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "decadent chocolate desserts",
+                "anchor": "decadent-chocolate-desserts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_2.png",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_2.png",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_3.png",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_3.png",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "filePath": "posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "relativePath": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images/flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781133478_572",
+    "slug": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-06-11T00:27:53+01:00",
+    "updatedAt": "2026-06-11T00:27:53+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "flourless-raspberry-swirl-brownies-with-dark-chocolate-that-melt-in-your-mouth/images"
+}
