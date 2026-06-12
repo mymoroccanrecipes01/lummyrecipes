@@ -1,0 +1,345 @@
+{
+    "title": "Fudgy Brownie Cookies with Melted Chocolate for Chewy Perfection",
+    "promptIMG": "Food photography: Fudgy Brownie Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownie cookies blend the best of both worlds—rich, fudgy brownie flavor with chewy cookie texture. Melted chocolate in the dough amps up the depth. Perfect for an afternoon snack or sharing at casual get-togethers!",
+    "hashtags": "#browniecookies #chewycookies #afternoontreat",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Chewy Brownie Cookies You'll Want to Bake Again and Again",
+            "description": "Discover the secret to chewy, fudgy brownie cookies that melt in your mouth. Perfect for chocolate lovers craving a quick, homemade treat 🍪🍫. Save this recipe and try it today! #browniecookies #chocolatelovers #bakingfun"
+        },
+        {
+            "title": "How to Make Brownie Cookies with Intense Chocolate Flavor",
+            "description": "Want cookies that taste like brownies? This recipe uses melted chocolate for a deep, rich flavor and chewy texture. Perfect for snacking or sharing! Try it now and impress your friends 🍪✨ #brownies #cookies #easyrecipes"
+        },
+        {
+            "title": "The Best Brownie Cookies Recipe for Chocolate Cravings",
+            "description": "Satisfy your chocolate cravings with these fudgy brownie cookies. Melted chocolate in the dough makes all the difference. Bake a batch today and enjoy warm, gooey bites 🍫🔥 #chocolatedessert #bakinglove #browniecookies"
+        },
+        {
+            "title": "Melted Chocolate Brownie Cookies: Your New Favorite Treat",
+            "description": "These brownie cookies are chewy, fudgy, and packed with chocolate flavor thanks to melted chocolate in the batter. Perfect for an easy homemade dessert! Save this recipe and bake soon 🍪❤️ #homemadecookies #chocolatetreat #dessertideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 16,
+    "ingredients": [
+        "6 ounces bittersweet or semisweet chocolate, melted and slightly cooled",
+        "1/2 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour",
+        "1/4 cup unsweetened cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt"
+    ],
+    "yield": "Approximately 16 cookies",
+    "introduction": "I stumbled upon this brownie cookie recipe a few years ago when I wanted something chocolatey but different from regular cookies or brownies. The idea of combining the fudgy richness of brownies with the chewy texture of cookies intrigued me, so I gave it a shot. After a few tries, I realized the trick was melting the chocolate first and folding it into the dough. This step really intensifies the chocolate flavor and keeps the cookies moist and chewy, unlike the typical cookie dough that uses just cocoa powder. My family fell in love with them instantly, especially because they’re quick to whip up and perfect for sharing. What I love most is how these cookies bake up with crackly tops and soft, dense centers—like biting into a mini brownie but with that satisfying cookie chew. They’re a great afternoon pick-me-up or a crowd-pleaser at casual get-togethers. If you’re a chocolate fan, you’re going to want to keep this recipe on hand!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by melting the chocolate gently—either in a microwave in 30-second bursts, stirring in between, or over a double boiler. It’s important to melt it slowly so it doesn’t scorch or seize, which would ruin the smooth texture. Once melted, let it cool slightly; adding hot chocolate to the dough can cook the eggs prematurely and affect the texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chocolate is smooth, glossy, and just warm to the touch"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy. This aerates the mixture, helping the cookies have a tender crumb while maintaining chewiness. Rushing this step can make your cookies dense or gritty, so take your time to get a smooth texture.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Mixture is pale, smooth, and slightly fluffy"
+        },
+        {
+            "step": 3,
+            "instruction": "Beat in the eggs one at a time, making sure each is fully incorporated before adding the next. Then stir in the vanilla extract. This gradual mixing helps build a stable dough that holds together well and bakes evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough looks glossy and well combined"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the cooled melted chocolate to the wet ingredients and mix gently until just combined. The melted chocolate enriches the dough, making these cookies fudgier than usual. Avoid overmixing here to keep the texture tender.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Chocolate is evenly incorporated with no streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "In a separate bowl, sift together the flour, cocoa powder, baking powder, and salt. Sifting ensures there are no lumps and helps evenly distribute the leavening and salt, which is key for balanced flavor and proper rise.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dry ingredients are light and lump-free"
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually fold the dry ingredients into the wet chocolate mixture using a spatula. Folding gently keeps the dough from developing too much gluten, which would make the cookies tough. Stop mixing as soon as the flour disappears.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough is thick, fudgy, and evenly mixed"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the dough and chill it in the refrigerator for at least 30 minutes. Chilling firms up the dough, preventing the cookies from spreading too much during baking and concentrating the flavors.",
+            "timing": "30 minutes",
+            "doneness_cue": "Dough is firm and cold to touch"
+        },
+        {
+            "step": 8,
+            "instruction": "Preheat your oven to 350°F (175°C). Line baking sheets with parchment paper or silicone mats. Scoop dough using a cookie scoop or spoon, spacing them about 2 inches apart. The dough will be thick, so don’t flatten the scoops; they’ll spread just enough.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are spaced evenly on trays, dough mounds intact"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 12-15 minutes until the edges are set but the centers still look slightly soft. This ensures a chewy center with a crackly top. Overbaking will dry them out, so keep an eye on them starting at 12 minutes.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Edges are firm and cracked, centers look moist but not wet"
+        },
+        {
+            "step": 10,
+            "instruction": "Let the cookies cool on the baking sheet for 5 minutes before transferring to a wire rack. This resting time helps them firm up without losing chewiness and prevents them from breaking apart.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies hold shape when lifted, slightly soft inside"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Fudgy Brownie Cookies",
+        "content": "<p>This recipe succeeds because it balances the rich, dense texture of brownies with the chewiness of cookies through ingredient choices and technique. Melting the chocolate instead of using just cocoa powder adds fat and moisture, which creates that fudgy interior. The melted chocolate also contributes to a deeper, more intense chocolate flavor that powder alone can’t match.</p><p>The creaming of butter and sugars incorporates air, which lightens the dough slightly without sacrificing chewiness. Adding eggs one at a time helps build structure and maintain moisture, which is crucial for soft yet stable cookies. Sifting the dry ingredients prevents clumps and ensures even distribution of leavening agents, which gently lift the cookies to avoid a flat, dense result.</p><p>Chilling the dough is another key step — it firms up the fats so the cookies don’t spread too much while baking. This helps maintain that perfect chewy texture with crackly tops. Baking just until the edges set but centers remain soft locks in moisture, creating that signature brownie-like chew. The Maillard reaction during baking develops complex flavors and the appealing brown crust.</p><p>Overall, this recipe balances fat, sugar, and flour with precise mixing and temperature control to deliver cookies that are fudgy, chewy, and bursting with chocolate goodness every time.</p>",
+        "ingredient_notes": {
+            "bittersweet or semisweet chocolate": "Choose a good-quality chocolate with at least 60% cocoa for rich flavor and smooth melting. Avoid low-quality or compound chocolates that contain vegetable oils instead of cocoa butter, as they won’t melt properly and can affect texture. Chop the chocolate into small pieces for even melting and avoid overheating to prevent seizing.",
+            "unsalted butter": "Using unsalted butter lets you control the salt level precisely. Butter adds richness and moisture, and its fat content affects texture—too soft or melted butter can cause spreading, while cold butter yields thicker cookies. Soften it to room temperature for smooth creaming but don’t melt it at this stage.",
+            "granulated and brown sugar": "Granulated sugar helps with structure and crisp edges, while brown sugar adds moisture and chewiness due to its molasses content. The combination gives these cookies their chewy yet slightly crisp texture. Packing the brown sugar ensures consistent sweetness and moisture.",
+            "all-purpose flour": "All-purpose flour provides enough gluten to hold the cookie together but not so much to make it tough. Measuring flour correctly (spoon and level) prevents dry, crumbly cookies. Overmixing flour develops gluten, so fold gently to keep cookies tender.",
+            "unsweetened cocoa powder": "Cocoa powder intensifies chocolate flavor and darkens color. Using unsweetened ensures no extra sugar interferes with balance. Sifting cocoa powder with the flour prevents lumps and promotes even mixing, which affects texture and rise."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for better mixing.",
+            "reason": "Room temperature eggs blend more evenly into the dough, resulting in a smoother, more uniform texture. Cold eggs can cause the butter to seize or curdle, leading to uneven baking and dense cookies."
+        },
+        {
+            "tip": "Don’t skip chilling the dough.",
+            "reason": "Chilling firms the fat in the dough, preventing cookies from spreading too much during baking. It also allows the flavors to meld and develop, giving a richer taste and better chew."
+        },
+        {
+            "tip": "Line baking sheets with parchment paper or silicone mats.",
+            "reason": "This prevents sticking and promotes even baking by insulating the bottoms of the cookies. It also makes cleanup easier and helps maintain the cookie’s shape."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform size.",
+            "reason": "Consistent cookie size ensures even baking so all cookies finish at the same time. Uneven sizes can cause some to burn while others remain underbaked."
+        },
+        {
+            "tip": "Avoid overbaking to keep chewiness.",
+            "reason": "Cookies continue to cook slightly after removal from the oven due to residual heat. Taking them out when edges are set but centers are still soft preserves that fudgy, chewy texture."
+        },
+        {
+            "tip": "Cool cookies on the baking sheet before moving.",
+            "reason": "Cooling on the sheet lets cookies firm up, reducing breakage. Moving them too soon can cause them to fall apart or lose shape."
+        },
+        {
+            "tip": "Store cookies in an airtight container with a slice of bread.",
+            "reason": "The bread helps maintain moisture, keeping cookies soft and fresh longer. Without it, cookies can dry out and become hard."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not melting chocolate properly",
+            "why_it_happens": "Many rush melting chocolate in the microwave at high power, causing it to burn or seize, which ruins texture and flavor.",
+            "fix": "Melt chocolate slowly in short bursts at medium power or use a double boiler. Stir frequently and remove from heat as soon as smooth and melted."
+        },
+        {
+            "mistake": "Skipping chilling the dough",
+            "why_it_happens": "Impatience or thinking it’s unnecessary leads to dough spreading too much and flat cookies.",
+            "fix": "Always chill dough at least 30 minutes to firm up fats and improve texture and flavor."
+        },
+        {
+            "mistake": "Overmixing flour",
+            "why_it_happens": "Mixing flour too vigorously or too long develops gluten, making cookies tough.",
+            "fix": "Fold dry ingredients gently until just combined. Stop mixing once no flour streaks remain."
+        },
+        {
+            "mistake": "Baking too long",
+            "why_it_happens": "Leaving cookies in oven until fully dry results in loss of chewiness and fudginess.",
+            "fix": "Remove cookies when edges are set but centers still look slightly soft. They’ll firm up as they cool."
+        },
+        {
+            "mistake": "Measuring flour incorrectly",
+            "why_it_happens": "Scooping flour directly with measuring cup packs it, adding too much flour and drying out cookies.",
+            "fix": "Spoon flour lightly into measuring cup and level with a knife for accurate measurement."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Brownie Cookies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the dough for crunch and a toasty flavor contrast. The nuts complement the chocolate and add texture without changing the fudgy chewiness.",
+            "technical_note": "Fold nuts in gently with the dry ingredients to distribute evenly without overmixing."
+        },
+        {
+            "name": "Espresso Brownie Cookies",
+            "description": "Stir 1 teaspoon instant espresso powder into the melted chocolate before mixing. This deepens the chocolate flavor and adds a subtle coffee note that enhances richness.",
+            "technical_note": "Make sure espresso powder is fully dissolved to avoid graininess."
+        },
+        {
+            "name": "Peppermint Brownie Cookies",
+            "description": "Add 1/2 teaspoon peppermint extract and sprinkle crushed candy canes on top before baking for a festive twist. These are perfect for holiday gatherings with a refreshing flavor pop.",
+            "technical_note": "Don’t add too much peppermint extract or it will overpower the chocolate."
+        },
+        {
+            "name": "Gluten-Free Brownie Cookies",
+            "description": "Swap all-purpose flour with a 1:1 gluten-free baking flour blend. Texture might be slightly different but still fudgy and delicious. Great for those avoiding gluten.",
+            "technical_note": "Check your blend contains xanthan gum or add 1/4 teaspoon for structure."
+        },
+        {
+            "name": "Vegan Brownie Cookies",
+            "description": "Use vegan butter and substitute eggs with flax eggs (1 tablespoon ground flax + 3 tablespoons water per egg). Use dairy-free chocolate. These cookies remain fudgy and chewy with a slight difference in texture.",
+            "technical_note": "Chill the dough longer if it feels too soft before baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 3 days. Keep away from direct sunlight or heat sources to prevent melting or drying out. Adding a slice of bread helps maintain moisture.",
+        "refrigerator": "Cookies can be stored in an airtight container in the fridge for up to 7 days. They may firm up and lose a bit of chewiness, so warming slightly in the microwave before serving helps restore softness.",
+        "freezer": "Freeze cookies in a sealed container or freezer bag for up to 3 months. Separate layers with parchment paper to prevent sticking. Thaw at room temperature for 30-60 minutes before eating.",
+        "reheating": "Warm cookies gently in a microwave for 10-15 seconds or in a 300°F oven for 5 minutes to revive softness. Avoid overheating, which can dry them out. A splash of milk or butter can refresh texture if needed.",
+        "make_ahead_strategy": "Prepare the dough up to 24 hours ahead and keep refrigerated. Bake fresh when ready to serve for best texture and flavor. Alternatively, bake ahead and freeze baked cookies for convenient treats later."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular chocolate chips instead of melting chocolate?",
+            "answer": "Regular chocolate chips won’t melt smoothly into the dough like melted chocolate does, so the texture and flavor won’t be as rich or fudgy. If you only have chips, you can melt them first, but avoid adding them solidly as chips."
+        },
+        {
+            "question": "Why do my cookies spread too much when baking?",
+            "answer": "This usually happens if the dough isn’t chilled or if the butter is too soft or melted. Chilling firms up the fat, preventing excessive spreading and helping maintain chewy texture."
+        },
+        {
+            "question": "Can I substitute brown sugar with all white sugar?",
+            "answer": "You can, but brown sugar adds moisture and chewiness because of its molasses content. Using only white sugar may result in crisper, less chewy cookies."
+        },
+        {
+            "question": "My cookies come out cakey instead of fudgy. What should I do?",
+            "answer": "Make sure you’re using melted chocolate and not just cocoa powder. Also, avoid overmixing the dough and don’t add too much flour. Baking time also affects texture; underbaking slightly keeps them fudgy."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Yes, but mix in two batches if your bowl or mixer isn’t large enough. Also, bake cookies on multiple sheets to avoid overcrowding which can affect baking consistency."
+        },
+        {
+            "question": "Is it okay to use salted butter?",
+            "answer": "You can, but reduce or omit added salt in the recipe to avoid oversalting. Unsalted butter gives you better control over the final salt level."
+        },
+        {
+            "question": "How do I store leftover cookies to keep them fresh?",
+            "answer": "Store in an airtight container at room temperature with a slice of bread to maintain moisture. Avoid refrigeration for long-term storage as it can dry them out."
+        },
+        {
+            "question": "Can I add mix-ins like nuts or chocolate chunks?",
+            "answer": "Absolutely! Fold in your desired mix-ins gently after combining the dough to keep the texture balanced and avoid overmixing."
+        }
+    ],
+    "conclusion": "Give these fudgy brownie cookies a try—you’ll love how easy they are and how perfectly chocolatey they turn out. Don’t forget to share your baking adventure with friends!",
+    "seo": {
+        "primary_keyword": "fudgy brownie cookies recipe",
+        "secondary_keywords": [
+            "chewy brownie cookies",
+            "how to make brownie cookies",
+            "best brownie cookies recipe",
+            "easy brownie cookie recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_1.png",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_1.png",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_2.png",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_2.png",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_3.png",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_3.png",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_8.webp",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_8.webp",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_5.webp",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_5.webp",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_6.webp",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_6.webp",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_7.webp",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_7.webp",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_9.webp",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_9.webp",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_4.webp",
+            "filePath": "posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_4.webp",
+            "relativePath": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images/brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781305377_297",
+    "slug": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight",
+    "isOnline": true,
+    "createdAt": "2026-06-13T00:24:56+01:00",
+    "updatedAt": "2026-06-13T00:24:56+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight/images"
+}

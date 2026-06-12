@@ -1,0 +1,337 @@
+{
+    "title": "Easy Herb-Marinated Grilled Chicken with Smoky Char Flavor",
+    "promptIMG": "Food photography: Herb-Marinated Grilled Chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This grilled chicken gets its magic from fresh herbs in the marinade and that irresistible smoky char. It’s perfect for casual weekend cookouts or a quick, flavorful dinner any night!",
+    "hashtags": "#grilledchicken #herbmarinade #weekendcookout",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Secret to Juicy Herb-Marinated Grilled Chicken Tonight!",
+            "description": "Want juicy, smoky chicken bursting with fresh herb flavor? This recipe nails it every time. Perfect for your next BBQ or quick dinner. Save this and try it today! 🍗🔥🌿 #grilledchicken #easyrecipes #herbs #bbq #dinnerideas"
+        },
+        {
+            "title": "How to Make the Best Herb-Infused Grilled Chicken in 30 Minutes",
+            "description": "Ready for a quick dinner that tastes like a weekend feast? This herb-marinated grilled chicken is smoky, tender, and full of flavor. Discover the recipe now and impress your family! 🍴🌿🔥 #quickdinner #grillrecipes #herbchicken #easymeals"
+        },
+        {
+            "title": "Transform Your Grill Game with This Simple Herb-Marinated Chicken Recipe",
+            "description": "Elevate your grilling with this easy herb marinade that locks in flavor and gives a perfect smoky char. Great for any occasion! Save this recipe and fire up the grill soon! 🍗🌿🔥 #grillingseason #herbmarinade #chickenrecipes #summerbbq"
+        },
+        {
+            "title": "Juicy, Flavorful Herb-Marinated Grilled Chicken You’ll Make Again and Again",
+            "description": "This grilled chicken is packed with fresh herbs and gets that amazing smoky char every time. It’s simple and perfect for busy weeknights or weekend cookouts. Try it and share your results! 🍴🔥🌿 #easygrilledchicken #herbs #dinnerideas #bbqrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, pounded to even thickness",
+        "3 tablespoons olive oil",
+        "2 tablespoons fresh rosemary, finely chopped",
+        "2 tablespoons fresh thyme leaves",
+        "3 cloves garlic, minced",
+        "1 lemon, zested and juiced",
+        "1 teaspoon smoked paprika",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I’ve always loved the flavor that grilling adds to chicken, but what really makes this recipe stand out is the fresh herb marinade. I first tried adding rosemary and thyme after a weekend at a friend’s cookout, and it completely transformed the taste — the herbs soak into the chicken, making it juicy and aromatic. I’ve tweaked the marinade over time to balance the lemon zest and smoked paprika, which brings a subtle smoky depth without needing a charcoal grill. One trick I learned is to pound the chicken breasts evenly before marinating; it helps them cook uniformly and stay tender. When grilled, the chicken gets this beautiful char that locks in all those flavors. It’s become my go-to for quick dinners or when friends come over for a casual BBQ. The finished chicken is juicy, flavorful, and the fresh herbs give it a brightness that’s hard to beat. If you’re looking for an easy grilled chicken recipe that feels special without fuss, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pounding the chicken breasts to an even thickness, about 1/2 inch. This step is crucial because it ensures the chicken cooks evenly on the grill, preventing some parts from drying out while others remain undercooked. Use a meat mallet or the bottom of a heavy pan, and be gentle to avoid tearing the meat. Even thickness means juicier, more tender chicken, so don’t skip this part!",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken breasts are uniformly flattened and smooth"
+        },
+        {
+            "step": 2,
+            "instruction": "In a bowl, whisk together olive oil, chopped rosemary and thyme, minced garlic, lemon zest and juice, smoked paprika, salt, and pepper. This marinade combines citrus brightness with herbaceous depth and a subtle smoky note, infusing the chicken with layers of flavor. The olive oil helps carry the flavors deep into the meat while keeping it moist.",
+            "timing": "5 minutes",
+            "doneness_cue": "Marinade is well combined, fragrant, and slightly thickened"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the pounded chicken breasts in a zip-top bag or shallow dish and pour the marinade over them. Massage the marinade into the chicken to coat evenly. Seal or cover and refrigerate for at least 30 minutes, ideally up to 2 hours. This resting time allows the herbs and lemon to penetrate the meat, making every bite flavorful and tender. Don’t marinate too long or the lemon juice can start to ‘cook’ the chicken.",
+            "timing": "30 minutes to 2 hours",
+            "doneness_cue": "Chicken is fully coated and slightly plumped from marinade absorption"
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your grill to medium-high heat (around 400°F). Make sure the grates are clean and lightly oiled to prevent sticking. This temperature is ideal for cooking chicken breasts through while developing that signature char without burning the herbs or drying out the meat.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill grates are hot and shimmering, ready for cooking"
+        },
+        {
+            "step": 5,
+            "instruction": "Remove chicken from marinade, letting excess drip off but don’t wipe it dry. Place the breasts on the grill and cook for about 6-7 minutes on one side without moving them. This undisturbed searing creates those beautiful grill marks and helps develop a smoky crust that locks in juices.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Chicken releases easily from grill and has visible char marks"
+        },
+        {
+            "step": 6,
+            "instruction": "Flip the chicken breasts and grill for another 6-7 minutes on the other side. Use a meat thermometer to check for an internal temperature of 165°F to ensure safety without overcooking. Cooking time may vary slightly depending on thickness, so watch closely to keep the meat juicy.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Internal temperature reaches 165°F; chicken is firm but springy"
+        },
+        {
+            "step": 7,
+            "instruction": "Once cooked, transfer the chicken to a plate and let it rest for 5 minutes. Resting allows the juices to redistribute throughout the meat, making it more tender and moist. Cutting into the chicken too soon causes the juices to run out, leaving it dry.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels warm, slightly firm, and juice settles when pressed"
+        },
+        {
+            "step": 8,
+            "instruction": "Slice the chicken against the grain to maximize tenderness. Serve with your favorite sides like grilled veggies or a fresh salad. The herb marinade pairs wonderfully with light, bright accompaniments that complement the smoky grilled flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Slices show moist interior with visible herb flecks"
+        },
+        {
+            "step": 9,
+            "instruction": "Optional: Garnish with extra fresh herbs or a squeeze of lemon juice for an added burst of freshness right before serving. This final touch elevates the dish with a pop of color and brightness that balances the smoky richness.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish looks vibrant and fresh with herb garnish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Grilled Chicken Recipe Stands Out",
+        "content": "<p>Grilling chicken can be tricky because it’s easy to dry out the meat, but this recipe combines several techniques to keep it juicy and flavorful. Pounding the chicken breasts to an even thickness ensures they cook uniformly, preventing thin edges from drying before the thicker parts are done. This simple step is often overlooked but is essential for tender results.</p><p>The marinade is a balanced blend of olive oil, fresh herbs, lemon, and smoked paprika. Olive oil acts as a carrier for fat-soluble flavors and helps lock in moisture. The fresh rosemary and thyme infuse the chicken with aromatic oils that complement the smoky char from the grill. Lemon juice adds acidity which tenderizes the meat slightly but also brightens the flavor. Smoked paprika imparts a subtle smoky depth that mimics the char flavor, especially useful if you’re using a gas grill instead of charcoal.</p><p>Grilling at medium-high heat creates the Maillard reaction on the chicken’s surface, which is responsible for the delicious browned crust and complex flavor compounds. Allowing the chicken to sear undisturbed develops those signature grill marks and caramelized edges. Resting the chicken after grilling is just as important — it lets the juices redistribute and settle, preventing them from running out when sliced.</p><p>Finally, slicing against the grain shortens the muscle fibers, making each bite more tender. The combination of these techniques and ingredient choices ensures the chicken is juicy, flavorful, and beautifully charred every time, making it a reliable crowd-pleaser for any occasion.</p>",
+        "ingredient_notes": {
+            "Chicken Breasts": "Choose fresh, boneless, skinless chicken breasts that are plump and have a pinkish color. Thicker breasts work better because you can pound them to a uniform thickness, which helps them cook evenly. Avoid frozen or previously frozen chicken if possible, as thawed meat can release excess water and affect the marinade absorption and grilling texture.",
+            "Fresh Rosemary and Thyme": "Use fresh herbs rather than dried for a vibrant, bright flavor. Rosemary brings a piney, slightly woody aroma while thyme adds subtle earthiness. When chopping, finely mince to release the essential oils that infuse the chicken. If you can’t find fresh, use about one-third the amount of dried herbs, but the flavor won’t be as fresh or intense.",
+            "Lemon Juice and Zest": "Fresh lemon juice tenderizes the chicken slightly through its acidity and adds a bright, citrusy note that balances the richness of the olive oil and smoky paprika. Zesting before juicing captures essential oils in the peel that contribute a fragrant aroma. Avoid bottled lemon juice as it lacks the fresh brightness and can be more acidic, which might 'cook' the chicken if marinated too long.",
+            "Olive Oil": "Extra virgin olive oil is preferred for its fruity flavor and ability to keep the chicken moist during grilling. It also helps distribute the marinade evenly. Avoid using light or refined olive oils as they lack flavor and won’t contribute as much to the marinade’s richness. The oil also acts as a barrier to prevent the chicken from sticking to the grill grates.",
+            "Smoked Paprika": "This spice adds a mild smoky flavor without heat, enhancing the grilled taste especially if you’re not using charcoal. It also gives a subtle red hue to the chicken surface. Use sweet smoked paprika for a balanced taste; avoid hot paprika unless you want added spice. It’s a great way to replicate outdoor grill smokiness indoors or on gas grills."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pound chicken breasts to even thickness before marinating.",
+            "reason": "Uneven chicken breasts cook unevenly, causing thinner parts to dry out while thicker parts remain undercooked. Pounding ensures uniform cooking, resulting in juicy, tender meat throughout."
+        },
+        {
+            "tip": "Don’t over-marinate the chicken in lemon juice.",
+            "reason": "Lemon juice’s acidity can start to 'cook' the chicken if left too long, leading to a mushy texture. Keeping marination time between 30 minutes and 2 hours balances flavor infusion and texture."
+        },
+        {
+            "tip": "Preheat and oil grill grates before cooking.",
+            "reason": "A hot, well-oiled grill prevents sticking and helps develop those perfect sear marks. This also ensures the chicken releases easily without tearing the surface."
+        },
+        {
+            "tip": "Let the chicken rest after grilling.",
+            "reason": "Resting allows juices to redistribute throughout the meat, preventing them from escaping when you cut into it. This step is key for moist, flavorful chicken."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Relying on timing alone can lead to under or overcooking. A thermometer ensures the chicken reaches a safe internal temperature of 165°F while staying juicy."
+        },
+        {
+            "tip": "Slice against the grain when serving.",
+            "reason": "Cutting against the muscle fibers shortens them, making the chicken easier to chew and more tender with every bite."
+        },
+        {
+            "tip": "Use fresh herbs rather than dried in the marinade.",
+            "reason": "Fresh herbs provide a brighter, more aromatic flavor and essential oils that dried herbs can’t match. They really lift the dish’s overall profile."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the pounding step",
+            "why_it_happens": "Many cooks assume chicken breasts cook evenly as-is, but their natural uneven thickness leads to inconsistent cooking and dryness.",
+            "fix": "Use a meat mallet or rolling pin to gently pound the breasts to an even thickness of about 1/2 inch before marinating and grilling. This ensures uniform cooking and juiciness."
+        },
+        {
+            "mistake": "Marinating too long in acidic marinade",
+            "why_it_happens": "It’s tempting to marinate overnight for flavor, but lemon juice can break down proteins and create a mushy texture.",
+            "fix": "Limit marination time to 2 hours max with lemon juice. If you want longer marination, reduce or omit the lemon and add it fresh after cooking."
+        },
+        {
+            "mistake": "Grilling over too high heat",
+            "why_it_happens": "High heat can burn the outside quickly before the inside cooks, especially with herbs and marinade sugars.",
+            "fix": "Preheat grill to medium-high (around 400°F) and cook with care, flipping once to develop even char without burning."
+        },
+        {
+            "mistake": "Not letting chicken rest after grilling",
+            "why_it_happens": "Impatience to serve leads to cutting into chicken immediately, causing juices to run out and dry meat.",
+            "fix": "Let chicken rest for at least 5 minutes off the heat to allow juices to redistribute for moist, tender results."
+        },
+        {
+            "mistake": "Cutting chicken with the grain",
+            "why_it_happens": "Some don’t realize cutting along muscle fibers makes meat tougher to chew.",
+            "fix": "Identify the grain direction and slice perpendicular to it for the most tender bites."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Herb-Grilled Chicken",
+            "description": "Add 1 teaspoon cayenne pepper or chili flakes to the marinade for a spicy kick. This variation adds heat that complements the smoky char and fresh herbs, making it perfect for those who love a little spice in their grilled chicken.",
+            "technical_note": "Adjust grilling time slightly if using thicker cuts to avoid burning the spices; watch closely and flip as needed."
+        },
+        {
+            "name": "Honey-Lemon Herb Chicken",
+            "description": "Mix 1 tablespoon honey into the marinade to add a touch of sweetness that balances the lemon acidity and herbs. The honey caramelizes on the grill, creating a beautiful glaze and slightly crispy exterior.",
+            "technical_note": "Keep an eye on grill temperature to prevent the honey from burning; medium heat is ideal."
+        },
+        {
+            "name": "Mediterranean Style with Oregano and Feta",
+            "description": "Swap thyme for fresh oregano and sprinkle crumbled feta cheese over the chicken just before serving. This gives the dish a Mediterranean twist with a tangy, salty finish that pairs wonderfully with grilled veggies.",
+            "technical_note": "Add feta after cooking to maintain its texture and flavor."
+        },
+        {
+            "name": "Herb-Marinated Chicken Thighs",
+            "description": "Use boneless, skinless chicken thighs instead of breasts for a richer, juicier result. Thighs hold up well to the marinade and grilling, offering a more forgiving texture and deeper flavor.",
+            "technical_note": "Increase grilling time slightly, about 8-9 minutes per side, to ensure thighs are cooked through."
+        },
+        {
+            "name": "Citrus-Herb Grilled Chicken with Orange",
+            "description": "Replace lemon with orange zest and juice for a sweeter, less acidic marinade. This variation adds a bright, fruity note that pairs well with fresh herbs and smoky grill flavor.",
+            "technical_note": "Marinate for the same amount of time; orange juice is milder and won’t 'cook' the meat quickly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "18g",
+        "fiber_grams": "1g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked grilled chicken should not be left out at room temperature for more than 2 hours. Cover loosely with foil if serving buffet-style to keep it warm but avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavor remains good, but the smoky char flavor may mellow. Reheat gently to avoid drying out, or enjoy cold in salads.",
+        "freezer": "Freeze cooked chicken in airtight freezer bags or containers for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge for best texture.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of water or broth to keep moist, or microwave covered for 1-2 minutes. Avoid high heat which can dry the chicken out.",
+        "make_ahead_strategy": "You can marinate the chicken up to 2 hours ahead and keep it refrigerated. Grill fresh just before serving for the best texture and flavor. Alternatively, grill in advance and reheat gently."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried herbs instead of fresh in the marinade?",
+            "answer": "Yes, you can substitute dried herbs but use about one-third the amount since dried herbs are more concentrated. The flavor won’t be as bright or fresh, but it will still be delicious. Just make sure to crush dried herbs between your fingers to release aroma before adding."
+        },
+        {
+            "question": "What if I don’t have a grill? Can I cook this chicken indoors?",
+            "answer": "Absolutely! You can use a grill pan or broil the chicken in the oven. For a grill pan, preheat it until very hot and follow the same cooking times. Under the broiler, place the chicken on a foil-lined pan about 6 inches from the heat, turning halfway."
+        },
+        {
+            "question": "How long can I marinate the chicken safely?",
+            "answer": "Because of the lemon juice acidity, marinate between 30 minutes and 2 hours. Longer marination can start to break down the meat and make it mushy. If you want to marinate longer, reduce or omit the lemon juice and add fresh lemon after cooking."
+        },
+        {
+            "question": "Why do I need to let the chicken rest after grilling?",
+            "answer": "Resting allows the juices that move to the surface during cooking to redistribute back into the meat. Cutting immediately causes those juices to spill out, resulting in dry chicken. Resting keeps it moist and tender."
+        },
+        {
+            "question": "Can I use bone-in chicken for this recipe?",
+            "answer": "You can, but cooking times will be longer and you won’t be able to pound the meat evenly. Bone-in pieces require more careful grilling to avoid burning the outside before the inside cooks through."
+        },
+        {
+            "question": "How do I know when the chicken is perfectly cooked?",
+            "answer": "Use a meat thermometer inserted into the thickest part; it should read 165°F. The chicken will feel firm but springy when pressed. Visual cues like clear juices and no pink inside help too, but thermometer use is best."
+        },
+        {
+            "question": "Can I prepare the marinade in advance?",
+            "answer": "Yes, you can mix the marinade a day ahead and store it in the fridge. Just add the lemon juice fresh before marinating to keep brightness. This saves time and deepens the flavor infusion."
+        },
+        {
+            "question": "What sides work best with this grilled chicken?",
+            "answer": "Fresh salads, grilled vegetables, roasted potatoes, or rice pilaf all complement the herbaceous, smoky flavors nicely. Lighter sides balance the richness and keep the meal fresh and vibrant."
+        }
+    ],
+    "conclusion": "Give this herb-marinated grilled chicken a try — I think you’ll love the juicy, smoky flavor. Don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "herb marinated grilled chicken",
+        "secondary_keywords": [
+            "easy grilled chicken recipe",
+            "how to make grilled chicken with herbs",
+            "best herb grilled chicken",
+            "quick herb chicken marinade"
+        ],
+        "internal_links": [
+            {
+                "text": "simple homemade chicken marinade",
+                "anchor": "simple-homemade-chicken-marinade"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_1.png",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_1.png",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_2.png",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_2.png",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_3.png",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_3.png",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_6.webp",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_6.webp",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_4.webp",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_4.webp",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_9.webp",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_9.webp",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_5.webp",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_5.webp",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_7.webp",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_7.webp",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_8.webp",
+            "filePath": "posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_8.webp",
+            "relativePath": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images/simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781305602_203",
+    "slug": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill",
+    "isOnline": true,
+    "createdAt": "2026-06-13T00:24:56+01:00",
+    "updatedAt": "2026-06-13T00:24:56+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "simple-tips-for-perfect-grilled-food-every-time-you-fire-up-the-grill/images"
+}

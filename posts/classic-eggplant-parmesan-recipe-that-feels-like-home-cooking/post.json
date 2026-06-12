@@ -1,0 +1,339 @@
+{
+    "title": "Classic Cozy Eggplant Parmesan with a Crispy Golden Crust",
+    "promptIMG": "Food photography: Eggplant Parmesan, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This eggplant parmesan is pure comfort food. The trick is salting the eggplant first to keep it from turning mushy. Baked with plenty of melty cheese and fresh tomato sauce, it’s perfect for a cozy family dinner.",
+    "hashtags": "#eggplantparmesan #italiancomfortfood #familydinner",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "How To Make Perfect Crispy Eggplant Parmesan Every Time",
+            "description": "Discover my secret to crispy, tender eggplant parmesan that’s packed with flavor. This recipe is easy to follow and perfect for weeknight dinners 🍆🧀. Save this for your next cozy meal! #eggplantparmesan #comfortfood #italiandinner"
+        },
+        {
+            "title": "Easy Eggplant Parmesan Recipe That Tastes Like Grandma’s",
+            "description": "Love classic Italian flavors? This eggplant parmesan is baked to bubbly perfection with layers of tender eggplant and rich tomato sauce 🍅✨. Try it today and impress your family! #homemade #eggplantparmesan #italianfood"
+        },
+        {
+            "title": "The Best Eggplant Parmesan: Crispy, Cheesy & Full of Flavor",
+            "description": "If you want a foolproof eggplant parmesan, this recipe is your go-to! Crispy eggplant, gooey cheese, and fresh sauce—what’s not to love? 🍽️💛 Pin it now for your next dinner night! #comfortfoodrecipes #eggplantparmesan #easymeals"
+        },
+        {
+            "title": "Simple Eggplant Parmesan That Everyone Will Devour Tonight",
+            "description": "Ready in under an hour, this eggplant parmesan is a comforting classic done right. Perfect layers, crispy edges, and melty cheese make it a crowd-pleaser 🍆🧄. Discover now and save for later! #italianrecipes #familymeals #eggplant"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 medium eggplants, sliced into 1/2 inch rounds",
+        "1 tablespoon salt, for salting eggplant",
+        "2 cups marinara sauce, homemade or store-bought",
+        "1 1/2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1 cup all-purpose flour",
+        "3 large eggs, beaten",
+        "2 cups Italian-style breadcrumbs",
+        "1/4 cup olive oil, for frying",
+        "Fresh basil leaves, for garnish (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I remember the first time I made eggplant parmesan—it was a total flop. The eggplant turned out soggy and limp, and the whole dish was a mess. After a bit of research and a few experiments, I discovered that salting the eggplant slices before cooking was a total game changer. This step draws out excess moisture and keeps the eggplant firm and flavorful. Over time, I’ve refined this recipe to balance crispy breading with tender, melty layers of cheese and rich tomato sauce. What I love most is how the cheese melts into the sauce and the eggplant, creating a cozy, comforting dish that feels like a warm hug. It’s perfect for a family dinner when you want something hearty but not overly complicated. Plus, it’s a great way to enjoy vegetables in a way everyone will love. If you’ve struggled with soggy eggplant before, this recipe will be a revelation. I promise, once you get the salting and breading right, you’ll be hooked.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by slicing the eggplants into 1/2 inch thick rounds. Lay them out on a baking sheet or large tray and sprinkle both sides generously with salt. This step is crucial because it draws out excess water from the eggplant, preventing sogginess later. Let them sit for about 15 minutes, then rinse the salt off and pat the slices dry with paper towels. This drying step is essential to get a nice crispy crust during frying, so don’t skip it.",
+            "timing": "20 minutes",
+            "doneness_cue": "Eggplant slices feel firm and visibly less wet to the touch after drying"
+        },
+        {
+            "step": 2,
+            "instruction": "Set up a breading station with three shallow bowls: flour in one, beaten eggs in the second, and breadcrumbs in the third. Dip each eggplant slice first in flour, shaking off excess, then into the egg, and finally coat it evenly with breadcrumbs. This triple coating ensures a crispy, golden crust that holds up during baking. Take your time to press the breadcrumbs gently so they stick well, which helps the breading stay on during cooking.",
+            "timing": "15 minutes",
+            "doneness_cue": "Slices are evenly coated with breadcrumbs and look fully covered without bare spots"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat olive oil in a large skillet over medium heat until shimmering but not smoking. Fry the breaded eggplant slices in batches, about 2-3 minutes per side, until golden brown and crispy. Avoid overcrowding the pan or the oil temperature will drop, resulting in greasy, soggy slices. Use a slotted spoon to transfer the fried eggplant to a paper towel-lined plate to drain excess oil. This step locks in the crispy texture before baking.",
+            "timing": "15 minutes",
+            "doneness_cue": "Eggplant slices are golden brown and crispy on both sides"
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 375°F (190°C). Spread a thin layer of marinara sauce on the bottom of a baking dish. Arrange a layer of fried eggplant slices over the sauce. Spoon more marinara over the eggplant, then sprinkle with mozzarella and Parmesan cheeses. Repeat layering until all ingredients are used, finishing with a generous cheese layer on top. Layering helps all the flavors meld together and creates that classic bubbling cheese topping.",
+            "timing": "10 minutes",
+            "doneness_cue": "Baking dish is evenly layered and topped with cheese"
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the assembled dish in the preheated oven for 25-30 minutes, until the cheese is melted, bubbly, and golden brown on top. Baking allows the flavors to meld and the sauce to thicken slightly. Keep an eye on the cheese near the end to prevent burning. If it browns too quickly, loosely cover with foil.",
+            "timing": "30 minutes",
+            "doneness_cue": "Cheese is golden and bubbly, sauce is thickened around edges"
+        },
+        {
+            "step": 6,
+            "instruction": "Once baked, let the eggplant parmesan rest for about 10 minutes before serving. This rest time helps the layers set, making it easier to cut and serve without falling apart. Plus, it gives the flavors a chance to deepen and meld together beautifully.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dish is warm but firm enough to slice neatly"
+        },
+        {
+            "step": 7,
+            "instruction": "Garnish with fresh basil leaves just before serving for a pop of color and fresh aroma. The basil adds a bright contrast to the rich cheese and tomato sauce, enhancing the overall flavor profile.",
+            "timing": "2 minutes",
+            "doneness_cue": "Fresh basil leaves look vibrant and fragrant"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve your eggplant parmesan hot with a simple green salad or crusty bread to soak up the delicious sauce. This makes a satisfying, well-rounded meal that’s perfect for sharing with family or friends on any night.",
+            "timing": "0 minutes",
+            "doneness_cue": "Plate looks inviting with complementary sides"
+        },
+        {
+            "step": 9,
+            "instruction": "If you have leftovers, store them in an airtight container in the fridge. Reheat gently to preserve the crispy texture of the breading. Avoid microwaving directly as it can make the crust soggy; instead, reheat in a low oven or skillet.",
+            "timing": "0 minutes",
+            "doneness_cue": "Leftovers are heated through without soggy breading"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Eggplant Parmesan Recipe Succeeds",
+        "content": "<p>Eggplant is a vegetable with high water content, which can make it tricky to cook without turning mushy. The key to a successful eggplant parmesan lies in controlling moisture. Salting the eggplant slices before cooking draws out excess water through osmosis. This process not only prevents sogginess but also reduces any bitterness the eggplant may have. Rinsing and drying the slices afterward is essential to avoid over-salting and to ensure the breading sticks well.</p><p>The breading technique is another critical factor. Using a three-step coating with flour, egg, and breadcrumbs creates a sturdy crust that crisps up beautifully when fried. The flour helps the egg adhere, and the egg binds the breadcrumbs, forming a barrier that locks in moisture and adds texture. Frying the breaded slices at the right temperature ensures a golden crust without absorbing too much oil, which would weigh down the dish.</p><p>Baking the layered dish allows the flavors to meld and the cheese to melt evenly. The heat encourages the Maillard reaction on the cheese surface, creating a golden, bubbly topping that’s both visually appealing and delicious. Resting the dish after baking helps the layers set, making it easier to serve and improving the overall mouthfeel.</p><p>Finally, using quality ingredients like fresh mozzarella and a flavorful marinara enhances the taste significantly. Fresh basil on top adds a bright, herbal note that contrasts the richness of the cheese and tomato sauce, rounding out the dish perfectly.</p>",
+        "ingredient_notes": {
+            "eggplant": "Look for firm, smooth-skinned eggplants without blemishes or soft spots. Smaller eggplants tend to have fewer seeds and a sweeter flavor. The salting step is crucial to remove excess water and prevent bitterness, ensuring the eggplant stays tender but not soggy.",
+            "breadcrumbs": "Italian-style seasoned breadcrumbs add extra flavor and a nice crunch. If you prefer, you can use panko for an even crispier texture, but traditional breadcrumbs give a classic feel. Make sure the breadcrumbs are fresh for the best coating.",
+            "mozzarella cheese": "Use fresh or low-moisture mozzarella for melty, gooey layers. Fresh mozzarella adds creaminess but contains more moisture, so balance it with proper baking time. Low-moisture mozzarella melts well and browns nicely.",
+            "Parmesan cheese": "Grated Parmesan adds sharp, salty notes that complement the creamy mozzarella and tangy tomato sauce. Freshly grated Parmesan is best, as pre-grated versions often contain anti-caking agents that affect melting.",
+            "olive oil": "Use a good quality extra virgin olive oil for frying to add depth of flavor. Keep the temperature steady to avoid burning or greasy results. Olive oil also contributes to the golden crust and adds richness to the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip salting the eggplant slices before breading.",
+            "reason": "Salting draws out excess moisture and prevents the eggplant from becoming soggy during cooking. Without this step, the eggplant can release water that ruins the crispy breading and makes the dish watery."
+        },
+        {
+            "tip": "Press the breadcrumbs firmly onto the eggplant slices.",
+            "reason": "Firmly pressing helps the breadcrumbs adhere better, creating a thicker crust that stays intact through frying and baking. Loose breadcrumbs can fall off and cause uneven cooking and texture."
+        },
+        {
+            "tip": "Maintain medium heat when frying eggplant slices.",
+            "reason": "Too high heat burns the crust before the eggplant cooks through; too low makes the slices absorb too much oil and become greasy. Medium heat ensures a golden, crisp crust and tender interior."
+        },
+        {
+            "tip": "Let the baked dish rest before slicing.",
+            "reason": "Resting allows the sauce and cheese to set, so the layers hold together nicely. Cutting into it immediately can cause the dish to fall apart and lose its appealing structure."
+        },
+        {
+            "tip": "Use fresh basil for garnish just before serving.",
+            "reason": "Fresh basil adds a burst of herbal aroma and color that brightens the rich flavors. Adding it too early can cause it to wilt and lose vibrancy."
+        },
+        {
+            "tip": "Use a shallow pan for frying to keep oil temperature consistent.",
+            "reason": "A shallow pan helps maintain even heat distribution and allows you to monitor the frying process closely, preventing soggy or burnt slices."
+        },
+        {
+            "tip": "Choose a flavorful marinara sauce or make your own.",
+            "reason": "The sauce is a key flavor component, so using a homemade or high-quality store-bought marinara enhances the overall taste and balances the richness of the cheese and eggplant."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the salting step on the eggplant.",
+            "why_it_happens": "Many cooks underestimate how much water eggplant holds and assume breading alone will prevent sogginess.",
+            "fix": "Always salt the eggplant slices and let them rest to draw out moisture, then rinse and dry thoroughly before breading. This ensures a crisp final texture."
+        },
+        {
+            "mistake": "Overcrowding the frying pan.",
+            "why_it_happens": "Trying to fry too many slices at once to save time reduces oil temperature and causes greasy, unevenly cooked breading.",
+            "fix": "Fry in small batches, maintaining medium heat, so each slice crisps evenly without absorbing excess oil."
+        },
+        {
+            "mistake": "Using too thick or too thin eggplant slices.",
+            "why_it_happens": "Thick slices take too long to cook through, while thin slices can dry out or burn during frying.",
+            "fix": "Slice eggplant about 1/2 inch thick for the best balance of tender interior and crispy crust."
+        },
+        {
+            "mistake": "Not resting the baked dish before serving.",
+            "why_it_happens": "Eagerness to eat leads to slicing immediately, which causes the layers to fall apart.",
+            "fix": "Let the dish rest 10 minutes after baking so it sets and slices cleanly."
+        },
+        {
+            "mistake": "Using pre-shredded cheese with additives.",
+            "why_it_happens": "Pre-shredded cheese often contains anti-caking agents that can affect melting and texture.",
+            "fix": "Grate your own mozzarella and Parmesan for smoother, creamier melting and better flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Baked Eggplant Parmesan (No Frying)",
+            "description": "For a lighter version, skip frying and bake the breaded eggplant slices on a greased baking sheet until crispy before layering. This reduces oil use and still gives a nice crunch, though the texture is slightly less rich.",
+            "technical_note": "Bake slices at 425°F for 20 minutes, flipping halfway to crisp evenly."
+        },
+        {
+            "name": "Add Italian Sausage for Extra Protein",
+            "description": "Brown some Italian sausage and layer it between the eggplant and cheese for a meaty twist. It adds savory depth and makes the dish heartier, great for meat lovers.",
+            "technical_note": "Cook sausage fully before layering to ensure food safety and flavor."
+        },
+        {
+            "name": "Use Gluten-Free Breadcrumbs",
+            "description": "Swap regular breadcrumbs for gluten-free ones to make this recipe suitable for gluten-sensitive diets. The texture will be similar, but be sure to press the crumbs firmly to stick well.",
+            "technical_note": "Choose fine, seasoned gluten-free breadcrumbs for best coating."
+        },
+        {
+            "name": "Add Fresh Spinach Layers",
+            "description": "Include fresh spinach leaves between layers for added nutrition and a burst of color. It pairs well with the tomato sauce and cheese, giving a subtle earthy flavor.",
+            "technical_note": "Wilt spinach lightly before layering to prevent excess moisture."
+        },
+        {
+            "name": "Use Vegan Cheese and Egg Substitutes",
+            "description": "Make a vegan version by using plant-based cheese and substituting eggs with flax or chia egg mixtures. The breading and baking technique remains similar, though flavor and texture will vary slightly.",
+            "technical_note": "Use firm vegan cheese and test breading adhesion with your egg substitute."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Eggplant parmesan should not be left at room temperature for more than 2 hours to avoid bacterial growth. Cover loosely with foil if serving buffet-style for short periods.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors deepen in the fridge, but the breading may soften. Reheat gently in the oven to restore some crispness.",
+        "freezer": "Freeze portions in airtight, freezer-safe containers or wrapped tightly in foil for up to 2 months. To prevent freezer burn, wrap twice with plastic wrap then foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes until warmed through. Adding a splash of water or tomato sauce helps keep the eggplant moist. Avoid microwaving as it can make the breading soggy.",
+        "make_ahead_strategy": "You can prepare the breaded eggplant slices a day ahead and keep them refrigerated on a baking sheet covered with plastic wrap. Assemble and bake the dish on the day of serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I bake the eggplant instead of frying?",
+            "answer": "Absolutely! Baking is a great alternative to frying and makes the dish lighter. Coat the breaded eggplant slices with a light spray of oil and bake at 425°F for about 20 minutes, flipping halfway. The texture will be slightly less crispy but still delicious."
+        },
+        {
+            "question": "How do I prevent my eggplant parmesan from being watery?",
+            "answer": "The biggest culprit is excess moisture in the eggplant. Salting the slices and letting them rest before rinsing and drying is key. Also, avoid overloading the dish with sauce. Using thicker sauce and proper resting after baking helps reduce watery texture."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes! You can bread and fry the eggplant slices a day ahead and keep them refrigerated. Assemble and bake the dish on the day you want to serve it for the best texture and flavor."
+        },
+        {
+            "question": "What’s the best cheese to use for eggplant parmesan?",
+            "answer": "A combination of mozzarella and Parmesan works best. Mozzarella provides gooey meltiness, while Parmesan adds sharpness and depth. Using fresh mozzarella gives a creamier texture, but low-moisture shredded mozzarella melts more evenly."
+        },
+        {
+            "question": "Can I freeze leftover eggplant parmesan?",
+            "answer": "Yes, you can freeze leftovers for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat in the oven to maintain texture. Avoid freezing before baking, as the breading can become soggy."
+        },
+        {
+            "question": "Is it necessary to rinse the salted eggplant?",
+            "answer": "Rinsing removes excess salt and bitterness after the resting period. If you don’t rinse, the dish may become too salty. Always pat dry thoroughly after rinsing to preserve the breading’s adhesion."
+        },
+        {
+            "question": "Can I use panko breadcrumbs instead of regular?",
+            "answer": "Yes, panko will give a lighter, crunchier crust. It’s a great option if you prefer extra crispiness. Just make sure to press the panko firmly onto the eggplant slices so it sticks well during frying."
+        },
+        {
+            "question": "How thick should I slice the eggplant?",
+            "answer": "About 1/2 inch thick slices are ideal. Too thin and they can dry out or burn; too thick and they won’t cook through evenly, leading to a mushy center."
+        }
+    ],
+    "conclusion": "I hope you give this eggplant parmesan a try—it’s one of those dishes that really feels like home. Don’t forget to share how it turns out; I’d love to hear your thoughts!",
+    "seo": {
+        "primary_keyword": "eggplant parmesan recipe",
+        "secondary_keywords": [
+            "classic eggplant parmesan",
+            "how to make eggplant parmesan",
+            "best eggplant parmesan recipe",
+            "easy eggplant parmesan"
+        ],
+        "internal_links": [
+            {
+                "text": "how to bread vegetables perfectly",
+                "anchor": "bread-vegetables-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_1.png",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_1.png",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_2.png",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_2.png",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_3.png",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_3.png",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_4.webp",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_9.webp",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_9.webp",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_5.webp",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_5.webp",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_8.webp",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_8.webp",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_6.webp",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_6.webp",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_7.webp",
+            "filePath": "posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_7.webp",
+            "relativePath": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images/classic-eggplant-parmesan-recipe-that-feels-like-home-cooking_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781306170_577",
+    "slug": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking",
+    "isOnline": true,
+    "createdAt": "2026-06-13T00:24:56+01:00",
+    "updatedAt": "2026-06-13T00:24:56+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking/images"
+}
