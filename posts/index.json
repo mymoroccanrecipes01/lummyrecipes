@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-12 22:17:19",
-    "count": 597,
+    "generated": "2026-06-12 22:50:45",
+    "count": 599,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -106,6 +106,7 @@
         "chewy-chocolate-chip-cookies-with-juicy-spring-berries-that-melt-in-your-mouth",
         "chewy-maple-walnut-cookies-perfect-for-springtime-snacking",
         "chewy-no-bake-brownie-bites-with-chocolate-chips-that-everyone-will-love",
+        "classic-campfire-meals-that-bring-everyone-together",
         "classic-carrot-cake-bites-that-are-perfect-for-easter-treats",
         "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner",
         "classic-easter-dinner-menu-with-make-ahead-tips-for-stress-free-hosting",
@@ -513,6 +514,7 @@
         "quick-mini-chicken-satay-bites-with-peanut-sauce-that-everyone-will-love",
         "quick-moist-5-ingredient-brownies-for-busy-weeknights",
         "refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring",
+        "refreshing-gazpacho-recipe-perfect-for-hot-summer-days",
         "refreshing-high-protein-berry-smoothie-for-busy-mornings-that-kickstart-your-day",
         "refreshing-low-calorie-peach-cobbler-with-a-cinnamon-oat-crust-thats-simply-irresistible",
         "refreshing-strawberry-and-spinach-smoothie-bowl-to-start-your-day-right",
@@ -601,6 +603,36 @@
         "zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining"
     ],
     "posts": [
+        {
+            "slug": "classic-campfire-meals-that-bring-everyone-together",
+            "title": "Cozy Campfire Chili That Warms You Inside and Out",
+            "description": "This campfire chili is the ultimate comfort food for chilly evenings outdoors. It’s loaded with simple ingredients, simmered slowly for deep flavor, and perfect for sharing around the fire.",
+            "image": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_1.png",
+            "category_id": "cat_1761229889_885",
+            "createdAt": "2026-06-12T22:50:45+01:00",
+            "updatedAt": "2026-06-12T22:50:45+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 6
+        },
+        {
+            "slug": "refreshing-gazpacho-recipe-perfect-for-hot-summer-days",
+            "title": "Refreshing Cold Gazpacho Soup with Ripe Tomatoes and Crisp Veggies",
+            "description": "This chilled gazpacho is my absolute favorite on hot days—bright tomatoes, crunchy veggies, and just a splash of sherry vinegar make it so fresh and satisfying. Perfect for a light lunch or starter!",
+            "image": "posts/refreshing-gazpacho-recipe-perfect-for-hot-summer-days/images/refreshing-gazpacho-recipe-perfect-for-hot-summer-days_pinrecipes_image_1.png",
+            "category_id": "cat_1761230636_499",
+            "createdAt": "2026-06-12T22:50:45+01:00",
+            "updatedAt": "2026-06-12T22:50:45+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "15-minute-garlic-butter-chicken-with-spring-green-beans-and-lemon-zest",
             "title": "Quick Garlic Butter Chicken with Zesty Spring Green Beans for Weeknights",
