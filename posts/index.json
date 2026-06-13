@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-13 16:04:52",
-    "count": 612,
+    "generated": "2026-06-13 16:45:42",
+    "count": 613,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -587,6 +587,7 @@
         "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine",
         "sprouted-grain-banana-oat-cookies-with-a-cozy-cinnamon-swirl",
         "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends",
+        "sweet-and-simple-peach-dessert-recipes-to-try-this-summer",
         "sweet-easter-basket-brownies-kids-can-make-and-love",
         "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about",
         "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves",
@@ -616,6 +617,21 @@
         "zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining"
     ],
     "posts": [
+        {
+            "slug": "sweet-and-simple-peach-dessert-recipes-to-try-this-summer",
+            "title": "Classic Peach Crumble with Buttery, Sweet Topping for Warm Evenings",
+            "description": "This peach crumble is all about fresh peaches and a buttery, crumbly topping that melts in your mouth. It’s simple to make and perfect for those warm evenings when you want a cozy dessert without fuss.",
+            "image": "posts/sweet-and-simple-peach-dessert-recipes-to-try-this-summer/images/sweet-and-simple-peach-dessert-recipes-to-try-this-summer_pinrecipes_image_1.webp",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-13T16:45:42+01:00",
+            "updatedAt": "2026-06-13T16:45:42+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 6
+        },
         {
             "slug": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing",
             "title": "Refreshing Watermelon Feta Salad with Lime-Mint Dressing for Summer Days",
