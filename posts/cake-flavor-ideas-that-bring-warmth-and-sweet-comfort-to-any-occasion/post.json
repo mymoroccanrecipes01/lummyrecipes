@@ -1,0 +1,341 @@
+{
+    "title": "Cozy Spiced Vanilla Cake That Feels Like a Warm Hug",
+    "promptIMG": "Food photography: Cozy Spiced Vanilla Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This spiced vanilla cake is my go-to when I want something comforting but a little different. The warm cinnamon and nutmeg blend beautifully with vanilla, making it perfect for chilly afternoons or birthdays.",
+    "hashtags": "#vanillacake #spicedcake #comfortfood",
+    "board_name": "Easy Cake Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Day with This Spiced Vanilla Cake Recipe!",
+            "description": "Looking for a cake that feels like a cozy hug? This spiced vanilla cake is packed with cinnamon and nutmeg, perfect for any occasion. Save this recipe and try it today! 🍰✨ #cakerecipe #vanillacake #bakingfun"
+        },
+        {
+            "title": "How to Make the Best Spiced Vanilla Cake at Home",
+            "description": "Discover a simple way to bake a moist vanilla cake with a warm spice twist. It’s easy, delicious, and perfect for birthdays or coffee breaks. Don’t miss out—give it a try! 🎂☕ #homemadecake #spicedvanilla #easybaking"
+        },
+        {
+            "title": "The Secret to a Moist and Flavorful Spiced Vanilla Cake",
+            "description": "This cake is soft, fluffy, and infused with cozy spices that make every bite special. Perfect for sharing with family or friends. Save this recipe and bake your next favorite dessert! 🍂💕 #comfortfood #vanillacake #bakinglove"
+        },
+        {
+            "title": "Simple Spiced Vanilla Cake You’ll Want to Bake Again and Again",
+            "description": "If you love classic vanilla but crave a little twist, this cake has you covered! It’s easy to make and packed with warm spices. Try it now and impress your loved ones! 🎉🍰 #easycake #spicedcake #dessertideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 1/2 cups all-purpose flour, sifted",
+        "2 1/2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1 cup unsalted butter, softened",
+        "1 3/4 cups granulated sugar",
+        "3 large eggs, room temperature",
+        "1 tablespoon pure vanilla extract",
+        "1 cup whole milk, room temperature",
+        "Optional: powdered sugar for dusting"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I first stumbled upon this cozy spiced vanilla cake recipe on a chilly autumn afternoon when I wanted something classic but with a little extra warmth. I’d been baking the usual vanilla cake for years, but it sometimes felt a bit plain. Adding a blend of cinnamon and nutmeg changed everything — it felt like a warm hug in cake form. I remember the first time I baked it, my kitchen smelled heavenly, and my family couldn’t get enough. What makes this cake stand out is how the spices complement but never overpower the vanilla. Plus, using room temperature ingredients and a gentle folding technique keeps it super moist and tender. I’ve tried skipping the spices or rushing the mixing in the past, and the texture suffered — lesson learned! The finished cake is golden, soft, and fragrant, perfect for birthdays, afternoon tea, or whenever you need a little comfort. Honestly, it’s become a staple in my kitchen, and I think you’ll love it just as much.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour a 9-inch round cake pan, or line it with parchment paper. This prep prevents sticking and ensures the cake releases cleanly after baking. Skipping this step often leads to frustrating moments when the cake won’t come out in one piece, so don’t rush it!",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased and floured with no bare spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking powder, baking soda, salt, cinnamon, and nutmeg. Sifting aerates the flour and evenly distributes the spices and leavening agents, which helps the cake rise evenly and develop a consistent texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter and sugar on medium speed until light and fluffy, about 3-5 minutes. This step incorporates air, which gives the cake a tender crumb. If the butter is too cold, it won’t cream properly, resulting in a dense cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter-sugar mixture is pale and fluffy"
+        },
+        {
+            "step": 4,
+            "instruction": "Add eggs one at a time, beating well after each addition. This ensures the eggs are fully incorporated, preventing curdling and helping the batter emulsify. Adding them all at once can cause the batter to split.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth and glossy with no streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the vanilla extract. It adds depth and enhances the warm spice flavors without overpowering them, making the cake taste homemade and comforting.",
+            "timing": "1 minute",
+            "doneness_cue": "Vanilla evenly distributed in the batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the dry ingredients in three additions, alternating with the milk (start and end with dry). Mix gently on low speed, just until combined after each addition. Overmixing develops gluten, leading to a tough cake, so gentle folding is key for a tender crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth with no pockets of flour"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter evenly into the prepared pan and smooth the top with a spatula. Even spreading ensures the cake bakes uniformly and rises properly without doming too much.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter surface is level and smooth"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 28-32 minutes. Start checking at 28 minutes by inserting a toothpick into the center; it should come out clean or with a few moist crumbs. Avoid opening the oven door too often, which can cause the cake to sink.",
+            "timing": "28-32 minutes",
+            "doneness_cue": "Toothpick comes out clean or with moist crumbs"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the cake cool in the pan for 10 minutes, then turn it out onto a wire rack to cool completely. Cooling in the pan traps steam, which can make the bottom soggy. Removing it promptly ensures a perfect texture all around.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Cake is cool to the touch and firm"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Spiced Vanilla Cake Works So Well",
+        "content": "<p>This cake’s success lies in the balance of ingredients and careful technique. The combination of baking powder and baking soda provides reliable leavening. Baking powder releases gas slowly as it heats, giving the cake lift throughout baking, while baking soda reacts immediately with the acidic ingredients to create an initial rise. Together, they create a tender yet airy crumb.</p><p>Spices like cinnamon and nutmeg aren’t just for flavor; they also add subtle moisture-retaining properties and a warm aroma that elevates the simple vanilla base. The creaming of butter and sugar traps tiny air bubbles, which expand in the oven, giving the cake its light texture. Using room temperature ingredients ensures proper emulsification—the eggs and butter mix uniformly with the flour and milk, preventing curdling or dense spots.</p><p>Alternating dry and wet ingredients during mixing is critical. Adding them all at once can overwork the gluten in the flour, making the cake tough. By folding gently and minimally, the batter stays light, producing a soft, moist crumb. Finally, the baking time and temperature are calibrated to cook the cake through without drying it out. Opening the oven too soon causes temperature fluctuations, leading to sinking or uneven texture.</p><p>All these elements combined create a cake that’s fluffy, flavorful, and comforting—a perfect treat for any occasion.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with moderate protein content (10-12%) to provide enough gluten for structure without making the cake tough. Avoid using cake flour here, as it may make the cake too fragile. Sifting the flour helps aerate it and remove lumps, ensuring an even texture.",
+            "butter": "Use unsalted butter at room temperature for better control over the salt content and to ensure it creams well with sugar. If butter is too cold, it won’t aerate properly, resulting in a dense cake. Avoid melted butter here, as it changes the batter consistency and crumb.",
+            "ground cinnamon": "Freshly ground cinnamon offers the best flavor and aroma. It adds warmth and complexity that complements the vanilla without overpowering. Store spices in airtight containers away from light to preserve potency. Avoid pre-mixed spice blends that might contain additives or clumps.",
+            "baking powder": "A double-acting baking powder is best, as it provides two stages of leavening: when wet and when heated. Check the freshness by testing if it bubbles in vinegar before use. Old baking powder loses effectiveness, leading to flat cakes.",
+            "eggs": "Use large eggs at room temperature for better emulsification and a more stable batter. Cold eggs can cause the butter to seize and the batter to curdle, affecting texture. If eggs are cold, warm them gently in a bowl of warm water for 5 minutes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature ingredients for better mixing.",
+            "reason": "Room temperature butter, eggs, and milk combine more smoothly, creating a uniform batter. Cold ingredients can cause the batter to seize or curdle, resulting in uneven texture and dense cake."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the flour.",
+            "reason": "Overmixing develops gluten strands, making the cake tough and chewy instead of tender. Mixing just until combined ensures a light, soft crumb."
+        },
+        {
+            "tip": "Sift your dry ingredients together before adding.",
+            "reason": "Sifting aerates the flour and evenly distributes leavening agents and spices, preventing clumps and ensuring even rise and flavor."
+        },
+        {
+            "tip": "Use fresh spices for the best flavor.",
+            "reason": "Old spices lose potency and aroma. Freshly ground cinnamon and nutmeg give the cake a warm, inviting scent and taste that bottled spices can’t match."
+        },
+        {
+            "tip": "Grease and flour your pan properly.",
+            "reason": "This prevents sticking and helps the cake release cleanly, preserving its shape and texture."
+        },
+        {
+            "tip": "Check your cake early for doneness.",
+            "reason": "Ovens vary; testing at the minimum baking time prevents overbaking, which dries out the cake."
+        },
+        {
+            "tip": "Cool the cake on a wire rack after removing from the pan.",
+            "reason": "This prevents condensation from making the bottom soggy and helps the cake set properly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter instead of room temperature butter.",
+            "why_it_happens": "Many people forget to take butter out ahead of time or rush the process, leading to dense cake.",
+            "fix": "Plan ahead and let butter sit out for at least 30 minutes. If in a hurry, gently soften in short bursts in the microwave but don’t melt it."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "It’s tempting to mix thoroughly to get rid of lumps, but this activates gluten excessively.",
+            "fix": "Mix just until no dry spots remain. Stop as soon as the batter looks uniform to keep the cake tender."
+        },
+        {
+            "mistake": "Opening the oven door frequently while baking.",
+            "why_it_happens": "Curious cooks want to check progress, but this causes temperature drops.",
+            "fix": "Set a timer and resist opening the door until close to the end of baking to ensure even rising."
+        },
+        {
+            "mistake": "Not measuring flour correctly.",
+            "why_it_happens": "Scooping flour directly can pack it, adding more than intended.",
+            "fix": "Fluff flour first, then spoon into measuring cup and level off with a knife for accuracy."
+        },
+        {
+            "mistake": "Using old baking powder that’s lost potency.",
+            "why_it_happens": "Baking powder degrades over time and may be forgotten in the pantry.",
+            "fix": "Test freshness by mixing a teaspoon in hot water—if it bubbles vigorously, it’s good. Otherwise, replace it."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Spiced Vanilla Cake",
+            "description": "Swap all-purpose flour with a gluten-free blend that includes xanthan gum. The texture will be slightly different—more crumbly but still moist. Be sure to sift the gluten-free flour well to avoid dense spots.",
+            "technical_note": "Increase mixing time slightly but avoid overmixing to maintain structure without toughness."
+        },
+        {
+            "name": "Lemon-Spiced Vanilla Cake",
+            "description": "Add 1 tablespoon lemon zest and reduce cinnamon to 1/2 teaspoon. This adds a fresh brightness that balances the warm spices beautifully. Ideal for spring and summer gatherings.",
+            "technical_note": "Watch baking time as citrus can affect moisture; test for doneness a few minutes earlier."
+        },
+        {
+            "name": "Chocolate Chip Spiced Vanilla Cake",
+            "description": "Fold in 3/4 cup semisweet chocolate chips before baking for a fun twist. The melty chips add texture and a chocolatey surprise that pairs well with the spices.",
+            "technical_note": "Toss chips in flour before adding to batter to prevent sinking."
+        },
+        {
+            "name": "Maple Glaze Spiced Vanilla Cake",
+            "description": "Top the cooled cake with a simple maple syrup glaze for extra sweetness and moisture. This glaze complements the spice notes and adds a shiny finish.",
+            "technical_note": "Make glaze with powdered sugar and maple syrup; drizzle just before serving."
+        },
+        {
+            "name": "Vegan Spiced Vanilla Cake",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use plant-based milk and vegan butter. Texture will be a bit denser, but still flavorful and moist.",
+            "technical_note": "Mix flax eggs well and let them thicken before adding to batter for best results."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "14g",
+        "fiber_grams": "2g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can safely sit covered at room temperature for up to 2 days. Cover it loosely with a cake dome or plastic wrap to keep it from drying out. Avoid direct sunlight or warm spots to preserve moisture.",
+        "refrigerator": "Store the cake in an airtight container or wrapped tightly in plastic wrap for up to 5 days. The cake may dry out slightly in the fridge, so let it come to room temperature before serving or add a light glaze to refresh moisture.",
+        "freezer": "Freeze the cake wrapped tightly in plastic wrap and then aluminum foil for up to 3 months. To thaw, move it to the refrigerator overnight, then bring to room temperature before serving. Avoid refreezing once thawed.",
+        "reheating": "Warm slices gently in the microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes. Adding a small pat of butter or a drizzle of milk before warming can help restore moisture.",
+        "make_ahead_strategy": "You can bake the cake layers 1-2 days ahead and keep them wrapped in plastic at room temperature. Assemble and frost the day you plan to serve for the freshest texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use margarine instead of butter in this cake?",
+            "answer": "While margarine can be used, it often contains more water and less fat than butter, which can affect the cake’s texture and flavor. Butter provides richness and helps trap air during creaming, so for best results, stick to unsalted butter if possible."
+        },
+        {
+            "question": "What can I substitute for nutmeg if I don’t have any?",
+            "answer": "You can replace nutmeg with an equal amount of ground allspice or cloves for a similar warm spice flavor. However, use cloves sparingly as they can be quite strong. Adjust to taste to avoid overpowering the cake."
+        },
+        {
+            "question": "Why did my cake turn out dense and heavy?",
+            "answer": "Common causes include overmixing the batter after adding flour, using cold ingredients, or expired leavening agents. Make sure to mix gently, use room temperature ingredients, and check that your baking powder and soda are fresh."
+        },
+        {
+            "question": "Can I make this cake in a different pan shape?",
+            "answer": "Yes, you can use square or rectangular pans, but adjust baking time accordingly—usually reducing it slightly. Keep an eye on the cake and test with a toothpick to avoid overbaking."
+        },
+        {
+            "question": "How should I store leftover cake?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days or in the fridge up to 5 days. Wrapping tightly prevents the cake from drying out."
+        },
+        {
+            "question": "Can I add frosting to this cake?",
+            "answer": "Absolutely! Cream cheese or vanilla buttercream frostings pair beautifully with the warm spices. Just make sure the cake is completely cool before frosting to prevent melting."
+        },
+        {
+            "question": "Is it okay to use cake flour instead of all-purpose flour?",
+            "answer": "Cake flour can make the cake extra tender but may reduce structure, causing it to be a bit crumbly. If using cake flour, you might want to add a bit more baking powder to help with rise."
+        },
+        {
+            "question": "How do I prevent the cake from sticking to the pan?",
+            "answer": "Grease the pan thoroughly with butter or nonstick spray, then dust with flour or line with parchment paper. This creates a barrier so the cake releases easily."
+        }
+    ],
+    "conclusion": "Give this cozy spiced vanilla cake a try—you’ll love how simple ingredients come together for a comforting treat. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "spiced vanilla cake recipe",
+        "secondary_keywords": [
+            "easy vanilla cake recipe",
+            "how to make spiced cake",
+            "best vanilla spice cake",
+            "simple cake recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "classic vanilla cake recipe",
+                "anchor": "classic-vanilla-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_1.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_1.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_2.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_2.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_3.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_3.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_5.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_5.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_7.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_7.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_4.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_4.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_8.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_8.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_9.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_9.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_6.webp",
+            "filePath": "posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_6.webp",
+            "relativePath": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images/cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion_LummyRecipes_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781478161_570",
+    "slug": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion",
+    "isOnline": true,
+    "createdAt": "2026-06-15T00:22:03+01:00",
+    "updatedAt": "2026-06-15T00:22:03+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "cake-flavor-ideas-that-bring-warmth-and-sweet-comfort-to-any-occasion/images"
+}
