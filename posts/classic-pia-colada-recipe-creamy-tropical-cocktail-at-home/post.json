@@ -1,0 +1,336 @@
+{
+    "title": "Classic Creamy Piña Colada with Fresh Pineapple Juice",
+    "promptIMG": "Food photography: Piña Colada cocktail, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This Piña Colada is the real deal—rich, creamy, and bursting with fresh pineapple flavor. Using fresh juice instead of canned makes all the difference. Perfect for cooling off on a sunny afternoon or unwinding after a long day.",
+    "hashtags": "#PiñaColada #TropicalCocktail #SummerDrinks",
+    "board_name": "Easy Tropical Cocktails",
+    "pin_variations": [
+        {
+            "title": "How to Make the Best Creamy Piña Colada at Home",
+            "description": "Discover the secret to a smooth and tropical Piña Colada using fresh pineapple juice 🍍🥥. It's super easy and perfect for summer vibes. Save this recipe and impress your friends! #PiñaColada #CocktailRecipes #SummerVibes"
+        },
+        {
+            "title": "Refreshing Piña Colada Recipe with a Fresh Twist",
+            "description": "Try this creamy, fresh pineapple Piña Colada that'll transport you to the beach 🌴🍹. Ready in minutes and so delicious! Give it a go today and taste the tropics. #TropicalDrinks #EasyCocktails #FreshPineapple"
+        },
+        {
+            "title": "Quick & Creamy Piña Colada — Your New Favorite Summer Drink",
+            "description": "Whip up this quick Piña Colada with fresh juice and coconut cream 🥥🍍. It's the perfect balance of sweet and smooth. Don’t wait—try it now and chill out in style! #SummerCocktails #EasyDrinks #PiñaColadaRecipe"
+        },
+        {
+            "title": "Ultimate Fresh Piña Colada Recipe for Tropical Relaxation",
+            "description": "Nothing beats a homemade Piña Colada with fresh pineapple juice for that authentic flavor 🌞🍸. Creamy, dreamy, and so refreshing. Save this recipe for your next get-together! #TropicalCocktail #FreshIngredients #SummerDrinks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup fresh pineapple juice",
+        "1/2 cup coconut cream",
+        "1/2 cup white rum",
+        "1 cup crushed ice",
+        "Pineapple wedge for garnish",
+        "Maraschino cherry for garnish (optional)"
+    ],
+    "yield": "2 servings",
+    "introduction": "I first fell in love with Piña Coladas on a beach trip years ago, where the tropical vibe and creamy sweetness instantly won me over. Since then, I've been perfecting my own version at home, because honestly, nothing beats that fresh pineapple zing you get from using real juice instead of canned stuff. Most recipes call for canned pineapple juice, which can taste a bit flat or overly sweet. But adding fresh juice brings a bright, tangy punch that makes the whole drink pop. I also like using coconut cream rather than coconut milk because it adds that rich, velvety texture that feels indulgent without being too heavy. The trick I learned early on is to blend the ingredients with crushed ice until smooth but not watery—that way, you get that perfect slushy consistency that’s just right for sipping slowly. This Piña Colada is ideal for summer afternoons or whenever you want to feel like you’re on vacation, even if you’re just chilling at home. It’s creamy, refreshing, and fruity all at once, with a lovely balance of sweetness and tropical tang. Plus, it’s super easy to whip up, so you can enjoy a little tropical escape anytime you want.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pouring 1 cup of fresh pineapple juice into your blender. Fresh juice is key here because it has that vibrant, tangy flavor that canned juice just can’t match. Make sure the juice is cold for the best chill factor. If you don’t have a juicer, you can blend fresh pineapple chunks and strain them for juice. This step sets the flavor base, so using fresh pineapple really elevates the overall taste.",
+            "timing": 3,
+            "doneness_cue": "Juice should look bright yellow and smell fresh and tropical."
+        },
+        {
+            "step": 2,
+            "instruction": "Add 1/2 cup of creamy coconut cream to the blender. Coconut cream is thicker and richer than coconut milk, giving the drink that luscious texture we want in a Piña Colada. Avoid using watered-down coconut milk, which can make the drink too thin. If you prefer lighter texture, you can reduce the cream slightly, but for the classic feel, stick with the cream.",
+            "timing": 2,
+            "doneness_cue": "Mixture should look smooth and creamy, no lumps visible."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in 1/2 cup of white rum. This adds the essential boozy kick to your Piña Colada. Adjust the amount to your taste, but be careful not to add too much or it will overpower the tropical flavors. The rum blends beautifully with the sweetness from pineapple and coconut, creating that signature island vibe.",
+            "timing": 1,
+            "doneness_cue": "Liquids should combine smoothly with no separation."
+        },
+        {
+            "step": 4,
+            "instruction": "Add 1 cup of crushed ice to the blender. Crushed ice blends more easily than cubes, giving you that perfect slushy texture. Avoid using large ice cubes as they can leave chunks in your drink. The ice not only chills but also dilutes the cocktail just enough to balance the strong flavors.",
+            "timing": 1,
+            "doneness_cue": "Mixture should look frothy and thick, almost like a smoothie."
+        },
+        {
+            "step": 5,
+            "instruction": "Blend everything on high speed for about 30 seconds to 1 minute. You want the ice fully crushed and the mixture smooth but not overly watery. Blending too long can melt the ice and thin out the drink, so keep an eye on the texture. Stop once it looks creamy and slushy.",
+            "timing": 1,
+            "doneness_cue": "Smooth, thick, and creamy texture with no ice chunks."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste your Piña Colada and adjust sweetness or rum if needed. If it’s too tart, add a teaspoon of simple syrup or honey and blend again briefly. If you want it stronger, add a splash more rum but blend quickly to combine. This step lets you customize to your preference.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with sweet, tropical, and boozy notes."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the cocktail into chilled glasses to keep it cool longer. Chilling your glasses ahead of time is a nice touch that keeps the drink refreshing. Avoid letting the drink sit out too long as the ice will melt and dilute the flavors.",
+            "timing": 1,
+            "doneness_cue": "Cocktail fills glasses with thick, creamy consistency."
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with a pineapple wedge and a maraschino cherry if you like. This adds a fun, tropical look and a little extra sweetness. You can also add a small paper umbrella for that classic tiki vibe. Presentation is part of the fun!",
+            "timing": 1,
+            "doneness_cue": "Glass looks inviting and colorful with garnish in place."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately and enjoy your tropical escape! Piña Coladas are best fresh to keep that creamy texture and bright flavor. Sip slowly and imagine yourself on a beach somewhere warm and sunny.",
+            "timing": 0,
+            "doneness_cue": "Drink tastes fresh, creamy, and balanced with tropical notes."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind the Perfect Piña Colada",
+        "content": "<p>What makes a Piña Colada truly stand out is the harmony between its key ingredients: fresh pineapple juice, coconut cream, white rum, and ice. Fresh pineapple juice contains natural enzymes like bromelain, which not only add a bright, tangy flavor but can also tenderize other ingredients slightly, enhancing mouthfeel. Using fresh juice rather than canned or bottled ensures the cocktail has a crisp, vibrant edge that canned juices often lack due to preservatives and added sugars.</p><p>Coconut cream is crucial for the Piña Colada’s signature creamy texture. Unlike coconut milk, which is thinner and more watery, coconut cream has a higher fat content that emulsifies smoothly with the pineapple juice and rum, creating a luscious, velvety body in the drink. This fat content also helps balance the acidity of the pineapple juice, preventing the cocktail from tasting too sharp or sour.</p><p>White rum provides the backbone of the cocktail’s flavor without overpowering the tropical notes. Its relatively neutral profile allows the pineapple and coconut to shine while contributing subtle sweetness and warmth. The alcohol also acts as a solvent, helping to release and meld the flavor compounds from the other ingredients, resulting in a well-rounded drink.</p><p>Finally, crushed ice is essential for texture and temperature. The small ice pieces blend quickly, creating a smooth slushy consistency that’s refreshing and easy to sip. Larger ice cubes can leave unpleasant chunks and dilute the drink unevenly if they melt too slowly. The balance of dilution during blending ensures the cocktail isn’t overly strong or watery but just right for sipping.</p>",
+        "ingredient_notes": {
+            "fresh pineapple juice": "Fresh pineapple juice is vibrant and tangy, thanks to natural enzymes like bromelain. When buying pineapples, choose ones that smell sweet and feel slightly soft to the touch. Fresh juice adds brightness and avoids the overly sweet or artificial taste of canned juice. If you don’t have fresh juice on hand, blending and straining fresh pineapple chunks is a great alternative.",
+            "coconut cream": "Coconut cream is thicker and richer than coconut milk, with a higher fat content that adds body and creaminess. Look for canned coconut cream labeled as such, not just coconut milk. It emulsifies better with pineapple juice and rum, giving a smooth, velvety texture essential for the classic Piña Colada experience. Refrigerate before use to help it thicken.",
+            "white rum": "White rum is light-bodied and subtle, making it ideal for tropical cocktails where you want the fruit flavors to shine. Avoid spiced or dark rums in this recipe, as they can overpower the delicate balance of the drink. Quality matters here—choose a clean, smooth rum that blends well without harsh alcohol notes.",
+            "crushed ice": "Using crushed ice rather than cubes ensures the drink blends into a smooth, slushy texture. Crushed ice melts faster, which dilutes the cocktail just enough to balance flavors without watering it down. Avoid blending large cubes as they can leave unpleasant ice chunks and disrupt the creamy texture.",
+            "maraschino cherry": "Maraschino cherries add a pop of color and a touch of sweetness as garnish. Choose high-quality cherries preserved in natural juices or light syrup for the best flavor. They’re optional but add a nostalgic, tropical finishing touch to your Piña Colada presentation."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh pineapple juice instead of canned for a brighter flavor.",
+            "reason": "Fresh juice contains natural enzymes and vibrant acids that canned varieties lack. This freshness makes the cocktail taste more tropical and less syrupy, enhancing the overall flavor profile significantly."
+        },
+        {
+            "tip": "Chill your glasses before serving.",
+            "reason": "Cold glasses keep the Piña Colada chilled longer and prevent the ice from melting too quickly, which can dilute the drink. It also makes the sipping experience more refreshing and enjoyable."
+        },
+        {
+            "tip": "Blend just until smooth and slushy, don’t overblend.",
+            "reason": "Overblending melts the ice too much, making the drink watery and less creamy. Blending just enough preserves the refreshing icy texture and keeps the flavors balanced."
+        },
+        {
+            "tip": "Use coconut cream, not coconut milk.",
+            "reason": "Coconut cream’s higher fat content creates the signature rich mouthfeel. Coconut milk is thinner and can make the drink less creamy and more watery, losing that indulgent texture."
+        },
+        {
+            "tip": "Adjust rum quantity to your taste but don’t skip it.",
+            "reason": "Rum adds warmth and depth to the cocktail and helps marry the pineapple and coconut flavors. Skipping it results in a non-alcoholic smoothie rather than a true Piña Colada."
+        },
+        {
+            "tip": "Add a small amount of simple syrup if your pineapple is very tart.",
+            "reason": "Balancing acidity with a touch of sweetness keeps the cocktail smooth and palatable. Too much tartness can be harsh, so a little syrup rounds out the flavors nicely."
+        },
+        {
+            "tip": "Garnish with a pineapple wedge and cherry for a classic look.",
+            "reason": "Presentation enhances the drinking experience. Garnishes add visual appeal and a hint of extra flavor, making your cocktail feel festive and inviting."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using canned pineapple juice instead of fresh.",
+            "why_it_happens": "Many assume canned juice is just as good and more convenient, but it lacks the brightness and natural enzymes of fresh juice.",
+            "fix": "Use fresh pineapple juice whenever possible. If you don’t have a juicer, blend fresh pineapple chunks and strain them. This small extra effort makes a big flavor difference."
+        },
+        {
+            "mistake": "Overblending the cocktail.",
+            "why_it_happens": "It’s easy to think blending longer will make it smoother, but it actually melts the ice too much.",
+            "fix": "Blend just until the ice is crushed and the drink is creamy but still thick. Stop blending as soon as the texture looks slushy."
+        },
+        {
+            "mistake": "Using coconut milk instead of coconut cream.",
+            "why_it_happens": "Some confuse the two or use what’s on hand to save money or calories.",
+            "fix": "Use canned coconut cream for the rich texture. If you only have coconut milk, chill it and skim the thick cream on top to use instead."
+        },
+        {
+            "mistake": "Not chilling the glasses.",
+            "why_it_happens": "It’s often overlooked but makes a big difference in keeping the drink cold longer.",
+            "fix": "Pop your glasses in the fridge or freezer 10-15 minutes before serving to enhance the cocktail’s refreshment."
+        },
+        {
+            "mistake": "Adding too much rum.",
+            "why_it_happens": "Some think more rum means a better cocktail, but it can overpower the delicate tropical flavors.",
+            "fix": "Stick to the recommended amount and adjust slowly. The goal is balance, not a strong alcohol burn."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Virgin Piña Colada",
+            "description": "Skip the rum and add a splash of pineapple soda or coconut water for a refreshing non-alcoholic version. It’s just as creamy and tropical but perfect for all ages or when you want something lighter.",
+            "technical_note": "Without alcohol, the drink will taste sweeter and less boozy, so balance sweetness accordingly."
+        },
+        {
+            "name": "Spiced Piña Colada",
+            "description": "Add a dash of ground cinnamon or nutmeg into the blend for a warm, spiced twist. This variation adds complexity and pairs well with fall or winter tropical cravings.",
+            "technical_note": "Start with a small pinch to avoid overpowering the pineapple and coconut flavors."
+        },
+        {
+            "name": "Frozen Piña Colada Popsicles",
+            "description": "Pour the blended mixture into popsicle molds and freeze for a fun summer treat. These are perfect for kids or a party snack and keep the creamy texture frozen solid.",
+            "technical_note": "Freeze for at least 4-6 hours or overnight for best results."
+        },
+        {
+            "name": "Mango Piña Colada",
+            "description": "Add 1/4 cup fresh or frozen mango chunks to the blender for a tropical fruit boost. Mango adds sweetness and a smooth texture that complements pineapple and coconut beautifully.",
+            "technical_note": "Blend mango with the other ingredients until smooth for a vibrant, fruity twist."
+        },
+        {
+            "name": "Piña Colada with Lime Zest",
+            "description": "Add a teaspoon of freshly grated lime zest to the blender to add a bright citrus note that cuts through the creaminess and adds freshness.",
+            "technical_note": "Zest just before blending to preserve the essential oils and aroma."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "18g",
+        "fiber_grams": "1g",
+        "sodium_mg": "10mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Piña Coladas are best served fresh and should not be left at room temperature for more than 15 minutes as the ice will melt and dilute the drink.",
+        "refrigerator": "You can store leftover Piña Colada in an airtight container in the fridge for up to 24 hours. The texture may separate or thin out; give it a quick stir or re-blend before serving. Best served cold but not iced.",
+        "freezer": "Freezing is not recommended as the texture changes drastically and ice crystals form, ruining the creamy consistency. Instead, freeze ingredients like pineapple chunks or coconut cream separately if prepping ahead.",
+        "reheating": "No reheating needed. If stored in the fridge, blend again with fresh ice for best texture before serving.",
+        "make_ahead_strategy": "You can prepare fresh pineapple juice and measure out coconut cream and rum a day ahead. Keep juice refrigerated and combine ingredients just before blending to ensure freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned pineapple juice instead of fresh?",
+            "answer": "You can, but the flavor won’t be as bright or fresh. Canned juice often contains added sugars and preservatives that dull the tropical zing. If fresh isn’t available, choose 100% pineapple juice without added sugar."
+        },
+        {
+            "question": "What’s the difference between coconut cream and coconut milk?",
+            "answer": "Coconut cream is thicker and higher in fat, which gives the Piña Colada its creamy texture. Coconut milk is thinner and more watery, so it won’t provide the same richness. For the best results, use canned coconut cream."
+        },
+        {
+            "question": "How do I make this Piña Colada non-alcoholic?",
+            "answer": "Simply skip the rum and add a splash of pineapple soda, coconut water, or extra pineapple juice. This keeps the tropical flavors while making it kid-friendly or alcohol-free."
+        },
+        {
+            "question": "Can I use frozen pineapple instead of juice?",
+            "answer": "Yes! Blend frozen pineapple chunks and strain if you want juice, or blend them whole for a thicker smoothie-style Piña Colada. Adding frozen fruit also chills the drink without diluting it."
+        },
+        {
+            "question": "How do I prevent the drink from being watery?",
+            "answer": "Don’t overblend the ice. Blend just until crushed and smooth. Also, use crushed ice instead of cubes and keep your pineapple juice and coconut cream chilled before blending."
+        },
+        {
+            "question": "What kind of rum is best for Piña Colada?",
+            "answer": "A light or white rum works best because it has a clean flavor that complements the pineapple and coconut without overpowering them. Avoid spiced or dark rums unless you want a different flavor profile."
+        },
+        {
+            "question": "Can I prepare Piña Colada ahead of time?",
+            "answer": "You can prepare the juice and measure out the ingredients in advance, but blend and serve immediately for the best texture and flavor. Stored Piña Colada tends to separate and lose creaminess."
+        },
+        {
+            "question": "What if I don’t have a blender?",
+            "answer": "You can shake the ingredients with crushed ice in a cocktail shaker, but it won’t have the same smooth, slushy texture. Blending is key for that classic creamy Piña Colada feel."
+        }
+    ],
+    "conclusion": "I hope you give this fresh Piña Colada a try and enjoy a little tropical sunshine wherever you are. Don’t forget to share your version—I’d love to hear how it turns out!",
+    "seo": {
+        "primary_keyword": "classic Piña Colada recipe",
+        "secondary_keywords": [
+            "fresh pineapple Piña Colada",
+            "easy tropical cocktail",
+            "how to make Piña Colada",
+            "best Piña Colada recipe",
+            "easy Piña Colada"
+        ],
+        "internal_links": [
+            {
+                "text": "tropical cocktail recipes",
+                "anchor": "tropical_cocktail_recipes"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_1.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_2.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_3.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_9.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_9.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_8.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_8.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_5.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_5.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_6.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_6.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_4.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_7.webp",
+            "filePath": "posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_7.webp",
+            "relativePath": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images/classic-pia-colada-recipe-creamy-tropical-cocktail-at-home_LummyRecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781564946_467",
+    "slug": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home",
+    "isOnline": true,
+    "createdAt": "2026-06-16T00:32:22+01:00",
+    "updatedAt": "2026-06-16T00:32:22+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "classic-pia-colada-recipe-creamy-tropical-cocktail-at-home/images"
+}
