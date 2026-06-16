@@ -1,0 +1,338 @@
+{
+    "title": "Easy Smoky Grilled Chicken Dinner for Warm Evenings",
+    "promptIMG": "Food photography: Smoky Grilled Chicken Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoky grilled chicken is juicy and flavorful, perfect for casual weekend dinners. The secret? A simple spice rub that locks in moisture and adds a subtle smoky kick. Great for outdoor gatherings or a relaxed family meal.",
+    "hashtags": "#grilledchicken #easygrillrecipes #familydinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Grilled Chicken with Smoky Spice Rub You’ll Love",
+            "description": "Discover the secret to perfectly juicy grilled chicken with a smoky spice rub that’s simple and delicious. Perfect for weeknight dinners or weekend cookouts. Save this recipe and try it today! 🍗🔥 #grilledchicken #smokyflavor #easymeals"
+        },
+        {
+            "title": "How to Make Perfect Smoky Grilled Chicken Every Time",
+            "description": "Learn how to grill chicken that’s tender, juicy, and packed with smoky flavor. This easy recipe is a family favorite and comes together in under an hour. Don’t miss out—discover now! 🍴😋 #weeknightdinner #grillrecipes #familymeals"
+        },
+        {
+            "title": "Simple Smoky Chicken Grill Recipe for Busy Weekends",
+            "description": "Short on time? This smoky grilled chicken recipe is quick, fuss-free, and full of flavor. Ideal for casual weekend dinners or outdoor gatherings. Try it today and make dinner easy! 🌞🍗 #quickdinner #grilledchicken #familyfriendly"
+        },
+        {
+            "title": "Weekend Grilling Made Easy with This Smoky Chicken Recipe",
+            "description": "Weekend plans? Fire up the grill and enjoy this smoky grilled chicken that’s juicy and bursting with flavor. It’s foolproof and sure to impress. Save this recipe now! 🍖🔥 #grillnight #chickenrecipes #easygrilling"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "1 tablespoon smoked paprika",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1/2 teaspoon ground cumin",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "Juice of 1 lemon"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried this smoky grilled chicken recipe a few summers ago when I wanted something simple but with a bit of a kick for a backyard cookout. What I love about this version is how the spice rub creates this beautiful smoky crust while keeping the chicken juicy inside — no drying out here! The trick I learned is to marinate the chicken with the spices and lemon juice for at least 30 minutes beforehand; it really tenderizes the meat and lets those flavors soak in deeply. I’ve made it countless times since, and it’s always a hit whether we’re eating outside or just grabbing a quick dinner after work. The chicken turns out tender and juicy with that warm, smoky flavor that feels like summer on a plate. Plus, it’s easy enough for beginners but tasty enough to impress guests. If you’ve struggled to get grilled chicken right, this recipe is your new go-to.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by mixing the smoked paprika, garlic powder, onion powder, ground cumin, salt, and black pepper in a small bowl. This spice blend is the heart of the recipe and will give your chicken that smoky, flavorful crust. Make sure to combine the spices evenly so every bite is consistent. Avoid skipping this step or uneven seasoning may result in bland spots.",
+            "timing": "5 minutes",
+            "doneness_cue": "Spice mix is uniform with no clumps"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the chicken breasts in a shallow dish or zip-top bag and drizzle with olive oil and lemon juice. Add the spice mix and massage it thoroughly into the chicken, coating all sides evenly. This massage helps the spices penetrate the meat and the acid in lemon juice tenderizes it. Let it marinate for at least 30 minutes, or up to 2 hours in the fridge, to maximize flavor and juiciness.",
+            "timing": "30 minutes marinating",
+            "doneness_cue": "Chicken is evenly coated and slightly glossy from the oil"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your grill to medium-high heat, around 400°F. A properly heated grill ensures a nice sear and those beautiful grill marks. If the grill is too cool, the chicken will cook unevenly and might stick. Clean and oil the grill grates to prevent sticking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill grates are hot and lightly smoking"
+        },
+        {
+            "step": 4,
+            "instruction": "Place the chicken breasts on the grill and cook for about 6-7 minutes on the first side without moving them. This allows a crust to form and prevents tearing the meat. Resist the urge to flip too soon. If you try to move the chicken too early, it will stick and tear.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Edges of the chicken start to look opaque and juices begin to pool on top"
+        },
+        {
+            "step": 5,
+            "instruction": "Flip the chicken carefully using tongs and cook for another 6-7 minutes on the second side. Check for an internal temperature of 165°F with a meat thermometer for safety. If you don’t have one, cut into the thickest part to ensure no pink remains and juices run clear.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Firm texture and clear juices when pierced"
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, transfer the chicken to a plate and cover loosely with foil. Let it rest for 5-10 minutes. Resting allows the juices to redistribute, making the chicken more tender and juicy. Skipping this step often results in dry meat because the juices run out when cut immediately.",
+            "timing": "5-10 minutes",
+            "doneness_cue": "Chicken feels slightly firmer but still juicy"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the grilled chicken with your favorite sides like grilled veggies or a fresh salad. The smoky flavor pairs beautifully with simple, fresh accompaniments that balance the richness. I love pairing it with a squeeze of fresh lemon for extra brightness.",
+            "timing": "0 minutes",
+            "doneness_cue": "Ready to eat with vibrant sides"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add a smoky char, briefly place the chicken over direct flame during the last minute of grilling. Watch carefully to avoid burning. This step enhances the smoky aroma and adds a bit of crisp texture to the crust.",
+            "timing": "1 minute",
+            "doneness_cue": "Slight char marks appear without blackening"
+        },
+        {
+            "step": 9,
+            "instruction": "Optional: brush the chicken with a little extra olive oil or melted butter just before serving to add shine and richness. This small touch makes the chicken look irresistible and adds a silky mouthfeel.",
+            "timing": "1 minute",
+            "doneness_cue": "Chicken surface glistens and looks moist"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Grilled Chicken Recipe Succeeds",
+        "content": "<p>Grilling chicken can be tricky because it tends to dry out easily, but this recipe solves that by balancing moisture and flavor through a simple marinade and careful cooking technique. The lemon juice in the marinade acts as a natural tenderizer by breaking down proteins in the chicken, which helps keep the meat juicy after grilling. Meanwhile, the olive oil coats the chicken, locking in moisture and helping the spices adhere evenly.</p><p>The spice blend, especially the smoked paprika and cumin, contributes not only flavor but also color and a slight crust when grilled. This crust forms through the Maillard reaction, which occurs when proteins and sugars in the chicken react at high heat, creating complex flavors and appealing browning. Cooking over medium-high heat allows a good sear without burning the spices or drying out the meat.</p><p>Resting the chicken after grilling is crucial because it gives the juices time to redistribute within the meat. Cutting into chicken immediately after cooking causes the juices to spill out, resulting in dry meat. This step ensures tenderness and moistness in every bite.</p><p>Finally, finishing touches like a quick char over direct flame or a brush of olive oil add layers of flavor and visual appeal, making this grilled chicken recipe both simple and satisfying.</p>",
+        "ingredient_notes": {
+            "smoked paprika": "Look for high-quality smoked paprika with a deep red color and smoky aroma. It’s key to achieving that authentic smoky flavor without actual smoke. Avoid paprika blends that contain fillers or excessive salt. This spice adds both flavor and color, giving the chicken a warm, inviting crust when grilled.",
+            "lemon juice": "Fresh lemon juice is best here because its acidity tenderizes the chicken and brightens the overall flavor. Bottled lemon juice lacks the fresh citrus oils that add complexity. The acid helps break down muscle fibers, making the chicken tender and juicy while balancing the smoky spices.",
+            "olive oil": "Use extra virgin olive oil for the marinade since it adds richness and helps the spices stick to the chicken. Avoid light or refined olive oil which lacks flavor. Olive oil also creates a barrier on the chicken surface that helps retain moisture during grilling, preventing dryness.",
+            "ground cumin": "Cumin adds a warm, earthy note that complements the smoky paprika perfectly. Choose fresh cumin seeds and grind them yourself if possible for maximum aroma. Pre-ground cumin can lose potency quickly. Its subtle bitterness balances the richness of grilled chicken.",
+            "garlic powder": "Garlic powder provides a mellow, savory depth without the harshness of fresh garlic. It blends evenly in the spice rub and infuses flavor during marination. Fresh garlic can burn on the grill and create bitter spots, so powder is preferred here."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always marinate the chicken for at least 30 minutes before grilling.",
+            "reason": "Marinating allows the acid and spices to penetrate the meat, tenderizing it and infusing flavor. Skipping this step often results in bland, dry chicken. The longer marination also helps develop a more complex flavor profile."
+        },
+        {
+            "tip": "Preheat your grill to medium-high and clean the grates well.",
+            "reason": "A hot, clean grill ensures proper searing and prevents sticking. If the grill is too cool, the chicken won’t develop a crust and may stick or tear. Cleaning removes residue that can cause flare-ups or off flavors."
+        },
+        {
+            "tip": "Use tongs to flip the chicken only once during cooking.",
+            "reason": "Flipping too often prevents the chicken from forming a crust and can cause it to stick or tear. Allowing the chicken to cook undisturbed on each side promotes even browning and juiciness."
+        },
+        {
+            "tip": "Let the chicken rest covered for 5-10 minutes after grilling.",
+            "reason": "Resting lets juices redistribute inside the meat, making it tender and moist. Cutting too soon causes the juices to escape, leaving dry chicken. This simple step makes a big difference in texture."
+        },
+        {
+            "tip": "Brush with olive oil or melted butter before serving.",
+            "reason": "Adding fat at the end enhances the chicken’s sheen and mouthfeel, making it look more appetizing and taste richer. It also adds a subtle layer of flavor that complements the smoky spices."
+        },
+        {
+            "tip": "Use a meat thermometer to check for doneness.",
+            "reason": "Chicken is safe to eat at 165°F internally. Using a thermometer prevents undercooking (which risks food safety) or overcooking (which dries out the meat). It’s the most reliable way to get perfect results."
+        },
+        {
+            "tip": "Add a quick char over direct flame for extra smoky flavor.",
+            "reason": "Briefly exposing the chicken to direct flame caramelizes the sugars and spices, enhancing smoky notes and adding a crisp texture. Be careful not to burn it, as charred bitterness can ruin the dish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the marinade step",
+            "why_it_happens": "Some cooks assume spices added just before grilling are enough or are short on time.",
+            "fix": "Plan ahead and marinate for at least 30 minutes to ensure the chicken absorbs flavor and stays juicy. Even a short marinade makes a big difference compared to seasoning last minute."
+        },
+        {
+            "mistake": "Grilling on low heat",
+            "why_it_happens": "Sometimes people reduce heat to avoid burning, but this leads to uneven cooking and pale chicken without crust.",
+            "fix": "Preheat grill to medium-high so the chicken sears properly. Adjust heat only if flare-ups occur, but don’t keep it too low."
+        },
+        {
+            "mistake": "Flipping the chicken too often",
+            "why_it_happens": "Beginners often flip repeatedly thinking it prevents burning or helps cook faster.",
+            "fix": "Resist the urge to flip more than once. Let the chicken develop a crust before turning to avoid sticking and tearing."
+        },
+        {
+            "mistake": "Cutting into chicken immediately after grilling",
+            "why_it_happens": "Impatience or eagerness to eat leads to cutting too soon.",
+            "fix": "Let the chicken rest covered for 5-10 minutes to allow juices to redistribute. This keeps it moist and tender."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh",
+            "why_it_happens": "Convenience or not knowing the difference.",
+            "fix": "Always choose fresh lemon juice for bright flavor and effective tenderizing. Bottled juice lacks fresh oils and tastes flat."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Grilled Chicken",
+            "description": "Add 1 teaspoon chipotle powder and a dash of cayenne to the spice rub for a smoky, spicy twist. Use a bit less smoked paprika to balance the heat. This version has a deeper smoky flavor with a kick, perfect if you like bold spices.",
+            "technical_note": "Adjust marinating time to avoid overpowering the chicken with heat; 30-45 minutes is ideal to keep balance."
+        },
+        {
+            "name": "Herb-Infused Grilled Chicken",
+            "description": "Mix fresh chopped rosemary, thyme, and parsley into the marinade along with the spices. This adds a fresh, aromatic layer that brightens the smoky flavors. Great for serving with grilled vegetables or potatoes.",
+            "technical_note": "Add herbs just before grilling to avoid burning and bitterness."
+        },
+        {
+            "name": "Honey-Lemon Glazed Grilled Chicken",
+            "description": "Brush the chicken with a mixture of honey and lemon juice during the last 5 minutes of grilling for a sweet and tangy glaze. It caramelizes beautifully, adding a sticky, flavorful finish that contrasts nicely with the smoky spices.",
+            "technical_note": "Watch closely to prevent burning due to sugar content."
+        },
+        {
+            "name": "Greek Style Grilled Chicken",
+            "description": "Add oregano and a bit of ground coriander to the rub, and serve with tzatziki sauce and pita. This variation brings Mediterranean flair and pairs well with fresh cucumber and tomato salad.",
+            "technical_note": "Marinate slightly longer (up to 2 hours) to let herbs infuse deeply."
+        },
+        {
+            "name": "Citrus and Garlic Grilled Chicken",
+            "description": "Add minced fresh garlic and orange zest to the marinade for a bright, garlicky flavor. The citrus zest adds complexity while garlic gives savory depth. This is a great option for garlic lovers looking for a fresh twist.",
+            "technical_note": "Use fresh garlic minced finely to avoid chunks that burn on grill."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "40g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "15g",
+        "fiber_grams": "1g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Grilled chicken can be left at room temperature for up to 2 hours if covered loosely with foil or a clean cloth. Beyond this, bacteria growth increases, so refrigerate promptly to stay safe.",
+        "refrigerator": "Store leftover grilled chicken in an airtight container for up to 3 days. Flavors may mellow slightly, and texture can firm up. Reheat gently to avoid drying out or serve cold in salads or sandwiches.",
+        "freezer": "Freeze cooked grilled chicken in a freezer-safe container or zip-top bag for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating for best texture.",
+        "reheating": "Reheat gently on the stovetop over low heat with a splash of water or broth to keep moist, or microwave covered in short bursts. Avoid high heat to prevent drying out. Oven reheating at 300°F covered with foil also works well.",
+        "make_ahead_strategy": "Marinate the chicken up to 24 hours ahead and keep refrigerated. You can grill it the day of serving for fresh flavor and best texture. Alternatively, grill in advance and reheat gently before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are more forgiving and stay juicier, especially dark meat varieties. Use the same marinade and grill time but check for doneness carefully as thighs might cook a bit faster or slower depending on thickness."
+        },
+        {
+            "question": "What if I don’t have a grill? Can I cook this indoors?",
+            "answer": "Yes, you can use a grill pan or broiler. Preheat the pan well and cook similarly, but watch closely to avoid burning the spices. Broil on high for 6-7 minutes per side, keeping an eye on the chicken to prevent charring."
+        },
+        {
+            "question": "How do I know when the chicken is done without a thermometer?",
+            "answer": "Cut into the thickest part of the chicken; the meat should be opaque and juices run clear, not pink. The texture will be firm but not rubbery. However, investing in a meat thermometer makes this easier and safer."
+        },
+        {
+            "question": "Can I prepare the spice rub in advance?",
+            "answer": "Definitely! The spice rub can be made ahead and stored in an airtight container for up to a month. This saves time on grilling day and ensures consistent flavor every time you make the recipe."
+        },
+        {
+            "question": "Is it okay to marinate longer than 2 hours?",
+            "answer": "You can marinate up to 24 hours, but the acid in lemon juice may start to 'cook' the chicken and change its texture if left too long. For best texture, keep marinating between 30 minutes and 2 hours."
+        },
+        {
+            "question": "What sides go best with this smoky grilled chicken?",
+            "answer": "Simple grilled vegetables, fresh salads, or rice pilaf complement the smoky flavor well. You can also serve with crusty bread or roasted potatoes for a hearty meal."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add cayenne pepper or chipotle powder to the spice rub. Start with small amounts and adjust to taste. Remember, spices intensify during cooking, so it’s better to err on the mild side initially."
+        },
+        {
+            "question": "Can I use bottled lemon juice in a pinch?",
+            "answer": "While fresh lemon juice is preferred for brightness and tenderizing, bottled lemon juice can be used if fresh isn’t available. The flavor will be less vibrant, but the acid will still help tenderize the chicken."
+        }
+    ],
+    "conclusion": "Give this smoky grilled chicken a try next time you fire up the grill — I promise it’s simple, flavorful, and a family favorite. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "smoky grilled chicken recipe",
+        "secondary_keywords": [
+            "easy grilled chicken",
+            "how to make grilled chicken",
+            "best grilled chicken recipe",
+            "simple grilled chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade spice rub tips",
+                "anchor": "homemade-spice-rub"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx. 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_1.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_2.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_3.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_9.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_9.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_5.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_5.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_4.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_4.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_7.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_7.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_6.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_6.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_8.webp",
+            "filePath": "posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_8.webp",
+            "relativePath": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images/simple-and-tasty-grill-dinner-ideas-for-busy-evenings_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781651834_288",
+    "slug": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings",
+    "isOnline": true,
+    "createdAt": "2026-06-17T00:33:55+01:00",
+    "updatedAt": "2026-06-17T00:33:55+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "simple-and-tasty-grill-dinner-ideas-for-busy-evenings/images"
+}

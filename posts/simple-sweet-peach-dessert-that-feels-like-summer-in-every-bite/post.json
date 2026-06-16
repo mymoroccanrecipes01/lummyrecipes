@@ -1,0 +1,339 @@
+{
+    "title": "Sweet and Simple Peach Crumble with a Buttery Crunch",
+    "promptIMG": "Food photography: Peach Crumble, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach crumble is pure summer comfort—juicy peaches under a buttery, crumbly topping. The secret? Using fresh ripe peaches and a touch of cinnamon. Best served warm with vanilla ice cream for weekend treats or family dinners.",
+    "hashtags": "#peachcrumble #summerdessert #easyrecipes",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "Warm Peach Crumble Recipe to Sweeten Your Summer Evenings",
+            "description": "Nothing beats a warm peach crumble fresh from the oven! 🍑✨ Try this easy recipe with a buttery topping and juicy peaches. Perfect for cozy family nights. Save this for your next dessert craving! #peachdessert #summerbaking #comfortfood"
+        },
+        {
+            "title": "How to Make the Best Peach Crumble with a Crunchy Topping",
+            "description": "Discover the secret to a perfect peach crumble with a crumbly, buttery topping. 🍨🍑 It’s simple, quick, and tastes like summer in every bite. Try it today and impress your friends! #easybaking #peachrecipes #dessertideas"
+        },
+        {
+            "title": "Easy Peach Crumble with Fresh Peaches and Vanilla Ice Cream",
+            "description": "This peach crumble is my go-to for effortless summer desserts. Juicy peaches and a crisp topping pair perfectly with vanilla ice cream. 🍑🍦 Don’t miss out—discover this recipe now! #summerdesserts #peachcrumble #familyfavorite"
+        },
+        {
+            "title": "The Ultimate Peach Crumble for Casual Family Gatherings",
+            "description": "Looking for a no-fuss dessert? This peach crumble is juicy, buttery, and oh-so-delicious! 🍑🥄 Perfect for weekend dinners or casual get-togethers. Save this recipe and try it soon! #easyrecipes #peachdessert #weekendbaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 cups fresh peaches, peeled and sliced",
+        "1/4 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "1 teaspoon cinnamon",
+        "1 teaspoon lemon juice",
+        "1 cup all-purpose flour",
+        "1/2 cup old-fashioned rolled oats",
+        "1/2 cup light brown sugar, packed",
+        "1/2 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cubed"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this peach crumble a few summers ago when I had a basket of peaches that were just too ripe to eat fresh. Instead of letting them go to waste, I decided to bake a simple dessert with a crumbly topping. The first time I tried it, the buttery oat topping combined with the juicy, cinnamon-spiced peaches totally won me over. What makes this crumble different from others I’ve tried is the addition of oats in the topping, which adds a lovely texture and a little nutty flavor. Plus, I always toss the peaches with a bit of lemon juice to brighten the flavors and balance the sweetness. The result is a warm, comforting dessert that feels homemade and perfect for sharing. I usually serve it right out of the oven with a scoop of vanilla ice cream melting on top—such a classic pairing! This recipe is straightforward and forgiving, so even if you’re not a pro baker, you’ll have a delicious treat to enjoy. It’s become a favorite for casual family dinners and weekend gatherings because it’s quick, easy, and bursting with fresh summer flavor.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This ensures the oven is at the perfect temperature to cook the peaches evenly and brown the topping just right. If the oven is too hot, the topping might burn before the fruit is tender; too cool, and the crumble won’t crisp up properly. While waiting, prepare your baking dish by lightly greasing it to prevent sticking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated to 350°F"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the sliced peaches with granulated sugar, brown sugar, cinnamon, and lemon juice. The sugars help draw out the natural juices from the peaches, creating a syrupy filling, while the lemon juice adds brightness and prevents the peaches from browning. Mix gently to avoid breaking up the fruit too much, which keeps nice, chunky slices.",
+            "timing": "5 minutes",
+            "doneness_cue": "Peaches evenly coated and glossy with sugar mixture"
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the peach mixture into your prepared baking dish, spreading it out evenly. This creates a uniform layer so the topping can bake evenly on top. Make sure not to overcrowd the dish; if it’s too packed, the topping might steam instead of crisping up.",
+            "timing": "3 minutes",
+            "doneness_cue": "Peach layer is even and filling the dish with some juice visible"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, combine the flour, rolled oats, brown sugar, and salt. These dry ingredients form the base of the crumble topping. The oats add texture and a rustic feel, while the sugar caramelizes during baking to add sweetness and crunch.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients mixed thoroughly without lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the cold cubed butter to the dry mixture. Using a pastry cutter, two forks, or your fingertips, work the butter into the flour mixture until it resembles coarse crumbs. The key is to keep some pea-sized butter pieces intact; as these melt during baking, they create pockets of flaky, buttery texture in the topping.",
+            "timing": "7 minutes",
+            "doneness_cue": "Mixture looks crumbly with visible chunks of butter"
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle the crumble topping evenly over the peaches. Don’t press it down too hard; a loose, airy topping bakes up crispier and lighter. The contrast between the juicy fruit and crunchy topping is what makes this dessert so irresistible.",
+            "timing": "3 minutes",
+            "doneness_cue": "Topping covers peaches evenly without compacting"
+        },
+        {
+            "step": 7,
+            "instruction": "Place the dish in the preheated oven and bake for 30 minutes. During baking, the peach juices bubble up, and the topping turns golden brown and crisp. Avoid opening the oven door frequently, as this can lower the temperature and affect the crumble’s texture.",
+            "timing": "30 minutes",
+            "doneness_cue": "Topping is golden brown and juices are bubbling around edges"
+        },
+        {
+            "step": 8,
+            "instruction": "Once baked, remove the crumble from the oven and let it cool for 10-15 minutes. This resting time allows the juices to thicken slightly and makes it easier to serve. Serving it too hot can cause the topping to fall apart and the juices to be too runny.",
+            "timing": "15 minutes",
+            "doneness_cue": "Crumble is warm but not overly liquidy or runny"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm with a scoop of vanilla ice cream or a dollop of whipped cream. The cold creaminess paired with the warm, sweet peaches and crunchy topping is pure magic. If you want to store leftovers, cover tightly and refrigerate.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Ice cream melting slightly on warm crumble"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Peach Crumble Recipe Works So Well",
+        "content": "<p>The success of this peach crumble lies in balancing juicy fruit with a crisp, buttery topping. First, tossing the peaches with sugar and lemon juice draws out their natural juices while preventing browning, which keeps the filling vibrant and flavorful. The sugars also help thicken the juices as they bake, creating a luscious syrup rather than a watery mess.</p><p>The crumble topping is a classic blend of flour, oats, brown sugar, and cold butter. Cold butter is key because as it melts during baking, it creates steam pockets that result in a flaky, tender texture rather than a dense, greasy layer. The oats add a pleasant chew and nutty flavor that complements the sweetness of the peaches.</p><p>Baking at a moderate temperature (350°F) allows the topping to brown evenly without burning, while giving the peach filling time to soften and bubble. Avoiding overmixing the topping keeps it crumbly and light. Finally, letting the crumble rest after baking lets the juices thicken slightly, making it easier to serve and enhancing the overall texture.</p><p>These techniques combined yield a peach crumble that’s both juicy and crunchy, sweet but balanced, and utterly comforting. It’s a straightforward recipe that highlights the best qualities of fresh peaches with a topping that’s satisfyingly crisp and buttery.</p>",
+        "ingredient_notes": {
+            "Fresh Peaches": "Choose ripe but firm peaches with a sweet aroma and vibrant color. Overripe peaches can become mushy when baked, while underripe ones lack sweetness. Peeling is optional but recommended for a smoother texture. The natural sugars and juices in fresh peaches provide the base flavor and moisture for the crumble filling.",
+            "Rolled Oats": "Old-fashioned rolled oats add texture and a slight nuttiness to the crumble topping. Avoid instant oats as they can turn mushy. The oats help absorb some moisture from the fruit while baking, maintaining a crisp topping. They also create a rustic, homey feel that's distinct from a plain flour topping.",
+            "Cold Unsalted Butter": "Using cold, unsalted butter is crucial. Cold butter creates flaky pockets in the topping as it melts during baking. Salted butter can be used but adjust added salt accordingly. Make sure not to overwork the butter into the flour mixture, or the topping can become dense and tough instead of crumbly.",
+            "Brown Sugar": "Brown sugar adds moisture and a deep caramel flavor to the topping and filling. The molasses content enhances the color and creates a richer taste compared to white sugar alone. Using packed brown sugar ensures consistent sweetness and helps the topping crisp up nicely.",
+            "Lemon Juice": "A splash of fresh lemon juice brightens the peach filling and balances the sweetness of the sugar. It also prevents the peaches from oxidizing and turning brown, keeping the fruit visually appealing. Lemon juice acts as a natural preservative and flavor enhancer in the filling."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe but firm peaches for the best texture.",
+            "reason": "Ripe peaches provide natural sweetness and juiciness, but if they're too soft, the filling becomes mushy. Firm peaches hold their shape during baking, giving you a nice balance of tender fruit and syrupy juices."
+        },
+        {
+            "tip": "Keep butter cold when making the topping.",
+            "reason": "Cold butter melts slowly in the oven, creating steam pockets that produce a flaky, crumbly texture. If the butter is too warm, the topping can turn dense and greasy instead of crisp."
+        },
+        {
+            "tip": "Don’t overmix the crumble topping.",
+            "reason": "Mixing just until the butter is incorporated prevents gluten development, which keeps the topping tender. Overmixing can lead to a tough texture and reduce the crumbly effect."
+        },
+        {
+            "tip": "Let the crumble rest before serving.",
+            "reason": "Resting allows the fruit juices to thicken and the topping to set, making it easier to serve without falling apart. It also lets the flavors meld together for a richer taste."
+        },
+        {
+            "tip": "Add a pinch of cinnamon or nutmeg for warmth.",
+            "reason": "Warm spices complement the sweetness of the peaches and add depth to the flavor profile. Just a small amount enhances without overpowering the natural fruit taste."
+        },
+        {
+            "tip": "Serve with vanilla ice cream or whipped cream.",
+            "reason": "The cold creaminess contrasts beautifully with the warm crumble, balancing sweetness and adding a luxurious mouthfeel that elevates the dessert experience."
+        },
+        {
+            "tip": "Use lemon juice to brighten the peach flavor.",
+            "reason": "Lemon juice balances the sweetness and prevents the peaches from oxidizing, keeping the filling fresh-tasting and visually appealing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or overripe peaches",
+            "why_it_happens": "People often grab whatever peaches are available without considering ripeness, assuming all peaches bake the same.",
+            "fix": "Choose peaches that are fragrant and slightly soft but still firm. If you only have underripe peaches, add a bit more sugar to help with sweetness. Overripe peaches can be used but expect a softer filling."
+        },
+        {
+            "mistake": "Overmixing the crumble topping",
+            "why_it_happens": "Trying to fully combine the butter with flour can seem like the right approach but leads to a dense topping.",
+            "fix": "Work the butter just until the mixture resembles coarse crumbs with pea-sized pieces. Stop mixing to keep the topping light and crumbly."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Rushing the bake to brown the topping faster can burn it before the fruit is cooked.",
+            "fix": "Bake at 350°F for the full 30 minutes to ensure even cooking and browning. Avoid opening the oven door frequently."
+        },
+        {
+            "mistake": "Skipping the lemon juice",
+            "why_it_happens": "People sometimes overlook lemon juice, thinking it’s optional.",
+            "fix": "Add lemon juice to brighten flavor and prevent browning. It’s an easy step that makes a big difference."
+        },
+        {
+            "mistake": "Serving crumble immediately after baking",
+            "why_it_happens": "Excitement to eat can cause skipping the resting time.",
+            "fix": "Let it cool for 10-15 minutes so the juices thicken and the topping firms up. This makes serving easier and improves texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spiced Peach Crumble with Ginger and Nutmeg",
+            "description": "Add 1/2 teaspoon ground ginger and a pinch of nutmeg to the peach mixture for a warm, spicy twist. This variation brings cozy autumn vibes while keeping the fresh peach flavor front and center.",
+            "technical_note": "Spices should be added to the fruit before baking to infuse the juices and aroma throughout."
+        },
+        {
+            "name": "Gluten-Free Peach Crumble",
+            "description": "Use a gluten-free all-purpose flour blend and replace rolled oats with chopped nuts like almonds or pecans. This keeps the crumble texture while making it safe for gluten sensitivities.",
+            "technical_note": "Nut toppings brown faster, so check the crumble halfway through baking to prevent burning."
+        },
+        {
+            "name": "Peach and Berry Crumble",
+            "description": "Mix in 1 cup fresh or frozen berries (blueberries or raspberries work well) with the peaches for a colorful, tangy addition. The berries add tartness that balances the sweetness beautifully.",
+            "technical_note": "If using frozen berries, thaw and drain excess liquid before mixing to avoid a watery filling."
+        },
+        {
+            "name": "Vegan Peach Crumble",
+            "description": "Swap butter for coconut oil or vegan butter in the topping. Use maple syrup instead of brown sugar for sweetness. The coconut oil adds a subtle tropical note that pairs nicely with peaches.",
+            "technical_note": "Keep the coconut oil chilled before mixing to mimic the texture of cold butter."
+        },
+        {
+            "name": "Peach Crumble with Almond Flour Topping",
+            "description": "Replace half the flour with almond flour for a nutty flavor and moist topping. Almond flour adds richness and a slightly chewy texture that contrasts the juicy peaches.",
+            "technical_note": "Almond flour browns faster, so watch the topping closely during the last 10 minutes of baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "15g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The peach crumble can sit covered at room temperature for up to 2 hours. After this, the fruit juices may start to ferment, so it’s best to refrigerate if not serving immediately.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The topping may soften slightly, but reheating in the oven restores some crispness. Serving cold is possible but less appealing.",
+        "freezer": "Freeze the crumble tightly wrapped in foil and plastic wrap for up to 2 months. Thaw overnight in the fridge before reheating. Reheat in a 350°F oven until heated through to revive the topping’s crunch.",
+        "reheating": "Reheat in the oven at 350°F for 15-20 minutes until warm and the topping is crisp again. Avoid microwaving as it makes the topping soggy. Add a splash of water or juice if the filling looks dry.",
+        "make_ahead_strategy": "You can prepare the peach filling and crumble topping separately up to 1 day ahead. Store filling in the fridge and topping in an airtight container. Assemble and bake just before serving for maximum freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches for this crumble?",
+            "answer": "Yes, but it’s best to thaw the peaches first and drain off any excess liquid to avoid a watery filling. Frozen peaches tend to release more juice, so adjusting the sugar and baking time slightly may be needed."
+        },
+        {
+            "question": "How do I prevent the crumble topping from getting soggy?",
+            "answer": "Keep the butter cold when mixing the topping and avoid pressing it down onto the fruit. Also, bake at the right temperature and let the crumble rest after baking to allow juices to thicken, which helps keep the topping crisp."
+        },
+        {
+            "question": "Can I make this crumble gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend and substitute oats with chopped nuts or certified gluten-free oats. Just watch the topping closely during baking as nut toppings brown faster."
+        },
+        {
+            "question": "What’s the best way to peel peaches easily?",
+            "answer": "Score the bottom of each peach with an X, blanch in boiling water for 30 seconds, then plunge into ice water. The skins should slip right off with gentle rubbing."
+        },
+        {
+            "question": "Can I add other fruits to the peach crumble?",
+            "answer": "Yes! Berries, apples, or plums work great. Adjust sugar levels based on the sweetness of added fruits and be mindful of moisture content to avoid a soggy filling."
+        },
+        {
+            "question": "How long can I store leftover crumble?",
+            "answer": "Store in the fridge up to 3 days in an airtight container. For longer storage, freeze for up to 2 months. Reheat in the oven to restore texture."
+        },
+        {
+            "question": "Is it okay to skip the oats in the topping?",
+            "answer": "You can skip oats, but the topping will lose some texture and nuttiness. Use extra flour or chopped nuts as a replacement to maintain crunch."
+        },
+        {
+            "question": "Can I prepare this dessert ahead of time?",
+            "answer": "Yes, you can assemble the crumble a few hours before baking and keep it refrigerated. Just bake it fresh when ready to serve for the best texture."
+        }
+    ],
+    "conclusion": "I hope you give this peach crumble a try—it’s one of those easy desserts that feels special. Don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "easy peach crumble recipe",
+        "secondary_keywords": [
+            "summer peach dessert",
+            "how to make peach crumble",
+            "best peach crumble recipe",
+            "simple peach dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "classic apple crumble recipe",
+                "anchor": "classic-apple-crumble"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_4.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_4.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_5.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_5.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_7.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_7.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_8.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_8.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_6.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_6.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_9.webp",
+            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_9.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1781651726_159",
+    "slug": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite",
+    "isOnline": true,
+    "createdAt": "2026-06-17T00:33:55+01:00",
+    "updatedAt": "2026-06-17T00:33:55+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images"
+}
