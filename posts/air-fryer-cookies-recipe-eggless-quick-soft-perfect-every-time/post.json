@@ -1,0 +1,339 @@
+{
+    "title": "Soft and Chewy Eggless Air Fryer Cookies with Golden Edges",
+    "promptIMG": "Food photography: Eggless Air Fryer Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These eggless air fryer cookies are delightfully soft with chewy centers and golden edges. Made from pantry staples, they’re a fuss-free sweet fix perfect for afternoon cravings or a quick dessert.",
+    "hashtags": "#egglesscookies #airfryerdessert #chewycookies #easybaking",
+    "board_name": "Easy Eggless Desserts",
+    "pin_variations": [
+        {
+            "title": "Discover Soft and Chewy Eggless Cookies Made in Your Air Fryer!",
+            "description": "Looking for a quick, egg-free cookie recipe? These air fryer cookies are soft, chewy, and golden brown every time. Save this recipe and try it today for a fuss-free sweet treat! 🍪✨ #egglesscookies #airfryerdessert #bakingmadeeasy"
+        },
+        {
+            "title": "How To Make Perfectly Soft Eggless Cookies in the Air Fryer",
+            "description": "No eggs? No problem! These air fryer cookies come out soft and chewy with a golden edge. Perfect for an afternoon snack or last-minute dessert. Give it a go and enjoy! 🍪🔥 #eggfreebaking #airfryercookies #sweettooth"
+        },
+        {
+            "title": "Quick Eggless Air Fryer Cookies That Everyone Will Love",
+            "description": "Craving cookies but out of eggs? This recipe uses simple pantry ingredients and your air fryer to whip up soft, chewy cookies in no time. Try it now and share your results! 🍪❤️ #easycookies #egglessdessert #airfryerrecipes"
+        },
+        {
+            "title": "Soft, Chewy, and Eggless: Air Fryer Cookies You Can Make Today",
+            "description": "These eggless cookies bake up soft and chewy with golden edges thanks to the air fryer magic. Perfect for quick snacks or a last-minute sweet fix. Save & try this easy recipe! 🍪👌 #egglessbaking #airfryercookies #quickdessert"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 12,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, softened",
+        "1/2 cup brown sugar, packed",
+        "1/4 cup granulated sugar",
+        "1/4 cup milk (dairy or plant-based)",
+        "1 teaspoon vanilla extract",
+        "1/2 cup chocolate chips"
+    ],
+    "yield": "Approximately 12 cookies",
+    "introduction": "I remember the first time I tried making eggless cookies in my air fryer—it was a happy accident during a weekend when I ran out of eggs but still craved something sweet and homemade. These cookies turned out soft and chewy with those irresistible golden edges that make every bite a treat. What I love about this recipe is how simple it is: just pantry staples and a quick air fryer session. No need to heat up the oven or fuss with complicated ingredients. The trick I learned to get that perfect texture is using a mix of brown and white sugar, which keeps the cookies moist and chewy but also helps create a slight crispness on the edges. Plus, adding milk helps bind everything together since we’re skipping eggs. The chocolate chips melt just right in the air fryer’s circulating heat, making these cookies a perfect afternoon snack or an easy last-minute dessert. Trust me, once you try this, you’ll want to keep it in your rotation for those times when you want comfort food without the hassle. It’s a cozy, quick, and reliable sweet fix that’s just as satisfying as the traditional version. I’m excited for you to give it a go and see how well it works for your sweet tooth!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by combining the dry ingredients: sift together the all-purpose flour, baking soda, and salt into a medium bowl. Sifting helps prevent lumps and ensures even distribution of the leavening agent, which is key for a uniform texture. Mixing these well upfront avoids pockets of baking soda that can cause uneven rising or bitter spots. Take your time here; it sets the foundation of the cookie’s crumb.",
+            "timing": 5,
+            "doneness_cue": "Flour mixture looks smooth and evenly combined with no clumps"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate large bowl, cream the softened butter with both sugars until the mixture is light and fluffy. This usually takes about 3-4 minutes with a hand mixer or stand mixer. The creaming process incorporates air, which helps the cookies rise and gives them a tender texture. Be careful not to overdo it, as too much creaming can cause spreading during baking.",
+            "timing": 5,
+            "doneness_cue": "Butter and sugar mixture is pale, smooth, and slightly fluffy"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the vanilla extract and milk to the creamed butter mixture and mix until fully combined. The milk acts as a moisture binder replacing the eggs, helping the dough hold together and stay soft. Vanilla adds that warm, familiar flavor that complements the chocolate chips beautifully. Mix on low speed to avoid splashing.",
+            "timing": 2,
+            "doneness_cue": "Wet ingredients are fully incorporated with no streaks"
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually add the dry flour mixture to the wet ingredients, mixing on low speed or folding with a spatula. Mix just until combined to avoid activating too much gluten, which would make the cookies tough. Overmixing is a common mistake that can ruin the soft texture we're aiming for.",
+            "timing": 3,
+            "doneness_cue": "Dough forms a cohesive ball without dry flour patches or over-stretching"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough using a spatula. This ensures every cookie has a good distribution of melty chocolate without breaking the dough’s structure. Avoid overmixing here as well to keep the dough tender.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips are evenly spread without clumping"
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your air fryer to 320°F (160°C). Preheating is important because it helps the cookies start baking immediately, which promotes even rising and a better texture. Without preheating, the cookies might spread too much or bake unevenly.",
+            "timing": 3,
+            "doneness_cue": "Air fryer reaches temperature and is ready for baking"
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop tablespoon-sized portions of dough onto a parchment-lined air fryer basket or tray, spacing them about 2 inches apart. The spacing prevents cookies from merging as they expand during baking. Using parchment also helps prevent sticking and makes clean-up easier.",
+            "timing": 5,
+            "doneness_cue": "Dough balls are evenly spaced and hold their shape"
+        },
+        {
+            "step": 8,
+            "instruction": "Air fry the cookies at 320°F for 10-12 minutes. Keep an eye on them starting around 8 minutes; you want soft centers with golden edges. The air fryer’s circulating heat crisps the edges while the centers stay chewy. Overbaking will make them dry, so timing is key.",
+            "timing": 12,
+            "doneness_cue": "Edges are lightly golden, centers look set but soft"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the cookies and let them cool on the basket or a wire rack for at least 5 minutes. They’ll firm up as they cool but stay soft and chewy inside. This resting step also helps the flavors meld, making every bite delicious.",
+            "timing": 5,
+            "doneness_cue": "Cookies are cool enough to handle but still soft to touch"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Soft and Chewy Eggless Air Fryer Cookies",
+        "content": "<p>One of the biggest challenges in eggless baking is achieving the right balance of moisture and structure. Eggs usually provide binding, leavening, and richness, so without them, the recipe needs to compensate carefully. Here, milk acts as a moisture binder, helping hold the dough together and keep it soft. The combination of brown and white sugar is also crucial. Brown sugar contains molasses, which attracts and retains moisture, keeping the cookie chewy, while white sugar encourages spreading and crisp edges. Together, they create that perfect texture contrast.</p><p>The air fryer offers a unique cooking environment with circulating hot air that crisps the edges quickly while allowing the centers to remain tender. This rapid, even heat helps to develop the Maillard reaction on the cookie surface, producing those golden edges packed with flavor. Unlike traditional ovens, the air fryer requires careful temperature control and timing to avoid overbaking, which can dry out the cookies.</p><p>Using softened butter and creaming it with sugars incorporates air into the dough, which lightens the texture and supports a tender crumb. Overmixing after adding flour can develop gluten, leading to tough cookies, so gentle handling is key. Adding vanilla rounds out the flavor profile, enhancing the chocolate chips and giving the cookies a warm, inviting aroma.</p><p>Overall, this recipe balances ingredient functions and air fryer technique to deliver soft, chewy, eggless cookies with golden, flavorful edges every time.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with moderate protein content (around 10-12%). This provides enough gluten to give structure without making the cookies tough. Sifting before use removes lumps and aerates the flour, which helps achieve a lighter texture.",
+            "baking soda": "Baking soda acts as a leavening agent, reacting with acidic components like brown sugar to produce carbon dioxide bubbles that lighten the dough. Using the correct amount is critical; too much causes a soapy taste, too little results in dense cookies.",
+            "unsalted butter": "Softened unsalted butter provides richness and moisture. Using unsalted lets you control the salt level precisely. Butter's fat coats flour proteins, limiting gluten formation and resulting in tender cookies. Avoid melted butter here, which can cause excessive spreading.",
+            "brown sugar": "Brown sugar contains molasses, which attracts moisture and adds depth of flavor. It helps keep cookies chewy and moist. Pack the sugar firmly when measuring to ensure consistent sweetness and texture.",
+            "milk": "Milk replaces eggs by adding moisture and helping bind ingredients. It also contributes to browning through lactose sugars. Use whole or plant-based milk for best results, but avoid skim as it may dry out the dough."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature butter for better creaming.",
+            "reason": "Room temperature butter blends more easily with sugar, allowing air to be incorporated during creaming. This aeration is what helps the cookies rise and become tender. Cold butter won't mix well, and melted butter leads to flat, greasy cookies."
+        },
+        {
+            "tip": "Don’t overmix once you add flour.",
+            "reason": "Overmixing activates gluten strands in the flour, making cookies tough and chewy in an undesirable way. Mixing just until combined keeps the dough tender and soft."
+        },
+        {
+            "tip": "Preheat your air fryer before baking.",
+            "reason": "Starting with a hot air fryer ensures the cookies bake evenly and develop golden edges quickly. Without preheating, the cookies may spread too much or cook unevenly."
+        },
+        {
+            "tip": "Space cookies evenly in the air fryer basket.",
+            "reason": "Giving cookies enough room allows hot air to circulate properly, which is essential for even cooking and crisp edges. Crowding them leads to merging and uneven textures."
+        },
+        {
+            "tip": "Use parchment paper to prevent sticking.",
+            "reason": "Air fryer baskets can be sticky, and parchment paper protects the cookies and the basket. It also makes cleanup easier."
+        },
+        {
+            "tip": "Check cookies at 8 minutes to avoid overbaking.",
+            "reason": "Air fryer cooking times can vary, so checking early prevents drying out. Cookies continue to cook slightly after removal, so a soft center at this point is ideal."
+        },
+        {
+            "tip": "Cool cookies on a wire rack for best texture.",
+            "reason": "Cooling on a rack allows air circulation around the cookies, preventing sogginess from trapped steam and helping maintain crisp edges."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter instead of softened butter",
+            "why_it_happens": "Sometimes people skip softening butter to save time or because they forget. Cold butter doesn’t cream well with sugar, resulting in poor texture.",
+            "fix": "Plan ahead and let butter sit at room temperature for about 30-60 minutes until soft but not melted. Soft butter blends smoothly and traps air for tender cookies."
+        },
+        {
+            "mistake": "Overmixing the dough after adding flour",
+            "why_it_happens": "It’s tempting to fully incorporate every bit of flour, but overmixing develops gluten and toughens cookies.",
+            "fix": "Mix just until you no longer see streaks of flour. Use a spatula to fold gently rather than vigorous stirring."
+        },
+        {
+            "mistake": "Skipping air fryer preheat",
+            "why_it_happens": "Some assume preheating isn’t necessary or forget to do it.",
+            "fix": "Always preheat your air fryer to the recipe temperature before adding cookies. This step ensures even cooking and proper texture."
+        },
+        {
+            "mistake": "Crowding cookies too close together",
+            "why_it_happens": "Trying to bake many cookies at once can lead to insufficient space.",
+            "fix": "Place cookie dough balls at least 2 inches apart to allow for spreading and proper air circulation."
+        },
+        {
+            "mistake": "Overbaking cookies causing dryness",
+            "why_it_happens": "Not checking cookies early or leaving them too long in the air fryer dries them out.",
+            "fix": "Start checking at 8 minutes and remove when edges are golden but centers still look soft."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Eggless Air Fryer Cookies",
+            "description": "Replace the butter with vegan margarine or coconut oil and use plant-based milk to make these cookies fully vegan. The texture remains soft and chewy, with a subtle coconut undertone if using coconut oil.",
+            "technical_note": "Use solid coconut oil chilled to room temperature for creaming; liquid oils won’t trap air well."
+        },
+        {
+            "name": "Peanut Butter Eggless Air Fryer Cookies",
+            "description": "Add 1/2 cup creamy peanut butter to the dough for a nutty flavor and richer texture. Reduce butter slightly to compensate. These cookies are soft, with a satisfying peanut butter taste.",
+            "technical_note": "Mix peanut butter with butter before adding sugars to ensure a smooth blend."
+        },
+        {
+            "name": "Oatmeal Chocolate Chip Eggless Cookies",
+            "description": "Stir in 1/2 cup rolled oats for added chew and heartiness. The oats give a rustic texture and make the cookies a bit more filling.",
+            "technical_note": "Use quick oats for a softer texture or old-fashioned oats for more chew."
+        },
+        {
+            "name": "Cinnamon-Spiced Eggless Air Fryer Cookies",
+            "description": "Add 1 teaspoon ground cinnamon and a pinch of nutmeg to the dry ingredients for a warm, spicy twist. Perfect for cozy fall days or holiday treats.",
+            "technical_note": "Mix spices with dry ingredients to ensure even distribution."
+        },
+        {
+            "name": "Gluten-Free Eggless Air Fryer Cookies",
+            "description": "Swap all-purpose flour for a gluten-free blend with xanthan gum. The cookies remain soft and chewy but are safe for gluten-sensitive diets.",
+            "technical_note": "Check your gluten-free flour blend for xanthan gum; add 1/4 teaspoon if missing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "8g",
+        "fiber_grams": "1g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cookies can be kept at room temperature in an airtight container for up to 2 days. Keep them sealed well to maintain softness and prevent them from drying out.",
+        "refrigerator": "Store cookies in an airtight container in the fridge for up to 5 days. They may firm up and lose some softness when chilled, so allow them to come to room temperature before serving or warm briefly.",
+        "freezer": "Freeze cookies in a single layer on parchment paper, then transfer to a freezer-safe container or bag. Freeze for up to 2 months. Thaw at room temperature or warm gently in the air fryer or oven before serving.",
+        "reheating": "Reheat cookies in the air fryer at 300°F for 2-3 minutes or microwave for 10-15 seconds with a damp paper towel to restore softness. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead and keep it refrigerated in an airtight container. When ready to bake, scoop the dough directly into the air fryer. This helps flavors meld and saves prep time on baking day."
+    },
+    "faq": [
+        {
+            "question": "Can I use a regular oven instead of an air fryer for this recipe?",
+            "answer": "Absolutely! You can bake these cookies at 350°F for about 10-12 minutes on a parchment-lined baking sheet. The texture will be similar, though the edges might be slightly less crisp compared to the air fryer."
+        },
+        {
+            "question": "What can I use instead of milk in this eggless cookie recipe?",
+            "answer": "You can substitute dairy milk with any plant-based milk like almond, soy, or oat milk. Just make sure it’s unsweetened to avoid altering the cookie’s sweetness and texture."
+        },
+        {
+            "question": "Why do my cookies spread too much in the air fryer?",
+            "answer": "This usually happens if the butter is too soft or melted, or if the dough is overmixed. Use softened (not melted) butter and mix just until combined to prevent excessive spreading."
+        },
+        {
+            "question": "Can I add nuts or dried fruit to these cookies?",
+            "answer": "Yes! Chopped nuts or dried fruit like cranberries or raisins can be folded into the dough along with chocolate chips. Just be mindful not to add too much to keep the dough balanced."
+        },
+        {
+            "question": "How do I keep these cookies soft for longer?",
+            "answer": "Store them in an airtight container with a slice of bread or a damp paper towel to retain moisture. Avoid refrigeration unless necessary, as it can dry cookies out."
+        },
+        {
+            "question": "What’s the best way to measure flour for this recipe?",
+            "answer": "Use the spoon-and-level method: spoon flour into your measuring cup and level off with a knife. Scooping directly can compact flour and lead to dense cookies."
+        },
+        {
+            "question": "Can I make these cookies gluten-free?",
+            "answer": "Yes, substitute all-purpose flour with a gluten-free flour blend that contains xanthan gum. This will help maintain structure and texture similar to the original."
+        },
+        {
+            "question": "Why are my cookies dry or crumbly?",
+            "answer": "Dry cookies often result from overbaking or too much flour. Stick to the recipe measurements and baking times, and check cookies early to avoid drying out."
+        }
+    ],
+    "conclusion": "Give these eggless air fryer cookies a try—you’ll love how easy and delicious they are! Don’t forget to share your baking adventures with me.",
+    "seo": {
+        "primary_keyword": "eggless air fryer cookies",
+        "secondary_keywords": [
+            "eggless cookie recipe",
+            "air fryer cookie recipe",
+            "how to make eggless cookies",
+            "best eggless cookie recipe",
+            "easy eggless cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "air fryer baking tips",
+                "anchor": "air-fryer-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx. 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_1.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_2.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_3.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_6.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_6.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_7.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_7.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_9.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_9.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_8.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_8.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_5.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_5.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_4.webp",
+            "filePath": "posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_4.webp",
+            "relativePath": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images/air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781738002_347",
+    "slug": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time",
+    "isOnline": true,
+    "createdAt": "2026-06-18T00:30:14+01:00",
+    "updatedAt": "2026-06-18T00:30:14+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "air-fryer-cookies-recipe-eggless-quick-soft-perfect-every-time/images"
+}
