@@ -1,0 +1,336 @@
+{
+    "title": "Classic Tomato Basil Bruschetta with a Fresh Twist",
+    "promptIMG": "Food photography: Classic Tomato Basil Bruschetta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This bruschetta is simplicity at its finest—ripe tomatoes, fresh basil, and crunchy toasted bread. I love letting the tomatoes marinate a bit; it brings out their juicy sweetness. Perfect for a light snack or party starter!",
+    "hashtags": "#bruschetta #appetizer #freshrecipes",
+    "board_name": "Easy Appetizer Recipes",
+    "pin_variations": [
+        {
+            "title": "Fresh Tomato Basil Bruschetta You’ll Want Every Summer",
+            "description": "This fresh bruschetta is bursting with juicy tomatoes and fragrant basil 🌿. Let those tomatoes marinate for a flavor boost! Save this easy appetizer for your next summer gathering 🍅. #bruschetta #summerrecipes #appetizerideas"
+        },
+        {
+            "title": "How To Make Perfect Tomato Basil Bruschetta At Home",
+            "description": "Crunchy bread topped with marinated tomatoes and fresh basil—this bruschetta is a total crowd-pleaser! Try it today for a quick, tasty snack that’s naturally delicious 🥖🍅🌿. #easyrecipes #bruschetta #snacktime"
+        },
+        {
+            "title": "The Best Tomato Basil Bruschetta Recipe You’ll Love",
+            "description": "Juicy tomatoes meet toasted bread and fragrant basil for a classic Italian snack. Let the tomatoes soak in their juices first for extra flavor. Discover now and impress your friends! 🍅🧄🌿 #italianfood #bruschettarecipe #freshfood"
+        },
+        {
+            "title": "Simple Tomato Basil Bruschetta Ready In Just 30 Minutes",
+            "description": "If you love fresh flavors, this bruschetta is for you! Marinating tomatoes takes just minutes but makes all the difference. Try this easy recipe for your next appetizer or light lunch 🥖🍅🌿. #quickrecipes #bruschetta #healthyfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "4 large ripe tomatoes, diced",
+        "1/4 cup fresh basil leaves, chopped",
+        "2 cloves garlic, minced",
+        "2 tablespoons extra virgin olive oil",
+        "1 tablespoon balsamic vinegar",
+        "Salt and freshly ground black pepper, to taste",
+        "1 baguette or rustic Italian bread, sliced and toasted"
+    ],
+    "yield": "Approximately 12-16 pieces, 4 servings",
+    "introduction": "I first made this tomato basil bruschetta during a warm summer evening when fresh tomatoes were at their peak. I remember being surprised at how just a few simple ingredients could come together to create such a flavorful bite. What sets my version apart is the little trick of letting the diced tomatoes marinate with garlic, olive oil, and balsamic vinegar for at least 10 minutes before spooning them onto the toasted bread. This step softens the tomatoes slightly and lets the flavors meld beautifully. Plus, the balsamic vinegar adds a subtle tang that balances the sweetness of the tomatoes. The toasted bread is crunchy but still tender enough to soak up the juices without getting soggy. When you bite into this bruschetta, you get that fresh, bright burst of tomato, the herbaceous hint of basil, and the satisfying crunch of bread. It’s perfect for a casual snack, a light appetizer before dinner, or even a quick lunch paired with a salad. Honestly, it’s one of those recipes I always keep in my back pocket because it’s fuss-free but feels special. Just don’t skip the marinating step — it really makes all the difference!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by dicing your ripe tomatoes into small, even pieces—about half an inch in size works well. This size allows the tomatoes to release their juices while still holding some texture. Place the diced tomatoes in a medium bowl. The key here is to use tomatoes that are ripe but firm enough to hold shape, as mushy tomatoes can make the topping too watery. Taking your time here ensures the final bruschetta isn’t soggy but juicy and fresh.",
+            "timing": "5 minutes",
+            "doneness_cue": "Tomatoes are uniformly diced and slightly juicy but not mushy."
+        },
+        {
+            "step": 2,
+            "instruction": "Add minced garlic, chopped fresh basil, extra virgin olive oil, and balsamic vinegar to the bowl with tomatoes. Season generously with salt and freshly cracked black pepper. Stir gently to combine. The olive oil adds richness and helps carry the flavors, while balsamic vinegar introduces a subtle acidity that brightens the mixture. Salt is crucial here as it helps draw out the tomato juices and intensifies the flavors. Let this mixture sit at room temperature for at least 10 minutes, stirring occasionally. This marinating step is what really elevates the flavor, allowing all the ingredients to meld together beautifully.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomato mixture looks slightly softened and glossy with a fragrant aroma."
+        },
+        {
+            "step": 3,
+            "instruction": "While the tomato mixture marinates, slice your baguette or rustic bread into about 1/2-inch thick slices. Toast the slices in a preheated oven at 375°F (190°C) for 8-10 minutes or until golden and crisp but not burnt. You want the bread to be crunchy enough to hold the topping but still tender inside. Watch closely in the last few minutes to avoid over-toasting, which can make the bread too hard to bite.",
+            "timing": "10 minutes",
+            "doneness_cue": "Bread slices are golden brown, crisp on the outside, and slightly soft inside."
+        },
+        {
+            "step": 4,
+            "instruction": "Once toasted, rub each slice lightly with a cut clove of garlic. This subtle garlic rub adds an extra layer of flavor and aroma without overpowering the tomatoes. Be gentle so you don’t make the bread soggy. If you prefer a stronger garlic flavor, you can brush the bread with a bit of olive oil mixed with minced garlic before toasting instead.",
+            "timing": "3 minutes",
+            "doneness_cue": "Bread has a faint garlic aroma but remains crisp."
+        },
+        {
+            "step": 5,
+            "instruction": "Spoon the marinated tomato mixture generously onto each toasted bread slice. Let any excess liquid drip off slightly before placing on the bread to avoid sogginess. The topping should be juicy but not swimming in liquid. It’s all about balance here — too much liquid and the bread gets soggy; too little and it won’t be flavorful enough.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping is evenly spread with a fresh, vibrant appearance."
+        },
+        {
+            "step": 6,
+            "instruction": "Garnish each bruschetta with a small fresh basil leaf or a light drizzle of extra virgin olive oil if desired. This adds a fresh herbaceous note and a touch of glossy finish that makes the bruschetta look irresistible. You can also sprinkle a tiny pinch of flaky sea salt on top for an added crunch and flavor boost.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bruschetta looks fresh, colorful, and appetizing."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately to enjoy the contrast of crunchy bread and juicy tomato topping. Bruschetta is best eaten fresh — the bread will lose its crispness if left too long with the topping. If you need to prepare ahead, keep the tomato mixture and toasted bread separate and assemble just before serving.",
+            "timing": "Immediate",
+            "doneness_cue": "Bruschetta is crisp and fresh with vibrant tomato aroma."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add a twist, try mixing in a teaspoon of finely chopped red onion or a splash of lemon juice to the tomato mixture before marinating. These add brightness and a subtle bite that complements the basil beautifully. Just be careful not to overpower the delicate tomato flavor.",
+            "timing": "Optional",
+            "doneness_cue": "Flavors are balanced and fresh with a hint of zing."
+        },
+        {
+            "step": 9,
+            "instruction": "For a heartier version, add small cubes of fresh mozzarella or crumbled feta on top of the tomato mixture before serving. The creamy cheese contrasts beautifully with the acidity of the tomatoes and the crunch of the bread, making it a more filling appetizer or light meal.",
+            "timing": "Optional",
+            "doneness_cue": "Cheese is evenly distributed and slightly softened but not melted."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Bruschetta Recipe Succeeds",
+        "content": "<p>Bruschetta’s magic lies in the balance of textures and flavors, and this recipe nails that by focusing on ingredient quality and simple techniques. First, the tomatoes are the star and letting them marinate with garlic, basil, olive oil, and balsamic vinegar encourages their natural juices to meld with the aromatics. This marinating step softens the tomatoes just enough to release flavor without turning mushy, creating a juicy yet structured topping.</p><p>The toasted bread is another critical element. It must be crisp enough to hold up under the juicy topping but tender inside to provide a pleasant bite. Rubbing the bread with garlic adds subtle aroma without overwhelming the fresh tomato flavors. This technique also prevents sogginess by creating a thin barrier between bread and topping.</p><p>Extra virgin olive oil plays multiple roles here: it enriches the tomato mixture with healthy fats, carries the flavors of garlic and basil, and adds a luxurious mouthfeel. The balsamic vinegar introduces acidity and sweetness, balancing the tomato’s natural tang and enhancing overall brightness. Salt is essential—it helps draw moisture out of the tomatoes and intensifies their flavor without making the mixture watery.</p><p>Finally, the fresh basil adds a fragrant herbal note that complements the acidity and richness. Using fresh, vibrant basil leaves rather than dried is key to preserving that bright, garden-fresh flavor that makes this bruschetta so irresistible.</p>",
+        "ingredient_notes": {
+            "ripe tomatoes": "Choose firm yet ripe tomatoes like Roma or vine-ripened varieties for this recipe. They should feel heavy and have a vibrant color without soft spots. Firmness is important to maintain texture after dicing and marinating, preventing the topping from becoming too watery. Avoid overly ripe or mushy tomatoes as they break down too much and can make the bruschetta soggy. If you can, buy tomatoes from local farmers markets during peak season for best flavor.",
+            "fresh basil": "Fresh basil leaves bring a bright, fragrant herbal note essential to classic bruschetta. Look for vibrant green leaves without browning or wilting. Basil loses its flavor quickly once cut, so add it just before serving or while marinating to preserve its aroma. Avoid dried basil here as it lacks the fresh, sweet tones needed. If you want extra flavor, tear the leaves gently instead of chopping to release oils without bruising them too much.",
+            "extra virgin olive oil": "Use a good quality extra virgin olive oil with a fruity, slightly peppery flavor. Olive oil serves as a flavor carrier and adds richness to the tomatoes, balancing acidity and helping the garlic and basil infuse throughout. Avoid light or refined olive oils as they lack the depth of flavor needed. Olive oil also helps the tomato juices cling to the toasted bread, enhancing mouthfeel and taste.",
+            "balsamic vinegar": "Balsamic vinegar adds a subtle sweetness and acidity that balances the tomato’s natural tartness. Choose a well-aged balsamic with a smooth, syrupy texture rather than a harsh, cheap vinegar. The vinegar helps meld flavors during marinating and adds complexity without overpowering the fresh ingredients. If you prefer a milder taste, reduce the amount slightly but don’t omit as it brightens the overall flavor.",
+            "bread": "Rustic Italian bread or a baguette with a sturdy crust and soft crumb works best. The bread needs to toast to a crisp texture that holds the juicy topping without becoming soggy too quickly. Avoid very soft sandwich bread or overly dense bread that won’t crisp well. Toasting the slices until golden but not burnt ensures a perfect crunchy base. For extra flavor, rub the bread with garlic before topping."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Let the tomato mixture marinate for at least 10 minutes before assembling.",
+            "reason": "Marinating allows the tomatoes to release their natural juices and absorb the flavors of garlic, basil, olive oil, and balsamic vinegar. This step softens the tomatoes slightly, creating a juicy topping that’s bursting with flavor rather than dry or bland. Skipping this means the bruschetta will lack depth, and the flavors won’t meld properly."
+        },
+        {
+            "tip": "Rub toasted bread slices with a cut garlic clove before topping.",
+            "reason": "Garlic rubbed onto warm toasted bread infuses just enough aroma and subtle flavor without overpowering the delicate tomato topping. It also creates a slight barrier that helps prevent the bread from getting soggy too quickly when the juicy tomato mixture is added. This simple step adds a layer of complexity and texture."
+        },
+        {
+            "tip": "Use ripe but firm tomatoes for the best texture.",
+            "reason": "Tomatoes that are too soft become mushy when diced and marinated, which can make the bruschetta topping runny and the bread soggy. Firm, ripe tomatoes hold their shape and texture, providing a fresh, juicy bite. This balance between juiciness and structure is key to a successful bruschetta."
+        },
+        {
+            "tip": "Toast the bread slices until golden but not burnt.",
+            "reason": "Properly toasted bread is crunchy enough to hold the topping without collapsing but still tender inside. Over-toasting creates a hard, brittle base that’s unpleasant to eat, while under-toasting makes the bread too soft and prone to sogginess. Keep an eye on the bread in the final minutes to get the perfect color and texture."
+        },
+        {
+            "tip": "Add salt generously to the tomato mixture.",
+            "reason": "Salt draws out moisture from the tomatoes and intensifies their natural sweetness and flavor. It also balances the acidity of the vinegar and brightness of the basil. Under-salting will result in a bland topping, while over-salting can mask the freshness, so season carefully and taste as you go."
+        },
+        {
+            "tip": "Serve bruschetta immediately after assembling.",
+            "reason": "Bruschetta is best enjoyed fresh to maintain the crisp texture of the toasted bread. If left too long, the bread will soak up the tomato juices and become soggy, losing its satisfying crunch. If you need to prepare ahead, keep the tomato mixture and bread separate until just before serving."
+        },
+        {
+            "tip": "Use high-quality extra virgin olive oil.",
+            "reason": "Good olive oil adds fruity, peppery notes that enhance the overall flavor of the bruschetta. Low-quality or refined oils lack this complexity and can make the dish taste flat. Olive oil also helps the tomato juices cling to the bread, improving mouthfeel and richness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or overly soft tomatoes",
+            "why_it_happens": "Sometimes cooks grab tomatoes that are either not ripe enough, leading to bland flavor, or too soft, which breaks down into mush when diced and marinated.",
+            "fix": "Pick tomatoes that are firm but ripe with vibrant color. If you only have softer tomatoes, reduce marinating time to prevent the mixture from becoming watery. Taste before seasoning to balance flavors."
+        },
+        {
+            "mistake": "Skipping the marinating step",
+            "why_it_happens": "Impatience or underestimating the importance of letting flavors meld leads some to skip marinating.",
+            "fix": "Allow at least 10 minutes for the tomato mixture to sit. This step is crucial to develop juicy, flavorful topping. Stir occasionally to distribute flavors evenly."
+        },
+        {
+            "mistake": "Toasting bread too lightly or too much",
+            "why_it_happens": "Without checking closely, bread can be under-toasted (soggy) or burnt (bitter and hard).",
+            "fix": "Toast bread until golden brown and crisp but not dark brown or blackened. Use a timer and watch carefully in the final minutes."
+        },
+        {
+            "mistake": "Adding too much liquid to the topping",
+            "why_it_happens": "Not draining excess tomato juice before topping bread can cause sogginess.",
+            "fix": "Spoon topping carefully, letting excess liquid drip off. You can gently drain tomatoes in a sieve if needed before mixing."
+        },
+        {
+            "mistake": "Not seasoning enough",
+            "why_it_happens": "Some assume fresh ingredients don’t need salt or pepper, leading to bland bruschetta.",
+            "fix": "Season the tomato mixture generously with salt and pepper, and taste before serving. Salt enhances natural sweetness and balances acidity."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mozzarella-Topped Bruschetta",
+            "description": "Add small cubes of fresh mozzarella or bocconcini on top of the tomato mixture for a creamy, indulgent twist. The mild cheese balances the acidity of the tomatoes and adds richness, making this a more filling appetizer or light meal.",
+            "technical_note": "Add cheese after assembling to prevent melting during toasting. Use fresh mozzarella for best texture."
+        },
+        {
+            "name": "Spicy Bruschetta",
+            "description": "Mix in a pinch of red pepper flakes or finely diced jalapeño to the tomato mixture for some heat. This variation adds a lively kick that pairs beautifully with the fresh basil and sweet tomatoes.",
+            "technical_note": "Adjust spice level to taste; adding too much can overpower the fresh flavors."
+        },
+        {
+            "name": "Avocado Bruschetta",
+            "description": "Add diced ripe avocado to the tomato mixture for a creamy texture and buttery flavor. This makes the bruschetta more filling and adds healthy fats, perfect for a snack or lunch.",
+            "technical_note": "Add avocado just before serving to prevent browning and maintain freshness."
+        },
+        {
+            "name": "Roasted Garlic Bruschetta",
+            "description": "Replace raw garlic with roasted garlic for a sweeter, milder flavor. Roast whole garlic cloves until soft and mash into the tomato mixture. This adds depth and a subtle caramelized note.",
+            "technical_note": "Roast garlic in foil at 400°F for 30-40 minutes until soft and golden."
+        },
+        {
+            "name": "Heirloom Tomato Bruschetta",
+            "description": "Use a mix of colorful heirloom tomatoes for a visually stunning and flavor-rich bruschetta. Their varied sweetness and acidity create a more complex topping that’s as beautiful as it is delicious.",
+            "technical_note": "Dice heirloom tomatoes carefully as they can be more delicate and watery."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "8g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Bruschetta is best served fresh and should not be left at room temperature for more than 2 hours to avoid soggy bread and food safety issues. Keep the tomato mixture covered separately if preparing ahead.",
+        "refrigerator": "Store the tomato mixture in an airtight container in the fridge for up to 2 days. Toasted bread should be kept separately at room temperature in a sealed bag to maintain crispness. Assemble just before serving to avoid sogginess.",
+        "freezer": "Freezing is not recommended for bruschetta as the bread loses its texture and tomatoes become watery upon thawing. Instead, freeze leftover bread separately if needed and prepare fresh tomato topping.",
+        "reheating": "If you have toasted bread leftovers, reheat in a toaster oven or conventional oven at 350°F for 3-5 minutes to restore crispness. Avoid microwaving as it makes bread chewy. Tomato mixture is best served cold or at room temperature.",
+        "make_ahead_strategy": "Prepare the tomato mixture up to 1 day ahead and refrigerate. Toast the bread slices just before serving and rub with garlic. Assemble the bruschetta shortly before serving to keep bread crisp and topping fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use cherry tomatoes instead of regular tomatoes?",
+            "answer": "Yes! Cherry tomatoes work well and are naturally sweet and juicy. Just halve or quarter them instead of dicing. They tend to hold their shape nicely and bring a burst of flavor. Adjust marinating time slightly as cherry tomatoes release juice faster."
+        },
+        {
+            "question": "How do I keep the bread from getting soggy?",
+            "answer": "The key is to toast the bread until crisp and to spoon the tomato mixture on just before serving. Make sure to let excess tomato juice drain off before topping. Rubbing the bread with garlic also creates a slight barrier that helps prevent sogginess."
+        },
+        {
+            "question": "Can I prepare this bruschetta ahead of time?",
+            "answer": "You can prepare and refrigerate the tomato topping up to 2 days in advance. Keep the toasted bread separate and assemble right before serving. This keeps the bread crisp and the topping fresh. Avoid assembling too early to prevent soggy bread."
+        },
+        {
+            "question": "Is balsamic vinegar necessary?",
+            "answer": "While not absolutely necessary, balsamic vinegar adds a lovely sweet acidity that brightens the tomato mixture and balances flavors. You can substitute with red wine vinegar or lemon juice, but balsamic gives a unique depth that’s worth including if you can."
+        },
+        {
+            "question": "What kind of bread is best for bruschetta?",
+            "answer": "A rustic Italian bread or baguette with a sturdy crust and soft crumb works best. It toasts well to a satisfying crunch and holds the juicy topping without falling apart. Avoid very soft sandwich bread as it won’t crisp properly."
+        },
+        {
+            "question": "Can I add cheese to this recipe?",
+            "answer": "Absolutely! Fresh mozzarella, burrata, or crumbled feta are great additions. Add cheese on top of the tomato mixture just before serving for a creamy, rich contrast. Avoid melting cheese on the bread to keep textures balanced."
+        },
+        {
+            "question": "How long should I marinate the tomato mixture?",
+            "answer": "At least 10 minutes at room temperature is ideal to let flavors meld and tomatoes soften slightly. You can marinate up to an hour if desired. Avoid marinating too long as the tomatoes may break down and become too watery."
+        },
+        {
+            "question": "Can I make this bruschetta vegan?",
+            "answer": "Yes! This recipe is naturally vegan as written. Just avoid adding cheese or use plant-based cheese alternatives if you like. The fresh tomato, basil, and olive oil combination is delicious on its own."
+        }
+    ],
+    "conclusion": "I hope you give this tomato basil bruschetta a try soon — it’s one of those simple recipes that never fails to impress. Let me know how it turns out and what variations you loved!",
+    "seo": {
+        "primary_keyword": "classic tomato basil bruschetta",
+        "secondary_keywords": [
+            "easy bruschetta recipe",
+            "how to make bruschetta",
+            "best tomato bruschetta",
+            "fresh basil bruschetta"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade garlic bread recipe",
+                "anchor": "homemade-garlic-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_1.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_2.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_3.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_6.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_6.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_9.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_9.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_8.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_8.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_5.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_5.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_7.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_7.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_4.webp",
+            "relativePath": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images/classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781824467_622",
+    "slug": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table",
+    "isOnline": true,
+    "createdAt": "2026-06-19T00:31:13+01:00",
+    "updatedAt": "2026-06-19T00:31:13+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "classic-tomato-bruschetta-recipe-that-brings-fresh-flavor-to-any-table/images"
+}

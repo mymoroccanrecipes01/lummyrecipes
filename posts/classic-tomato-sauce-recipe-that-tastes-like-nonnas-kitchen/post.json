@@ -1,0 +1,339 @@
+{
+    "title": "Simple Slow-Simmered Tomato Sauce with Fresh Garlic and Basil",
+    "promptIMG": "Food photography: Simple Slow-Simmered Tomato Sauce, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This tomato sauce is a cozy classic, simmered slowly with garlic and fresh basil to bring out deep flavors. It’s a go-to for pasta nights or a base for any Italian-inspired meal.",
+    "hashtags": "#tomatosauce #italianrecipes #homemade",
+    "board_name": "Easy Italian Sauces",
+    "pin_variations": [
+        {
+            "title": "Homemade Tomato Sauce Recipe You’ll Love for Pasta Nights",
+            "description": "This rich tomato sauce is slow-simmered with garlic and basil for a comforting, fresh flavor. Perfect for quick dinners or meal prep. Save this recipe and try it today! 🍅🍝 #tomatosauce #homemade #italianfood"
+        },
+        {
+            "title": "How to Make the Best Slow-Simmered Tomato Sauce at Home",
+            "description": "Want a tomato sauce that tastes like it’s been cooking all day? This simple recipe uses fresh garlic and basil for amazing depth. Discover now and add it to your dinner rotation! 🍅🌿 #italianrecipes #easymeals #homemade"
+        },
+        {
+            "title": "Easy Slow-Cooked Tomato Sauce with Garlic and Basil",
+            "description": "This sauce is a kitchen staple—slow-cooked to bring out natural sweetness and herb flavors. Great for pasta or as a base for other dishes. Try it tonight and enjoy! 🍝🧄 #tomatosauce #homecooking #italianfood"
+        },
+        {
+            "title": "Quick Tips for a Delicious Slow-Simmered Tomato Sauce",
+            "description": "Learn the secrets to a flavorful tomato sauce with fresh garlic and basil in this easy recipe. Perfect for busy weeknights or weekend cooking. Save it and make it your own! 🍅✨ #homemadesauce #italianrecipes #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 90,
+    "servings": 6,
+    "ingredients": [
+        "2 tablespoons extra virgin olive oil",
+        "4 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "2 cans (28 ounces each) whole peeled tomatoes",
+        "1 teaspoon sea salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 teaspoon sugar (optional, to balance acidity)",
+        "1/4 cup fresh basil leaves, chopped",
+        "1/2 teaspoon dried oregano (optional)"
+    ],
+    "yield": "Approximately 6 cups, serves 6",
+    "introduction": "I first stumbled upon this slow-simmered tomato sauce recipe years ago when I wanted something simple but flavorful to serve with pasta on a cozy Sunday night. What makes this version stand out is the patience it requires — letting the sauce gently bubble away for over an hour deepens the flavors in a way that quick sauces just can’t match. I learned early on that sautéing the garlic and onion slowly before adding the tomatoes is key; it softens their bite and adds a subtle sweetness that balances the acidity. Plus, stirring in fresh basil near the end keeps that bright herbal note fresh and lively. I’ve tried faster methods, but nothing quite beats the rich, velvety texture and layered taste of this sauce. It’s perfect for serving over spaghetti, layering in lasagna, or even spooning over roasted vegetables. Honestly, it feels like a warm hug in a bowl — simple, comforting, and endlessly versatile.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large, heavy-bottomed pot over medium-low heat. Add the minced garlic and chopped onion, cooking slowly for about 8-10 minutes until softened and fragrant but not browned. This gentle sautéing releases the natural sweetness of the onion and mellows the sharpness of the garlic, setting the flavor foundation for the sauce. Avoid turning the heat too high, as burnt garlic can introduce bitterness.",
+            "timing": 10,
+            "doneness_cue": "Onion turns translucent and soft, garlic aroma fills the kitchen without any burnt smell"
+        },
+        {
+            "step": 2,
+            "instruction": "Pour in the canned whole peeled tomatoes along with their juices. Use a wooden spoon to break up the tomatoes gently, leaving some chunks for texture. Add salt, pepper, and sugar if using. Stir to combine everything evenly. The sugar helps to balance the natural acidity of the tomatoes, especially if they’re very tart. Starting the simmer at medium heat helps the sauce come together before lowering the temperature.",
+            "timing": 5,
+            "doneness_cue": "Tomato pieces are broken down but still visible; mixture starts bubbling gently"
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to maintain a gentle simmer. Partially cover the pot with a lid, leaving a small gap for steam to escape. This slow simmering allows the flavors to meld and the sauce to thicken gradually without burning or drying out. Stir occasionally to prevent sticking, especially as the sauce reduces. This step requires patience but is crucial for developing that deep, rich taste.",
+            "timing": 60,
+            "doneness_cue": "Sauce thickens to a rich consistency and deep red color, with a fragrant aroma"
+        },
+        {
+            "step": 4,
+            "instruction": "About 10 minutes before the sauce is done, stir in the chopped fresh basil and dried oregano if using. Adding fresh herbs late preserves their bright, fresh flavor and prevents them from turning dull or bitter. Stir well and let the sauce simmer uncovered so it thickens slightly more and the herb flavors infuse evenly.",
+            "timing": 10,
+            "doneness_cue": "Bright green flecks of basil throughout the sauce and a fresh herbal scent"
+        },
+        {
+            "step": 5,
+            "instruction": "Taste the sauce and adjust seasoning as needed, adding more salt or a pinch of sugar if it tastes too acidic. If the sauce is too thick, stir in a splash of water or broth to reach your desired consistency. Let it rest off the heat for a few minutes to allow flavors to settle before serving.",
+            "timing": 5,
+            "doneness_cue": "Balanced flavor with no overpowering acidity and a smooth, saucy texture"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the sauce hot over your favorite pasta, or use it as a base for dishes like lasagna, chicken parmesan, or eggplant parmesan. It also freezes beautifully, so consider making a double batch for busy nights. The sauce keeps well in the fridge for several days and tastes even better the next day.",
+            "timing": 0,
+            "doneness_cue": "Steaming sauce coating pasta evenly with a vibrant color and aroma"
+        },
+        {
+            "step": 7,
+            "instruction": "For a smoother texture, use an immersion blender to puree the sauce gently after simmering. This step is optional but great if you prefer a velvety sauce without tomato chunks. Blend carefully to avoid over-pureeing, which can make the sauce too watery.",
+            "timing": 3,
+            "doneness_cue": "Sauce has a smooth, creamy consistency without large tomato pieces"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to deepen the flavor further, add a splash of good-quality red wine after sautéing the garlic and onion, letting it reduce before adding the tomatoes. This adds subtle complexity and richness. Be sure to cook off the alcohol completely to avoid any harshness.",
+            "timing": 5,
+            "doneness_cue": "Wine aroma mellows and integrates with the garlic and onion base"
+        },
+        {
+            "step": 9,
+            "instruction": "Finally, stir in a tablespoon of butter off the heat right before serving. This finishing touch adds silkiness and rounds out the acidity, giving the sauce a luscious mouthfeel. It’s a classic trick that takes the sauce from good to unforgettable.",
+            "timing": 1,
+            "doneness_cue": "Sauce shines with a glossy finish and rich texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Tomato Sauce Is So Flavorful",
+        "content": "<p>Slow simmering is the heart of this tomato sauce’s success. By gently cooking the tomatoes over low heat for an extended period, the water content reduces, concentrating the natural sugars and acids. This process intensifies the flavor, turning plain canned tomatoes into a rich, complex sauce. The Maillard reaction, which occurs during the initial sauté of garlic and onion, creates savory compounds that deepen the overall taste profile.</p><p>Adding fresh basil late in the cooking process preserves its delicate, aromatic oils that would otherwise dissipate with prolonged heat. This timing keeps the sauce tasting fresh and vibrant. The sugar is an optional but handy ingredient that balances tomato acidity, especially if the tomatoes are very tart, preventing the sauce from tasting harsh or sour.</p><p>Finally, finishing the sauce with butter adds a silky texture and rounds out sharp edges in flavor. This emulsification step binds the fat with the tomato’s water content, creating a luscious mouthfeel that feels indulgent yet natural. Every ingredient and step in this recipe works together to create a harmonious, deeply satisfying sauce.</p>",
+        "ingredient_notes": {
+            "extra virgin olive oil": "Choose a good-quality, cold-pressed extra virgin olive oil with a fruity, peppery flavor. It acts as the flavor base, carrying the garlic and onion aromas while adding richness. Avoid using refined or light olive oils as they lack depth and might make the sauce taste flat.",
+            "garlic": "Fresh garlic cloves are essential for a bright, pungent flavor that mellows when sautéed slowly. Mince finely or crush to release maximum aroma. Pre-minced garlic or powders won’t give the same fresh, vibrant taste and can alter the sauce’s character.",
+            "canned whole peeled tomatoes": "Opt for high-quality canned tomatoes with no added preservatives or salt. Whole peeled tomatoes offer better texture and flavor than crushed or diced varieties, allowing you to break them down manually for a fresher feel. San Marzano tomatoes are a popular choice for their sweetness and low acidity.",
+            "fresh basil": "Use fresh, vibrant basil leaves for their fragrant, sweet aroma. Add them at the end of cooking to preserve essential oils and flavor brightness. Dried basil can be used but won’t provide the same fresh herbal note and should be added earlier in the cooking process.",
+            "butter": "A small amount of unsalted butter added off heat enriches the sauce by emulsifying the fat with the tomato juices, giving it a glossy finish and smooth texture. Skipping this step results in a more acidic, less rounded sauce."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a heavy-bottomed pot to prevent scorching during the long simmer.",
+            "reason": "Heavy pots distribute heat evenly, preventing hot spots that can burn the sauce. Burnt bits ruin the flavor and texture, so even gentle heat is crucial for a smooth, rich sauce."
+        },
+        {
+            "tip": "Don’t rush the sautéing of garlic and onions; low and slow is key.",
+            "reason": "Sautéing slowly allows the sugars in the onion to caramelize gently and the garlic to mellow, building a flavorful base. Too high heat risks bitterness and burnt garlic, which spoils the sauce."
+        },
+        {
+            "tip": "Partially cover the pot during simmer to control evaporation.",
+            "reason": "Leaving a small gap lets steam escape gradually, thickening the sauce without drying it out. Fully covering traps moisture, resulting in a watery sauce; fully uncovered can reduce too quickly."
+        },
+        {
+            "tip": "Add fresh herbs near the end of cooking to keep flavors bright.",
+            "reason": "Prolonged heat breaks down delicate herb oils, dulling their aroma. Adding herbs late preserves their fragrance and gives the sauce a fresh, vibrant note."
+        },
+        {
+            "tip": "Taste and adjust seasoning before finishing to balance flavors.",
+            "reason": "Tomato acidity varies by brand and batch, so adding salt or a pinch of sugar after simmering helps tailor the sauce to your palate for perfect balance."
+        },
+        {
+            "tip": "Use a wooden spoon to break up tomatoes gently for better texture.",
+            "reason": "Manual breaking controls chunk size and prevents over-processing, maintaining a pleasant mouthfeel that blends smoothness with some texture."
+        },
+        {
+            "tip": "Finish with butter off the heat for a silky, glossy sauce.",
+            "reason": "Butter emulsifies with the sauce’s liquids, softening acidity and adding richness. Adding it off heat prevents separation and keeps the sauce smooth."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the garlic during sauté",
+            "why_it_happens": "Many cooks turn the heat too high or don’t watch closely, causing garlic to burn quickly and impart bitterness.",
+            "fix": "Keep heat on medium-low and stir frequently. Remove garlic from heat if it starts browning too fast, then add onions to moderate the temperature."
+        },
+        {
+            "mistake": "Skipping the long simmer",
+            "why_it_happens": "Impatience or time constraints lead to rushing the sauce, resulting in underdeveloped flavor and watery consistency.",
+            "fix": "Plan ahead to let the sauce simmer gently for at least an hour. Use low heat and stir occasionally for best results."
+        },
+        {
+            "mistake": "Adding fresh herbs too early",
+            "why_it_happens": "Some assume all herbs cook the same and add fresh basil at the start, losing its delicate aroma.",
+            "fix": "Add fresh basil in the last 10 minutes of cooking or off heat to preserve its bright flavor."
+        },
+        {
+            "mistake": "Not seasoning properly at the end",
+            "why_it_happens": "People salt too early or not enough, missing the chance to balance acidity after simmering.",
+            "fix": "Always taste the finished sauce and adjust salt and sugar to balance flavors before serving."
+        },
+        {
+            "mistake": "Using low-quality canned tomatoes",
+            "why_it_happens": "Choosing cheap or heavily processed tomatoes leads to bland or overly acidic sauce.",
+            "fix": "Invest in good-quality whole peeled tomatoes like San Marzano for superior flavor and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Tomato Sauce",
+            "description": "Add red pepper flakes during the garlic and onion sauté for a subtle heat that complements the sweet tomato base. This adds a lively kick perfect for those who like a bit of spice without overwhelming the sauce.",
+            "technical_note": "Adjust the amount of chili flakes to control heat level; too much can overpower the sauce’s natural sweetness."
+        },
+        {
+            "name": "Roasted Garlic Tomato Sauce",
+            "description": "Swap minced garlic for roasted garlic cloves to introduce a mellow, caramelized flavor. Roasting garlic softens its pungency and adds a deliciously sweet depth to the sauce.",
+            "technical_note": "Roast garlic in foil at 400°F for 30-40 minutes until soft; mash before adding to the sauce near the end of cooking."
+        },
+        {
+            "name": "Chunky Vegetable Tomato Sauce",
+            "description": "Add diced carrots, celery, and bell peppers during the onion sauté for a hearty, vegetable-packed sauce. This variation adds texture and nutrition while keeping the classic flavor profile intact.",
+            "technical_note": "Sauté vegetables until softened before adding tomatoes to ensure they cook through and meld with the sauce."
+        },
+        {
+            "name": "Creamy Tomato Basil Sauce",
+            "description": "Stir in a splash of heavy cream or half-and-half at the end of simmering for a luscious, creamy tomato sauce. This version is richer and perfect for pasta dishes that call for a velvety finish.",
+            "technical_note": "Add cream off heat and stir gently to avoid curdling; use fresh cream for best results."
+        },
+        {
+            "name": "Herb-Infused Tomato Sauce",
+            "description": "Include fresh rosemary and thyme sprigs during simmering for an herby twist. This adds complexity and a woodsy aroma, great for pairing with roasted meats or vegetables.",
+            "technical_note": "Remove herb sprigs before serving to avoid bitter bites."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "110 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "5g",
+        "fiber_grams": "4g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The sauce can safely stay at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store the sauce in an airtight container for up to 5 days. The flavors deepen in the fridge, but the sauce may thicken; reheat gently with a splash of water or broth to loosen.",
+        "freezer": "Freeze the sauce in freezer-safe containers or bags for up to 3 months. Leave some headspace for expansion. Thaw overnight in the fridge and reheat slowly to restore texture.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally. Add a splash of water or olive oil if the sauce seems too thick. Avoid boiling to preserve fresh flavors.",
+        "make_ahead_strategy": "Make the sauce 1-2 days in advance to let flavors meld fully. Store covered in the fridge and reheat just before serving. You can also freeze portions for quick meals later."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh tomatoes instead of canned?",
+            "answer": "Yes! Fresh tomatoes can be used, but they require peeling and longer cooking to break down. Choose ripe, meaty varieties and blanch them to remove skins before cooking. The flavor will be fresher but less consistent than canned."
+        },
+        {
+            "question": "How do I prevent the sauce from tasting too acidic?",
+            "answer": "Balancing acidity is key. Use a pinch of sugar during cooking and finish with butter to round out sharp flavors. Also, choose good-quality tomatoes and avoid overcooking at high heat, which can concentrate acidity unfavorably."
+        },
+        {
+            "question": "Can I make this sauce in a slow cooker?",
+            "answer": "Absolutely! Sauté garlic and onions first, then add all ingredients to the slow cooker. Cook on low for 6-8 hours or high for 3-4 hours. Adding fresh basil near the end is still recommended for brightness."
+        },
+        {
+            "question": "Is it necessary to break up the tomatoes by hand?",
+            "answer": "Breaking them by hand or with a spoon helps control texture, giving a fresher, chunkier feel. You can blend part of the sauce for smoothness if preferred, but avoid over-processing to keep character."
+        },
+        {
+            "question": "What’s the best way to store leftover sauce?",
+            "answer": "Cool completely before transferring to airtight containers. Refrigerate for up to 5 days or freeze up to 3 months. Label containers with date to keep track. Thaw safely in the fridge before reheating."
+        },
+        {
+            "question": "Can I add other herbs besides basil?",
+            "answer": "Yes, herbs like oregano, thyme, and rosemary work well. Add robust dried herbs early in cooking and delicate fresh herbs near the end to maximize flavor without bitterness."
+        },
+        {
+            "question": "How thick should the sauce be when done?",
+            "answer": "It should coat the back of a spoon and have a rich, slightly thickened texture. If too watery, simmer uncovered a bit longer. If too thick, thin with a splash of water or broth."
+        },
+        {
+            "question": "Can I make this sauce vegan?",
+            "answer": "Definitely! Just skip the butter at the end or substitute with a plant-based alternative. The sauce is naturally vegan and flavorful without dairy."
+        }
+    ],
+    "conclusion": "Give this slow-simmered tomato sauce a try—it's simple, comforting, and full of flavor. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "slow simmered tomato sauce",
+        "secondary_keywords": [
+            "homemade tomato sauce",
+            "easy tomato sauce recipe",
+            "how to make tomato sauce",
+            "best tomato sauce recipe",
+            "simple tomato sauce"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pasta dough recipe",
+                "anchor": "homemade-pasta-dough"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_1.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_2.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_3.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_6.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_6.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_9.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_9.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_7.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_7.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_8.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_8.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_5.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_5.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_4.webp",
+            "relativePath": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images/classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen_LummyRecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781824139_536",
+    "slug": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen",
+    "isOnline": true,
+    "createdAt": "2026-06-19T00:31:13+01:00",
+    "updatedAt": "2026-06-19T00:31:13+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "classic-tomato-sauce-recipe-that-tastes-like-nonnas-kitchen/images"
+}
