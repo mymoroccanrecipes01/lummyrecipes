@@ -284,13 +284,55 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "id": "post_1781824014_910",
     "slug": "classic-tomato-soup-recipe-that-warms-you-right-up",
-    "isOnline": false,
-    "createdAt": "2026-06-18T23:06:54+00:00",
-    "updatedAt": "2026-06-18T23:06:54+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-23T13:25:46+01:00",
+    "updatedAt": "2026-06-23T13:25:46+01:00",
     "author_id": "author_001",
     "category_id": "cat_1761230166_734",
     "image_dir": "classic-tomato-soup-recipe-that-warms-you-right-up/images"
