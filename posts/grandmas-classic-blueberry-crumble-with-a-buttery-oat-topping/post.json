@@ -284,14 +284,57 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_6.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_6.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_5.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_5.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_8.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_8.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_4.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_4.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_9.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_9.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_7.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_7.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_LummyRecipes_image_7.webp",
+            "type": "template"
         }
     ],
     "id": "post_1782429558_195",
     "slug": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping",
-    "isOnline": false,
-    "createdAt": "2026-06-25T23:19:18+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-27T18:42:15+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-26T00:28:28+01:00",
+    "updatedAt": "2026-06-27T18:42:15+01:00",
     "category_id": "cat_1761230294_638",
-    "image_dir": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images"
+    "image_dir": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images",
+    "has_reel": true
 }
