@@ -1,0 +1,346 @@
+{
+    "title": "Cozy Slow Cooker Beef Stew That Melts in Your Mouth",
+    "promptIMG": "Food photography: Cozy Slow Cooker Beef Stew, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This slow cooker beef stew is pure comfort—rich, tender, and packed with deep flavors from hours of slow cooking. The secret? Browning the beef first to lock in juices. Great for chilly nights when you want dinner ready and waiting!",
+    "hashtags": "#slowcooker #beefstew #comfortfood",
+    "board_name": "Easy Slow Cooker Recipes",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Slow Cooker Beef Stew for Cozy Nights",
+            "description": "Warm up your evenings with this hearty slow cooker beef stew! Tender meat and rich broth come together effortlessly. Save this recipe and try it tonight! 🍲🔥 #slowcookermeals #beefrecipes #comfortfood"
+        },
+        {
+            "title": "Set It and Forget It: Delicious Slow Cooker Beef Stew",
+            "description": "Busy day? No worries! This slow cooker beef stew lets you prep ahead and enjoy a flavorful, tender dinner. Perfect for family dinners or guests. Try it today! 🕒🥄 #easyrecipes #slowcookerdinner #beefstew"
+        },
+        {
+            "title": "Slow Cooker Beef Stew That’s Melt-in-Your-Mouth Good",
+            "description": "Discover the magic of slow cooking with this beef stew recipe that’s full of rich flavors and tender meat. Your new go-to comfort meal! Save it and enjoy soon! 🍖❤️ #comfortfoodrecipes #slowcookermeals #beefstew"
+        },
+        {
+            "title": "Easy Slow Cooker Beef Stew Everyone Will Love Tonight",
+            "description": "Looking for an effortless, tasty meal? This beef stew is slow-cooked to perfection with simple ingredients. It’s a family favorite for a reason! Give it a go and share your results! 🍲👌 #slowcookerrecipes #beefdinner #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 480,
+    "servings": 6,
+    "ingredients": [
+        "2 lbs beef chuck, cut into 1-inch cubes",
+        "2 tbsp olive oil",
+        "1 large onion, diced",
+        "3 cloves garlic, minced",
+        "4 cups beef broth",
+        "2 large carrots, peeled and sliced",
+        "3 celery stalks, sliced",
+        "3 medium potatoes, peeled and cubed",
+        "2 tbsp tomato paste",
+        "1 tsp dried thyme",
+        "1 tsp dried rosemary",
+        "2 bay leaves",
+        "Salt and pepper to taste",
+        "2 tbsp all-purpose flour",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this slow cooker beef stew on a chilly fall weekend when I wanted something warm and comforting but didn’t want to spend hours in the kitchen. What makes this version stand out is that I brown the beef chunks before tossing them in the slow cooker—this step seals in the juices and adds a deep, rich flavor to the whole stew. I also like to add tomato paste and fresh herbs to give it a nice, balanced depth. Over the years, I’ve tweaked the veggies and seasoning to make it just right for my family. The result is a thick, hearty stew with tender beef that practically melts in your mouth and vegetables that soak up all that savory broth. It’s perfect for a cozy dinner, whether it’s a weeknight or when friends come over. Plus, the slow cooker does all the work, so you can prep in the morning and come home to an amazing meal waiting for you. One time, I skipped browning the beef and the stew was okay but lacked that rich complexity. Now I never skip that step—it’s the secret to making this stew truly special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the beef cubes dry with paper towels to remove excess moisture. This helps the meat brown better instead of steaming. Heat olive oil in a large skillet over medium-high heat until shimmering. Add the beef cubes in batches without crowding the pan, letting them brown on all sides to develop a deep crust. Browning the meat is key because it locks in juices and creates those rich Maillard flavors that make the stew taste amazing. Avoid stirring too frequently; let the beef sit to brown properly. Once browned, transfer the beef to the slow cooker.",
+            "timing": "10 minutes",
+            "doneness_cue": "Beef cubes should have a deep brown crust on all sides without burning"
+        },
+        {
+            "step": 2,
+            "instruction": "In the same skillet, add diced onions and sauté over medium heat until softened and translucent, about 5 minutes. Add minced garlic and cook for another minute until fragrant. This step builds a flavorful base for the stew by extracting sweetness from the onions and garlic. If you skip this, your stew might taste flat. Transfer onions and garlic to the slow cooker with the beef.",
+            "timing": "6 minutes",
+            "doneness_cue": "Onions should be soft, translucent, and aromatic without browning"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the sliced carrots, celery, and cubed potatoes to the slow cooker. These vegetables add texture, sweetness, and heartiness to the stew. Make sure to cut them into similar sizes so they cook evenly. If pieces are too large, they might remain undercooked after the long cooking time.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables evenly distributed and cut into roughly 1-inch pieces"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in tomato paste, dried thyme, rosemary, bay leaves, salt, and pepper. Tomato paste adds a subtle acidity and depth, balancing the richness of the beef. Herbs infuse the stew with earthy, aromatic notes. Seasoning at this stage ensures flavors meld during the long cook. Don’t be shy with salt; it enhances all the ingredients.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients evenly mixed and tomato paste fully incorporated"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the beef broth until the ingredients are mostly submerged, about 4 cups. The liquid will simmer slowly, breaking down the beef and vegetables to create a thick, flavorful sauce. Too little broth and the stew will dry out; too much and it will be soupy. The right amount ensures a perfect, stew-like consistency after cooking.",
+            "timing": "2 minutes",
+            "doneness_cue": "Ingredients just covered by broth, no dry spots"
+        },
+        {
+            "step": 6,
+            "instruction": "Cover the slow cooker and cook on low for 7-8 hours or on high for 4-5 hours. Slow cooking breaks down tough beef fibers, making the meat tender and the flavors deeply developed. Resist the urge to lift the lid too often as it lowers the temperature and extends cooking time. The low and slow method is what transforms this dish into a melt-in-your-mouth experience.",
+            "timing": "7-8 hours",
+            "doneness_cue": "Beef is fork-tender and vegetables are soft but not mushy"
+        },
+        {
+            "step": 7,
+            "instruction": "About 30 minutes before serving, mix the all-purpose flour with a few tablespoons of cold water to create a smooth slurry. Stir this into the stew to thicken the broth. This step gives the stew a luscious, velvety texture. If you add flour directly, it can clump, so the slurry method is important. Cook uncovered for the final 30 minutes to allow thickening.",
+            "timing": "30 minutes",
+            "doneness_cue": "Broth thickened to a rich, stew-like consistency"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the stew and adjust seasoning with salt and pepper if needed. Fresh herbs can also be added at this stage for a bright finish. This last seasoning check is crucial since flavors can mellow during cooking. Don’t be shy to tweak it to your liking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Balanced seasoning with no overpowering saltiness or blandness"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the stew hot, garnished with chopped fresh parsley for a pop of color and freshness. Pair it with crusty bread or over creamy mashed potatoes to soak up all the delicious sauce. Enjoy the comforting warmth and rich flavors that only slow cooking can provide.",
+            "timing": "0 minutes",
+            "doneness_cue": "Stew steaming hot with vibrant garnish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Slow Cooker Beef Stew Is So Tender and Flavorful",
+        "content": "<p>Slow cooking is all about time and temperature working together to break down tough connective tissues in the beef chuck. The collagen converts into gelatin during the hours of gentle heat, resulting in tender, juicy meat that melts in your mouth rather than being chewy. Browning the beef first triggers Maillard reactions, which develop complex, savory flavors that you simply can’t get from slow cooking alone. This initial caramelization adds depth and a rich aroma to the stew.</p><p>The vegetables play a crucial role too. Carrots, celery, and potatoes not only add texture and nutrition but also absorb the broth's flavors, making each bite satisfying. Adding tomato paste and herbs contributes acidity and aromatic notes that balance the richness of the meat and broth. The long simmering melds these flavors beautifully.</p><p>Thickening the stew with a flour slurry at the end is more than just texture—it helps suspend the flavors and gives the broth a luxurious mouthfeel. Without this step, the stew might feel watery or thin. Finally, seasoning throughout the process ensures that every ingredient shines, and adjusting salt at the end lets you tailor the stew perfectly to your palate.</p><p>Each of these steps, from browning to seasoning, is a deliberate choice that builds layers of flavor and texture, resulting in a comforting, hearty dish that’s perfect for slow cooker cooking.</p>",
+        "ingredient_notes": {
+            "beef chuck": "Look for beef chuck with good marbling; the fat content is key for tenderness and flavor during slow cooking. Chuck is a tougher cut that benefits from long, slow heat to break down connective tissue. Avoid very lean cuts here, as they can dry out. If needed, you can substitute with brisket or short ribs, but cooking times might vary.",
+            "carrots": "Choose firm, brightly colored carrots without soft spots. Their natural sweetness intensifies during slow cooking and balances the savory beef. Cutting them into uniform pieces ensures even cooking so they don’t become mushy or stay too firm.",
+            "tomato paste": "Tomato paste adds concentrated umami and acidity, which brightens the stew and cuts through the richness. Use a good-quality paste without additives. Avoid substituting with ketchup or canned tomatoes, as they alter texture and sweetness.",
+            "all-purpose flour": "Flour acts as a thickening agent when mixed into a slurry with cold water. This prevents lumps and ensures smooth sauce consistency. You can use cornstarch as a gluten-free alternative but add it towards the end to avoid breaking down.",
+            "beef broth": "A rich, well-seasoned beef broth is essential since it forms the stew’s base. Homemade broth yields the best flavor, but a good-quality store-bought broth works fine. Avoid broths with high sodium or artificial flavors, which can overpower the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always brown the beef before slow cooking.",
+            "reason": "Browning triggers Maillard reactions that develop deep, savory flavors. If you skip this, the stew will lack richness and taste flat. Plus, browning seals in juices, keeping the meat moist during the long cook."
+        },
+        {
+            "tip": "Cut vegetables into uniform sizes.",
+            "reason": "Evenly sized pieces cook at the same rate, preventing some veggies from turning mushy while others remain undercooked. This consistency improves both texture and eating experience."
+        },
+        {
+            "tip": "Use a flour slurry to thicken the stew at the end.",
+            "reason": "Adding flour directly can cause clumps. Mixing flour with cold water before stirring it in ensures smooth thickening. It creates a luxurious mouthfeel and helps the broth cling to the meat and veggies."
+        },
+        {
+            "tip": "Season gradually and taste before serving.",
+            "reason": "Salt and herbs develop and mellow over time. Adding seasoning in stages lets you balance flavors perfectly. Adjusting at the end ensures the stew isn’t under- or oversalted."
+        },
+        {
+            "tip": "Don’t lift the slow cooker lid during cooking.",
+            "reason": "Each time you lift the lid, heat escapes, extending cooking time and disrupting the slow simmer. Trust the process for tender results."
+        },
+        {
+            "tip": "Use fresh herbs for garnish.",
+            "reason": "Fresh parsley adds brightness and color that contrasts the rich stew. It enhances aroma and makes the dish feel lighter and more vibrant."
+        },
+        {
+            "tip": "Serve with crusty bread or mashed potatoes.",
+            "reason": "These sides soak up the flavorful broth and complete the meal. They add texture contrast and make the stew more satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step.",
+            "why_it_happens": "Sometimes cooks want to save time or avoid extra dishes, thinking slow cooking alone will build flavor.",
+            "fix": "Take the extra 10 minutes to brown the beef in batches. It’s worth the effort for the richer taste and juicier texture."
+        },
+        {
+            "mistake": "Adding too much liquid.",
+            "why_it_happens": "Beginners often overestimate broth needed to cover ingredients, fearing dryness.",
+            "fix": "Add just enough broth to mostly cover the ingredients. The stew thickens as it cooks, so excess liquid dilutes flavors."
+        },
+        {
+            "mistake": "Not seasoning enough.",
+            "why_it_happens": "Some assume slow cooking intensifies saltiness, so they under-season initially.",
+            "fix": "Season generously at the start and adjust at the end. Taste testing before serving is key to balanced flavors."
+        },
+        {
+            "mistake": "Using vegetables that cook too fast.",
+            "why_it_happens": "Adding delicate veggies like zucchini early can lead to mushiness.",
+            "fix": "Stick to hearty vegetables like carrots, celery, and potatoes that hold up during long cooking. Add quick-cooking veggies near the end if desired."
+        },
+        {
+            "mistake": "Lifting the lid frequently.",
+            "why_it_happens": "Curiosity or impatience leads cooks to check too often.",
+            "fix": "Resist the urge. Each time the lid lifts, heat escapes and cooking time lengthens, affecting texture and flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Red Wine Slow Cooker Beef Stew",
+            "description": "Add 1 cup of dry red wine along with the beef broth for a deeper, more complex flavor. The wine’s acidity tenderizes the meat and adds richness. Expect a slightly more robust and aromatic stew.",
+            "technical_note": "Reduce broth slightly to compensate for added liquid; cook uncovered for last 30 minutes to burn off alcohol."
+        },
+        {
+            "name": "Slow Cooker Beef Stew with Mushrooms",
+            "description": "Include 8 oz sliced mushrooms for an earthy twist. Mushrooms add umami and soak up the stew’s flavors. Add them halfway through cooking to prevent over-softening.",
+            "technical_note": "Add mushrooms after 4 hours on low to maintain texture and avoid mushiness."
+        },
+        {
+            "name": "Spicy Slow Cooker Beef Stew",
+            "description": "Stir in 1 tsp smoked paprika and a pinch of cayenne for a little heat. This variation adds warmth and complexity without overpowering the classic flavors.",
+            "technical_note": "Adjust spice level to taste; add spices with the tomato paste for even flavor distribution."
+        },
+        {
+            "name": "Slow Cooker Beef Stew with Root Vegetables",
+            "description": "Swap some potatoes for turnips, parsnips, or rutabagas for a rustic, earthy flavor. These root veggies add sweetness and texture variety to the stew.",
+            "technical_note": "Cut root veggies into similar sizes as potatoes for even cooking."
+        },
+        {
+            "name": "Gluten-Free Slow Cooker Beef Stew",
+            "description": "Use cornstarch instead of flour to thicken the stew. This keeps it safe for gluten-sensitive eaters without sacrificing texture.",
+            "technical_note": "Add cornstarch slurry in last 15 minutes of cooking to avoid breakdown and thinning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The stew can be safely left out at room temperature for up to 2 hours. Cover it loosely with foil or a lid to avoid contamination.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors deepen overnight, but the potatoes may soften further. Reheat gently to avoid drying out.",
+        "freezer": "Freeze the stew in airtight containers or heavy-duty freezer bags for up to 3 months. Remove as much air as possible to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat, stirring occasionally. Add a splash of broth or water if it becomes too thick. Avoid microwaving too long at high power to prevent uneven heating.",
+        "make_ahead_strategy": "You can prep all ingredients and brown the beef a day ahead. Store everything separately in the fridge and combine in the slow cooker on cooking day for maximum freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different cut of beef for this stew?",
+            "answer": "Yes, but choose cuts suitable for slow cooking like brisket or short ribs. Avoid lean cuts like sirloin as they can become tough and dry. The collagen in chuck breaks down during slow cooking, giving tenderness and flavor."
+        },
+        {
+            "question": "What if I don’t have a slow cooker?",
+            "answer": "You can make this stew on the stovetop or in a Dutch oven by simmering gently for 2.5 to 3 hours until the beef is tender. Keep the pot partially covered and stir occasionally to prevent sticking."
+        },
+        {
+            "question": "How do I prevent the vegetables from becoming mushy?",
+            "answer": "Cut veggies into uniform sizes and add any delicate vegetables later in cooking. For this recipe, hearty vegetables like carrots and potatoes hold up well during the long cook."
+        },
+        {
+            "question": "Can I make this stew in advance?",
+            "answer": "Absolutely! It tastes even better the next day after flavors meld. Store in the fridge and reheat gently before serving. You can also freeze leftovers for later."
+        },
+        {
+            "question": "How thick should the stew be?",
+            "answer": "It should be thick enough to coat a spoon but still spoonable. If it’s too thin, thicken with a flour or cornstarch slurry. If too thick, add a little broth or water when reheating."
+        },
+        {
+            "question": "Is it okay to skip the tomato paste?",
+            "answer": "You can, but tomato paste adds important acidity and umami that balance the stew’s richness. Without it, the stew may taste a bit flat or overly heavy."
+        },
+        {
+            "question": "How do I adjust cooking times for a larger or smaller batch?",
+            "answer": "For larger batches, cooking times remain similar but check for tenderness. Smaller batches may cook faster, so check earlier to avoid overcooking."
+        },
+        {
+            "question": "Can I use fresh herbs instead of dried?",
+            "answer": "Yes! Use about three times the amount of fresh herbs as dried. Add fresh herbs towards the end of cooking or as garnish to preserve their bright flavor."
+        }
+    ],
+    "conclusion": "I hope you give this slow cooker beef stew a try—it’s one of those recipes that feels like a warm hug on a plate. Let me know how it turns out and share your cozy dinner moments!",
+    "seo": {
+        "primary_keyword": "slow cooker beef stew",
+        "secondary_keywords": [
+            "easy beef stew recipe",
+            "comfort food slow cooker",
+            "how to make beef stew",
+            "best slow cooker stew",
+            "hearty slow cooker meals"
+        ],
+        "internal_links": [
+            {
+                "text": "best homemade beef broth",
+                "anchor": "homemade-beef-broth"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_1.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_1.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_2.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_2.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_3.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_3.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_4.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_4.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_7.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_7.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_6.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_6.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_9.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_9.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_8.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_8.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_5.webp",
+            "filePath": "posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_5.webp",
+            "relativePath": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/slow-cooker-dinner-party-recipes-that-impress-without-stress/images/slow-cooker-dinner-party-recipes-that-impress-without-stress_LummyRecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782593499_247",
+    "slug": "slow-cooker-dinner-party-recipes-that-impress-without-stress",
+    "isOnline": true,
+    "createdAt": "2026-06-27T21:53:23+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-27T21:53:23+01:00",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "slow-cooker-dinner-party-recipes-that-impress-without-stress/images",
+    "has_reel": true
+}
