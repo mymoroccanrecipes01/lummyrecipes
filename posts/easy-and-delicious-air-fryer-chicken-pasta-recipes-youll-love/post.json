@@ -100,7 +100,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Creamy Air Fryer Chicken Pasta Works So Well",
-        "content": "<p>Using the air fryer to cook chicken pieces is the secret to juicy, tender bites with a lightly crisped exterior. The high heat circulating air quickly sears the chicken, locking in moisture without the need for excess oil, unlike pan-frying. This method also keeps the chicken flavorful and prevents drying out, which can happen easily with traditional baking or stovetop cooking.</p><p>The sauce’s creaminess comes from carefully reducing the chicken broth and heavy cream mixture before adding cheese. This reduction concentrates flavor and thickens naturally, eliminating the need for flour or starch thickeners that can sometimes create a gluey texture. The gentle simmer allows the sauce to thicken just enough to cling to the pasta beautifully.</p><p>Cooking pasta just shy of al dente before finishing it in the sauce is another key technique. This prevents overcooked, mushy noodles while allowing the pasta to absorb the sauce’s flavor during the final step. Parmesan cheese added off the heat melts smoothly into the sauce, contributing a salty, nutty richness that elevates the whole dish.</p><p>Finally, seasoning at multiple stages—from the chicken to the sauce and the final taste test—ensures balanced flavor. Fresh parsley at the end adds a pop of color and a fresh herbal note that cuts through the richness, making each bite satisfying but not heavy.</p>",
+        "content": "<p>Using the air fryer to cook chicken pieces is the secret to juicy, tender bites with a lightly crisped exterior. The high heat circulating air quickly sears the chicken, locking in moisture without the need for excess oil, unlike pan-frying. This method also keeps the chicken flavorful and prevents drying out, which can happen easily with traditional baking or stovetop cooking.<\/p><p>The sauce’s creaminess comes from carefully reducing the chicken broth and heavy cream mixture before adding cheese. This reduction concentrates flavor and thickens naturally, eliminating the need for flour or starch thickeners that can sometimes create a gluey texture. The gentle simmer allows the sauce to thicken just enough to cling to the pasta beautifully.<\/p><p>Cooking pasta just shy of al dente before finishing it in the sauce is another key technique. This prevents overcooked, mushy noodles while allowing the pasta to absorb the sauce’s flavor during the final step. Parmesan cheese added off the heat melts smoothly into the sauce, contributing a salty, nutty richness that elevates the whole dish.<\/p><p>Finally, seasoning at multiple stages—from the chicken to the sauce and the final taste test—ensures balanced flavor. Fresh parsley at the end adds a pop of color and a fresh herbal note that cuts through the richness, making each bite satisfying but not heavy.<\/p>",
         "ingredient_notes": {
             "chicken breasts": "Choose fresh, boneless skinless chicken breasts for tenderness and quick cooking. Smaller pieces cook evenly in the air fryer and absorb seasonings better. Avoid frozen chicken as it can release moisture and steam rather than crisping.",
             "heavy cream": "Opt for heavy cream with at least 36% fat for a rich, silky sauce. Lower-fat creams won’t thicken as well and may curdle when heated. Heavy cream helps emulsify the sauce and create that luscious texture.",
@@ -266,35 +266,89 @@
     "images": [
         {
             "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
-            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
-            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
-            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
-            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
-            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
-            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_4.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_4.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_5.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_5.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_6.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_6.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_7.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_7.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_8.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_8.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_9.webp",
+            "filePath": "posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_9.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images\/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_LummyRecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1782726675_399",
     "slug": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love",
-    "isOnline": false,
-    "createdAt": "2026-06-29T09:51:15+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-29T12:05:39+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-29T10:55:36+01:00",
+    "updatedAt": "2026-06-29T12:05:39+01:00",
     "category_id": "cat_1761229889_885",
-    "image_dir": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images"
+    "image_dir": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love\/images"
 }

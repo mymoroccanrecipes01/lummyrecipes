@@ -1,0 +1,339 @@
+{
+    "title": "Fresh Air-Fried Salmon Salad with Crisp Cucumbers and Zesty Dressing",
+    "promptIMG": "Food photography: Air-Fried Salmon Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant salad combines crispy air-fried salmon with refreshing cucumbers and a tangy dressing. It’s light but satisfying, perfect for a quick lunch or easy dinner on busy days.",
+    "hashtags": "#saladrecipe #healthylunch #airfriedsalmon",
+    "board_name": "Healthy Salmon Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Crispy Air-Fried Salmon Salad You’ll Love!",
+            "description": "Looking for an easy, fresh salad with crispy salmon? This recipe is ready in under 45 minutes and packed with flavor. Save this for your next healthy meal! 🥗🐟 #saladideas #quickdinner #healthyrecipes"
+        },
+        {
+            "title": "Light & Refreshing Salmon Salad with Crunchy Cucumbers",
+            "description": "This salmon salad is a perfect balance of crispy fish and cool veggies. It’s great for lunch or a light dinner. Try it today and enjoy a burst of fresh flavors! 🥒🍋 #freshsalad #easyrecipes #salmonlove"
+        },
+        {
+            "title": "Healthy Air-Fried Salmon Salad for Busy Weeknights",
+            "description": "Need a nutritious meal fast? This air-fried salmon salad comes together quickly with simple ingredients you’ll love. Discover how easy healthy eating can be! 🐟💚 #weeknightmeals #healthyeating #salmonrecipes"
+        },
+        {
+            "title": "Crispy Salmon Meets Cool Cucumber in This Delicious Salad",
+            "description": "Try this fresh salad featuring crispy air-fried salmon and crunchy cucumbers tossed in a zesty dressing. Perfect for a light yet satisfying meal. Save this recipe now! 🥗✨ #saladrecipe #quickmeals #seafoodsalad"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 salmon fillets, skin on and fresh",
+        "2 medium cucumbers, thinly sliced",
+        "1 tablespoon olive oil",
+        "1 tablespoon lemon juice",
+        "1 teaspoon Dijon mustard",
+        "1 teaspoon honey",
+        "Salt and pepper to taste",
+        "Fresh dill, chopped (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this air-fried salmon salad when I was craving something light but still packed with flavor. The trick I learned was using the air fryer to get the salmon perfectly crispy without extra oil, which keeps things healthy but still satisfying. I love how the cool cucumbers contrast with the warm, flaky salmon. This salad feels fresh and bright thanks to a simple lemony dressing, and it’s super quick to whip up—ideal for when you want a nourishing meal without fuss. I’ve tried other salmon salads before, but the air-frying technique really makes this one stand out with that crispy skin everyone loves. Plus, the dressing is just the right balance of tangy and sweet, tying everything together. It’s become a go-to in my kitchen for busy weeknights or a light lunch that still feels special. The salmon stays juicy inside while crisp on the outside, and the cucumbers add a refreshing crunch that makes each bite enjoyable. Honestly, it’s the kind of dish you want to make again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Pat the salmon fillets dry with paper towels to remove excess moisture. This step is crucial because dry skin crisps up better in the air fryer. If the fish is wet, it steams instead of crisps, resulting in soggy skin. Season both sides with salt and pepper evenly. Let the salmon rest for 5 minutes at room temperature to help it cook evenly. Avoid skipping this step to ensure your salmon cooks through without drying out.",
+            "timing": "10 minutes",
+            "doneness_cue": "Salmon skin looks dry and slightly matte before cooking; fillets feel room temperature"
+        },
+        {
+            "step": 2,
+            "instruction": "Preheat your air fryer to 400°F (200°C) for about 3 minutes. Place the salmon fillets skin-side down in the basket, making sure they don’t overlap. Air fry for 12-15 minutes depending on thickness. The high heat crisps the skin while gently cooking the flesh inside, locking in moisture. Resist the urge to flip prematurely as it can break the skin and cause sticking. The salmon is done when the skin is crispy and the flesh flakes easily with a fork.",
+            "timing": "15 minutes",
+            "doneness_cue": "Skin is golden and crisp; salmon flesh is opaque and flakes easily"
+        },
+        {
+            "step": 3,
+            "instruction": "While the salmon cooks, slice the cucumbers thinly using a mandoline or sharp knife. Thin slices ensure a nice crunch without overwhelming the salad. Place them in a bowl and lightly salt to draw out excess water, then drain after 5 minutes. This prevents the salad from becoming watery and keeps the cucumbers crisp. Pat dry with paper towels before assembling.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cucumber slices feel firm and not soggy; no excess water pooling"
+        },
+        {
+            "step": 4,
+            "instruction": "In a small bowl, whisk together olive oil, lemon juice, Dijon mustard, honey, and a pinch of salt and pepper. This simple dressing balances acidity with a touch of sweetness, which complements the salmon and cucumbers perfectly. Whisk vigorously until emulsified into a smooth, slightly thickened sauce. Taste and adjust seasoning to your preference.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dressing is well combined, glossy, and coats the back of a spoon"
+        },
+        {
+            "step": 5,
+            "instruction": "Combine the drained cucumber slices with the dressing in a large bowl. Toss gently to coat each slice evenly. This step ensures every bite has flavor without drowning the cucumbers. Let it sit for a few minutes to marry the flavors while the salmon finishes cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cucumbers appear glistening but not soggy or overly wet"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the salmon is done, let it rest for 2-3 minutes to redistribute juices. Then, gently flake or slice it into bite-sized pieces, keeping the crispy skin intact as much as possible. Resting prevents the salmon from drying out and keeps it tender and juicy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Salmon flakes easily with a fork, skin remains crisp"
+        },
+        {
+            "step": 7,
+            "instruction": "Add the salmon pieces to the dressed cucumbers and gently fold together. Be careful not to break the salmon too much; you want a nice mix of textures with chunks of crispy skin. This assembly step brings all the flavors and textures together for a balanced salad.",
+            "timing": "3 minutes",
+            "doneness_cue": "Salmon is evenly distributed without falling apart; salad looks vibrant"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle chopped fresh dill over the salad if using. Dill adds a bright herbal note that pairs beautifully with salmon and cucumbers. It’s optional but highly recommended for an extra fresh flavor layer. Give the salad one last gentle toss.",
+            "timing": "2 minutes",
+            "doneness_cue": "Herbs are evenly scattered and salad looks fragrant"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately for best texture, or chill for up to 30 minutes if you prefer a cooler salad. The crisp salmon skin is best fresh, but chilling slightly can enhance the refreshing cucumber flavors. Pair with crusty bread or a light white wine for a perfect meal.",
+            "timing": "0 minutes",
+            "doneness_cue": "Salad is fresh, vibrant, and ready to enjoy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Succeeds",
+        "content": "<p>This recipe works beautifully because it balances texture and flavor through precise cooking techniques and thoughtful ingredient selection. Air-frying the salmon crisps the skin without excess oil, creating a delightful contrast to the tender, juicy flesh inside. This method also preserves the natural flavors of the salmon, avoiding the greasiness that sometimes comes with pan-frying.</p><p>The cucumbers provide a crisp, refreshing counterpoint, and lightly salting them draws out excess moisture, preventing a watery salad. The simple dressing emulsifies lemon juice and olive oil with Dijon mustard and honey, creating a harmonious blend of acidity and sweetness that brightens the entire dish.</p><p>Resting the salmon after cooking allows juices to redistribute, ensuring moistness in every bite. The delicate balance of textures—the crunch of the skin and cucumbers with the softness of the salmon—makes the salad satisfying yet light. The addition of fresh dill introduces an herbal note that lifts the flavors without overpowering them. Altogether, these techniques and ingredient interactions create a vibrant, fresh, and well-rounded salad perfect for any occasion.</p>",
+        "ingredient_notes": {
+            "salmon fillets": "Choose fresh, skin-on salmon fillets for this recipe. Skin-on fillets are essential because the crisp skin adds texture and flavor. Look for firm flesh with a vibrant pink color and no fishy odor. Wild-caught salmon often has a richer flavor, but farmed is fine if fresh. Pat the fillets dry before cooking to help the skin crisp in the air fryer.",
+            "cucumbers": "Use fresh, firm cucumbers—English or Persian cucumbers are ideal because they have fewer seeds and thinner skins, which means less bitterness and more crunch. Slicing them thinly helps maintain a light, crisp texture in the salad. Salting and draining the slices before use prevents the salad from becoming watery.",
+            "olive oil": "Extra virgin olive oil is best for the dressing due to its rich flavor and healthy fats. It emulsifies well with lemon juice and mustard, creating a balanced dressing that coats the ingredients without being greasy. Avoid using light olive oil or other vegetable oils, as they lack the depth of flavor.",
+            "lemon juice": "Freshly squeezed lemon juice is crucial for brightness and acidity. Bottled lemon juice can be too harsh or lack freshness, which affects the dressing’s balance. The acidity helps cut through the richness of the salmon and balances the sweetness of the honey in the dressing.",
+            "Dijon mustard": "Dijon mustard acts as a natural emulsifier in the dressing, helping oil and lemon juice combine smoothly. It also adds a subtle tang and depth of flavor. Use a good quality Dijon for the best taste; avoid spicy or whole-grain mustards as they alter the texture and flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat salmon dry before air frying.",
+            "reason": "Removing moisture from the salmon skin is key to achieving that coveted crispy texture. Moisture causes steaming rather than crisping, so drying the fillets thoroughly ensures the air fryer can create a golden, crackling skin."
+        },
+        {
+            "tip": "Let the salmon rest after cooking.",
+            "reason": "Resting allows the juices to redistribute inside the fish, preventing dryness. Cutting into salmon immediately after cooking can cause the flavorful juices to escape, resulting in a less moist and tender bite."
+        },
+        {
+            "tip": "Salt and drain cucumbers before assembling the salad.",
+            "reason": "Cucumbers contain a lot of water, which can make your salad soggy. Salting draws out excess moisture, and draining or patting dry keeps the salad crisp and fresh, preserving the ideal texture."
+        },
+        {
+            "tip": "Use a whisk to emulsify the dressing.",
+            "reason": "Whisking vigorously combines lemon juice and olive oil into a smooth, stable dressing. This emulsification coats ingredients evenly, enhancing flavor balance and mouthfeel."
+        },
+        {
+            "tip": "Preheat the air fryer before cooking salmon.",
+            "reason": "Preheating ensures the salmon cooks evenly and crisps up right away. Putting fish into a cold air fryer can lead to uneven cooking and less crisp skin."
+        },
+        {
+            "tip": "Avoid flipping the salmon during air frying.",
+            "reason": "Flipping can break the delicate skin, causing it to stick or tear. Cooking skin-side down throughout preserves crispness and presentation."
+        },
+        {
+            "tip": "Add fresh herbs just before serving.",
+            "reason": "Herbs like dill lose their bright flavor and color if added too early. Adding them last keeps their aroma fresh and vibrant, enhancing the salad’s overall appeal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking salmon straight from the fridge without resting.",
+            "why_it_happens": "Many people want to speed up the process and cook salmon immediately, but cold fish cooks unevenly and can dry out on the outside while undercooked inside.",
+            "fix": "Remove the salmon from the fridge 10-15 minutes before cooking to reach room temperature. This ensures even cooking and juicier results."
+        },
+        {
+            "mistake": "Skipping the salting and draining step for cucumbers.",
+            "why_it_happens": "It’s easy to overlook this step or think it’s unnecessary, but cucumbers release water that can dilute the salad’s flavor and texture.",
+            "fix": "Lightly salt the cucumber slices and let them sit for 5 minutes, then drain or pat dry to keep the salad crisp and prevent sogginess."
+        },
+        {
+            "mistake": "Not preheating the air fryer.",
+            "why_it_happens": "Some assume preheating isn’t needed, but starting with a cold air fryer affects cooking time and texture.",
+            "fix": "Always preheat your air fryer for a few minutes before adding salmon to ensure even cooking and crispy skin."
+        },
+        {
+            "mistake": "Overcrowding the air fryer basket.",
+            "why_it_happens": "Trying to cook too many fillets at once can reduce airflow, causing uneven crisping and steaming.",
+            "fix": "Cook salmon in batches if needed, leaving space between fillets for hot air to circulate properly."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh.",
+            "why_it_happens": "Convenience makes bottled lemon juice tempting, but it lacks freshness and can taste harsh or artificial.",
+            "fix": "Always use freshly squeezed lemon juice for bright, natural acidity that balances the dressing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Salmon Salad",
+            "description": "Add a kick by mixing sriracha into the dressing or drizzling it over the salmon before air frying. You’ll get a spicy-sweet flavor that pairs well with the cooling cucumbers.",
+            "technical_note": "Adjust the amount of sriracha to your heat tolerance; too much can overpower the fresh flavors."
+        },
+        {
+            "name": "Avocado and Salmon Power Salad",
+            "description": "Include diced avocado for creamy texture and extra healthy fats. It adds richness that balances the crisp cucumbers and salmon skin beautifully.",
+            "technical_note": "Add avocado just before serving to prevent browning and maintain vibrant color."
+        },
+        {
+            "name": "Asian-Inspired Salmon Salad",
+            "description": "Swap the dressing with soy sauce, rice vinegar, sesame oil, and a touch of honey. Garnish with sliced green onions and sesame seeds for an umami twist.",
+            "technical_note": "Use low-sodium soy sauce to keep the dressing balanced and not too salty."
+        },
+        {
+            "name": "Mediterranean Salmon Salad with Feta",
+            "description": "Toss in crumbled feta, cherry tomatoes, and kalamata olives for a Mediterranean vibe. The salty feta complements the salmon and cucumber perfectly.",
+            "technical_note": "Drain feta well to avoid watering down the salad."
+        },
+        {
+            "name": "Herbed Yogurt Dressing Salmon Salad",
+            "description": "Replace the lemon-olive oil dressing with a creamy yogurt-based one blended with fresh herbs like dill and parsley for a tangy, luscious finish.",
+            "technical_note": "Use Greek yogurt for thickness and strain it if too watery."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "34g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "28g",
+        "fiber_grams": "2g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best served fresh but can sit at room temperature for up to 1 hour if covered. Beyond that, the salmon may lose crispness and the cucumbers might release more water.",
+        "refrigerator": "Store leftovers in an airtight container for up to 2 days. Note that the salmon skin will soften and lose its crisp texture when chilled. You can eat it cold or reheat briefly in an air fryer to restore crispness.",
+        "freezer": "Freezing is not recommended for this salad as the cucumbers and dressing become watery and the salmon texture changes negatively after thawing.",
+        "reheating": "To reheat, place salmon pieces skin-side up in a preheated air fryer at 350°F for 3-4 minutes to crisp skin without overcooking. Avoid microwaving as it makes the skin soggy.",
+        "make_ahead_strategy": "Prepare the dressing and slice cucumbers a day ahead, storing separately. Cook and air-fry salmon on the day of serving for best texture, then assemble just before eating."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen salmon fillets for this recipe?",
+            "answer": "Yes, but thaw them completely in the fridge overnight and pat dry thoroughly before air frying. Cooking from frozen will result in uneven cooking and soggy skin."
+        },
+        {
+            "question": "What if I don’t have an air fryer?",
+            "answer": "You can pan-sear the salmon skin-side down in a non-stick skillet with a little oil until crisp, then finish cooking in the oven. The texture won’t be exactly the same but still delicious."
+        },
+        {
+            "question": "Can I substitute the cucumbers with another vegetable?",
+            "answer": "Yes, thinly sliced zucchini or radishes can work well, offering a similar crunch and freshness. Just salt and drain them like cucumbers to avoid excess moisture."
+        },
+        {
+            "question": "How do I know when the salmon is cooked perfectly?",
+            "answer": "Check that the skin is crispy and golden, and the flesh flakes easily with a fork but is still moist inside. Overcooking makes the salmon dry and less flavorful."
+        },
+        {
+            "question": "Is this salad good for meal prep?",
+            "answer": "Partially. You can prep the cucumbers and dressing ahead, but for best texture, cook the salmon fresh and assemble right before eating to keep the skin crisp."
+        },
+        {
+            "question": "What can I do if the salmon skin sticks to the air fryer basket?",
+            "answer": "Make sure the salmon is dry before cooking and spray the basket lightly with oil. Avoid flipping the salmon mid-cook to minimize sticking."
+        },
+        {
+            "question": "Can I make the dressing sweeter or tangier?",
+            "answer": "Absolutely! Adjust honey for sweetness or add more lemon juice for extra tang. Taste as you go to keep the balance just right."
+        },
+        {
+            "question": "What herbs work best with this salad?",
+            "answer": "Fresh dill is classic and bright, but parsley, chives, or tarragon also complement well. Add herbs just before serving to preserve their fresh flavor."
+        }
+    ],
+    "conclusion": "I hope you give this crisp, fresh salmon salad a try soon—it’s one of my favorites for quick, healthy meals. Let me know how it turns out for you!",
+    "seo": {
+        "primary_keyword": "air-fried salmon salad",
+        "secondary_keywords": [
+            "healthy salmon salad",
+            "easy salmon salad recipe",
+            "how to make salmon salad",
+            "best salmon salad recipe",
+            "quick salmon salad"
+        ],
+        "internal_links": [
+            {
+                "text": "how to air fry salmon perfectly",
+                "anchor": "air-fried-salmon-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_1.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_1.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_2.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_2.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_3.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_3.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_7.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_7.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_4.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_4.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_5.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_5.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_8.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_8.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_6.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_6.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_9.webp",
+            "filePath": "posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_9.webp",
+            "relativePath": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images/air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1782774544_333",
+    "slug": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make",
+    "isOnline": true,
+    "createdAt": "2026-06-30T00:28:51+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-30T00:28:51+01:00",
+    "category_id": "cat_1761230072_178",
+    "image_dir": "air-fryer-salmon-cucumber-salad-thats-light-fresh-and-so-easy-to-make/images",
+    "has_reel": true
+}
