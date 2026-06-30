@@ -1,0 +1,341 @@
+{
+    "title": "Cozy Corn Chowder with Smoky Bacon and Creamy Potatoes",
+    "promptIMG": "Food photography: Cozy Corn Chowder with Smoky Bacon and Creamy Potatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This corn chowder is like a warm hug on a chilly day. The sweet corn and creamy potatoes blend perfectly with smoky bacon for a hearty, comforting meal. Great for easy weeknight dinners or casual family gatherings.",
+    "hashtags": "#cornchowder #comfortfood #easyrecipes",
+    "board_name": "Comfort Food Soups",
+    "pin_variations": [
+        {
+            "title": "Warm Up with This Creamy Corn Chowder Recipe",
+            "description": "Craving something cozy? This creamy corn chowder with smoky bacon is just the ticket. Easy to make and perfect for chilly nights. Save this recipe and try it today! 🥣🔥 #cornchowder #comfortfood #souprecipes #easymeals"
+        },
+        {
+            "title": "How to Make the Best Corn Chowder with Bacon",
+            "description": "Discover the secret to a rich, flavorful corn chowder loaded with tender potatoes and crispy bacon. It’s a family favorite that’s simple to whip up. Don’t miss out—give it a go! 🌽🥓 #cornrecipes #chowderlove #easycomfortfood"
+        },
+        {
+            "title": "Simple Corn Chowder with Smoky Bacon for Busy Nights",
+            "description": "Need a quick, hearty dinner? This corn chowder is creamy, smoky, and packed with fresh corn and potatoes. Perfect for busy weeknights or lazy weekends. Try it now and enjoy! 🍲✨ #quickdinner #cornchowder #homemadesoup"
+        },
+        {
+            "title": "Easy Homemade Corn Chowder That Everyone Will Love",
+            "description": "Nothing beats this creamy corn chowder with smoky bacon on a cold day. It’s comforting, easy, and ready in under an hour. Save this recipe and make it your new go-to! ❤️🌽 #comfortmeals #cornchowderrecipe #souplovers"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 cups fresh corn kernels (about 6 ears)",
+        "4 slices thick-cut bacon, diced",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "3 medium Yukon Gold potatoes, peeled and diced",
+        "4 cups chicken broth",
+        "1 cup heavy cream",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons unsalted butter",
+        "Salt and freshly ground black pepper, to taste",
+        "2 tablespoons chopped fresh parsley (optional)"
+    ],
+    "yield": "Approximately 6 cups, serves 4",
+    "introduction": "I first stumbled upon this corn chowder recipe on a chilly fall evening when I wanted something simple but satisfying. The combination of sweet corn and creamy potatoes always feels like a hug in a bowl. What makes my version a little different? I add smoky bacon right at the start to build a deep flavor base. Plus, I use Yukon Gold potatoes because they hold their shape well and add a lovely buttery texture. I’ve had my share of chowders that turned out too watery or bland, but the trick I learned is to cook the flour into the butter first, creating a roux that thickens the soup perfectly without lumps. The end result is a chowder that’s rich, cozy, and just the right balance between creamy and chunky. It’s my go-to for casual dinners or when friends come over and everyone wants something warm and comforting without fuss. Honestly, it's one of those recipes that makes you want to curl up with a good book or share stories around the table.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cooking the diced bacon in a large pot over medium heat until it's crispy and golden. This step is crucial because the rendered bacon fat adds a smoky, savory depth to the chowder. Be sure to stir occasionally to prevent burning, and once done, transfer the bacon to a paper towel-lined plate to drain, leaving the fat in the pot for the next steps.",
+            "timing": "8 minutes",
+            "doneness_cue": "Bacon pieces are crisp and browned, fat rendered and shimmering in the pot"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onion to the bacon fat and sauté over medium heat until translucent and soft, about 5 minutes. This gentle cooking releases the onion's natural sweetness, which balances the smoky bacon flavor. Avoid browning the onions too much here, as that could overpower the chowder.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are soft and translucent, no browning or burning"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the minced garlic and cook for about 30 seconds until fragrant. Garlic cooks quickly and adds a subtle aromatic layer that complements the other flavors. Be careful not to burn it, as burnt garlic tastes bitter.",
+            "timing": "30 seconds",
+            "doneness_cue": "Garlic aroma is noticeable without any burnt smell"
+        },
+        {
+            "step": 4,
+            "instruction": "Next, melt the butter in the pot and sprinkle the flour over the onion and garlic mixture. Stir constantly for about 2 minutes to cook out the raw flour taste and form a roux. This step is key for thickening the chowder later. If you skip it or rush, the soup might end up thin or have a pasty texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Roux looks smooth and slightly golden, no lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly whisk in the chicken broth, making sure to scrape up any browned bits from the bottom of the pot. This adds flavor and prevents lumps. Bring the mixture to a simmer; this gradual heating helps the starches in the roux activate and thicken the liquid.",
+            "timing": "5 minutes",
+            "doneness_cue": "Soup base is smooth and begins to thicken slightly"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the diced potatoes and corn kernels to the pot. Simmer gently, uncovered, until the potatoes are tender but still hold their shape, about 15 minutes. Stir occasionally to prevent sticking. Overcooking can cause the potatoes to break down and make the chowder too thick or mushy.",
+            "timing": "15 minutes",
+            "doneness_cue": "Potatoes are fork-tender but intact, soup has thickened nicely"
+        },
+        {
+            "step": 7,
+            "instruction": "Reduce the heat to low and stir in the heavy cream. This adds richness and smoothness to the chowder. Heat just until warmed through—avoid boiling to prevent the cream from curdling or separating.",
+            "timing": "3 minutes",
+            "doneness_cue": "Soup is creamy and heated evenly, no boiling bubbles"
+        },
+        {
+            "step": 8,
+            "instruction": "Return the cooked bacon to the pot and stir to combine. This reintroduces the smoky crunch and flavor throughout the chowder. Taste and season with salt and freshly ground black pepper as needed. Seasoning at the end lets you control the final flavor balance.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bacon is evenly distributed and soup is well-seasoned"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the chowder hot, garnished with chopped fresh parsley if you like. The parsley adds a fresh brightness that cuts through the richness. Enjoy with crusty bread for a complete, comforting meal.",
+            "timing": "Immediate",
+            "doneness_cue": "Soup is steaming hot with vibrant garnish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Corn Chowder Is So Comforting",
+        "content": "<p>The secret to a perfect corn chowder lies in balancing textures and flavors—sweet corn, creamy potatoes, and smoky bacon all play distinct roles. The bacon fat is rendered first to infuse the base with a deep smoky richness that elevates the entire dish. Cooking the onions slowly in that fat extracts natural sweetness without overpowering the soup. Then, making a roux with butter and flour is essential; it thickens the chowder smoothly without lumps, giving it that classic creamy texture.</p><p>Using Yukon Gold potatoes is a smart choice because they hold their shape better during simmering than starchy russets. This keeps the chowder chunky and satisfying rather than turning it into a puree. The corn kernels add bursts of natural sweetness and a bit of crunch, contrasting beautifully with the smooth broth.</p><p>Adding heavy cream at the end enriches the chowder without curdling, thanks to gentle heating. This final step ensures the chowder is luxuriously smooth but still light enough to savor. The warming herbs like parsley brighten each spoonful, balancing the richness perfectly.</p><p>Overall, this recipe succeeds because it layers flavors thoughtfully and respects ingredient textures. Each technique—from rendering bacon fat to making the roux—has a purpose, creating a deeply comforting and well-rounded chowder every time.</p>",
+        "ingredient_notes": {
+            "bacon": "Look for thick-cut, smoky bacon for the best flavor impact. The fat renders out and infuses the soup base, so avoid lean bacon that won’t provide enough fat. You can substitute pancetta for a less smoky but still rich flavor. Cook slowly to crisp without burning, which would add bitterness.",
+            "fresh corn kernels": "Fresh corn is ideal here for sweetness and texture. If using frozen, thaw and drain well to avoid watering down the chowder. Fresh corn adds a natural crunch and bright flavor that canned corn can’t match. Cut kernels off the cob carefully to avoid including tough cob bits.",
+            "Yukon Gold potatoes": "These potatoes are perfect because they’re waxy enough to hold shape yet creamy when cooked. Avoid starchy russets which can break down and make the chowder gluey. Peel for a smooth texture and dice evenly for uniform cooking.",
+            "all-purpose flour": "Flour is used to make a roux that thickens the soup. Cook it with butter to remove the raw taste and create a smooth base. Using too much flour or skipping the cooking step can cause lumps or a pasty flavor. Gluten-free flour blends can work but may alter texture.",
+            "heavy cream": "Heavy cream adds richness and smoothness without thinning the chowder. Avoid milk or half-and-half which can curdle when heated. Add cream off the heat or at low temperature to keep it stable. It also helps mellow the smoky bacon flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Render bacon slowly over medium heat to get maximum flavor without burning.",
+            "reason": "Slow rendering allows the fat to melt out gently, infusing the soup base with smoky richness. Rushing or using high heat can burn the bacon fat, imparting bitterness and ruining the chowder's flavor."
+        },
+        {
+            "tip": "Make a roux by cooking flour with butter before adding broth to avoid lumps.",
+            "reason": "The roux acts as a thickening agent and cooking the flour removes its raw taste. Adding broth gradually while whisking ensures a smooth, creamy chowder texture without clumps."
+        },
+        {
+            "tip": "Use Yukon Gold potatoes for the perfect balance of creamy texture and shape retention.",
+            "reason": "These potatoes hold their shape during simmering, preventing the chowder from becoming gluey while still adding creaminess. Russets or other starchy potatoes break down too much."
+        },
+        {
+            "tip": "Add cream at the end over low heat to prevent curdling.",
+            "reason": "Cream can separate if boiled or heated too high. Gently warming it preserves the smooth texture and rich mouthfeel of the chowder."
+        },
+        {
+            "tip": "Season the chowder at the end after adding bacon and cream.",
+            "reason": "This allows you to adjust salt and pepper accurately, since bacon and cream both add richness and saltiness that can change the final flavor."
+        },
+        {
+            "tip": "Don’t overcook the potatoes; they should be tender but intact.",
+            "reason": "Overcooking causes potatoes to break down and thicken the chowder too much, making it gummy instead of chunky and satisfying."
+        },
+        {
+            "tip": "Use fresh corn kernels off the cob for the best flavor and texture.",
+            "reason": "Fresh corn provides natural sweetness and a pleasant crunch. Frozen or canned corn lacks this brightness and can water down the soup."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the roux and adding flour directly to the broth",
+            "why_it_happens": "Many cooks assume flour can be added straight to liquid, but this often leads to lumps and raw flour taste.",
+            "fix": "Always cook flour with butter first to form a roux. This step removes the raw flavor and ensures smooth thickening when liquid is added gradually."
+        },
+        {
+            "mistake": "Cooking bacon too fast on high heat",
+            "why_it_happens": "Rushing bacon to crispiness often burns the fat, leading to bitterness.",
+            "fix": "Render bacon slowly over medium heat until golden and crisp. This extracts maximum flavor without burning."
+        },
+        {
+            "mistake": "Using starchy potatoes like russets",
+            "why_it_happens": "Russets break down quickly and can make the chowder gluey.",
+            "fix": "Choose Yukon Gold or other waxy potatoes that hold their shape and provide creamy texture."
+        },
+        {
+            "mistake": "Boiling the chowder after adding cream",
+            "why_it_happens": "High heat causes cream to curdle or separate.",
+            "fix": "Add cream off the heat or over very low heat, stirring gently to combine."
+        },
+        {
+            "mistake": "Not seasoning at the end",
+            "why_it_happens": "Adding salt too early can lead to over-seasoning once bacon and cream are added.",
+            "fix": "Taste and adjust seasoning after all ingredients are combined for balanced flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Jalapeño Corn Chowder",
+            "description": "Add diced jalapeños when cooking onions for a spicy kick. Top with a squeeze of lime and cilantro for a fresh twist. This variation adds heat and brightness while keeping the creamy base intact.",
+            "technical_note": "Adjust cooking time slightly to soften jalapeños without losing their flavor."
+        },
+        {
+            "name": "Vegetarian Corn Chowder",
+            "description": "Skip the bacon and use olive oil or butter instead. Add smoked paprika for a smoky flavor. Use vegetable broth to keep it meat-free but still full of taste.",
+            "technical_note": "Omit bacon fat rendering and adjust seasoning to compensate for missing smokiness."
+        },
+        {
+            "name": "Cheesy Corn Chowder",
+            "description": "Stir in sharp cheddar cheese at the end for extra richness and tang. This makes the chowder even more indulgent and perfect for cheese lovers.",
+            "technical_note": "Add cheese off heat to prevent curdling and stir until melted smooth."
+        },
+        {
+            "name": "Corn and Sweet Potato Chowder",
+            "description": "Replace half the potatoes with diced sweet potatoes for a sweeter, earthier flavor. This adds color and a lovely natural sweetness to the chowder.",
+            "technical_note": "Cook sweet potatoes slightly longer as they take more time to soften."
+        },
+        {
+            "name": "Corn Chowder with Fresh Herbs",
+            "description": "Mix in chopped thyme and rosemary during the onion sauté for an herbaceous note. Finish with fresh chives or parsley for a fragrant, fresh finish.",
+            "technical_note": "Be careful not to overpower the chowder; use herbs sparingly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Corn chowder can safely sit out for up to 2 hours. Cover it loosely with a lid or foil to keep dust and insects away, but avoid leaving it out longer to prevent bacterial growth.",
+        "refrigerator": "Store leftover chowder in an airtight container for up to 4 days. The flavor may deepen but the potatoes can absorb liquid and thicken the soup. Reheat gently on the stove, adding a splash of broth or cream if needed to loosen.",
+        "freezer": "Freeze chowder in airtight, freezer-safe containers for up to 3 months. Leave some headspace for expansion. Thaw overnight in the refrigerator before reheating. Texture may change slightly, so stir well and add liquid if it thickens too much.",
+        "reheating": "Reheat chowder over low to medium heat on the stove, stirring frequently to prevent scorching. Add a splash of broth or cream to restore a creamy consistency. Avoid microwaving at high power to prevent curdling or uneven heating.",
+        "make_ahead_strategy": "You can prepare the chowder base (without cream) 1-2 days ahead and refrigerate. Add cream and bacon just before reheating and serving to keep flavors fresh and textures perfect."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen corn instead of fresh?",
+            "answer": "Yes, frozen corn works well but make sure to thaw and drain it thoroughly to prevent excess water from diluting the chowder. Fresh corn offers a sweeter, crisper texture, but frozen is a convenient alternative."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half or whole milk, but the chowder will be less rich and might be slightly thinner. To avoid curdling, add dairy slowly over low heat and consider stirring in a bit of cornstarch slurry to thicken."
+        },
+        {
+            "question": "How do I make this chowder gluten-free?",
+            "answer": "Substitute the all-purpose flour with a gluten-free flour blend or cornstarch. If using cornstarch, mix it with cold liquid and add towards the end of cooking to thicken. Avoid regular flour to keep it gluten-free."
+        },
+        {
+            "question": "Can I make this chowder vegetarian?",
+            "answer": "Absolutely! Omit the bacon and use vegetable broth instead of chicken broth. To mimic the smoky flavor, add smoked paprika or liquid smoke carefully. Sauté onions in olive oil or butter for richness."
+        },
+        {
+            "question": "Why is my chowder too thin?",
+            "answer": "If the chowder is thin, it might be from skipping the roux or adding too much liquid. Make sure to cook the flour with butter first to thicken properly and simmer long enough for potatoes to release starches."
+        },
+        {
+            "question": "How can I make the chowder spicier?",
+            "answer": "Add diced jalapeños or a pinch of cayenne pepper when cooking the onions. You can also top with hot sauce or red pepper flakes when serving for adjustable heat."
+        },
+        {
+            "question": "Can I prepare this recipe in a slow cooker?",
+            "answer": "Yes, you can cook the ingredients (except cream and bacon) in a slow cooker on low for 4-6 hours. Add cream and cooked bacon at the end to maintain texture and flavor."
+        },
+        {
+            "question": "What’s the best bread to serve with this chowder?",
+            "answer": "Crusty bread like a baguette or sourdough pairs wonderfully, perfect for dipping. The bread’s texture contrasts nicely with the creamy chowder and helps soak up every bit."
+        }
+    ],
+    "conclusion": "I hope you give this cozy corn chowder a try soon—it’s become such a comforting staple in my kitchen. Don’t forget to share how it turns out for you!",
+    "seo": {
+        "primary_keyword": "corn chowder recipe",
+        "secondary_keywords": [
+            "easy corn chowder",
+            "creamy corn chowder",
+            "how to make corn chowder",
+            "best corn chowder recipe",
+            "comfort food soup"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade potato soup",
+                "anchor": "homemade-potato-soup"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_1.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_2.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_3.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "filePath": "posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "relativePath": "classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/classic-corn-chowder-recipe-that-warms-you-right-up/images/classic-corn-chowder-recipe-that-warms-you-right-up_LummyRecipes_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1782860956_307",
+    "slug": "classic-corn-chowder-recipe-that-warms-you-right-up",
+    "isOnline": true,
+    "createdAt": "2026-07-01T00:28:36+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-01T00:28:36+01:00",
+    "image_dir": "classic-corn-chowder-recipe-that-warms-you-right-up/images",
+    "has_reel": true
+}
