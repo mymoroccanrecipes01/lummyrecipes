@@ -1,0 +1,356 @@
+{
+    "title": "Easy and Flavorful Vegan Stir Fry with Soy Ginger Sauce",
+    "promptIMG": "Food photography: Vegan Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vegan stir fry is my go-to for busy nights — packed with fresh veggies and a tangy soy-ginger sauce that’s super simple to whip up. Perfect when you want something healthy and satisfying without fuss.",
+    "hashtags": "#veganstirfry #plantbaseddinner #quickmeals",
+    "board_name": "Easy Vegan Dinners",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Quick Vegan Stir Fry Tonight!",
+            "description": "Need a fast, healthy dinner? This vegan stir fry with fresh veggies and zesty soy-ginger sauce is ready in 30 minutes. Save this recipe and try it today for a tasty weeknight win! 🥦🍜 #veganrecipes #quickdinner #plantbased"
+        },
+        {
+            "title": "Healthy Vegan Stir Fry That’s Ready in 30 Minutes",
+            "description": "Looking for an easy vegan dinner? This stir fry bursts with flavor thanks to a simple soy-ginger sauce and crisp veggies. Discover this quick meal that’s perfect for busy evenings! 🌱🔥 #veganstirfry #healthyeats #easyrecipes"
+        },
+        {
+            "title": "Simple Vegan Stir Fry with a Delicious Soy Ginger Twist",
+            "description": "This vibrant vegan stir fry is packed with fresh veggies and a tangy soy-ginger sauce that makes it so flavorful. Try it tonight and enjoy a wholesome, fuss-free dinner! 🍽️✨ #veganmeals #stirfryrecipe #quickandeasy"
+        },
+        {
+            "title": "Your New Favorite Vegan Stir Fry Recipe Awaits!",
+            "description": "Craving something healthy and tasty? This vegan stir fry combines crisp veggies with a mouthwatering soy-ginger sauce. Save this recipe and make it your new weeknight favorite! 🥕🌿 #plantbased #veganstirfry #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 red bell pepper, thinly sliced",
+        "1 cup broccoli florets",
+        "1 cup snap peas",
+        "1 medium carrot, julienned",
+        "1 block (14 oz) firm tofu, pressed and cubed",
+        "3 tablespoons soy sauce",
+        "1 tablespoon maple syrup or agave",
+        "1 teaspoon toasted sesame oil",
+        "1 tablespoon rice vinegar",
+        "1 teaspoon cornstarch mixed with 2 tablespoons water",
+        "Cooked rice or noodles, for serving",
+        "Sesame seeds and sliced green onions, for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this vegan stir fry recipe on one of those hectic weeknights when I just wanted something quick, tasty, and healthy. What I love about this dish is how it transforms simple veggies and tofu with a punchy soy-ginger sauce that’s both sweet and savory. Over time, I tweaked the sauce to hit just the right balance, adding a touch of maple syrup for subtle sweetness and a splash of rice vinegar for brightness. The trick I learned? Pressing the tofu really well before cooking helps it crisp up beautifully instead of getting soggy. Plus, I always make sure to cook the veggies just enough so they stay crisp and vibrant, giving the stir fry a nice texture contrast. It’s a vibrant dish with fresh colors and bold flavors that feels light but satisfying. Perfect for those nights when you want a wholesome meal but don’t want to spend ages in the kitchen. Honestly, it’s become a family favorite — even my non-vegan friends love it. If you’re looking for a fuss-free plant-based dinner that’s packed with flavor, this one’s a winner!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pressing your tofu to remove excess moisture — this is key for getting a crispy texture when you cook it. Wrap the tofu block in a clean kitchen towel or paper towels and place a heavy object on top for at least 15 minutes. This step prevents the tofu from steaming instead of frying, which would make it mushy rather than crisp.",
+            "timing": "15 minutes",
+            "doneness_cue": "Tofu feels firm and dry to the touch after pressing"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat. Once hot, add the cubed tofu in a single layer. Let it cook undisturbed for about 4-5 minutes until the bottom is golden brown and crispy. Then flip and cook other sides. Avoid stirring too often to allow proper browning, which adds great flavor and texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tofu pieces are evenly golden and crisp on all sides"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove tofu and set aside. In the same pan, add the remaining tablespoon of oil and toss in minced garlic and grated ginger. Stir for about 30 seconds until fragrant — this infuses the oil and is the flavor base for your sauce. Be careful not to burn the garlic as it will turn bitter.",
+            "timing": "1 minute",
+            "doneness_cue": "Aromatic garlic-ginger scent fills the kitchen"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the sliced red bell pepper, broccoli florets, snap peas, and julienned carrot to the pan. Stir-fry the veggies over medium-high heat for 4-5 minutes until tender-crisp. This quick cooking helps retain their bright color and fresh crunch, which makes the dish lively and enjoyable to eat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are bright, slightly softened but still crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "While the veggies cook, whisk together soy sauce, maple syrup, toasted sesame oil, and rice vinegar in a small bowl. This blend balances salty, sweet, nutty, and tangy notes, giving the stir fry its signature flavor. Set aside.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is smooth and well combined"
+        },
+        {
+            "step": 6,
+            "instruction": "Return the tofu to the pan and pour the soy sauce mixture over everything. Stir well to coat the tofu and veggies evenly. This step melds all the flavors together and heats the tofu through without drying it out.",
+            "timing": "2 minutes",
+            "doneness_cue": "Ingredients glisten with sauce and aroma intensifies"
+        },
+        {
+            "step": 7,
+            "instruction": "Stir in the cornstarch slurry to the pan and cook for another 1-2 minutes, stirring constantly. The cornstarch thickens the sauce, giving it a nice glossy finish that clings to the tofu and veggies. Without this, the sauce would be too thin and watery.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce thickens and coats the ingredients evenly"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and sprinkle with sesame seeds and sliced green onions for a fresh crunch and nutty flavor. These finishing touches add texture and a pop of color that makes the dish more inviting.",
+            "timing": "1 minute",
+            "doneness_cue": "Garnishes evenly distributed and vibrant"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the stir fry hot over cooked rice or your favorite noodles. The warm base soaks up the flavorful sauce perfectly, making each bite satisfying. This meal comes together quickly but feels like you spent hours crafting it.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish served steaming with balanced colors and textures"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Stir Fry Is So Delicious",
+        "content": "<p>One of the main reasons this vegan stir fry works so well is the balance of textures and flavors. Pressing the tofu removes excess water, allowing it to crisp up nicely instead of steaming. This creates a satisfying contrast between the crispy tofu and tender-crisp vegetables. The soy-ginger sauce combines salty, sweet, tangy, and nutty elements, which together create a complex and inviting flavor profile that elevates simple ingredients.</p><p>Cooking the veggies quickly over high heat preserves their bright colors and natural crunch, which is essential for a stir fry’s lively texture. The addition of cornstarch slurry at the end thickens the sauce so it clings well, preventing the dish from being watery and helping every bite stay flavorful. This technique also gives the sauce a glossy, appealing finish.</p><p>Using fresh garlic and ginger infuses the oil early in the cooking process, releasing their aromas and flavors fully. This step forms the foundation of the dish’s flavor, making it taste vibrant and fresh. The finishing garnishes — sesame seeds and green onions — add not just texture but also a nutty and sharp note that brightens the whole dish.</p><p>Overall, this recipe’s success lies in simple but intentional steps that maximize flavor, texture, and appearance, making it a satisfying vegan meal that feels anything but basic.</p>",
+        "ingredient_notes": {
+            "tofu": "Choose firm or extra-firm tofu for this recipe, as it holds its shape and crisps up well when cooked. Pressing the tofu before cooking is crucial to remove moisture, which otherwise causes sogginess. If pressed properly, the tofu develops a golden crust that adds texture and absorbs the sauce better. Silken tofu or soft tofu won't work here as they fall apart easily.",
+            "soy sauce": "Use a good quality soy sauce, preferably low sodium if you want to control saltiness. It provides the salty, umami backbone of the sauce. Dark soy sauce can be substituted for a deeper color and richer flavor, but regular soy sauce keeps the taste balanced and light. Avoid using too much soy sauce to prevent overpowering the dish.",
+            "fresh ginger": "Fresh ginger adds a bright, slightly spicy warmth that elevates the stir fry. Grating it finely releases its oils and flavor more effectively than slicing. Avoid ground ginger as it lacks the fresh, vibrant aroma. Ginger also aids digestion and adds a refreshing contrast to the richness of the soy sauce.",
+            "cornstarch": "Cornstarch acts as a thickening agent, creating a luscious sauce that clings to the tofu and veggies. Mixing it with cold water before adding prevents lumps. If you skip this step, the sauce will be thin and watery, diminishing the overall mouthfeel. Tapioca starch or arrowroot can be used as alternatives but might vary slightly in thickening power.",
+            "vegetables": "The choice of fresh, crisp vegetables like bell peppers, broccoli, snap peas, and carrots ensures a variety of textures and colors. Using fresh and firm veggies is important for that perfect tender-crisp bite. Frozen veggies can be used but might release more water, making the dish soggy if not cooked carefully."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press your tofu thoroughly before cooking.",
+            "reason": "Removing excess water from tofu prevents it from steaming during cooking, which keeps it firm and allows it to develop a crispy exterior. If you skip pressing, the tofu will likely be soggy and less flavorful, as it can’t brown properly."
+        },
+        {
+            "tip": "Cook vegetables over high heat but don’t overcook.",
+            "reason": "High heat helps veggies retain their bright colors and crunchy texture, essential for an enjoyable stir fry. Overcooking makes them mushy and dulls their flavor, so aim for tender-crisp to keep the dish vibrant."
+        },
+        {
+            "tip": "Add the cornstarch slurry at the end of cooking.",
+            "reason": "This step thickens the sauce, giving it a nice glossy texture that sticks to the ingredients. Adding it too early can cause clumping or an overly thick sauce, while skipping it leaves the sauce watery and less satisfying."
+        },
+        {
+            "tip": "Use fresh grated ginger instead of powdered.",
+            "reason": "Fresh ginger provides a bright, zesty flavor and aroma that powder can’t match. It also releases essential oils when grated, which infuse the dish with a fresh warmth that enhances all the other flavors."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when frying tofu.",
+            "reason": "Crowding traps moisture and causes the tofu to steam instead of crisp. Cooking in batches if needed ensures even browning and a better texture."
+        },
+        {
+            "tip": "Use a wok or large skillet for best results.",
+            "reason": "A wok’s high sides allow for easy tossing and even heat distribution, helping ingredients cook quickly and uniformly. A large skillet works too but make sure it’s hot and roomy."
+        },
+        {
+            "tip": "Serve immediately for best texture.",
+            "reason": "Stir fry tastes best fresh off the stove when veggies are crisp and tofu is still crunchy. Letting it sit can cause the sauce to thicken too much and veggies to soften undesirably."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not pressing the tofu enough",
+            "why_it_happens": "Many people overlook pressing tofu because it feels like an extra step, or they don’t realize how much water it contains. This leads to soggy tofu that won’t crisp up.",
+            "fix": "Wrap the tofu block tightly in a clean towel and place a heavy object on top for at least 15 minutes. This removes excess moisture and ensures the tofu fries up crispy and golden."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "In the rush to finish, some cooks leave veggies in the pan too long, resulting in limp, dull-colored vegetables.",
+            "fix": "Stir-fry veggies over high heat just until tender-crisp, usually 4-5 minutes. They should still have a little crunch and bright color."
+        },
+        {
+            "mistake": "Adding sauce too early",
+            "why_it_happens": "Some add the sauce before veggies are cooked, which can make the dish watery and prevent proper caramelization.",
+            "fix": "Cook veggies first, then add sauce and tofu near the end. This keeps flavors concentrated and ingredients properly textured."
+        },
+        {
+            "mistake": "Skipping cornstarch slurry",
+            "why_it_happens": "People sometimes forget the slurry or think it’s optional, but it’s essential for sauce texture.",
+            "fix": "Mix cornstarch with cold water separately and add at the end of cooking, stirring constantly to avoid lumps and achieve a glossy, thick sauce."
+        },
+        {
+            "mistake": "Crowding the pan when frying tofu",
+            "why_it_happens": "Trying to cook all tofu at once to save time traps steam and prevents browning.",
+            "fix": "Cook tofu in batches with space between pieces, allowing them to crisp evenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Vegan Stir Fry",
+            "description": "Add a teaspoon of chili paste or red pepper flakes to the sauce for a spicy kick. You can also toss in sliced jalapeños or a dash of sriracha before serving. Expect a fiery, bold flavor that livens up the dish without overpowering the veggies.",
+            "technical_note": "Adjust cooking time slightly if adding fresh chilies to soften them, but keep veggies crisp."
+        },
+        {
+            "name": "Peanut Sauce Stir Fry",
+            "description": "Swap the soy-ginger sauce for a creamy peanut sauce made with peanut butter, soy sauce, lime juice, and a touch of maple syrup. This gives the dish a rich, nutty flavor and creamy texture that pairs wonderfully with the tofu and veggies.",
+            "technical_note": "Thin the peanut sauce with warm water to get the right consistency for coating the stir fry."
+        },
+        {
+            "name": "Tofu and Mushroom Stir Fry",
+            "description": "Add sliced mushrooms like shiitake or cremini to the vegetable mix for an earthy depth of flavor. Mushrooms soak up the sauce beautifully, making the dish heartier and more umami-rich.",
+            "technical_note": "Cook mushrooms first until browned before adding other veggies to prevent excess moisture."
+        },
+        {
+            "name": "Gluten-Free Stir Fry",
+            "description": "Use tamari or coconut aminos instead of soy sauce to make the recipe gluten-free. This swap keeps the flavor balanced while accommodating gluten sensitivities without compromising taste.",
+            "technical_note": "Check that all other ingredients, like any pre-made sauces, are also gluten-free."
+        },
+        {
+            "name": "Stir Fry with Cashews",
+            "description": "Toss in a handful of roasted cashews at the end for added crunch and a buttery flavor. Cashews complement the soy-ginger sauce and add a nice textural contrast to the vegetables and tofu.",
+            "technical_note": "Add cashews right before serving to keep them crunchy."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "15g",
+        "fiber_grams": "6g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep this stir fry at room temperature for up to 2 hours if covered to prevent drying out. Beyond that, bacteria growth increases, so it’s best to refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The veggies may soften a bit, and tofu can lose some crispness. Reheat gently to preserve texture or enjoy cold as a salad topping.",
+        "freezer": "Freeze the stir fry in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating. Expect some texture changes, especially in the veggies, which may become softer.",
+        "reheating": "Reheat gently in a skillet over medium heat, adding a splash of water or broth to loosen the sauce if needed. Avoid microwaving too long to prevent sogginess. Stir frequently and heat until warmed through.",
+        "make_ahead_strategy": "You can press and cube tofu up to 1 day ahead and store it wrapped in the fridge. Chop all vegetables the day before and store in airtight containers. Make the sauce in advance and combine everything just before cooking for a quick assembly."
+    },
+    "faq": [
+        {
+            "question": "Can I use other proteins instead of tofu?",
+            "answer": "Absolutely! Tempeh or seitan work well as plant-based alternatives, but cooking times may vary. Tempeh benefits from steaming before frying to reduce bitterness, while seitan cooks quickly and crisps easily. Just adjust the cooking time to ensure proper texture."
+        },
+        {
+            "question": "What if I don’t have fresh ginger?",
+            "answer": "Fresh ginger is best for flavor, but you can substitute with 1/4 teaspoon ground ginger in a pinch. The flavor won’t be as bright or fresh, so consider adding a splash of lemon juice or lime to brighten the dish."
+        },
+        {
+            "question": "How do I make this stir fry gluten-free?",
+            "answer": "Swap regular soy sauce for tamari or coconut aminos, which are gluten-free. Make sure any other pre-made sauces or ingredients are also gluten-free. This maintains the dish’s umami flavor without gluten."
+        },
+        {
+            "question": "Can I prepare this dish entirely ahead of time?",
+            "answer": "You can prep tofu and veggies ahead, but it’s best to cook and combine everything right before serving to preserve freshness and texture. Stir fry loses its crispness and vibrant color when stored cooked for long periods."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently in a skillet over medium heat with a splash of water or broth to loosen the sauce. Avoid overheating or microwaving too long to prevent soggy veggies and tofu."
+        },
+        {
+            "question": "Can I use frozen vegetables?",
+            "answer": "Yes, but frozen veggies release more water and may make the stir fry soggy. If using frozen, thaw and drain them well before cooking and reduce added liquids to keep the sauce from becoming watery."
+        },
+        {
+            "question": "How do I make the tofu extra crispy?",
+            "answer": "Press tofu thoroughly, use a hot pan with enough oil, and avoid overcrowding. Cook undisturbed on each side until golden before flipping. For extra crispness, dust tofu cubes lightly with cornstarch before frying."
+        },
+        {
+            "question": "Can I add nuts or seeds to this recipe?",
+            "answer": "Definitely! Toasted sesame seeds are classic, but you can also add cashews or peanuts at the end for crunch and flavor. Add nuts just before serving to keep them crisp."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this easy vegan stir fry as much as I do! Don’t forget to share your version with friends or family — it’s always a crowd-pleaser.",
+    "seo": {
+        "primary_keyword": "vegan stir fry recipe",
+        "secondary_keywords": [
+            "easy vegan dinner",
+            "plant based stir fry",
+            "how to make vegan stir fry",
+            "best vegan stir fry recipe",
+            "quick vegan meals"
+        ],
+        "internal_links": [
+            {
+                "text": "how to press tofu",
+                "anchor": "how-to-press-tofu"
+            },
+            {
+                "text": "homemade stir fry sauce",
+                "anchor": "homemade-stir-fry-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_5.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Healthy Vegan Stir Fry That’s Ready in 30 Minutes"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_8.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Whip Up This Quick Vegan Stir Fry Tonight!"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_4.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Whip Up This Quick Vegan Stir Fry Tonight!"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_6.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Simple Vegan Stir Fry with a Delicious Soy Ginger Twist"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_9.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Whip Up This Quick Vegan Stir Fry Tonight!"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_7.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Your New Favorite Vegan Stir Fry Recipe Awaits!"
+        }
+    ],
+    "id": "post_1783465546_653",
+    "slug": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-07-08T00:25:14+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-08T00:25:14+01:00",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images",
+    "has_reel": true
+}
