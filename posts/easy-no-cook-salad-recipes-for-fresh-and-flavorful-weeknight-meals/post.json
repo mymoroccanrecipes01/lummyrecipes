@@ -288,7 +288,9 @@
             "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_4.webp",
             "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_4.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_4.webp",
+            "order": 4,
             "type": "template",
+            "template": "classic",
             "title": "Quick & Easy No-Cook Salad with Creamy Avocado and Crunchy Nuts"
         },
         {
@@ -296,31 +298,19 @@
             "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_5.webp",
             "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_5.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_5.webp",
+            "order": 5,
             "type": "template",
+            "template": "classic",
             "title": "Fresh No-Cook Nut and Avocado Salad You’ll Love to Make Today"
-        },
-        {
-            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
-            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
-            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
-            "type": "overlay_list",
-            "title": "Quick & Easy No-Cook Salad with Creamy Avocado and Crunchy Nuts"
-        },
-        {
-            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
-            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
-            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
-            "type": "recipe_card",
-            "title": "Quick & Easy No-Cook Salad with Creamy Avocado and Crunchy Nuts"
         },
         {
             "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_6.webp",
             "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_6.webp",
             "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_6.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_6.webp",
+            "order": 6,
             "type": "template",
+            "template": "classic",
             "title": "Light & Crunchy No-Cook Salad with Avocado and Nuts for Busy Days"
         },
         {
@@ -328,8 +318,30 @@
             "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_7.webp",
             "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_7.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_7.webp",
+            "order": 7,
             "type": "template",
+            "template": "classic",
             "title": "Simple No-Cook Avocado and Nut Salad Ready in Minutes"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Quick & Easy No-Cook Salad with Creamy Avocado and Crunchy Nuts"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_LummyRecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Quick & Easy No-Cook Salad with Creamy Avocado and Crunchy Nuts"
         }
     ],
     "id": "post_1783587549_610",

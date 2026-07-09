@@ -284,35 +284,13 @@
             "type": "main"
         },
         {
-            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
-            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
-            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
-            "type": "template",
-            "title": "Quick No-Bake Fruit Salad — Perfect for Hot Days and Busy Lives"
-        },
-        {
-            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
-            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
-            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
-            "type": "recipe_card",
-            "title": "Brighten Your Day with This Easy No-Bake Fruit Salad 🍓🍊"
-        },
-        {
-            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
-            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
-            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
-            "type": "overlay_list",
-            "title": "Brighten Your Day with This Easy No-Bake Fruit Salad 🍓🍊"
-        },
-        {
             "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_4.webp",
             "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_4.webp",
             "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_4.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_4.webp",
+            "order": 4,
             "type": "template",
+            "template": "classic",
             "title": "Brighten Your Day with This Easy No-Bake Fruit Salad 🍓🍊"
         },
         {
@@ -320,16 +298,50 @@
             "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_5.webp",
             "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_5.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_5.webp",
+            "order": 5,
             "type": "template",
+            "template": "classic",
             "title": "Refresh Your Snack Game with This Citrus-Infused Fruit Salad!"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic",
+            "title": "Quick No-Bake Fruit Salad — Perfect for Hot Days and Busy Lives"
         },
         {
             "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_7.webp",
             "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_7.webp",
             "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_7.webp",
             "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_7.webp",
+            "order": 7,
             "type": "template",
+            "template": "classic",
             "title": "Simple No-Bake Fruit Salad Recipe You’ll Make Again and Again"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Brighten Your Day with This Easy No-Bake Fruit Salad 🍓🍊"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_LummyRecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Brighten Your Day with This Easy No-Bake Fruit Salad 🍓🍊"
         }
     ],
     "id": "post_1783587930_700",
