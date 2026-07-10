@@ -1,0 +1,351 @@
+{
+    "title": "One Bowl Magic Cookies Loaded with Chocolate, Coconut & Nuts",
+    "promptIMG": "Food photography: One Bowl Magic Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These one bowl magic cookies are seriously easy and packed with chocolate, coconut, and nuts for a perfect mix of flavors. I love making them when I want a quick sweet treat that feels homemade but takes no time.",
+    "hashtags": "#magiccookies #easybaking #chocolatelover",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up These Easy One Bowl Magic Cookies in Minutes!",
+            "description": "Looking for a fuss-free cookie recipe? These magic cookies come together in one bowl and are bursting with chocolate and coconut goodness. Save this recipe and try it today! 🍪✨ #magiccookies #easybaking #dessertlover"
+        },
+        {
+            "title": "Quick & Delicious Magic Cookies with Chocolate and Nuts",
+            "description": "Craving something sweet but short on time? These magic cookies are loaded with chocolate, coconut, and nuts and only need one bowl! Perfect for snacks or dessert. Give them a go and share your results! 🍫🌰 #cookies #quickdessert #bakingfun"
+        },
+        {
+            "title": "The Best One Bowl Magic Cookies You’ll Want on Repeat",
+            "description": "I can’t get enough of these magic cookies — so easy, with layers of chocolate and coconut that melt in your mouth. Try them out and discover your new favorite quick treat! 🍪❤️ #magiccookies #easyrecipes #homemadecookies"
+        },
+        {
+            "title": "No-Mess Magic Cookies With Chocolate, Coconut & Nuts",
+            "description": "Love simple recipes? These magic cookies come together in one bowl with zero mess and tons of flavor. Perfect for busy days when you want something sweet fast. Save this recipe now! 🌟🍪 #dessertrecipes #easybaking #magiccookies"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "1 cup unsalted butter, melted",
+        "1 1/2 cups graham cracker crumbs",
+        "1 cup shredded sweetened coconut",
+        "1 cup semisweet chocolate chips",
+        "1/2 cup chopped walnuts or pecans",
+        "1 (14 oz) can sweetened condensed milk",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon salt"
+    ],
+    "yield": "Approximately 12 cookies",
+    "introduction": "I first stumbled on this magic cookie recipe years ago when I needed a dessert that was quick, delicious, and didn’t require a ton of dishes. What grabbed me was how everything comes together in one bowl — no mixer, no fuss. It’s basically a graham cracker crust loaded with coconut, chocolate chips, nuts, and that gooey condensed milk that holds it all together. Since then, I’ve made these cookies dozens of times for last-minute guests or just a sweet afternoon pick-me-up. I think what makes my version stand out is the balance of textures: the crispy crust, chewy coconut, melty chocolate, and crunchy nuts. Plus, I always melt the butter first to get that perfect, even base. The trick I learned was to press the crust firmly so the bars hold together nicely without crumbling. When they come out of the oven, they’re golden and fragrant, with chocolate still soft and coconut toasty. These cookies are a total crowd-pleaser and perfect for when you want something homemade but don’t want to spend hours baking. I hope you enjoy making them as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This ensures the oven is ready and evenly heated, which is crucial for baking the cookie bars evenly. Line a 9x13 inch baking pan with parchment paper or lightly grease it to prevent sticking. Taking this step early saves time later and helps achieve clean edges when you cut the bars.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven reaches steady 350°F and pan is properly prepped"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, pour the melted butter. Add the graham cracker crumbs and stir until the crumbs are evenly coated. This step helps the crumbs bind together once baked, forming a sturdy crust. Make sure the butter is fully melted but not hot, or it can affect the texture of the crumbs.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks evenly moist and crumbly without dry patches"
+        },
+        {
+            "step": 3,
+            "instruction": "Press the graham cracker and butter mixture firmly into the bottom of the prepared baking pan. Use the back of a spoon or your fingers to compact it well. This creates a tight base that will hold the cookie bars together after baking. Don’t skip firm pressing — a loose crust will crumble when cut.",
+            "timing": "5 minutes",
+            "doneness_cue": "Crust looks compacted and smooth across the pan surface"
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle the shredded coconut evenly over the crust layer. Coconut adds sweetness and a chewy texture that complements the crunchy base. Distribute it evenly so every bar gets a good amount of coconut in each bite.",
+            "timing": "3 minutes",
+            "doneness_cue": "Coconut layer is a thin, even coating over crust"
+        },
+        {
+            "step": 5,
+            "instruction": "Next, scatter the chocolate chips evenly over the coconut layer. The chocolate will melt slightly during baking, creating gooey pockets that add richness. Using semisweet chips balances the sweetness of the coconut and condensed milk.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chocolate chips cover the coconut without clumping"
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle the chopped nuts evenly on top of the chocolate chips. Nuts add a crunchy contrast and depth of flavor. Toasted walnuts or pecans work best here, but raw nuts are fine if you prefer. Even distribution ensures every bite has a nutty crunch.",
+            "timing": "3 minutes",
+            "doneness_cue": "Nuts are scattered evenly across the entire surface"
+        },
+        {
+            "step": 7,
+            "instruction": "In a small bowl, mix the sweetened condensed milk with vanilla extract and salt. This mixture acts as the glue that holds all the layers together while adding creamy sweetness. The vanilla enhances flavor depth, and the salt balances the sweetness.",
+            "timing": "4 minutes",
+            "doneness_cue": "Condensed milk mixture is smooth and well combined"
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the condensed milk mixture evenly over the layered ingredients in the pan. Pour slowly and try to cover the entire surface to ensure the bars hold together well. The milk will seep between layers and caramelize slightly as it bakes.",
+            "timing": "3 minutes",
+            "doneness_cue": "Condensed milk covers the layers evenly without pooling excessively"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the cookie bars in the preheated oven for 25-30 minutes. Watch for golden edges and a bubbly appearance around the edges, which signals the condensed milk has caramelized and the bars are set. Avoid overbaking, or the bars will dry out and lose their chewy texture.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges are lightly browned and center is set but still slightly soft"
+        },
+        {
+            "step": 10,
+            "instruction": "Remove the pan from the oven and let the bars cool completely in the pan before cutting. Cooling allows the bars to firm up and makes cutting easier without crumbling. I usually cool them for at least an hour at room temperature.",
+            "timing": "60 minutes",
+            "doneness_cue": "Bars are firm to the touch and hold their shape when cut"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Magic Cookies",
+        "content": "<p>This recipe succeeds because of the balance and interaction of ingredients that create layers of texture and flavor. The melted butter coats the graham cracker crumbs, allowing them to bind into a solid crust once baked. Without the butter fully melting and evenly coating, the crust can end up dry and crumbly. The condensed milk acts as a sweet, sticky binder that caramelizes during baking, giving the bars their gooey, chewy texture. It also adds moisture that keeps the final dessert from feeling dry.</p><p>The layering of coconut, chocolate chips, and nuts is more than just flavor — each component adds a unique texture that contrasts and complements the others. The coconut’s natural oils toast slightly, enhancing its flavor and chewiness. Chocolate chips melt just enough to create pockets of rich, creamy chocolate without completely losing their shape, thanks to the moderate baking temperature. Nuts contribute crunch and a toasty note that balances the sweetness.</p><p>The oven temperature of 350°F is crucial. It’s hot enough to caramelize the condensed milk and toast the coconut and nuts gently without burning them. Baking at too high a temperature risks dry, burnt edges, while too low won’t properly set the bars. Pressing the crust firmly before layering ensures the bars hold together when sliced, avoiding crumbly or falling-apart edges.</p><p>Finally, letting the bars cool fully is essential to allow the condensed milk to solidify and the flavors to meld. Cutting too soon leads to messy bars that don’t hold their shape. This recipe’s success lies in these small but important details that transform simple ingredients into a delicious, layered treat.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for a clean, rich flavor without added salt that could throw off the balance. Butter’s fat content helps bind the graham cracker crumbs into a sturdy crust. Melt it gently to avoid separating the fat and milk solids, which can affect texture. You can substitute with clarified butter or coconut oil for a different twist, but the flavor and binding properties may vary.",
+            "graham cracker crumbs": "Look for finely crushed graham crackers to form a compact crust that holds together well. Coarser crumbs may not bind as tightly, causing a crumbly texture. You can crush whole crackers at home for freshness. Using the right amount is key — too much crumb and not enough butter leads to dryness; too little crumb and the crust won’t have enough structure.",
+            "sweetened condensed milk": "This ingredient is the magic binder that holds the layers together with its thick, sugary consistency. Use a good-quality brand with a smooth texture and no added flavors. Avoid evaporated milk or other substitutes as they lack the sweetness and viscosity needed. The condensed milk caramelizes during baking, giving the bars their signature chew and golden color.",
+            "shredded sweetened coconut": "Sweetened coconut flakes add chewiness and natural sweetness that complements the chocolate and nuts. Opt for medium or fine flakes so they toast evenly during baking without drying out. Unsweetened coconut can be used if you want less sugar, but the bars won’t be quite as sweet. Toasting the coconut slightly before adding can enhance its flavor, but it’s not necessary.",
+            "semisweet chocolate chips": "Choose semisweet chips to balance the sweet condensed milk and coconut without being overly sugary. They melt just enough in the oven to create gooey pockets while retaining some shape. Avoid baking chips labeled 'baking' or 'bittersweet' unless you prefer a less sweet bar. Distribute evenly for consistent chocolate flavor in every bite."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press the crust firmly before layering",
+            "reason": "Firmly pressing the crust ensures it compacts and binds together during baking. This prevents crumbly edges and helps the bars hold their shape when sliced. If you skip this, the base may fall apart, making the bars messy to eat."
+        },
+        {
+            "tip": "Use room temperature melted butter",
+            "reason": "If the butter is too hot, it can start cooking the graham cracker crumbs unevenly and affect texture. Room temperature melted butter coats the crumbs evenly, helping form a smooth, cohesive crust."
+        },
+        {
+            "tip": "Don’t skip cooling before cutting",
+            "reason": "Cutting the bars too soon results in sticky, gooey edges that fall apart. Cooling allows the condensed milk to set and the layers to firm up for clean, neat slices."
+        },
+        {
+            "tip": "Evenly distribute toppings",
+            "reason": "Spreading the coconut, chocolate chips, and nuts evenly ensures every bite has a balanced flavor and texture. Clumps can cause uneven baking and flavor pockets."
+        },
+        {
+            "tip": "Use parchment paper for easy removal",
+            "reason": "Lining the pan with parchment paper makes it easy to lift the entire batch out for cutting, preserving the shape of the bars and making cleanup simpler."
+        },
+        {
+            "tip": "Bake at 350°F precisely",
+            "reason": "This temperature allows the condensed milk to caramelize properly and the coconut and nuts to toast without burning. Higher temps risk drying or burning; lower temps won’t set the bars."
+        },
+        {
+            "tip": "Toast nuts lightly before adding",
+            "reason": "Toasting nuts enhances their flavor and crunch. You can do this in a dry pan for a few minutes before sprinkling on top. It adds a deeper, nuttier taste to the bars."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping firm pressing of the crust",
+            "why_it_happens": "Many assume just spreading the crust is enough and don’t press it firmly. This leads to a crumbly base that falls apart when cutting.",
+            "fix": "Use the back of a spoon or your fingers to press the crust down firmly and evenly before adding toppings. This compacts the crumbs and butter so the crust bakes into a sturdy base."
+        },
+        {
+            "mistake": "Pouring hot melted butter directly on crumbs",
+            "why_it_happens": "Some melt butter in the microwave and pour it immediately while still very hot, which can partially cook the crumbs or melt chocolate chips prematurely.",
+            "fix": "Let the melted butter cool to warm or room temperature before mixing with crumbs to ensure even coating without affecting texture."
+        },
+        {
+            "mistake": "Cutting bars before they cool fully",
+            "why_it_happens": "Impatience or not knowing the bars need to set leads to cutting too soon, causing sticky edges and crumbling.",
+            "fix": "Allow the bars to cool completely at room temperature, at least an hour, so the condensed milk sets and layers firm up for clean slicing."
+        },
+        {
+            "mistake": "Uneven distribution of toppings",
+            "why_it_happens": "Rushing the layering step can cause clumps of coconut, chocolate, or nuts, leading to uneven flavor and texture.",
+            "fix": "Take a moment to sprinkle each topping evenly over the previous layer to ensure balanced bites and even baking."
+        },
+        {
+            "mistake": "Baking at incorrect temperature",
+            "why_it_happens": "Ovens vary and some cooks set temperature too high or low, affecting caramelization and texture.",
+            "fix": "Use an oven thermometer to verify 350°F and adjust if needed. This temperature ensures proper caramelization and toasting without burning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Dried Fruit",
+            "description": "Try mixing in dried cranberries or cherries with the nuts for a tart contrast to the sweet chocolate and coconut. This adds a fruity brightness that pairs beautifully with the rich layers.",
+            "technical_note": "Distribute dried fruit evenly with nuts to avoid clumping. Baking time stays the same."
+        },
+        {
+            "name": "Use White Chocolate Chips",
+            "description": "Swap semisweet chips for white chocolate for a sweeter, creamier flavor profile. It changes the visual appeal and adds a mellow richness that’s delicious with coconut.",
+            "technical_note": "White chocolate melts faster, so watch baking closely to prevent browning."
+        },
+        {
+            "name": "Make Nut-Free",
+            "description": "Skip the nuts and add extra shredded coconut or sunflower seeds for crunch. This makes the recipe allergy-friendly without losing texture variety.",
+            "technical_note": "Increase coconut slightly to compensate for missing nuts; baking time remains unchanged."
+        },
+        {
+            "name": "Add Espresso Powder",
+            "description": "For a mocha twist, stir a teaspoon of espresso powder into the condensed milk mixture. It enhances the chocolate flavor and adds a subtle coffee kick.",
+            "technical_note": "Espresso powder dissolves well in the condensed milk; no change in baking method."
+        },
+        {
+            "name": "Use Gluten-Free Graham Crackers",
+            "description": "Swap regular graham crackers for gluten-free ones to make the crust suitable for gluten-sensitive diets. The texture may be slightly different but still delicious.",
+            "technical_note": "Check that the crumbs are finely crushed for best crust formation."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "18g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These cookie bars can be kept covered at room temperature for up to 2 days. Use an airtight container or cover the pan tightly with plastic wrap to prevent drying out or absorbing odors.",
+        "refrigerator": "Store leftover bars in an airtight container in the fridge for up to 5 days. They may firm up more and taste even better chilled. Bring to room temperature before serving for softer texture or enjoy cold for a refreshing treat.",
+        "freezer": "Freeze the bars wrapped tightly in plastic wrap and then foil for up to 3 months. Thaw overnight in the refrigerator and bring to room temperature before slicing. Freezing may slightly change texture, but flavor remains great.",
+        "reheating": "If you want warm bars, heat them gently in a microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes. Add a splash of milk if they seem dry. Avoid overheating to prevent drying out or melting chocolate too much.",
+        "make_ahead_strategy": "You can prepare the crust and layer the toppings a day ahead, then pour the condensed milk and bake fresh. Alternatively, bake the bars fully and store them wrapped; they actually taste better after a day as flavors meld."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, you can use salted butter, but reduce or omit any added salt in the recipe to avoid an overly salty flavor. Unsalted butter lets you control salt levels better, but salted works fine if that's what you have."
+        },
+        {
+            "question": "What if I don’t have graham crackers?",
+            "answer": "You can substitute with digestive biscuits, vanilla wafers, or even crushed pretzels for a salty-sweet twist. Just crush them finely and use the same amount by volume."
+        },
+        {
+            "question": "Why do I need to cool the bars before cutting?",
+            "answer": "Cooling lets the condensed milk set and the layers firm up, so bars hold their shape when sliced. Cutting while warm causes crumbling and sticky edges."
+        },
+        {
+            "question": "Can I make these vegan?",
+            "answer": "To make vegan, substitute butter with coconut oil or vegan margarine and use a vegan condensed milk alternative. The texture may be slightly different but still tasty."
+        },
+        {
+            "question": "How do I store leftover bars?",
+            "answer": "Store bars in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. They keep well and taste great chilled or at room temp."
+        },
+        {
+            "question": "Can I freeze the cookie bars?",
+            "answer": "Yes, freeze wrapped tightly in plastic and foil for up to 3 months. Thaw in the fridge overnight and bring to room temperature before serving for best texture."
+        },
+        {
+            "question": "What’s the best way to press the crust?",
+            "answer": "Use the back of a measuring cup or a flat-bottomed glass to press the crust evenly and firmly. This compacts the crumbs and butter for a sturdy base."
+        },
+        {
+            "question": "Can I add other mix-ins?",
+            "answer": "Definitely! Consider dried fruit, different nuts, or even mini marshmallows. Just keep quantities similar so the bars hold together well."
+        }
+    ],
+    "conclusion": "Give these one bowl magic cookies a try — they’re easy, delicious, and perfect for any occasion. I’d love to hear how yours turn out, so don’t forget to share your baking success!",
+    "seo": {
+        "primary_keyword": "one bowl magic cookies recipe",
+        "secondary_keywords": [
+            "easy magic cookie bars",
+            "chocolate coconut cookies",
+            "how to make magic cookies",
+            "best magic cookie recipe",
+            "quick magic cookie bars"
+        ],
+        "internal_links": [
+            {
+                "text": "easy no-bake cookie bars",
+                "anchor": "easy-no-bake-cookie-bars"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_1.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_2.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_3.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_5.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Quick & Delicious Magic Cookies with Chocolate and Nuts"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_8.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Whip Up These Easy One Bowl Magic Cookies in Minutes!"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_7.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "No-Mess Magic Cookies With Chocolate, Coconut & Nuts"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_4.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Whip Up These Easy One Bowl Magic Cookies in Minutes!"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_6.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "The Best One Bowl Magic Cookies You’ll Want on Repeat"
+        },
+        {
+            "fileName": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_9.webp",
+            "relativePath": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images/easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Whip Up These Easy One Bowl Magic Cookies in Minutes!"
+        }
+    ],
+    "id": "post_1783724786_947",
+    "slug": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats",
+    "isOnline": true,
+    "createdAt": "2026-07-11T00:17:24+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-11T00:17:24+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-one-bowl-magic-cookies-recipe-for-quick-and-delicious-treats/images",
+    "has_reel": true
+}
