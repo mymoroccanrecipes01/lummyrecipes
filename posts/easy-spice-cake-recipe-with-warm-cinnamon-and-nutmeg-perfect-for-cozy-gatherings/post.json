@@ -1,0 +1,348 @@
+{
+    "title": "Warm and Cozy Spice Cake with a Buttermilk Twist",
+    "promptIMG": "Food photography: Warm and Cozy Spice Cake with a Buttermilk Twist, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This spice cake is super moist and bursting with cinnamon, nutmeg, and clove flavors. The secret? Buttermilk keeps it tender and soft. Perfect for chilly afternoons or holiday get-togethers!",
+    "hashtags": "#spicecake #fallbaking #comfortdessert",
+    "board_name": "Easy Fall Desserts",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Moist Spice Cake You’ll Want All Season Long",
+            "description": "If you love cozy flavors, this spice cake is a must-try! The buttermilk makes it incredibly tender and it’s loaded with warm spices. Save this recipe for your next holiday baking spree! 🍂🎂 #spicecake #fallrecipes #holidaybaking"
+        },
+        {
+            "title": "How to Bake the Perfect Buttermilk Spice Cake Every Time",
+            "description": "Discover my simple trick with buttermilk that makes this spice cake so moist and tender. It’s easy to make and tastes like a warm hug on a plate. Try it today and impress your friends! 🍰✨ #easybaking #spicecake #comfortfood"
+        },
+        {
+            "title": "Cozy Up With This Irresistible Cinnamon Nutmeg Spice Cake",
+            "description": "This cake is packed with cinnamon, nutmeg, and cloves for that perfect cozy vibe. The buttermilk keeps it soft and moist. Perfect for fall afternoons or a holiday dessert. Don’t miss out! 🍁🍽️ #fallbaking #spicydessert #homebaked"
+        },
+        {
+            "title": "Simple Buttermilk Spice Cake Recipe for Warm Fall Flavors",
+            "description": "Looking for an easy dessert that captures fall flavors? This spice cake uses a buttermilk trick for moistness and a blend of spices that’s just right. Save and bake soon! 🎃🍂 #spicecake #fallflavors #easyrecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1/2 teaspoon ground cloves",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "1 1/4 cups granulated sugar",
+        "3 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup buttermilk"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I stumbled upon this spice cake recipe a few years ago during a chilly autumn weekend when I craved something warm and comforting but not too sweet. What really caught my attention was the use of buttermilk — it’s such a simple ingredient but it makes the cake incredibly moist and tender, unlike any other spice cakes I've tried before. I used to struggle with spice cakes turning out dry or dense, but this version nails the texture every time. The blend of cinnamon, nutmeg, and cloves fills the kitchen with that classic fall aroma that instantly feels like home. One trick I learned is to cream the butter and sugar really well to get a light, fluffy batter that bakes into a soft crumb. Plus, I always sift the dry spices with the flour to evenly distribute the flavors and avoid any clumps. The final cake looks golden with just the right crumb — not too heavy, but still rich and comforting. It’s perfect for afternoon tea or as a holiday dessert that everyone asks for again. Trust me, once you try it, you’ll want to make it a seasonal tradition!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan. Preparing the pan properly ensures the cake releases easily after baking without sticking or breaking apart. I like to grease it with butter and then dust lightly with flour, tapping out the excess. This step might seem small but it’s crucial for the perfect cake shape and texture after baking.",
+            "timing": 10,
+            "doneness_cue": "Pan is evenly greased and floured with no bare spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, sift together the flour, baking powder, baking soda, cinnamon, nutmeg, cloves, and salt. Sifting helps break up any lumps, especially in the spices, and ensures even distribution throughout the batter. This uniformity is key to avoid pockets of overly strong spice or uneven rising in the cake.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are combined into a smooth, lump-free mixture"
+        },
+        {
+            "step": 3,
+            "instruction": "Using a stand mixer or hand mixer, beat the softened butter and sugar on medium-high speed until pale and fluffy, about 3-5 minutes. This creaming step incorporates air, which helps the cake rise and creates a lighter texture. Don’t rush it — under-creaming can lead to a denser cake.",
+            "timing": 5,
+            "doneness_cue": "Butter and sugar mixture looks light, creamy, and increased in volume"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time to the butter-sugar mixture, beating well after each addition to fully incorporate. This gradual addition prevents the batter from curdling and ensures a smooth, homogenous mixture. If you add eggs too quickly, the batter can split and affect texture.",
+            "timing": 4,
+            "doneness_cue": "Batter is smooth with no streaks or lumps after each egg"
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the vanilla extract, stirring until just combined to add depth to the flavor without overwhelming the spices. Vanilla enhances the warm spices and balances the cake’s sweetness.",
+            "timing": 1,
+            "doneness_cue": "Vanilla fully blended with no visible streaks"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the sifted dry ingredients in three additions alternating with the buttermilk in two additions, starting and ending with the dry mix. Mix gently on low speed after each addition to avoid overmixing, which can toughen the cake. This alternating method helps keep the batter light and moist.",
+            "timing": 6,
+            "doneness_cue": "Batter is smooth, thick, and well combined without streaks"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. This ensures even baking and a nice flat surface. Tap the pan lightly on the counter to release any large air bubbles that might create holes in the cake.",
+            "timing": 2,
+            "doneness_cue": "Batter evenly spread with no large bubbles on the surface"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 28-32 minutes or until a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid opening the oven door too early to prevent the cake from sinking. The cake should be golden brown and spring back slightly when touched.",
+            "timing": 30,
+            "doneness_cue": "Toothpick test passes and cake springs back gently"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the cake cool in the pan for 10 minutes, then run a knife around the edges and transfer to a wire rack to cool completely. Cooling this way prevents sogginess and allows the crumb to set properly. Don’t frost or serve until fully cooled to avoid melting or sliding frostings.",
+            "timing": 20,
+            "doneness_cue": "Cake is cool to the touch and firm enough to handle"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Spice Cake Is So Moist and Flavorful",
+        "content": "<p>One of the key reasons this spice cake turns out so moist and tender is the use of buttermilk. Buttermilk’s acidity reacts with baking soda to create carbon dioxide bubbles, which help the cake rise beautifully and develop a delicate crumb. This reaction also breaks down gluten strands slightly, resulting in a softer texture than recipes using milk alone. Without buttermilk, spice cakes can often be dry or dense.</p><p>The creaming of butter and sugar is another important step that introduces air into the batter, which lightens the final cake. Beating these ingredients until pale and fluffy traps tiny air pockets that expand when baked, giving the cake lift and a tender crumb. Skipping or rushing this step usually yields a heavier, less tender cake.</p><p>Even distribution of spices is critical for balanced flavor. Sifting the spices with the flour ensures they are evenly mixed and prevents clumps of overpowering cinnamon or nutmeg. These warm spices undergo subtle Maillard reactions during baking, which deepen their flavor and aroma, contributing to the cake’s comforting scent.</p><p>Finally, the alternating addition of dry ingredients and buttermilk helps maintain a smooth batter without overmixing, which can develop gluten and make the cake tough. This careful mixing preserves the cake’s soft texture while ensuring all ingredients are well incorporated.</p>",
+        "ingredient_notes": {
+            "buttermilk": "Choose fresh buttermilk with a tangy flavor and creamy texture. Its acidity is essential for activating baking soda, which leavens the cake and tenderizes the crumb. If you can’t find buttermilk, make a substitute by adding 1 tablespoon of lemon juice or vinegar to 1 cup of milk and letting it sit for 5 minutes. Using regular milk without acid will affect the rise and texture.",
+            "butter": "Use unsalted butter at room temperature for better control over salt content and to ensure it creams properly with sugar. Softened butter traps air when beaten, creating a fluffy batter. Cold butter won’t cream well, while melted butter changes the batter’s structure, leading to a denser cake.",
+            "spices (cinnamon, nutmeg, cloves)": "Freshly ground spices offer the brightest, most complex flavors. Pre-ground spices lose potency over time, so try to buy small amounts and store them in airtight containers away from light. These spices complement each other, creating a warm, aromatic profile that defines classic spice cake.",
+            "flour": "All-purpose flour with moderate protein content works best to provide structure without making the cake tough. Avoid bread flour, which is too high in protein and can make the cake chewy. Sifting flour aerates it and removes lumps, helping to maintain a light cake crumb.",
+            "baking soda": "Baking soda reacts with the acid in buttermilk to produce carbon dioxide bubbles that leaven the cake. Using fresh baking soda is important; old or expired soda won’t react properly, resulting in a flat, dense cake. Measure carefully as too much can cause a metallic taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature ingredients for the best mixing results.",
+            "reason": "When ingredients like butter, eggs, and buttermilk are at room temperature, they combine more smoothly, creating a uniform batter. Cold ingredients can cause the batter to curdle or mix unevenly, affecting texture and rise."
+        },
+        {
+            "tip": "Sift your dry ingredients together to avoid clumps and uneven spice distribution.",
+            "reason": "Sifting aerates the flour and spices, which helps the cake rise evenly and ensures the spices are well distributed for consistent flavor in every bite."
+        },
+        {
+            "tip": "Don’t overmix once you add the flour and buttermilk.",
+            "reason": "Overmixing develops gluten, making the cake dense and tough. Mixing just until combined keeps the crumb tender and soft."
+        },
+        {
+            "tip": "Use fresh spices for the most vibrant flavor.",
+            "reason": "Spices lose potency over time. Freshly ground cinnamon, nutmeg, and cloves provide the warm, aromatic notes that make this cake special."
+        },
+        {
+            "tip": "Let the cake cool completely before frosting or slicing.",
+            "reason": "Cutting or frosting a warm cake can cause it to crumble or the frosting to melt, ruining the texture and appearance."
+        },
+        {
+            "tip": "Tap the cake pan gently before baking to release air bubbles.",
+            "reason": "This prevents large holes or tunnels in the cake, ensuring an even crumb and smooth surface."
+        },
+        {
+            "tip": "Use an oven thermometer to ensure accurate baking temperature.",
+            "reason": "Ovens can be off by several degrees, which affects cake rise and texture. Precise temperature control helps the cake bake evenly without drying out or undercooking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the creaming step or rushing it",
+            "why_it_happens": "Sometimes cooks want to save time and skip beating butter and sugar properly, thinking it’s minor.",
+            "fix": "Take the time to cream butter and sugar until pale and fluffy. This incorporates air that helps the cake rise and develop a tender crumb. Under-creaming results in a dense, heavy cake."
+        },
+        {
+            "mistake": "Adding eggs all at once",
+            "why_it_happens": "In a hurry, some add all eggs at once which can cause the batter to curdle.",
+            "fix": "Add eggs one at a time, beating well after each addition. This keeps the batter smooth and prevents separation."
+        },
+        {
+            "mistake": "Overmixing after adding flour and buttermilk",
+            "why_it_happens": "Eager to combine ingredients fully, many overmix the batter.",
+            "fix": "Mix just until the dry and wet ingredients are combined. Overmixing develops gluten and makes the cake tough."
+        },
+        {
+            "mistake": "Not measuring flour properly",
+            "why_it_happens": "Scooping flour directly with the measuring cup can pack too much flour in.",
+            "fix": "Spoon flour into the cup and level with a knife to avoid dense cake texture caused by too much flour."
+        },
+        {
+            "mistake": "Baking at the wrong temperature",
+            "why_it_happens": "Ovens vary and cooks often trust the dial without verifying.",
+            "fix": "Use an oven thermometer to check and adjust oven temperature for even baking and proper rise."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Maple Glaze Spice Cake",
+            "description": "Add a simple maple syrup glaze on top after the cake cools. This adds sweetness and a lovely sheen that complements the warm spices. Use pure maple syrup mixed with a little powdered sugar for the glaze.",
+            "technical_note": "Apply glaze only once the cake is fully cooled to prevent melting and ensure it sets nicely."
+        },
+        {
+            "name": "Spice Cake with Chopped Nuts",
+            "description": "Fold in 1 cup of chopped pecans or walnuts into the batter before baking for added crunch and texture. Nuts pair wonderfully with the warm spices and add a pleasant contrast to the tender crumb.",
+            "technical_note": "Toast nuts lightly before adding to enhance flavor and avoid sogginess."
+        },
+        {
+            "name": "Vegan Spice Cake",
+            "description": "Replace butter with vegan margarine, use flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg), and swap buttermilk with almond milk plus 1 tbsp lemon juice. The texture will be slightly different but still moist and flavorful.",
+            "technical_note": "Mix flax eggs well and let sit for 5 minutes before adding to mimic egg binding."
+        },
+        {
+            "name": "Gluten-Free Spice Cake",
+            "description": "Use a 1-to-1 gluten-free baking flour blend instead of all-purpose flour. This allows those with gluten sensitivities to enjoy the cake without sacrificing flavor or texture much.",
+            "technical_note": "Add 1/4 teaspoon xanthan gum if your blend doesn’t contain it to help with structure."
+        },
+        {
+            "name": "Spice Cake with Cream Cheese Frosting",
+            "description": "Top the cooled cake with a tangy cream cheese frosting to balance the sweetness and spice. This classic combo elevates the cake to a celebration-worthy dessert.",
+            "technical_note": "Chill frosting before spreading to maintain a smooth, spreadable texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "390 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "18g",
+        "fiber_grams": "2g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake keeps well at room temperature for up to 2 days if stored in an airtight container or covered tightly with plastic wrap. Avoid leaving it uncovered to prevent drying out. It’s best served within this timeframe for optimal freshness.",
+        "refrigerator": "Store the cake in an airtight container in the fridge for up to 5 days. The cake will firm up and may lose a bit of moisture, so bring it to room temperature before serving or warm gently in the microwave for 15-20 seconds.",
+        "freezer": "Wrap the cooled cake tightly in plastic wrap and then aluminum foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge and then bring to room temperature before serving for best texture.",
+        "reheating": "To reheat, use a microwave on medium power for 15-20 seconds or warm slices in a 300°F oven for 5-7 minutes. Adding a tiny splash of milk before reheating can help restore moisture. Avoid overheating as it can dry out the cake.",
+        "make_ahead_strategy": "You can bake the cake a day ahead and store it wrapped at room temperature. If frosting, prepare the frosting separately and apply on the day of serving to keep it fresh and prevent sogginess."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute regular milk for buttermilk in this recipe?",
+            "answer": "Regular milk lacks the acidity needed to react with baking soda for proper leavening. If you don’t have buttermilk, mix 1 tablespoon lemon juice or vinegar with 1 cup milk and let it sit for 5 minutes to mimic buttermilk’s effect. This ensures the cake stays tender and rises well."
+        },
+        {
+            "question": "Why is my spice cake dry sometimes?",
+            "answer": "Dry cake often results from overbaking, not creaming butter and sugar long enough, or skipping the buttermilk. Make sure to measure ingredients carefully, bake at the correct temperature, and don’t overmix the batter after adding flour."
+        },
+        {
+            "question": "Can I use oil instead of butter?",
+            "answer": "You can substitute oil, but the texture and flavor will change. Butter adds richness and helps trap air when creamed with sugar, giving the cake structure and tenderness. If using oil, reduce the amount slightly and consider adding an extra egg for structure."
+        },
+        {
+            "question": "How do I know when the cake is fully baked?",
+            "answer": "Insert a toothpick into the center. If it comes out clean or with a few moist crumbs, it’s done. The cake should also spring back lightly when pressed and have a golden-brown top."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes, substitute all-purpose flour with a 1-to-1 gluten-free baking blend and add xanthan gum if not included. The texture may be slightly different but still delicious."
+        },
+        {
+            "question": "What’s the best way to store leftover cake?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months."
+        },
+        {
+            "question": "Can I add nuts or fruit to this cake?",
+            "answer": "Absolutely! Fold in chopped nuts like pecans or walnuts for crunch, or dried fruits like raisins or cranberries for extra flavor. Toast nuts lightly before adding for best results."
+        },
+        {
+            "question": "How do I prevent my cake from sinking in the middle?",
+            "answer": "Avoid opening the oven door during the first 20 minutes of baking, measure ingredients accurately, and make sure baking powder and soda are fresh. Overmixing can also cause sinking."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing this cozy spice cake as much as my family does. Don’t forget to tell me how yours turns out!",
+    "seo": {
+        "primary_keyword": "moist spice cake recipe",
+        "secondary_keywords": [
+            "easy spice cake",
+            "how to make spice cake",
+            "best spice cake recipe",
+            "fall spice cake"
+        ],
+        "internal_links": [
+            {
+                "text": "classic cinnamon roll recipe",
+                "anchor": "classic-cinnamon-roll"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_1.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_2.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_3.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_5.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "How to Bake the Perfect Buttermilk Spice Cake Every Time"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_6.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Cozy Up With This Irresistible Cinnamon Nutmeg Spice Cake"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_7.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Simple Buttermilk Spice Cake Recipe for Warm Fall Flavors"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_8.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "The Ultimate Moist Spice Cake You’ll Want All Season Long"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_4.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "The Ultimate Moist Spice Cake You’ll Want All Season Long"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_9.webp",
+            "relativePath": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images/easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "The Ultimate Moist Spice Cake You’ll Want All Season Long"
+        }
+    ],
+    "id": "post_1783897619_799",
+    "slug": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings",
+    "isOnline": true,
+    "createdAt": "2026-07-13T00:24:45+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-13T00:24:45+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-spice-cake-recipe-with-warm-cinnamon-and-nutmeg-perfect-for-cozy-gatherings/images",
+    "has_reel": true
+}
