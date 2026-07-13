@@ -1,0 +1,350 @@
+{
+    "title": "Warm and Juicy Peach Cobbler with Buttery Tender Crust",
+    "promptIMG": "Food photography: Peach Cobbler, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach cobbler is like a warm hug — juicy peaches with a buttery crust that's tender and flaky. I love how the fruit stays bright and fresh. Perfect for cozy dinners or weekend desserts!",
+    "hashtags": "#peachcobbler #dessert #comfortfood",
+    "board_name": "Easy Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "How to Make the Best Peach Cobbler Ever",
+            "description": "Discover the secret to a juicy, buttery peach cobbler that melts in your mouth 😍🍑. Perfect for family dinners or weekend treats. Save this recipe and try it today! #peachcobbler #homemadedesserts #comfortfood"
+        },
+        {
+            "title": "Perfect Peach Cobbler with a Tender Crust",
+            "description": "Looking for a cozy dessert? This peach cobbler has a flaky crust and bright, fresh peaches that burst with flavor 🍑✨. Try it today and share the love! #fruitdesserts #peachrecipes #easybaking"
+        },
+        {
+            "title": "Juicy Peach Cobbler Recipe You’ll Want to Make Again",
+            "description": "This classic peach cobbler is bursting with fresh fruit and topped with a buttery crust — a real crowd-pleaser! 🍑❤️ Save this recipe and enjoy a slice tonight! #peachdessert #comfortfoodrecipes #weekendbaking"
+        },
+        {
+            "title": "Simple Peach Cobbler: Cozy Dessert for Any Night",
+            "description": "Warm, juicy peaches and a tender crust make this peach cobbler a perfect treat for any occasion 🍑🔥. Discover the recipe now and impress your family! #easyrecipes #peachdesserts #homemadebaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 cups fresh peaches, peeled and sliced",
+        "3/4 cup granulated sugar",
+        "1/4 cup brown sugar",
+        "1/4 teaspoon ground cinnamon",
+        "1 teaspoon fresh lemon juice",
+        "2 teaspoons cornstarch",
+        "1 cup all-purpose flour",
+        "1 cup granulated sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup unsalted butter, melted",
+        "1/2 cup milk",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "6 servings",
+    "introduction": "I first made this peach cobbler on a lazy summer afternoon when the peaches were at their peak. I wanted something simple but bursting with fresh fruit flavor and a crust that wasn’t too heavy. This version is my go-to because the peaches stay juicy and bright, not mushy or overcooked, thanks to a little cornstarch and lemon juice that balance sweetness and preserve texture. The crust is tender and buttery, almost like a biscuit topping but lighter, which I achieve by mixing melted butter into the batter instead of cutting it in. One time I tried a thicker crust and the peaches ended up soggy underneath — lesson learned! Now, every time I make it, I get that perfect contrast of soft fruit and flaky topping. It’s just the right amount of sweetness, and the cinnamon adds a cozy touch without overpowering the peaches. Whether it’s for a weeknight dessert or a weekend treat, this cobbler always feels like a warm hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). This temperature allows the crust to bake evenly while the peaches soften gently. Avoid cranking the heat too high; otherwise, the crust might brown too fast before the fruit cooks through. Also, prepping the oven early ensures consistent baking from the start, which is key for a tender crust and juicy filling.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated and ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the sliced peaches with granulated sugar, brown sugar, cinnamon, lemon juice, and cornstarch. The cornstarch is crucial here—it thickens the peach juices as they cook, preventing a runny cobbler. Lemon juice brightens the flavor and keeps the peaches vibrant. Mix gently to coat the fruit evenly without bruising it.",
+            "timing": "5 minutes",
+            "doneness_cue": "Peaches fully coated with evenly distributed sugar and spices"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the peach mixture into a greased 9x13-inch baking dish. Spread it out evenly so every part gets covered by the crust later. This even layer ensures consistent cooking and a balanced ratio of fruit to crust in each bite.",
+            "timing": "3 minutes",
+            "doneness_cue": "Peach filling evenly spread in the dish"
+        },
+        {
+            "step": 4,
+            "instruction": "In another bowl, whisk together flour, sugar, baking powder, and salt. These dry ingredients form the base of your crust batter. Baking powder helps the crust rise lightly, giving it a fluffy texture rather than dense or cakey.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dry ingredients fully combined with no lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Add melted butter, milk, and vanilla extract to the dry ingredients. Stir gently until just combined; a few lumps are okay. Overmixing can develop gluten, making the crust tough instead of tender and flaky. The melted butter adds richness and keeps the crust moist.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth with some small lumps, not overmixed"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter evenly over the peaches in the baking dish. Don’t worry if the batter doesn’t cover the fruit completely; it will spread and bake into a lovely crust with soft edges and slightly golden peaks.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter spread over the peach filling, covering most of it"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cobbler in the preheated oven for about 30 minutes or until the crust is golden brown and a toothpick inserted into the crust comes out clean. The juices should be bubbling around the edges, showing the filling is cooked through.",
+            "timing": "30 minutes",
+            "doneness_cue": "Golden crust with bubbling peach juices at edges"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the cobbler from the oven and let it cool for 10-15 minutes before serving. This resting time lets the juices thicken further and makes it easier to scoop. Plus, the flavors meld beautifully when it’s not piping hot.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cobbler slightly cooled and juices thickened"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm, ideally with a scoop of vanilla ice cream or a dollop of whipped cream. The cold cream contrasts perfectly with the warm fruit and buttery crust, creating a comforting, balanced dessert experience.",
+            "timing": "Immediate",
+            "doneness_cue": "Ready to enjoy with desired toppings"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Peach Cobbler Recipe Works So Well",
+        "content": "<p>This peach cobbler recipe excels because it balances fruit juiciness with a tender, buttery crust through careful ingredient choices and technique. The use of fresh peaches means the fruit has natural sweetness and vibrant flavor, but without a thickener, their juices can make the cobbler soggy. That's why cornstarch is essential — it thickens the peach juices as they heat, giving the filling a perfect, not watery, consistency. Lemon juice brightens the peaches and slows oxidation, keeping them fresh-looking and flavorful.</p><p>The crust is unique because it uses melted butter mixed directly into the batter rather than a traditional biscuit dough. This method creates a tender, moist crust that bakes up with a delicate crumb and slight flakiness, rather than a dense or dry topping. Baking powder lifts the batter gently, producing a light texture that complements the soft peaches instead of overpowering them.</p><p>Temperature and timing also matter. Baking at 375°F ensures the crust browns evenly while the fruit cooks through, and resting the cobbler after baking lets the juices thicken and flavors meld. This recipe avoids common pitfalls like soggy crusts or overcooked fruit by balancing moisture, acidity, and baking chemistry.</p><p>Overall, the interplay between fresh fruit, acid, thickener, and a buttery, aerated crust creates a cobbler that’s juicy, tender, and full of bright peach flavor every time.</p>",
+        "ingredient_notes": {
+            "Fresh Peaches": "Choose ripe but firm peaches for the best texture and flavor. Overripe peaches can become mushy during baking, while underripe ones lack sweetness. Peeling helps the cobbler have a smoother texture and prevents tough skins in the filling. If fresh peaches aren’t in season, frozen thawed peaches work but may be softer.",
+            "Cornstarch": "Cornstarch acts as a thickening agent to prevent the peach juices from making the cobbler watery. It gelatinizes as it heats, trapping liquid and creating a luscious filling. Use the right amount—too little leads to runny filling, too much can make it gummy.",
+            "Unsalted Butter": "Butter provides richness and moisture to the crust. Using unsalted butter lets you control salt levels precisely. Melted butter mixed into the batter yields a tender, moist crust. Cold butter, in contrast, would create flakier layers but needs a different technique.",
+            "Baking Powder": "Baking powder leavens the crust batter, giving it a light, fluffy texture. Without it, the crust would be dense and heavy. Make sure your baking powder is fresh for proper rise.",
+            "Lemon Juice": "Lemon juice brightens the peach flavor and slows oxidation, keeping the fruit from browning during prep and baking. It also adds subtle acidity, balancing the sweetness and enhancing overall taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Peel the peaches to avoid tough skin in your cobbler.",
+            "reason": "Peach skins can become chewy or tough when baked, which can distract from the tender filling. Peeling ensures a smooth, consistent texture and lets the fruit’s natural sweetness shine through without any bitterness."
+        },
+        {
+            "tip": "Don’t overmix the crust batter; stop when just combined.",
+            "reason": "Overmixing develops gluten in the flour, which makes the crust tough instead of tender. A gently mixed batter results in a light, cakey crust that complements the soft peaches perfectly."
+        },
+        {
+            "tip": "Let the cobbler rest after baking before serving.",
+            "reason": "Resting allows the peach juices to thicken as they cool, preventing the cobbler from being too runny. It also helps flavors meld, making the dessert taste richer and more balanced."
+        },
+        {
+            "tip": "Use fresh peaches at their peak for best flavor.",
+            "reason": "Fresh, ripe peaches have natural sweetness and vibrant aroma. Their texture holds up better during baking compared to frozen or canned, which can be mushier and less flavorful."
+        },
+        {
+            "tip": "Preheat your oven fully before baking.",
+            "reason": "Starting with a hot oven ensures even baking and proper rise of the crust. If the oven is too cool, the crust may absorb too much moisture and turn soggy instead of golden and tender."
+        },
+        {
+            "tip": "Add a splash of vanilla to the crust batter.",
+            "reason": "Vanilla adds warmth and depth to the crust’s flavor without overpowering the peaches. It’s a subtle touch that makes the dessert feel more homemade and comforting."
+        },
+        {
+            "tip": "Use unsalted butter so you can control salt levels.",
+            "reason": "Salt enhances flavor but too much can overwhelm the delicate sweetness of peaches. Unsalted butter lets you balance salt precisely for the best taste."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the cornstarch thickener.",
+            "why_it_happens": "Many think the fruit’s natural juices will thicken on their own, but peaches release a lot of liquid that can make the filling runny.",
+            "fix": "Always mix in cornstarch with the peaches before baking. It’s a small step that traps the juices as they cook, giving you a luscious, not watery, filling."
+        },
+        {
+            "mistake": "Overmixing the crust batter.",
+            "why_it_happens": "It’s easy to want a smooth batter, but overmixing develops gluten, leading to a tough crust.",
+            "fix": "Stir just until the dry ingredients are moistened. Some lumps are okay and will bake out."
+        },
+        {
+            "mistake": "Using overripe peaches that are too soft.",
+            "why_it_happens": "Overripe fruit can break down too much, making the filling mushy.",
+            "fix": "Choose firm but ripe peaches and peel them to maintain texture and flavor."
+        },
+        {
+            "mistake": "Not preheating the oven fully.",
+            "why_it_happens": "Rushing to bake before the oven is hot can cause uneven cooking.",
+            "fix": "Always wait until the oven reaches 375°F before putting the cobbler in."
+        },
+        {
+            "mistake": "Serving the cobbler immediately after baking.",
+            "why_it_happens": "Eager to eat, some skip the resting time, but the filling is too runny hot out of the oven.",
+            "fix": "Allow the cobbler to cool for 10-15 minutes for the juices to thicken and flavors to settle."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spiced Peach Cobbler",
+            "description": "Add a pinch of nutmeg and ground ginger to the peach mixture for a cozy, spiced flavor twist. This variation brings warmth and depth, great for cooler months. The spices complement the cinnamon and brighten the fruit.",
+            "technical_note": "Adjust baking time by a few minutes if your spices affect moisture; watch for crust browning."
+        },
+        {
+            "name": "Peach Blueberry Cobbler",
+            "description": "Mix in 1 cup fresh blueberries with the peaches for added color and tartness. Blueberries add a juicy pop and balance the sweetness. The texture stays tender, and the flavor is more complex.",
+            "technical_note": "Because blueberries release extra juice, slightly increase cornstarch to 2.5 teaspoons."
+        },
+        {
+            "name": "Vegan Peach Cobbler",
+            "description": "Use plant-based milk and coconut oil instead of butter and dairy milk. This keeps the cobbler moist with a subtle coconut flavor. It’s perfect if you want a dairy-free, vegan-friendly dessert without sacrificing richness.",
+            "technical_note": "Coconut oil melts faster than butter; chill the batter briefly if it feels too loose before baking."
+        },
+        {
+            "name": "Gluten-Free Peach Cobbler",
+            "description": "Swap all-purpose flour for a gluten-free blend that includes xanthan gum. The crust remains tender and fluffy, and the filling is just as juicy. This variation works well for gluten-sensitive eaters.",
+            "technical_note": "Gluten-free flours absorb moisture differently; you might need to add a tablespoon more milk for proper batter consistency."
+        },
+        {
+            "name": "Peach Cobbler with Oat Topping",
+            "description": "Replace half the flour in the crust with rolled oats for a heartier, rustic topping. The oats add chewiness and a nutty flavor that pairs beautifully with the peaches. This cobbler feels more wholesome and textured.",
+            "technical_note": "Oats absorb more liquid; monitor the crust’s moisture and bake until edges are crisp."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cobbler can safely sit at room temperature for up to 2 hours if covered loosely to prevent drying out. Beyond this, it’s best refrigerated to avoid spoilage.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The crust may soften when chilled but reheats well. Warm in the oven to restore crispness or serve cold with cream for a different texture.",
+        "freezer": "Freeze baked cobbler in a tightly wrapped container for up to 2 months. To prevent freezer burn, wrap with plastic wrap and then foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat slices in a 350°F oven for 10-15 minutes until warmed through. If the crust feels dry, add a small pat of butter on top before heating. Avoid microwaving as it can make the crust soggy.",
+        "make_ahead_strategy": "You can prepare the peach filling a day ahead and refrigerate it. Mix the crust batter just before baking to keep it fresh. Assemble and bake the cobbler the day you plan to serve for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches instead of fresh?",
+            "answer": "Yes, frozen peaches work well if fresh aren’t available. Thaw and drain excess liquid before mixing with sugar and cornstarch to avoid a watery filling. The texture may be softer, but the flavor remains delicious."
+        },
+        {
+            "question": "How do I prevent the crust from getting soggy?",
+            "answer": "The key is using cornstarch to thicken the peach juices and baking at the right temperature. Also, don’t overmix the batter, and let the cobbler rest after baking to allow juices to set."
+        },
+        {
+            "question": "Can I make this cobbler gluten-free?",
+            "answer": "Absolutely! Substitute all-purpose flour with a gluten-free blend containing xanthan gum. You may need to adjust liquid amounts slightly for the right batter consistency."
+        },
+        {
+            "question": "What’s the best way to peel peaches quickly?",
+            "answer": "Score a small 'X' on the bottom of each peach and blanch them in boiling water for 30 seconds, then transfer to ice water. The skins slip off easily after this quick dunk."
+        },
+        {
+            "question": "Can I double the recipe for a larger crowd?",
+            "answer": "Yes, just double all ingredients and use a larger baking dish. Baking time might increase slightly, so watch for a golden crust and bubbling juices as cues."
+        },
+        {
+            "question": "Is it okay to substitute butter with oil?",
+            "answer": "You can use a neutral oil, but butter adds flavor and richness that oil lacks. Using oil might make the crust less tender and flavorful."
+        },
+        {
+            "question": "How do I store leftover cobbler?",
+            "answer": "Keep leftovers in an airtight container in the fridge for up to 4 days. Reheat in the oven to refresh the crust or enjoy cold with cream."
+        },
+        {
+            "question": "Can I add other fruits to this cobbler?",
+            "answer": "Definitely! Blueberries, raspberries, or blackberries pair well with peaches. Adjust cornstarch slightly if adding very juicy fruits to prevent runny filling."
+        }
+    ],
+    "conclusion": "I hope you give this peach cobbler a try — it’s one of my favorite cozy desserts. Let me know how it turns out and what your favorite variations are!",
+    "seo": {
+        "primary_keyword": "easy peach cobbler recipe",
+        "secondary_keywords": [
+            "homemade peach cobbler",
+            "best peach cobbler",
+            "how to make peach cobbler",
+            "simple peach cobbler recipe",
+            "easy fruit cobbler"
+        ],
+        "internal_links": [
+            {
+                "text": "classic apple crisp recipe",
+                "anchor": "classic-apple-crisp-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_1.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_2.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_3.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_9.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "How to Make the Best Peach Cobbler Ever"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_7.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Simple Peach Cobbler: Cozy Dessert for Any Night"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_8.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "How to Make the Best Peach Cobbler Ever"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_6.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Juicy Peach Cobbler Recipe You’ll Want to Make Again"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_4.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "How to Make the Best Peach Cobbler Ever"
+        },
+        {
+            "fileName": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_5.webp",
+            "relativePath": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images/easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Perfect Peach Cobbler with a Tender Crust"
+        }
+    ],
+    "id": "post_1783983283_150",
+    "slug": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer",
+    "isOnline": true,
+    "createdAt": "2026-07-13T23:56:19+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-13T23:56:19+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-peach-cobbler-with-fresh-peaches-that-tastes-like-summer/images",
+    "has_reel": true
+}
