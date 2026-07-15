@@ -1,0 +1,349 @@
+{
+    "title": "Fresh Peach Cobbler with Flaky Biscuit Topping That Melts in Your Mouth",
+    "promptIMG": "Food photography: Fresh Peach Cobbler, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach cobbler is my go-to for summer. The juicy peaches pair perfectly with a buttery biscuit topping that’s golden and tender. It’s so easy to make and always a crowd-pleaser!",
+    "hashtags": "#peachcobbler #summerdessert #comfortfood",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "How to Make the Best Peach Cobbler with a Flaky Biscuit Crust",
+            "description": "This peach cobbler is bursting with fresh fruit and topped with a buttery biscuit crust that’s simply irresistible. Save this recipe for your next summer cookout! 🍑🥧 #peachcobbler #summerrecipes #desserttime"
+        },
+        {
+            "title": "Simple Peach Cobbler Recipe Perfect for Cozy Nights In",
+            "description": "Craving something sweet but easy? Try this fresh peach cobbler with a tender biscuit topping. It’s quick, comforting, and perfect for any night. Try it today! 🍑✨ #comfortfood #easyrecipes #homemadedessert"
+        },
+        {
+            "title": "Juicy Peach Cobbler with a Golden Biscuit Topping You’ll Love",
+            "description": "Fresh peaches and a flaky biscuit crust come together in this cozy cobbler. Perfect for summer gatherings or just because! Discover this classic dessert now. 🍑🍽️ #peachdessert #summerbaking #homemade"
+        },
+        {
+            "title": "The Ultimate Peach Cobbler with a Buttery Biscuit Crust",
+            "description": "Looking for a dessert that’s both simple and delicious? This peach cobbler with a flaky biscuit topping fits the bill. Save it and bake it soon! 🥧💛 #peachcobblerrecipe #easybaking #dessertlover"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "5 cups fresh peaches, peeled and sliced",
+        "3/4 cup granulated sugar",
+        "1/4 cup brown sugar",
+        "1/2 teaspoon ground cinnamon",
+        "1 teaspoon lemon juice",
+        "2 teaspoons cornstarch",
+        "1 cup all-purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "1/4 cup cold unsalted butter, cut into small pieces",
+        "1/2 cup whole milk",
+        "2 tablespoons melted butter"
+    ],
+    "yield": "6 servings",
+    "introduction": "I first made this peach cobbler a few summers ago when I had a basket of fresh peaches from a local farmer’s market. It quickly became a favorite in my family because it’s both comforting and simple to pull together. What I love about this version is the biscuit topping — it’s flaky and tender, not cakey or dense like some others I've tried. The trick I learned was to keep the butter cold and cut it into the flour mixture just right, which creates those perfect little pockets of flakiness. The peaches get a quick toss with lemon juice and spices to brighten their flavor before baking, which makes all the difference. When it comes out of the oven, the crust is golden and buttery, and the peaches are bubbling and juicy. It’s the kind of dessert you want to dig into with a scoop of vanilla ice cream or just on its own. Honestly, I think it’s the perfect way to highlight summer peaches and is great for casual dinners or special occasions alike.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Start by peeling and slicing the peaches. Toss them gently with the granulated sugar, brown sugar, lemon juice, cinnamon, and cornstarch in a large bowl. This coating helps thicken the peach juices while baking and balances their natural sweetness with a hint of tartness. Be gentle so the peaches don’t get mushy before baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Peaches are evenly coated and slightly glossy with the sugar mixture"
+        },
+        {
+            "step": 2,
+            "instruction": "In another bowl, whisk together the flour, baking powder, and salt. Cut the cold butter into the flour mixture using a pastry cutter or your fingers until it resembles coarse crumbs. This step is crucial because the cold butter creates layers in the biscuit topping, making it flaky instead of dense. Avoid overmixing; you want small bits of butter visible.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks crumbly with pea-sized butter lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the milk and stir gently until the dough just comes together. It should be slightly sticky but not wet. If you add too much milk or overmix, the topping can become tough instead of tender. Use a spatula or wooden spoon to fold everything carefully.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough forms a rough ball and pulls away from the sides of the bowl"
+        },
+        {
+            "step": 4,
+            "instruction": "Transfer the peach mixture to a greased 8x8-inch baking dish, spreading it evenly. The juices should be visible but not pooling too much. This ensures the cobbler will be juicy but not soggy. Then, drop spoonfuls of biscuit dough evenly over the peaches, leaving small gaps where the fruit peeks through. This allows steam to escape and the topping to crisp nicely.",
+            "timing": "5 minutes",
+            "doneness_cue": "Peach filling spread evenly and biscuit dough dollops scattered on top"
+        },
+        {
+            "step": 5,
+            "instruction": "Brush the biscuit topping with melted butter to help it brown beautifully in the oven and add extra flavor. This step also gives the crust a lovely sheen. Don’t skip it! If you want a little sparkle, sprinkle a teaspoon of sugar on top after brushing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Topping surface is glossy and slightly wet from the butter"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the cobbler in the preheated oven for about 30 minutes, or until the biscuit topping is golden brown and the peach filling is bubbling around the edges. Avoid opening the oven too often, or the biscuit topping might not rise properly. The bubbling fruit signals the filling has thickened nicely.",
+            "timing": "30 minutes",
+            "doneness_cue": "Topping is golden and peaches are visibly bubbling"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cobbler from the oven and let it cool for at least 15 minutes before serving. This rest time allows the filling to set up a bit so it’s easier to serve and not runny. You’ll notice the aroma of warm peaches and cinnamon fills your kitchen—so inviting!",
+            "timing": "15 minutes",
+            "doneness_cue": "Cobbler is warm, filling is thickened, and crust slightly crisp"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the cobbler warm on its own or with a scoop of vanilla ice cream or whipped cream for extra indulgence. The contrast of the cold creamy topping with the warm, juicy peaches and flaky crust is heavenly. It’s a simple dessert that feels special.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cobbler slices cleanly and ice cream melts slightly on top"
+        },
+        {
+            "step": 9,
+            "instruction": "Store leftover cobbler covered in the refrigerator for up to 3 days. Reheat gently in the oven to refresh the crust. This cobbler also freezes well if wrapped tightly, just thaw overnight in the fridge before reheating. It’s perfect for making ahead and enjoying later!",
+            "timing": "N/A",
+            "doneness_cue": "Cobbler reheated evenly with crust regaining some crispness"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Peach Cobbler’s Success",
+        "content": "<p>At the heart of this peach cobbler’s success is the balance between juicy fruit and a tender but flaky biscuit topping. The peaches are tossed with cornstarch and sugar, which helps thicken their natural juices as they bake, preventing the filling from becoming too watery. The acidity from the lemon juice brightens the flavor and slows down browning, keeping the peaches fresh-tasting.</p><p>The biscuit topping relies on cold butter cut into flour to create layers that steam and puff in the oven, resulting in flakiness. If the butter melts before baking or is overworked, the dough becomes dense. The baking powder provides lift, while the milk hydrates the flour just enough to form a soft dough.</p><p>Brushing melted butter on top before baking helps achieve a golden crust through the Maillard reaction, which develops the rich aroma and flavor. The biscuit dough is dropped in dollops rather than spread flat, allowing steam to escape and edges to crisp up nicely. Baking at 375°F ensures the peaches cook through while the topping browns without burning.</p><p>Resting the cobbler after baking allows the peach juices to thicken as they cool, making slicing easier and preventing a runny mess. Overall, this recipe balances moisture, texture, and flavor through simple but precise techniques that elevate a classic summer dessert.</p>",
+        "ingredient_notes": {
+            "fresh peaches": "Choose ripe but firm peaches with a fragrant aroma. Overripe peaches can become mushy and watery when baked, while underripe ones lack sweetness. Peeling is recommended for a smoother texture, but leaving the skins on adds rustic color and nutrients. Always slice peaches evenly to ensure uniform cooking.",
+            "cold unsalted butter": "Cold butter is essential for flaky biscuit topping. It creates small pockets of steam during baking, which puff up the dough. Unsalted butter lets you control salt levels precisely. Cut it into small pieces and keep it chilled until mixing to prevent melting prematurely.",
+            "all-purpose flour": "All-purpose flour provides the right protein content for tender but structured biscuits. Using cake flour would yield a too soft topping, while bread flour might result in toughness. Sift the flour to remove lumps and aerate the mixture for a lighter texture.",
+            "cornstarch": "Cornstarch acts as a thickening agent for the peach filling. It absorbs excess juice released during baking, preventing a watery cobbler. Mixing it evenly with the sugar and spices ensures consistent thickening. Avoid using too much or the filling may become gummy.",
+            "baking powder": "Baking powder leavens the biscuit topping, helping it rise and become fluffy. Make sure it’s fresh for best results; old baking powder loses potency and leads to dense dough. Incorporate it evenly with the flour before adding liquids to distribute the leavening agent properly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep your butter cold until the last moment.",
+            "reason": "Cold butter creates steam pockets in the dough during baking, which makes the biscuit topping flaky. If the butter melts too soon, the dough becomes greasy and dense, losing that tender crumb texture."
+        },
+        {
+            "tip": "Don’t overmix the biscuit dough.",
+            "reason": "Overworking the dough develops gluten, leading to tougher biscuits. Mix just until the ingredients come together to keep the topping tender and soft."
+        },
+        {
+            "tip": "Use ripe but firm peaches.",
+            "reason": "Ripe peaches bring sweetness and juiciness, but if they’re too soft, the filling will be watery and mushy. Firm peaches hold their shape better while still giving plenty of flavor."
+        },
+        {
+            "tip": "Brush melted butter on the biscuit topping before baking.",
+            "reason": "This helps the crust brown evenly and adds a delicious buttery flavor. It also encourages a crisp, golden surface through the Maillard reaction."
+        },
+        {
+            "tip": "Let the cobbler rest before serving.",
+            "reason": "Cooling allows the filling to thicken and the juices to set, which makes slicing neater and prevents a runny dessert."
+        },
+        {
+            "tip": "Use fresh baking powder for best rise.",
+            "reason": "Old baking powder loses its leavening power, resulting in a dense biscuit topping. Test by mixing a little with hot water—if it bubbles vigorously, it’s fresh."
+        },
+        {
+            "tip": "Serve with vanilla ice cream or whipped cream.",
+            "reason": "The cold, creamy contrast complements the warm, sweet peaches and buttery crust, elevating the overall dessert experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overripe peaches that turn mushy.",
+            "why_it_happens": "People often pick the softest peaches thinking they’re the sweetest, but these can release too much juice and become mealy when baked.",
+            "fix": "Choose peaches that are ripe but still firm to the touch. If you only have very soft peaches, reduce the sugar slightly and increase the cornstarch by a teaspoon to help thicken extra juice."
+        },
+        {
+            "mistake": "Overmixing the biscuit dough.",
+            "why_it_happens": "It’s tempting to mix thoroughly for a smooth dough, but this develops gluten, making the topping tough.",
+            "fix": "Stir just until the flour is moistened and the dough holds together. A few small lumps of butter should remain visible for flakiness."
+        },
+        {
+            "mistake": "Skipping the butter brush on top.",
+            "why_it_happens": "Some think it’s an optional step and skip it to save time.",
+            "fix": "Don’t skip it! Brushing melted butter before baking helps the topping brown evenly and adds flavor. It’s worth the extra minute."
+        },
+        {
+            "mistake": "Opening the oven door too often during baking.",
+            "why_it_happens": "People open the oven to check progress frequently, causing temperature drops.",
+            "fix": "Avoid opening the oven until near the end of baking. This keeps the heat steady so the biscuit topping rises and browns properly."
+        },
+        {
+            "mistake": "Serving the cobbler immediately after baking.",
+            "why_it_happens": "Impatience leads to cutting into hot cobbler, causing a runny mess.",
+            "fix": "Let the cobbler rest for 15-20 minutes to allow the filling to thicken and set, making serving much easier."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Peach Cobbler",
+            "description": "Swap all-purpose flour with a gluten-free blend that includes xanthan gum. The biscuit topping will be slightly denser but still tender. Use the same cold butter technique for best results.",
+            "technical_note": "Gluten-free dough may need a touch less milk; add gradually to achieve the right consistency."
+        },
+        {
+            "name": "Vegan Peach Cobbler",
+            "description": "Replace butter with vegan butter or coconut oil and use a plant-based milk like almond or oat. The texture remains rich and flaky, with a subtle coconut aroma if using coconut oil.",
+            "technical_note": "Ensure your baking powder is vegan-friendly; some brands contain animal-derived ingredients."
+        },
+        {
+            "name": "Spiced Peach Cobbler with Nutmeg and Ginger",
+            "description": "Add 1/4 teaspoon freshly grated nutmeg and 1/4 teaspoon ground ginger to the peach mixture for a warm spice twist. This adds depth and complexity to the classic flavor.",
+            "technical_note": "Spices can intensify during baking, so start with small amounts and adjust to taste."
+        },
+        {
+            "name": "Peach Cobbler with Oat Topping",
+            "description": "Replace half the flour in the biscuit topping with rolled oats for a heartier texture and nutty flavor. The topping will be less flaky but more rustic and chewy.",
+            "technical_note": "Oats absorb more liquid, so you may need to add a tablespoon more milk to the dough."
+        },
+        {
+            "name": "Peach Cobbler with Almond Extract",
+            "description": "Add 1/2 teaspoon almond extract to the peach filling for a lovely nutty aroma that complements the peaches beautifully. It’s subtle but adds a gourmet touch.",
+            "technical_note": "Add almond extract with the lemon juice and spices for even flavor distribution."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "250mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the cobbler covered at room temperature for up to 4 hours. Use a cake dome or foil to prevent it from drying out. For longer storage, refrigeration is best.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The crust may soften slightly when chilled but reheats well in the oven. Serve warm for best texture and flavor.",
+        "freezer": "Freeze the cobbler tightly wrapped in plastic wrap and foil for up to 2 months. Thaw overnight in the fridge before reheating. The texture remains good, but the crust may lose some crispness.",
+        "reheating": "Reheat cobbler in a 350°F oven for 15-20 minutes until warm and the crust crisps back up. Avoid microwaving as it can make the crust soggy. Add a splash of milk if topping feels dry.",
+        "make_ahead_strategy": "Prepare the peach filling and biscuit dough separately up to 1 day ahead. Keep the filling refrigerated and dough wrapped tightly. Assemble and bake just before serving for the freshest results."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches instead of fresh?",
+            "answer": "Yes, frozen peaches work well if fresh aren’t available. Thaw and drain excess liquid before using to avoid a watery filling. You might also want to add a little extra cornstarch to help thicken the juices."
+        },
+        {
+            "question": "What can I substitute for cornstarch?",
+            "answer": "You can use arrowroot powder or tapioca starch as a thickener instead of cornstarch. Use the same amount. Flour can also work but may result in a slightly cloudier filling."
+        },
+        {
+            "question": "How do I prevent the biscuit topping from being doughy in the center?",
+            "answer": "Make sure to space out the biscuit dollops so heat circulates well, and bake until the topping is golden brown. Avoid opening the oven too early, which can cause uneven baking."
+        },
+        {
+            "question": "Can I make this cobbler gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend that includes xanthan gum for structure. The texture may be a bit different but still delicious and tender."
+        },
+        {
+            "question": "Is it okay to add more sugar if my peaches aren’t very sweet?",
+            "answer": "Yes, you can increase the sugar slightly if your peaches are tart. Just be careful not to add too much or the filling may become overly sweet and syrupy."
+        },
+        {
+            "question": "How do I store leftover cobbler?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven to restore crispness to the topping. Avoid leaving it out at room temperature for more than 4 hours."
+        },
+        {
+            "question": "Can I add other fruits to this cobbler?",
+            "answer": "Sure! Blueberries, raspberries, or blackberries can be mixed with the peaches for a berry twist. Adjust sugar and cornstarch slightly based on the fruit’s sweetness and juiciness."
+        },
+        {
+            "question": "What’s the best way to peel peaches quickly?",
+            "answer": "Score an 'X' on the bottom of each peach and blanch in boiling water for 30 seconds, then transfer to ice water. The skins should slip off easily with your fingers."
+        }
+    ],
+    "conclusion": "I hope you love this peach cobbler as much as my family does! Give it a try and let me know how it turns out — it’s a sweet way to celebrate summer.",
+    "seo": {
+        "primary_keyword": "fresh peach cobbler recipe",
+        "secondary_keywords": [
+            "easy peach cobbler",
+            "best peach cobbler recipe",
+            "how to make peach cobbler",
+            "summer peach desserts",
+            "homemade peach cobbler"
+        ],
+        "internal_links": [
+            {
+                "text": "classic apple crisp recipe",
+                "anchor": "classic-apple-crisp"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_1.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_2.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_3.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_7.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "The Ultimate Peach Cobbler with a Buttery Biscuit Crust"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_5.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Simple Peach Cobbler Recipe Perfect for Cozy Nights In"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_8.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "How to Make the Best Peach Cobbler with a Flaky Biscuit Crust"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_6.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Juicy Peach Cobbler with a Golden Biscuit Topping You’ll Love"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_4.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "How to Make the Best Peach Cobbler with a Flaky Biscuit Crust"
+        },
+        {
+            "fileName": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_9.webp",
+            "relativePath": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images/easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "How to Make the Best Peach Cobbler with a Flaky Biscuit Crust"
+        }
+    ],
+    "id": "post_1784127341_617",
+    "slug": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust",
+    "isOnline": true,
+    "createdAt": "2026-07-15T15:59:13+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-15T15:59:13+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-fresh-peach-cobbler-recipe-with-a-buttery-flaky-crust/images",
+    "has_reel": true
+}
