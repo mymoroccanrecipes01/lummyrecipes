@@ -1,0 +1,349 @@
+{
+    "title": "Sheet Pan Breakfast Pizza Loaded with Sausage, Eggs, and Cheese",
+    "promptIMG": "Food photography: Sheet Pan Breakfast Pizza, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan breakfast pizza is my weekend morning hero. It’s packed with crispy sausage, melty cheese, and eggs baked right on top. Perfect for brunch with friends or a lazy family breakfast!",
+    "hashtags": "#breakfastpizza #sheetpandinner #brunchideas",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Wake Up to This Crispy Sausage Breakfast Pizza Everyone Will Love!",
+            "description": "Start your morning right with this crispy sausage and egg breakfast pizza! It’s super easy to make and perfect for feeding a crowd. Save this recipe and try it today! 🍳🧀 #breakfastideas #sheetpanpizza #easybrunch",
+            "hashtags": "#breakfastideas #sheetpanpizza #easybrunch #sausagepizza #morningmeal"
+        },
+        {
+            "title": "Lazy Weekend Brunch? Try This Sheet Pan Breakfast Pizza Recipe Now!",
+            "description": "Looking for a fuss-free brunch? This sheet pan breakfast pizza with gooey cheese and baked eggs is a total game-changer. Perfect for sharing and so delicious! Discover now and impress your guests! 🥓🍕 #brunchrecipe #easybreakfast #familymeal",
+            "hashtags": "#brunchrecipe #easybreakfast #familymeal #sheetpandinner #comfortfood"
+        },
+        {
+            "title": "How to Make the Best Breakfast Pizza with Sausage and Eggs at Home",
+            "description": "This breakfast pizza is loaded with crispy sausage and fresh eggs baked right on top. It’s easy, delicious, and perfect for weekend mornings. Try it today and enjoy a crowd-pleaser! 🍳🧀 #breakfastpizza #homemadebrunch #easyrecipes",
+            "hashtags": "#breakfastpizza #homemadebrunch #easyrecipes #sausagepizza #sheetpanmeal"
+        },
+        {
+            "title": "Feed Your Crowd with This Easy Sheet Pan Breakfast Pizza Recipe!",
+            "description": "Hosting brunch? This sheet pan breakfast pizza is packed with sausage, cheese, and eggs baked perfectly. It’s simple, tasty, and sure to please everyone. Save this recipe and make it soon! 🥓🍕 #brunchideas #easybreakfast #sheetpanpizza",
+            "hashtags": "#brunchideas #easybreakfast #sheetpanpizza #familybrunch #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "1 sheet pizza dough, store-bought or homemade, thawed",
+        "12 oz breakfast sausage, crumbled",
+        "1 1/2 cups shredded mozzarella cheese",
+        "4 large eggs",
+        "1/2 cup shredded cheddar cheese",
+        "1/4 cup chopped green onions",
+        "1 tsp olive oil",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "One large sheet pan pizza, approximately 6 servings",
+    "introduction": "I first made this sheet pan breakfast pizza on a lazy Saturday when I wanted to feed a bunch of friends without fussing over multiple pans. It quickly became a weekend favorite because it’s so simple yet feels special. What sets this version apart is baking the eggs right on top of the sausage and cheese—this way, everything melds together, and you get that perfect runny yolk nestled in cheesy goodness. I also like using a combination of mozzarella and cheddar for a balance of melty stretch and sharp flavor. The crust gets crisp on the edges but stays soft underneath, thanks to the toppings releasing moisture during baking. Honestly, I’ve tried baking eggs on pizza before, and rushing it always leads to rubbery whites or undercooked yolks, but this method nails it every time. The finished pizza looks colorful and inviting, with golden baked eggs peeking through sausage and melted cheese, making it a total crowd-pleaser. Plus, it’s a lifesaver when you need a hands-off breakfast that still feels indulgent.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). While it heats, prepare the sausage by crumbling it into a skillet over medium heat. Cook until browned and crispy, breaking it up with a spatula, about 7-8 minutes. This step is crucial because properly rendered sausage fat flavors the pizza and prevents sogginess. Avoid stirring constantly; let it brown well on one side before turning for maximum crispness.",
+            "timing": 10,
+            "doneness_cue": "Sausage should be golden brown with no pink inside and slightly crispy edges."
+        },
+        {
+            "step": 2,
+            "instruction": "Roll out your pizza dough on a large sheet pan lined with parchment paper. Drizzle with olive oil and spread evenly to prevent sticking and help develop a golden crust. Spread the cooked sausage evenly over the dough, leaving a small border around the edges. This layering ensures the crust cooks through and doesn’t get soggy under the toppings.",
+            "timing": 5,
+            "doneness_cue": "Dough should be evenly spread and sausage distributed with no large clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle 1 cup of shredded mozzarella cheese evenly over the sausage. This cheese melts beautifully and binds the toppings without overpowering the flavor. Be sure not to pile it too thickly, or the pizza may take longer to cook and the crust might become soggy.",
+            "timing": 2,
+            "doneness_cue": "Cheese should cover sausage in a thin, even layer."
+        },
+        {
+            "step": 4,
+            "instruction": "Using a spoon, create four small wells spaced evenly across the pizza. Crack one egg into each well carefully, making sure not to break the yolk. This technique lets the eggs bake on top without running all over the pizza, giving you those beautiful sunny spots of baked egg.",
+            "timing": 3,
+            "doneness_cue": "Eggs should be nestled in indentations without spilling."
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the remaining 1/2 cup cheddar cheese and chopped green onions over the pizza. The cheddar adds sharpness, while green onions bring freshness and color. This final topping layer adds complexity to every bite.",
+            "timing": 2,
+            "doneness_cue": "Toppings evenly distributed with visible green onion pieces."
+        },
+        {
+            "step": 6,
+            "instruction": "Place the sheet pan in the oven and bake for 12-15 minutes, or until the crust edges are golden and the egg whites are set but yolks still slightly runny. Keep an eye on it toward the end to avoid overcooking the eggs, which can turn rubbery.",
+            "timing": 15,
+            "doneness_cue": "Crust golden brown, egg whites opaque and firm, yolks slightly jiggly."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the pizza and let it rest for 3-5 minutes. This resting time allows the cheese to firm up slightly and makes slicing easier without toppings sliding off. It also lets residual heat finish cooking the eggs gently.",
+            "timing": 5,
+            "doneness_cue": "Pizza cool enough to handle; cheese slightly set but still melty."
+        },
+        {
+            "step": 8,
+            "instruction": "Slice into 6-8 pieces using a sharp pizza cutter or knife. Serve warm, optionally with hot sauce or extra green onions on top for a fresh kick. This pizza is best enjoyed fresh but also reheats well.",
+            "timing": 2,
+            "doneness_cue": "Clean slices with intact toppings and no soggy crust."
+        },
+        {
+            "step": 9,
+            "instruction": "Store leftovers in an airtight container in the fridge. When reheating, warm gently in the oven to preserve crust crispness and avoid rubbery eggs. Avoid microwaving if possible, as it tends to make the crust soggy.",
+            "timing": 2,
+            "doneness_cue": "Leftovers warmed through with crust still slightly crisp."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Breakfast Pizza Comes Out Perfect Every Time",
+        "content": "<p>The magic of this sheet pan breakfast pizza lies in balancing moisture and crispness. The sausage releases flavorful fat, which infuses the crust and toppings, but the initial browning step ensures that fat is rendered out, preventing a soggy base. Cooking the sausage until crisp also adds texture contrast, which pairs beautifully with the soft cheese and eggs.</p><p>Rolling the dough thin and oiling the pan helps achieve a golden, crispy crust edge while keeping the center soft enough to support the toppings. The eggs baked on top cook gently in their wells, allowing whites to set without overcooking yolks—a tricky balance that this method nails by controlling oven temperature and timing.</p><p>The combination of mozzarella and cheddar cheeses provides both gooey melt and sharp flavor. Mozzarella melts smoothly, creating that classic pizza stretch, while cheddar adds depth and a slight bite. The green onions add a fresh herbal note that brightens the rich toppings.</p><p>Finally, letting the pizza rest after baking allows the cheese to set slightly, making slicing cleaner and ensuring the eggs finish cooking to the perfect texture. This step is often skipped but makes a big difference in presentation and eating experience.</p>",
+        "ingredient_notes": {
+            "breakfast sausage": "Choose high-quality breakfast sausage with a good balance of fat to lean meat. The fat content is essential because it renders during cooking and flavors the pizza. Avoid overly lean sausage, which can dry out. If you want a milder flavor, opt for a sweet sausage variety, but spicy adds a nice kick.",
+            "pizza dough": "Using a thin, store-bought dough works well for convenience, but homemade dough brings better flavor and texture. The dough should be pliable and not too thick, allowing it to crisp up in the oven while supporting the toppings without becoming soggy.",
+            "eggs": "Fresh eggs are key for good texture and flavor. Cracking them directly onto the pizza without breaking yolks creates a beautiful visual and textural contrast. Older eggs tend to spread more, so always use eggs as fresh as possible for this recipe.",
+            "mozzarella cheese": "Low-moisture mozzarella is preferred because it melts well without releasing excess water that could make the crust soggy. Fresh mozzarella can be used but will release more moisture, so adjust baking time accordingly.",
+            "cheddar cheese": "Sharp cheddar adds flavor complexity and a slight tang that balances the richness of sausage and mozzarella. Choose a well-aged cheddar for best flavor, and shred it yourself for better melting and texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the sausage in the pan when browning.",
+            "reason": "Crowding the pan traps moisture and prevents the sausage from crisping properly. Browning in batches or using a larger pan ensures the meat crisps up nicely, which is essential for texture and flavor in the final pizza."
+        },
+        {
+            "tip": "Use parchment paper on your sheet pan.",
+            "reason": "Parchment prevents sticking and makes cleanup a breeze. It also helps protect the dough from direct heat, allowing for even cooking and a nicely browned crust without burning."
+        },
+        {
+            "tip": "Make wells in the toppings before adding eggs.",
+            "reason": "Creating indentations prevents eggs from spreading out and mixing with other toppings. This keeps the yolks intact and makes for a prettier, more even bake with perfectly set eggs."
+        },
+        {
+            "tip": "Let the pizza rest before slicing.",
+            "reason": "Resting allows the cheese to firm up slightly, so toppings don’t slide off when you cut. It also lets residual heat finish cooking the eggs gently, ensuring the yolks are creamy, not rubbery."
+        },
+        {
+            "tip": "Use a sharp pizza cutter or serrated knife.",
+            "reason": "A sharp tool cuts through the crust cleanly without dragging toppings along, preserving the pizza’s structure and presentation."
+        },
+        {
+            "tip": "Adjust oven rack to middle position.",
+            "reason": "Positioning the pizza on the middle rack promotes even heat circulation, preventing the crust from burning on the bottom or the toppings from browning too quickly."
+        },
+        {
+            "tip": "Add fresh herbs after baking for brightness.",
+            "reason": "Fresh herbs like parsley or chives added after baking add color and a fresh flavor contrast to the rich sausage and cheese, enhancing the overall taste experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using dough that’s too thick or not rolled out evenly.",
+            "why_it_happens": "Many assume thicker dough means a fluffier pizza, but it often leads to undercooked centers and soggy crust. Uneven dough causes inconsistent baking.",
+            "fix": "Roll dough evenly to about 1/4 inch thickness and ensure it covers the sheet pan uniformly. This promotes even cooking and a crispy edge while supporting the toppings properly."
+        },
+        {
+            "mistake": "Skipping the step of browning the sausage first.",
+            "why_it_happens": "Some think sausage can be cooked on the pizza directly, but raw sausage releases too much moisture and fat, making the crust soggy.",
+            "fix": "Always cook sausage fully in a skillet before adding to pizza. This renders fat and crisps the meat, giving better flavor and texture."
+        },
+        {
+            "mistake": "Overcooking the eggs.",
+            "why_it_happens": "Leaving the pizza in too long or baking at too high a temperature causes rubbery whites and dry yolks.",
+            "fix": "Bake at 425°F and check eggs around 12 minutes. Remove when whites are set but yolks still jiggle slightly."
+        },
+        {
+            "mistake": "Not letting pizza rest before slicing.",
+            "why_it_happens": "Cutting immediately after baking causes cheese and toppings to slide off, making messy slices.",
+            "fix": "Let pizza rest 3-5 minutes to let cheese set and toppings firm up for clean slicing."
+        },
+        {
+            "mistake": "Using high-moisture cheeses like fresh mozzarella without adjustments.",
+            "why_it_happens": "Fresh mozzarella releases water during baking, which can sog the crust.",
+            "fix": "Pat fresh mozzarella dry before use or substitute with low-moisture shredded mozzarella for a crisper crust."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Veggie Lover’s Breakfast Pizza",
+            "description": "Swap sausage for sautéed mushrooms, bell peppers, and spinach for a veggie-packed version. The veggies add freshness and reduce richness, making it lighter but still satisfying.",
+            "technical_note": "Sauté veggies first to release moisture and avoid soggy crust; bake eggs as usual."
+        },
+        {
+            "name": "Spicy Chorizo Breakfast Pizza",
+            "description": "Use spicy chorizo instead of breakfast sausage for a smoky, bold flavor. Add jalapeño slices for extra heat. This version is great if you love a kick in your morning meal.",
+            "technical_note": "Since chorizo is oily, drain excess fat before spreading to prevent grease pooling."
+        },
+        {
+            "name": "Gluten-Free Crust Breakfast Pizza",
+            "description": "Use a store-bought or homemade gluten-free pizza crust to accommodate dietary needs. The toppings remain the same, so you don’t miss out on flavor or texture.",
+            "technical_note": "Gluten-free crusts often bake faster—watch closely to avoid burning."
+        },
+        {
+            "name": "Herbed Ricotta and Egg Breakfast Pizza",
+            "description": "Add dollops of herbed ricotta cheese before baking for creamy pockets that contrast with the crispy sausage. Fresh herbs like basil and thyme brighten the flavor.",
+            "technical_note": "Add ricotta in small spoonfuls spaced evenly to prevent heavy soggy spots."
+        },
+        {
+            "name": "Sweet Potato and Bacon Breakfast Pizza",
+            "description": "Replace sausage with roasted sweet potato cubes and crispy bacon bits. The sweet potato adds natural sweetness and a soft texture that pairs beautifully with salty bacon.",
+            "technical_note": "Pre-roast sweet potatoes until tender and slightly caramelized for best texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "410 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "2g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pizza can safely sit out for up to 2 hours covered loosely with foil or a clean kitchen towel. Beyond this, bacterial growth may occur, so refrigerate promptly if not eaten.",
+        "refrigerator": "Store leftover pizza in an airtight container or wrapped tightly in plastic wrap for up to 3 days. The crust may soften slightly but reheating in the oven restores crispness. Eggs may firm up more when cold.",
+        "freezer": "Wrap slices individually in plastic wrap and place in a freezer-safe bag for up to 2 months. To thaw, refrigerate overnight and reheat in a 350°F oven until warmed through to maintain texture.",
+        "reheating": "Reheat pizza slices in a preheated oven at 350°F for 8-10 minutes to crisp the crust and warm toppings evenly. Avoid microwaving to prevent sogginess and rubbery eggs. Add a splash of water to a pan and cover for gentle reheating if needed.",
+        "make_ahead_strategy": "You can fully cook the sausage and shred cheese 1-2 days ahead. Assemble the pizza just before baking for the freshest crust. Alternatively, prepare the dough and toppings separately, then assemble and bake on the morning of serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use store-bought pizza sauce on this breakfast pizza?",
+            "answer": "You can, but this recipe doesn’t call for sauce because the sausage and cheese provide plenty of moisture and flavor. Adding sauce might make the crust soggy. If you want sauce, use it sparingly or opt for a thin layer of a lighter sauce like garlic oil."
+        },
+        {
+            "question": "How do I get runny yolks without undercooked whites?",
+            "answer": "Cracking eggs into wells on the pizza helps whites cook evenly around the yolks. Baking at 425°F for about 12-15 minutes usually sets whites fully while keeping yolks slightly runny. Watch closely towards the end and remove when whites are opaque but yolks still jiggle."
+        },
+        {
+            "question": "Can I prepare this pizza the night before?",
+            "answer": "You can assemble the pizza the night before and store it covered in the fridge, but the dough may absorb moisture and get soggy. For best texture, assemble and bake just before serving. If prepping ahead, par-bake the crust slightly first."
+        },
+        {
+            "question": "What can I substitute for breakfast sausage?",
+            "answer": "Ground pork, spicy chorizo, or turkey sausage are great substitutes. Each changes the flavor profile slightly, so pick based on your preference. For a vegetarian option, use sautéed mushrooms and bell peppers."
+        },
+        {
+            "question": "Why did my pizza crust turn out soggy?",
+            "answer": "Soggy crust often results from too much moisture from raw sausage or wet toppings. Make sure to cook sausage fully before adding and avoid overloading the pizza with wet ingredients. Using parchment paper helps but also ensure oven temperature is hot enough for crisping."
+        },
+        {
+            "question": "Can I freeze this breakfast pizza after baking?",
+            "answer": "Yes, once cooled, slice and wrap pieces tightly for freezing up to 2 months. Thaw overnight in the fridge and reheat in the oven to restore crispness. Freezing before baking is less ideal because eggs don’t freeze well raw on pizza."
+        },
+        {
+            "question": "How do I make this pizza spicier?",
+            "answer": "Add crushed red pepper flakes to the sausage while cooking or sprinkle sliced jalapeños on top before baking. You can also swap regular sausage for a spicy variety to increase heat naturally."
+        },
+        {
+            "question": "What cheese works best if I don’t have mozzarella?",
+            "answer": "Low-moisture mozzarella is best for melt and texture, but you can substitute provolone or Monterey Jack for similar melting characteristics. Avoid fresh mozzarella unless you drain it well."
+        }
+    ],
+    "conclusion": "I hope you love making and sharing this sheet pan breakfast pizza as much as I do. Don’t forget to tell me how it turns out and share your favorite toppings!",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast pizza",
+        "secondary_keywords": [
+            "breakfast pizza recipe",
+            "easy breakfast pizza",
+            "how to make breakfast pizza",
+            "best sheet pan pizza",
+            "sausage breakfast pizza"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect pizza dough recipe",
+                "anchor": "perfect-pizza-dough"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Feed Your Crowd with This Easy Sheet Pan Breakfast Pizza Recipe!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Lazy Weekend Brunch? Try This Sheet Pan Breakfast Pizza Recipe Now!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "How to Make the Best Breakfast Pizza with Sausage and Eggs at Home"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Wake Up to This Crispy Sausage Breakfast Pizza Everyone Will Love!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Wake Up to This Crispy Sausage Breakfast Pizza Everyone Will Love!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Wake Up to This Crispy Sausage Breakfast Pizza Everyone Will Love!"
+        }
+    ],
+    "id": "post_1784329764_311",
+    "slug": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal",
+    "isOnline": true,
+    "createdAt": "2026-07-18T00:28:21+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-18T00:28:21+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-sheet-pan-breakfast-pizza-recipe-for-a-crowd-pleasing-morning-meal/images",
+    "has_reel": true
+}

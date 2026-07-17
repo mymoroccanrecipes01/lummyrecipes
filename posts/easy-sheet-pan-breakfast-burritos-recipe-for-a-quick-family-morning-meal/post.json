@@ -1,0 +1,345 @@
+{
+    "title": "Easy Sheet Pan Breakfast Burritos for Busy Mornings",
+    "promptIMG": "Food photography: Sheet Pan Breakfast Burritos, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These sheet pan breakfast burritos are a total game-changer for rushed mornings. Loaded with fluffy eggs, gooey cheese, and savory sausage all baked together. Great for brunch or prepping ahead!",
+    "hashtags": "#breakfastburritos #sheetpanmeals #easybreakfast",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Wake Up Happy with These Simple Sheet Pan Breakfast Burritos",
+            "description": "Start your day right with these easy sheet pan breakfast burritos! Fluffy eggs and melty cheese baked with sausage make mornings delicious and stress-free. Save this recipe for your next brunch! 🥚🌯 #breakfastideas #sheetpanrecipes #easymeals"
+        },
+        {
+            "title": "Meal Prep Made Easy: Sheet Pan Breakfast Burritos You’ll Love",
+            "description": "Looking for a fuss-free breakfast? These sheet pan burritos are packed with flavor and perfect for meal prepping. Try them today and enjoy a homemade breakfast all week long! 🍳🧀 #mealprep #breakfastburritos #familyfriendly"
+        },
+        {
+            "title": "How to Make Sheet Pan Breakfast Burritos in 30 Minutes",
+            "description": "Busy mornings? No problem! This recipe uses one pan to make cheesy, sausage-filled burritos fast. Follow along and discover how simple breakfast can be. Don’t forget to save it! 🌟🌯 #quickbreakfast #sheetpan #easyrecipes"
+        },
+        {
+            "title": "Family Favorite Sheet Pan Breakfast Burritos Everyone Will Enjoy",
+            "description": "My family can’t get enough of these sheet pan breakfast burritos! They’re hearty, cheesy, and perfect for weekend brunch or busy weekdays. Give them a try and see why! ❤️🥓 #familymeals #breakfastburritos #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 large eggs, beaten",
+        "1 cup shredded cheddar cheese",
+        "1/2 pound breakfast sausage, cooked and crumbled",
+        "4 large flour tortillas",
+        "1/4 cup diced bell peppers",
+        "1/4 cup diced onions",
+        "Salt and pepper to taste",
+        "Optional: salsa and sour cream for serving"
+    ],
+    "yield": "4 servings, approximately 8 burritos",
+    "introduction": "I first made these sheet pan breakfast burritos on a hectic Saturday morning when I needed something quick but satisfying. What I love about this recipe is how it all cooks on one pan—less mess and easy cleanup! Plus, it’s packed with fluffy eggs, melty cheese, and savory sausage that makes it a hit with my whole family. I tweaked the classic burrito by baking everything together instead of assembling individually, which saves so much time and keeps the flavors melding beautifully. The trick I learned is to pre-cook the sausage and veggies well so they release their flavors but don’t make the eggs watery. When it comes out of the oven, the eggs are perfectly set but still tender, and the cheese is deliciously gooey. It’s great for weekend brunch or prepping ahead for busy weekdays. Honestly, I’ve tried making breakfast burritos many ways, but this sheet pan method is hands-down the easiest and tastiest. If you’re looking for a fuss-free breakfast that feels homemade and filling, you’re going to love this one!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Start by cooking the breakfast sausage in a skillet over medium heat until browned and fully cooked, about 7-8 minutes. Break it into small crumbles as it cooks to ensure even browning. Cooking the sausage first is crucial because it releases flavorful fat that will season the whole dish, and you want it fully cooked before mixing with the eggs to avoid undercooked meat. Avoid rushing this step, as undercooked sausage can lead to food safety issues and uneven texture.",
+            "timing": 8,
+            "doneness_cue": "Sausage should be browned with no pink visible and slightly crisp edges"
+        },
+        {
+            "step": 2,
+            "instruction": "While the sausage cooks, dice the bell peppers and onions. Add them to the skillet with the sausage and sauté for 3-4 minutes until softened but still slightly crisp. This step adds a fresh crunch and sweetness to balance the richness of the sausage and eggs. If you skip sautéing, the veggies can taste raw and watery, impacting the final texture of your burritos.",
+            "timing": 4,
+            "doneness_cue": "Veggies should be tender with a slight bite, not mushy"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, whisk the eggs with salt and pepper until combined. Pour the eggs over the cooked sausage and veggies in the skillet or transfer everything to a baking sheet, depending on your pan size. Stir gently to distribute ingredients evenly. This ensures every bite has a good balance of flavors and textures. Overmixing can deflate the eggs and make them dense, so stir just enough to combine.",
+            "timing": 5,
+            "doneness_cue": "Egg mixture is smooth and evenly combined with sausage and veggies"
+        },
+        {
+            "step": 4,
+            "instruction": "Spread the egg mixture evenly on a large greased sheet pan. Sprinkle shredded cheddar cheese evenly over the top. The cheese melts during baking and adds creamy richness that binds the filling together. Don’t skip the cheese—it’s key for flavor and texture contrast.",
+            "timing": 2,
+            "doneness_cue": "Cheese is evenly distributed and not clumped in one spot"
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the mixture for about 20-25 minutes, or until the eggs are fully set and the cheese is melted and bubbly. Check by gently shaking the pan; the eggs should jiggle slightly but not be runny. Baking ensures a firm yet tender texture that’s easy to roll into burritos without falling apart.",
+            "timing": 25,
+            "doneness_cue": "Eggs are set with no liquid visible, cheese is golden and bubbly"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the pan from the oven and let it cool for 5 minutes. This resting time helps the eggs firm up further, making them easier to handle when assembling the burritos. If you try to roll too hot, the filling may fall apart or burn your fingers.",
+            "timing": 5,
+            "doneness_cue": "Egg mixture is warm but firm to the touch"
+        },
+        {
+            "step": 7,
+            "instruction": "Warm the flour tortillas in the microwave or on a hot skillet until soft and pliable. This prevents cracking when rolling. If tortillas are too cold or dry, they’ll tear and make assembly frustrating.",
+            "timing": 2,
+            "doneness_cue": "Tortillas are soft and bend easily without cracking"
+        },
+        {
+            "step": 8,
+            "instruction": "Cut the baked egg mixture into equal rectangular portions that fit the size of your tortillas. Spoon each portion onto a warm tortilla, then carefully roll it up tightly from one end to the other, tucking in the sides as you go to secure the filling. Rolling tightly ensures the burrito holds together and is easy to eat without spilling.",
+            "timing": 5,
+            "doneness_cue": "Burrito is tightly wrapped with no filling spilling out"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve your sheet pan breakfast burritos with optional sides like salsa, sour cream, or avocado slices. These add fresh and creamy notes that complement the savory filling. They also make the meal feel more complete and restaurant-quality at home.",
+            "timing": 1,
+            "doneness_cue": "Burritos plated with colorful, fresh garnishes"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfect Sheet Pan Breakfast Burritos",
+        "content": "<p>Cooking breakfast burritos on a sheet pan allows for even heat distribution, which is key to achieving tender, fluffy eggs without overcooking. The eggs set gently around the sausage and veggies, absorbing their flavors and fats, which enrich the overall taste. The Maillard reaction that occurs when browning the sausage adds deep, savory notes that elevate the dish beyond a simple egg bake.</p><p>Using a single pan not only simplifies cleanup but also helps all ingredients meld together, creating a harmonious flavor profile. The cheese melts and emulsifies into the eggs as they bake, adding a creamy texture that contrasts with the slight crispiness of the sausage. Resting the cooked mixture before rolling allows the proteins to firm up, preventing the burritos from falling apart.</p><p>Pre-cooking the sausage and sautéing the vegetables is crucial to avoid excess moisture that could make the eggs watery or soggy. This step also develops flavor and texture, ensuring each bite is balanced. Warming the tortillas before assembly increases their flexibility, preventing cracks and tears during rolling, which is essential for a neat, handheld meal.</p><p>Finally, seasoning the eggs properly and adding fresh garnishes like salsa or sour cream introduces brightness and acidity, counterbalancing the richness and making the dish feel fresh and satisfying.</p>",
+        "ingredient_notes": {
+            "eggs": "Look for fresh, large eggs with bright yolks for the best flavor and texture. Eggs provide structure and moisture; beating them well incorporates air for fluffiness. Avoid overbeating as it can cause toughness. Organic or free-range eggs often have richer taste, but any quality eggs will work.",
+            "breakfast sausage": "Choose high-quality pork breakfast sausage with balanced seasoning. Pre-cooking fully is important for safety and flavor development. Avoid overly fatty sausages that release too much grease, which can make the dish greasy. You can substitute with turkey sausage for a leaner option.",
+            "cheddar cheese": "Sharp or mild cheddar both work, but sharp cheddar adds more pronounced flavor. Cheese melts and binds the filling, so shred it finely to ensure even melting. Avoid pre-shredded cheese with anti-caking agents that may affect melt quality.",
+            "flour tortillas": "Use large, soft flour tortillas that are pliable to prevent cracking when rolling. Fresh tortillas or those warmed properly are best. Corn tortillas don’t roll as easily and may break, so stick with flour for this recipe.",
+            "bell peppers and onions": "Fresh, crisp bell peppers and onions add sweetness and texture contrast. Sautéing them first softens their bite and releases natural sugars, enhancing flavor. Avoid adding raw veggies directly to the eggs as they can release water and make the dish soggy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cook sausage thoroughly before mixing with eggs.",
+            "reason": "Fully cooking the sausage ensures safety and allows fat and spices to render, which flavors the entire dish. Undercooked sausage can cause uneven texture and risk foodborne illness."
+        },
+        {
+            "tip": "Don’t overmix eggs once combined with sausage and veggies.",
+            "reason": "Overmixing can deflate the eggs, leading to a dense, rubbery texture instead of tender fluffiness. Gentle folding keeps air in the eggs for lightness."
+        },
+        {
+            "tip": "Let the baked egg mixture rest before rolling burritos.",
+            "reason": "Resting firms up the eggs, making them easier to handle and preventing the filling from falling apart during assembly."
+        },
+        {
+            "tip": "Warm tortillas before rolling.",
+            "reason": "Warming increases flexibility, preventing cracks or tears, which keeps burritos neat and easy to eat."
+        },
+        {
+            "tip": "Use sharp cheddar for more flavor.",
+            "reason": "Sharp cheddar adds a tangy punch that contrasts the richness of eggs and sausage, enhancing overall taste."
+        },
+        {
+            "tip": "Sauté veggies until just tender.",
+            "reason": "This softens them without losing their texture or adding excess moisture, which could make the eggs watery."
+        },
+        {
+            "tip": "Use a rimmed baking sheet to contain the egg mixture.",
+            "reason": "Prevents spillage and helps the filling cook evenly without drying out at edges."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping pre-cooking the sausage.",
+            "why_it_happens": "People often try to save time, assuming the sausage will cook fully in the oven with the eggs.",
+            "fix": "Always cook sausage thoroughly in a skillet beforehand. This ensures safety and full flavor development. It also prevents excess grease pooling in the eggs."
+        },
+        {
+            "mistake": "Adding raw veggies directly to eggs.",
+            "why_it_happens": "Trying to simplify steps or save time leads to adding raw bell peppers or onions.",
+            "fix": "Sauté veggies first to soften and release moisture. Raw veggies can make the eggs watery and affect texture."
+        },
+        {
+            "mistake": "Overbaking eggs until dry.",
+            "why_it_happens": "Leaving the pan too long in the oven to be sure eggs are cooked.",
+            "fix": "Watch closely for eggs to be set but still tender and slightly jiggly. Overbaked eggs become rubbery and dry."
+        },
+        {
+            "mistake": "Not warming tortillas before rolling.",
+            "why_it_happens": "Skipping this step to save time.",
+            "fix": "Warm tortillas briefly to prevent cracking and tearing, which keeps burritos intact."
+        },
+        {
+            "mistake": "Rolling burritos while filling is too hot.",
+            "why_it_happens": "Eager to serve immediately after baking.",
+            "fix": "Let filling rest and cool slightly. Hot filling can be messy and cause burritos to fall apart."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Veggie Lovers’ Sheet Pan Burritos",
+            "description": "Swap sausage for sautéed mushrooms, zucchini, and spinach for a vegetarian twist. Add black beans for protein. Expect a lighter, earthier flavor and a bit more moisture from the veggies.",
+            "technical_note": "Sauté veggies thoroughly to remove excess water and prevent sogginess in the egg mixture."
+        },
+        {
+            "name": "Spicy Chorizo Breakfast Burritos",
+            "description": "Replace breakfast sausage with spicy chorizo for a bold, smoky flavor. Add jalapeños or hot sauce for extra heat. This variation packs more punch and a richer color.",
+            "technical_note": "Chorizo releases more oil; drain some fat before mixing to avoid greasiness."
+        },
+        {
+            "name": "Cheesy Bacon and Egg Burritos",
+            "description": "Add crispy bacon bits along with cheddar and eggs. The smoky bacon adds crunch and savory depth. Great for bacon lovers craving extra texture.",
+            "technical_note": "Cook bacon until crispy and drain well to keep the filling from becoming greasy."
+        },
+        {
+            "name": "Southwestern Black Bean and Corn Burritos",
+            "description": "Mix in black beans, corn kernels, and a sprinkle of cumin and chili powder for a southwestern flair. This adds fiber and a fresh, slightly sweet crunch.",
+            "technical_note": "Drain beans and corn well to avoid excess moisture in the eggs."
+        },
+        {
+            "name": "Greek Style Breakfast Burritos",
+            "description": "Use feta cheese, spinach, and diced tomatoes with oregano for a Mediterranean twist. The feta adds tanginess and saltiness that pairs beautifully with eggs.",
+            "technical_note": "Feta is saltier and crumblier; add less salt to the egg mixture to balance flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep these burritos at room temperature for up to 2 hours if covered loosely with foil or a clean towel. Beyond that, bacteria growth increases so refrigerate promptly.",
+        "refrigerator": "Store burritos in an airtight container or wrapped tightly in foil for up to 4 days. They may firm up when cold but reheat gently to restore softness. Avoid microwaving too long to prevent rubbery eggs.",
+        "freezer": "Freeze wrapped burritos individually in foil and then in a freezer-safe bag for up to 3 months. Thaw overnight in the fridge before reheating. This keeps texture intact and prevents freezer burn.",
+        "reheating": "Reheat burritos in a 350°F oven for 10-15 minutes wrapped in foil or microwave on medium power for 1-2 minutes. Add a splash of water or salsa if they feel dry. Avoid overheating to keep eggs tender.",
+        "make_ahead_strategy": "Prepare the egg mixture and sausage up to 2 days ahead and store in the fridge. Bake fresh on serving day for best texture. Alternatively, bake fully and refrigerate, then reheat as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use egg substitutes or just egg whites?",
+            "answer": "Yes, you can use egg whites or egg substitutes, but the texture will be less rich and creamy since yolks add fat and flavor. You might want to add a bit more cheese or a splash of milk to compensate for moisture and richness."
+        },
+        {
+            "question": "What if I don’t have a large sheet pan?",
+            "answer": "You can use a rimmed baking dish or two smaller pans. Just make sure to spread the mixture evenly for uniform cooking. Adjust baking time slightly if the mixture is thicker or thinner."
+        },
+        {
+            "question": "How do I make these burritos ahead for meal prep?",
+            "answer": "Bake the egg mixture fully, cool, then portion and roll burritos. Store individually wrapped in the fridge or freezer. Reheat gently before eating to maintain texture."
+        },
+        {
+            "question": "Can I add other meats like ham or bacon?",
+            "answer": "Absolutely! Cook and crumble or chop your choice of meat before mixing with eggs. Just be mindful of added salt and fat which can affect cooking time and texture."
+        },
+        {
+            "question": "Is it okay to use corn tortillas instead of flour?",
+            "answer": "Corn tortillas tend to be less flexible and can crack when rolling. Flour tortillas are recommended for ease of rolling and better texture in this recipe."
+        },
+        {
+            "question": "How do I keep the eggs fluffy and not rubbery?",
+            "answer": "Avoid overbaking and stirring too much. Bake until just set with a slight jiggle, then let rest. Overcooked eggs become tough and rubbery."
+        },
+        {
+            "question": "Can I make this vegan or dairy-free?",
+            "answer": "To make vegan, substitute eggs with a tofu scramble or chickpea flour batter and use dairy-free cheese alternatives. Cooking times and textures will vary, so watch closely."
+        },
+        {
+            "question": "What’s the best way to prevent soggy burritos?",
+            "answer": "Pre-cook all wet ingredients, drain excess liquid, and don’t overload the filling. Let the egg mixture rest before rolling to firm up and reduce moisture."
+        }
+    ],
+    "conclusion": "Give these sheet pan breakfast burritos a try and enjoy a hassle-free, delicious start to your day. I’d love to hear how they turn out for you!",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast burritos",
+        "secondary_keywords": [
+            "easy breakfast burritos",
+            "breakfast meal prep",
+            "how to make breakfast burritos",
+            "best breakfast burritos recipe",
+            "quick breakfast ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast casserole",
+                "anchor": "easy-breakfast-casserole"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Meal Prep Made Easy: Sheet Pan Breakfast Burritos You’ll Love"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Family Favorite Sheet Pan Breakfast Burritos Everyone Will Enjoy"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Wake Up Happy with These Simple Sheet Pan Breakfast Burritos"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "How to Make Sheet Pan Breakfast Burritos in 30 Minutes"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Wake Up Happy with These Simple Sheet Pan Breakfast Burritos"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images/easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Wake Up Happy with These Simple Sheet Pan Breakfast Burritos"
+        }
+    ],
+    "id": "post_1784329600_415",
+    "slug": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal",
+    "isOnline": true,
+    "createdAt": "2026-07-18T00:28:21+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-18T00:28:21+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-sheet-pan-breakfast-burritos-recipe-for-a-quick-family-morning-meal/images",
+    "has_reel": true
+}
