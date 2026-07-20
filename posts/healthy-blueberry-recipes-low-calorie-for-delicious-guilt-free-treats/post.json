@@ -1,0 +1,348 @@
+{
+    "title": "Light and Lovely Healthy Blueberry Muffins for Guilt-Free Snacking",
+    "promptIMG": "Food photography: Healthy Blueberry Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These blueberry muffins are a fresh twist on a classic, bursting with juicy berries and naturally sweetened. I love how they're light but still satisfying. Perfect for breakfast or a quick snack anytime.",
+    "hashtags": "#blueberrymuffins #healthybaking #snackideas",
+    "board_name": "Healthy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up These Healthy Blueberry Muffins in Under 45 Minutes!",
+            "description": "Craving a sweet treat without the guilt? These blueberry muffins are light, fluffy, and packed with fresh berries 🍇. Save this recipe for your next breakfast or snack time! #healthymuffins #blueberryrecipes #easybaking"
+        },
+        {
+            "title": "The Best Low-Calorie Blueberry Muffins You'll Ever Taste",
+            "description": "These muffins are naturally sweet and perfect for a quick snack or breakfast on the go 🫐. Try them today and enjoy a burst of fresh flavor without the extra calories! #lowcalorierecipes #blueberrylove #snacksmart"
+        },
+        {
+            "title": "Simple & Healthy Blueberry Muffins for Busy Mornings",
+            "description": "Busy mornings call for easy, wholesome snacks! These blueberry muffins come together quickly and keep you fueled all day. Discover how to make them now 🍽️✨ #quickbreakfast #healthyblueberry #muffinrecipe"
+        },
+        {
+            "title": "Light Blueberry Muffins That Taste Like a Treat, Not a Diet",
+            "description": "Who says healthy can’t be delicious? These muffins are bursting with juicy blueberries and have just the right amount of sweetness. Perfect for sharing or keeping all to yourself! 🥰🫐 #healthytreats #blueberrymuffins #snackideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups whole wheat flour",
+        "1/2 cup rolled oats",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/3 cup maple syrup",
+        "1/4 cup plain Greek yogurt",
+        "1/2 cup unsweetened almond milk",
+        "1 large egg",
+        "2 teaspoons vanilla extract",
+        "1 cup fresh blueberries"
+    ],
+    "yield": "8 muffins",
+    "introduction": "I first tried making healthier blueberry muffins a few years ago when I wanted a sweet breakfast that wouldn’t weigh me down. I remember my first batch was a bit dense and lacked moisture, so I kept experimenting. What really changed the game for me was swapping out regular flour for whole wheat and adding rolled oats for extra texture and fiber. Plus, using Greek yogurt instead of oil gave them that perfect moist crumb without extra fat. I also rely on natural sweeteners like maple syrup to keep things light but flavorful. The blueberries add bursts of freshness that feel like a little treat without the guilt. These muffins are great warm out of the oven or as a grab-and-go snack throughout the week. The trick I learned is to gently fold in the blueberries so they don’t burst too much and turn the batter purple. This recipe yields muffins that are tender, slightly sweet, and packed with wholesome ingredients. I love making a batch on Sunday and enjoying them all week long. They’re a simple pleasure that feels both cozy and nourishing.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C) and line a muffin tin with paper liners or lightly grease it. This step is crucial because a properly heated oven ensures the muffins rise well and bake evenly. If your oven temperature is off, muffins can turn out dense or unevenly cooked. Preparing the tin in advance also prevents sticking, making cleanup easier and keeping your muffins intact.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated, muffin tin ready with liners or grease applied"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the whole wheat flour, rolled oats, baking powder, baking soda, and salt. Mixing these dry ingredients thoroughly distributes the leavening agents evenly, which helps the muffins rise uniformly. Be careful not to overmix later with the wet ingredients to keep the muffins light and tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients combined with no lumps or clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk the maple syrup, Greek yogurt, almond milk, egg, and vanilla extract until smooth. This wet mixture provides moisture and natural sweetness. Using Greek yogurt adds protein and creaminess without excess fat, which helps create a tender crumb. The almond milk keeps it dairy-light but still rich enough to bind the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients are smooth and well combined with no streaks"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the wet ingredients into the dry ingredients and gently fold them together using a spatula. Stir just until combined; overmixing can develop gluten and make the muffins tough. The batter should be slightly lumpy but without pockets of dry flour. This gentle folding is key to tender muffins with a soft texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is combined but still slightly lumpy, not smooth"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully fold in the fresh blueberries, trying not to break them up too much. This keeps the muffins from turning purple and maintains bursts of juicy flavor in every bite. If you mix too vigorously, the color bleeds and the batter becomes watery, which affects texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries evenly distributed with minimal juice leakage"
+        },
+        {
+            "step": 6,
+            "instruction": "Spoon the batter evenly into the muffin tin, filling each cup about 3/4 full. This allows room for the muffins to rise without spilling over. Uneven filling can cause some muffins to bake faster or have irregular shapes.",
+            "timing": "5 minutes",
+            "doneness_cue": "Muffin cups evenly filled, surface smooth and level"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. The muffins should turn golden brown on top and spring back lightly when touched. Avoid opening the oven door too early as that can cause them to collapse. Using a toothpick inserted in the center can confirm doneness; it should come out clean or with a few moist crumbs.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden tops, toothpick inserted comes out clean"
+        },
+        {
+            "step": 8,
+            "instruction": "Allow the muffins to cool in the tin for 5 minutes, then transfer them to a wire rack to cool completely. This cooling step lets steam escape so the muffins don’t become soggy. If left in the tin too long, they might continue cooking and dry out.",
+            "timing": "10 minutes",
+            "doneness_cue": "Muffins slightly warm and firm enough to handle without breaking"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm or at room temperature. These muffins pair wonderfully with a smear of nut butter or a drizzle of honey for extra indulgence. Store leftovers in an airtight container to keep them fresh throughout the week.",
+            "timing": "0 minutes",
+            "doneness_cue": "Muffins ready to eat, moist texture, and fresh blueberry aroma"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Creates Perfectly Light and Moist Muffins",
+        "content": "<p>This recipe balances whole wheat flour and rolled oats to create a hearty yet tender crumb. Whole wheat flour adds nutty flavor and fiber but can make baked goods dense if overworked. The oats introduce texture and absorb moisture, helping keep the muffins soft. The combination prevents dryness common in whole grain baking.</p><p>Greek yogurt replaces traditional oil or butter, contributing moisture and protein without extra fat. Its acidity also reacts with baking soda to help the muffins rise better, creating a lighter texture. Using maple syrup instead of refined sugar adds natural sweetness and a subtle caramel note, complementing the blueberries perfectly.</p><p>Folding the wet and dry ingredients gently avoids overdeveloping gluten, which would toughen the muffins. Careful folding of blueberries preserves their shape and prevents bleeding, which keeps the batter from becoming watery and discolored. Baking at 375°F ensures the muffins rise quickly with a golden crust, locking in moisture.</p><p>Cooling the muffins on a wire rack allows steam to escape, preventing sogginess. This attention to each step ensures the muffins are moist, tender, and bursting with fresh blueberry flavor every time.</p>",
+        "ingredient_notes": {
+            "Whole Wheat Flour": "Choose a finely ground whole wheat flour for this recipe to ensure a tender crumb. Coarser flours can make muffins gritty or dense. Whole wheat adds fiber and a subtle nuttiness that pairs beautifully with blueberries. Store flour in a cool, dry place to maintain freshness and avoid rancidity.",
+            "Rolled Oats": "Use old-fashioned rolled oats rather than instant or steel-cut oats. Rolled oats provide texture without breaking down too much during baking, helping hold moisture and add a pleasant chew. They also contribute whole grain nutrition, enhancing the muffin’s health benefits.",
+            "Greek Yogurt": "Plain, unsweetened Greek yogurt is ideal here for moisture and tanginess. It adds protein and interacts with baking soda to improve rise. Avoid flavored yogurts as they add extra sugar and flavors that might clash. Full-fat or low-fat versions both work well.",
+            "Maple Syrup": "Pure maple syrup is a natural sweetener that adds depth and subtle caramel notes. It dissolves easily in wet ingredients and keeps the muffins moist. You can substitute honey but expect a slightly different flavor profile. Avoid artificial syrups for best taste and texture.",
+            "Fresh Blueberries": "Use fresh, ripe blueberries for the best burst of flavor and juiciness. Frozen berries can be used but thaw and drain them first to avoid excess moisture that can make the batter runny. Gently fold berries in to prevent them from breaking and bleeding into the batter."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always preheat your oven fully before baking.",
+            "reason": "A fully preheated oven ensures that the leavening agents react immediately, giving your muffins a good rise. Baking in a cold or unevenly heated oven can cause dense or unevenly cooked muffins. This step is often overlooked but is essential for consistent results."
+        },
+        {
+            "tip": "Fold the batter gently to combine wet and dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which creates a tough texture. By folding just until the ingredients come together, you keep the muffins light and tender. This technique is crucial when working with whole wheat flour, which can otherwise produce dense results."
+        },
+        {
+            "tip": "Use fresh blueberries and fold them in carefully.",
+            "reason": "Fresh berries hold their shape better and add juicy bursts of flavor without turning the batter purple and watery. Frozen berries release more juice, which can affect the texture and color. Gently folding prevents berry breakage and maintains an appealing muffin appearance."
+        },
+        {
+            "tip": "Let muffins cool on a wire rack after baking.",
+            "reason": "Cooling on a rack allows air circulation around the muffins, preventing trapped steam from making them soggy. Leaving them in the hot pan causes residual heat and moisture to soften the crust, resulting in a less desirable texture."
+        },
+        {
+            "tip": "Measure your flour carefully using the spoon-and-level method.",
+            "reason": "Scooping flour directly can compact it, leading to too much flour in the batter and dry muffins. Spoon the flour into your measuring cup and level it off for an accurate amount, which keeps the texture balanced and tender."
+        },
+        {
+            "tip": "Use room temperature wet ingredients.",
+            "reason": "Room temperature ingredients blend more evenly, creating a smoother batter. Cold ingredients can cause lumps and uneven baking, resulting in inconsistent muffin texture and rise."
+        },
+        {
+            "tip": "Avoid opening the oven door during the first 20 minutes of baking.",
+            "reason": "Opening the door lets heat escape and can cause the muffins to collapse before they set. Keeping the oven closed maintains stable temperature and supports proper rising and baking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many home cooks think more mixing equals better blending, but overmixing activates gluten in the flour, making muffins tough instead of tender.",
+            "fix": "Mix just until the wet and dry ingredients are combined. Leave some lumps in the batter and fold in the blueberries gently. This preserves a soft texture and even crumb."
+        },
+        {
+            "mistake": "Using frozen blueberries without draining",
+            "why_it_happens": "Frozen berries release extra moisture if added straight to the batter, which can make it too runny and affect rise and texture.",
+            "fix": "If using frozen berries, thaw them completely and pat dry with paper towels before folding in. This prevents excess liquid from altering the batter consistency."
+        },
+        {
+            "mistake": "Not preheating the oven fully",
+            "why_it_happens": "Rushing the baking process without a hot oven causes muffins to bake unevenly and can result in dense, flat muffins.",
+            "fix": "Always preheat your oven to the specified temperature and wait until it reaches that heat before putting muffins in. This ensures proper leavening and texture."
+        },
+        {
+            "mistake": "Filling muffin cups too full",
+            "why_it_happens": "Overfilling causes batter to spill over and bake unevenly, leading to misshapen muffins and longer baking times.",
+            "fix": "Fill muffin cups about 3/4 full to allow room for rising. This gives muffins a nice dome shape and even cooking."
+        },
+        {
+            "mistake": "Skipping the cooling step",
+            "why_it_happens": "Removing muffins from the pan immediately or leaving them to cool in the pan traps moisture, making the crust soggy or causing them to break apart.",
+            "fix": "Let muffins cool in the pan for 5 minutes, then transfer to a wire rack to cool completely. This helps maintain texture and freshness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Blueberry Muffins",
+            "description": "Add 1 tablespoon of lemon zest to the batter for a bright citrus note that pairs wonderfully with the blueberries. You can also add a teaspoon of lemon juice for extra tang. These muffins will have a fresh, zesty twist that’s perfect for spring mornings.",
+            "technical_note": "Zesting and adding lemon juice increases acidity slightly, which may enhance rise. No other baking adjustments needed."
+        },
+        {
+            "name": "Gluten-Free Blueberry Muffins",
+            "description": "Swap the whole wheat flour and oats for a gluten-free baking blend and gluten-free oats. This keeps the muffins tender and moist while making them safe for gluten-sensitive eaters. Expect a slightly different crumb texture but equally delicious results.",
+            "technical_note": "Gluten-free flours often require careful mixing; avoid overmixing to prevent crumbly muffins."
+        },
+        {
+            "name": "Vegan Blueberry Muffins",
+            "description": "Replace the egg with a flax egg (1 tablespoon ground flaxseed + 3 tablespoons water) and use a plant-based yogurt to keep it vegan. Maple syrup and almond milk are already vegan-friendly, so this swap is simple and still yields moist, flavorful muffins.",
+            "technical_note": "Flax eggs can slightly alter texture, making muffins a bit denser but still tender."
+        },
+        {
+            "name": "Blueberry Almond Muffins",
+            "description": "Add 1/2 cup sliced almonds to the batter and sprinkle some on top before baking for a delightful crunch and nutty flavor. Almond extract (1/2 teaspoon) can also be added for a complementary aroma. These muffins have added texture and richness.",
+            "technical_note": "Nuts add weight; ensure muffin cups aren’t overfilled to accommodate."
+        },
+        {
+            "name": "Chocolate Chip Blueberry Muffins",
+            "description": "Mix in 1/3 cup mini dark chocolate chips along with the blueberries for a sweet, indulgent twist. The chocolate pairs beautifully with the tartness of the berries, making these muffins a crowd-pleaser for kids and adults alike.",
+            "technical_note": "Chocolate chips can melt and darken muffin tops slightly; bake as directed."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "3g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to avoid drying out. They’re perfect to grab as a quick snack within this timeframe.",
+        "refrigerator": "Keep muffins in an airtight container in the fridge for up to 5 days. Chilling can firm them up and slightly alter texture, so warming briefly before eating is recommended to restore softness.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer bag for up to 3 months. This prevents freezer burn and keeps them fresh. Thaw overnight in the fridge or at room temperature before reheating.",
+        "reheating": "Warm muffins in a microwave for 15-20 seconds or in a 350°F oven for 5-7 minutes. Adding a small dab of butter or a splash of almond milk before reheating helps restore moisture. Avoid overheating as it can dry them out.",
+        "make_ahead_strategy": "Prepare the dry ingredients in advance and store in an airtight jar. Mix wet ingredients fresh and combine just before baking. Alternatively, bake muffins and freeze immediately for quick thaw-and-eat breakfasts or snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, but thaw and drain them well before adding to the batter to prevent extra moisture from making the muffins soggy. Gently fold them in to avoid color bleeding. Fresh berries are preferred for best texture and appearance."
+        },
+        {
+            "question": "What can I substitute for Greek yogurt?",
+            "answer": "You can use plain yogurt or sour cream as a substitute, which will still provide moisture and some acidity to react with the baking soda. For dairy-free options, try coconut yogurt but expect slight flavor differences."
+        },
+        {
+            "question": "Why are my muffins dense and heavy?",
+            "answer": "Dense muffins often result from overmixing the batter or using expired leavening agents. Mix just until combined and check that your baking powder and soda are fresh to ensure proper rise."
+        },
+        {
+            "question": "Can I make these muffins gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend and certified gluten-free oats. Be careful not to overmix as gluten-free batters can get gummy. Expect a slightly different crumb but still tasty muffins."
+        },
+        {
+            "question": "How do I keep muffins moist longer?",
+            "answer": "Store muffins in an airtight container and avoid refrigeration unless necessary. Wrapping them individually in plastic wrap before storing can help retain moisture. Reheat gently before eating to refresh texture."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Yes, doubling works great. Just be sure to mix ingredients thoroughly and bake in batches if your oven space is limited. Baking times may slightly increase if muffins are larger or oven is crowded."
+        },
+        {
+            "question": "What’s the best way to measure flour?",
+            "answer": "Spoon the flour into your measuring cup and level off with a knife rather than scooping directly from the bag. This prevents packing and ensures accurate measurement for tender muffins."
+        },
+        {
+            "question": "Can I add other fruits or nuts?",
+            "answer": "Yes! Blueberries can be swapped or combined with raspberries, chopped apples, or nuts like almonds or walnuts. Adjust baking time slightly if adding heavier ingredients."
+        }
+    ],
+    "conclusion": "I hope you give these healthy blueberry muffins a try—they’re a simple, delicious way to enjoy a wholesome treat. Don’t forget to share how yours turn out!",
+    "seo": {
+        "primary_keyword": "healthy blueberry muffins",
+        "secondary_keywords": [
+            "low calorie blueberry muffins",
+            "easy blueberry muffin recipe",
+            "how to make blueberry muffins",
+            "best healthy muffin recipe",
+            "quick blueberry muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "whole wheat baking tips",
+                "anchor": "whole-wheat-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_1.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_2.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_3.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_6.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_6.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Simple & Healthy Blueberry Muffins for Busy Mornings"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_9.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_9.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Whip Up These Healthy Blueberry Muffins in Under 45 Minutes!"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_4.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_4.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Whip Up These Healthy Blueberry Muffins in Under 45 Minutes!"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_7.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_7.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Light Blueberry Muffins That Taste Like a Treat, Not a Diet"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_5.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_5.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "The Best Low-Calorie Blueberry Muffins You'll Ever Taste"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_8.webp",
+            "filePath": "posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_8.webp",
+            "relativePath": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Whip Up These Healthy Blueberry Muffins in Under 45 Minutes!"
+        }
+    ],
+    "id": "post_1784589683_436",
+    "slug": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats",
+    "isOnline": true,
+    "createdAt": "2026-07-21T00:27:28+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-21T00:27:28+01:00",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images",
+    "has_reel": true
+}
