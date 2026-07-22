@@ -252,13 +252,32 @@
     <link rel="stylesheet" href="../../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8TF2VMRN4T"></script>
+    <!-- Google tag (gtag.js) — bots + prefetch exclus -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-8TF2VMRN4T');
+      (function () {
+        var ua = navigator.userAgent || '';
+        if (navigator.webdriver || /googlebot|bingbot|bingpreview|yandex|baiduspider|duckduckbot|slurp|facebookexternalhit|meta-externalagent|pinterestbot|applebot|petalbot|ahrefsbot|semrushbot|mj12bot|dotbot|bytespider|gptbot|ccbot|claudebot|headlesschrome|lighthouse|crawler|spider|\bbot\b/i.test(ua)) return;
+        var fired = false;
+        function loadGA() {
+          if (fired) return;
+          fired = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-8TF2VMRN4T';
+          document.head.appendChild(s);
+          gtag('js', new Date());
+          gtag('config', 'G-8TF2VMRN4T');
+        }
+        if (document.visibilityState === 'hidden') {
+          document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState !== 'hidden') loadGA();
+          });
+        } else {
+          loadGA();
+        }
+      })();
     </script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -289,7 +308,8 @@
     <div class="container">
         <div id="post-content">
             <section class="post-detail">
-                <nav class="breadcrumb"><a href="../../index.html">Home</a> / <a href="../../?page=posts">Posts</a> / <span>Crispy Cream Cheese Bites Made Easy in Your Air Fryer</span></nav>        <div class="ad-container ad-in-post">
+                <nav class="breadcrumb"><a href="../../index.html">Home</a> / <a href="../../?page=posts">Posts</a> / <span>Crispy Cream Cheese Bites Made Easy in Your Air Fryer</span></nav>        <style>.ad-in-post:has(ins[data-ad-status="unfilled"]){display:none}</style>
+        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -604,21 +624,21 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
-                    <a href="../../posts/easy-diy-snack-recipes-to-satisfy-your-cravings-anytime-at-home/" class="related-link">
-                        <img src="../../posts/easy-diy-snack-recipes-to-satisfy-your-cravings-anytime-at-home/images/easy-diy-snack-recipes-to-satisfy-your-cravings-anytime-at-home_pinrecipes_image_1.webp" alt="Spicy Sweet DIY Snack Mix That’s Perfect for Afternoon Munchies" loading="lazy" class="related-thumb">
-                        <span class="related-title">Spicy Sweet DIY Snack Mix That’s Perfect for Afternoon Munchies</span>
+                    <a href="../../posts/easy-homemade-cowboy-candy-recipe-with-sweet-and-spicy-pickled-jalapeos/" class="related-link">
+                        <img src="../../posts/easy-homemade-cowboy-candy-recipe-with-sweet-and-spicy-pickled-jalapeos/images/easy-homemade-cowboy-candy-recipe-with-sweet-and-spicy-pickled-jalapeos_pinrecipes_image_1.webp" alt="Sweet and Spicy Homemade Cowboy Candy That Packs a Punch" loading="lazy" class="related-thumb">
+                        <span class="related-title">Sweet and Spicy Homemade Cowboy Candy That Packs a Punch</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-appetizer-recipes-that-impress-every-time/" class="related-link">
-                        <img src="../../posts/easy-homemade-appetizer-recipes-that-impress-every-time/images/easy-homemade-appetizer-recipes-that-impress-every-time_pinrecipes_image_1.webp" alt="Fresh Herb Zesty Homemade Appetizers That Everyone Will Love" loading="lazy" class="related-thumb">
-                        <span class="related-title">Fresh Herb Zesty Homemade Appetizers That Everyone Will Love</span>
+                    <a href="../../posts/easy-homemade-pickle-recipes-that-bring-bold-flavor-to-every-meal/" class="related-link">
+                        <img src="../../posts/easy-homemade-pickle-recipes-that-bring-bold-flavor-to-every-meal/images/easy-homemade-pickle-recipes-that-bring-bold-flavor-to-every-meal_pinrecipes_image_1.webp" alt="Easy Homemade Dill Pickles with Garlic for a Perfect Crunchy Snack" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Homemade Dill Pickles with Garlic for a Perfect Crunchy Snack</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-snack-recipes-for-kids-that-are-healthy-and-delicious/" class="related-link">
-                        <img src="../../posts/easy-homemade-snack-recipes-for-kids-that-are-healthy-and-delicious/images/easy-homemade-snack-recipes-for-kids-that-are-healthy-and-delicious_pinrecipes_image_1.webp" alt="Quick Homemade Healthy Snacks Kids Actually Love" loading="lazy" class="related-thumb">
-                        <span class="related-title">Quick Homemade Healthy Snacks Kids Actually Love</span>
+                    <a href="../../posts/healthy-blueberry-recipes-no-sugar-that-actually-taste-amazing-and-fresh/" class="related-link">
+                        <img src="../../posts/healthy-blueberry-recipes-no-sugar-that-actually-taste-amazing-and-fresh/images/healthy-blueberry-recipes-no-sugar-that-actually-taste-amazing-and-fresh_pinrecipes_image_1.webp" alt="Fresh Blueberry Yogurt Parfait with No Added Sugar—Naturally Sweet &amp; Creamy" loading="lazy" class="related-thumb">
+                        <span class="related-title">Fresh Blueberry Yogurt Parfait with No Added Sugar—Naturally Sweet &amp; Creamy</span>
                     </a>
                 </li>
             </ul>

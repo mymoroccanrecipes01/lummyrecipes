@@ -250,13 +250,32 @@
     <link rel="stylesheet" href="../../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8TF2VMRN4T"></script>
+    <!-- Google tag (gtag.js) — bots + prefetch exclus -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-8TF2VMRN4T');
+      (function () {
+        var ua = navigator.userAgent || '';
+        if (navigator.webdriver || /googlebot|bingbot|bingpreview|yandex|baiduspider|duckduckbot|slurp|facebookexternalhit|meta-externalagent|pinterestbot|applebot|petalbot|ahrefsbot|semrushbot|mj12bot|dotbot|bytespider|gptbot|ccbot|claudebot|headlesschrome|lighthouse|crawler|spider|\bbot\b/i.test(ua)) return;
+        var fired = false;
+        function loadGA() {
+          if (fired) return;
+          fired = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-8TF2VMRN4T';
+          document.head.appendChild(s);
+          gtag('js', new Date());
+          gtag('config', 'G-8TF2VMRN4T');
+        }
+        if (document.visibilityState === 'hidden') {
+          document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState !== 'hidden') loadGA();
+          });
+        } else {
+          loadGA();
+        }
+      })();
     </script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -287,7 +306,8 @@
     <div class="container">
         <div id="post-content">
             <section class="post-detail">
-                <nav class="breadcrumb"><a href="../../index.html">Home</a> / <a href="../../?page=posts">Posts</a> / <span>Hearty Vegetarian Instant Pot Chickpea Stew for Busy Weeknights</span></nav>        <div class="ad-container ad-in-post">
+                <nav class="breadcrumb"><a href="../../index.html">Home</a> / <a href="../../?page=posts">Posts</a> / <span>Hearty Vegetarian Instant Pot Chickpea Stew for Busy Weeknights</span></nav>        <style>.ad-in-post:has(ins[data-ad-status="unfilled"]){display:none}</style>
+        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -608,21 +628,21 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
-                    <a href="../../posts/pickled-beets-recipe-a-simple-tangy-classic-youll-love/" class="related-link">
-                        <img src="../../posts/pickled-beets-recipe-a-simple-tangy-classic-youll-love/images/pickled-beets-recipe-a-simple-tangy-classic-youll-love_pinrecipes_image_1.webp" alt="Classic Tangy Pickled Beets Recipe with Simple Vinegar Spice Blend" loading="lazy" class="related-thumb">
-                        <span class="related-title">Classic Tangy Pickled Beets Recipe with Simple Vinegar Spice Blend</span>
+                    <a href="../../posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/" class="related-link">
+                        <img src="../../posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp" alt="Simple and Fresh Zucchini Recipes for Quick Vegetarian Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Simple and Fresh Zucchini Recipes for Quick Vegetarian Dinners</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning/" class="related-link">
-                        <img src="../../posts/vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning/images/vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning_pinrecipes_image_1.png" alt="Refreshing Kiwi Spinach Smoothie Bowl for a Bright Start to Your Day" loading="lazy" class="related-thumb">
-                        <span class="related-title">Refreshing Kiwi Spinach Smoothie Bowl for a Bright Start to Your Day</span>
+                    <a href="../../posts/easy-indian-veg-stir-fry-recipe-for-a-flavorful-weeknight-dinner/" class="related-link">
+                        <img src="../../posts/easy-indian-veg-stir-fry-recipe-for-a-flavorful-weeknight-dinner/images/easy-indian-veg-stir-fry-recipe-for-a-flavorful-weeknight-dinner_pinrecipes_image_1.webp" alt="Quick and Flavorful Indian Veg Stir Fry with Mustard Seeds and Curry Leaves" loading="lazy" class="related-thumb">
+                        <span class="related-title">Quick and Flavorful Indian Veg Stir Fry with Mustard Seeds and Curry Leaves</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/decadent-vegan-chocolate-avocado-mousse-with-fresh-raspberries-that-melts-in-your-mouth/" class="related-link">
-                        <img src="../../posts/decadent-vegan-chocolate-avocado-mousse-with-fresh-raspberries-that-melts-in-your-mouth/images/decadent-vegan-chocolate-avocado-mousse-with-fresh-raspberries-that-melts-in-your-mouth_pinrecipes_image_1.webp" alt="Silky Vegan Chocolate Mousse with Fresh Raspberries for a Light Dessert" loading="lazy" class="related-thumb">
-                        <span class="related-title">Silky Vegan Chocolate Mousse with Fresh Raspberries for a Light Dessert</span>
+                    <a href="../../posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/" class="related-link">
+                        <img src="../../posts/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes/images/easy-vegan-stir-fry-recipe-uk-delicious-plant-based-dinner-in-30-minutes_pinrecipes_image_1.webp" alt="Easy and Flavorful Vegan Stir Fry with Soy Ginger Sauce" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy and Flavorful Vegan Stir Fry with Soy Ginger Sauce</span>
                     </a>
                 </li>
             </ul>
