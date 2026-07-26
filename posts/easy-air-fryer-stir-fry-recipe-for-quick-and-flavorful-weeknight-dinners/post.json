@@ -1,0 +1,350 @@
+{
+    "title": "Easy Air Fryer Chicken Stir Fry with Crisp Veggies in 30 Minutes",
+    "promptIMG": "Food photography: Air Fryer Chicken Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This air fryer chicken stir fry is my go-to for busy nights. The chicken stays juicy and veggies crisp thanks to the air fryer magic. Tossed in a savory sauce, it’s a quick, tasty dinner everyone loves.",
+    "hashtags": "#airfryerstirfry #quickdinner #chickenrecipes",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Crispy Air Fryer Chicken Stir Fry Tonight!",
+            "description": "Looking for a fast and delicious dinner? This air fryer chicken stir fry is packed with fresh veggies and tender chicken. Save this recipe and try it today for a family favorite! 🍽️🔥 #airfryerdinner #easyrecipes #weeknightmeals"
+        },
+        {
+            "title": "30-Minute Air Fryer Stir Fry That’s Perfectly Crispy Every Time",
+            "description": "Discover how to get crispy, juicy chicken and crisp veggies all in one pan with your air fryer. This recipe is super easy and ready in 30 minutes. Don’t forget to save it for your next dinner! 🥦🍗 #quickmeals #airfryerrecipes #healthyfamilydinner"
+        },
+        {
+            "title": "Family-Friendly Air Fryer Chicken Stir Fry You’ll Want to Make Again",
+            "description": "This stir fry is a lifesaver on busy nights. The air fryer keeps everything crisp and flavorful without standing over the stove. Try it tonight and see why it’s a household hit! 🌟🍴 #easyweeknightdinner #airfryercooking #chickenstirfry"
+        },
+        {
+            "title": "Crispy, Juicy Air Fryer Chicken Stir Fry Ready in Under 30 Minutes",
+            "description": "Say goodbye to soggy stir fry! This air fryer method locks in flavor and texture for a quick, healthy meal. Perfect for busy evenings—give it a try and save this recipe! 🍽️🥕 #airfryermeals #quickchickendinner #healthyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breast, cut into bite-sized pieces",
+        "2 tbsp soy sauce, divided",
+        "1 tbsp cornstarch",
+        "1 tbsp olive oil",
+        "1 red bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1 medium carrot, thinly sliced",
+        "2 cloves garlic, minced",
+        "1 tsp grated fresh ginger",
+        "1 tbsp honey",
+        "1 tsp sesame oil",
+        "Salt and pepper to taste",
+        "Sesame seeds and chopped green onions for garnish (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this air fryer chicken stir fry one hectic weeknight when I wanted something quick but still packed with flavor and veggies. I’d tried the usual stovetop stir fry methods, but I found the veggies often got soggy and the chicken sometimes dried out. The air fryer changes everything — it crisps the chicken perfectly while keeping the veggies tender-crisp, sealing in all those delicious juices. What makes this version stand out is the simple honey-soy glaze that caramelizes just right without burning, thanks to the controlled air fryer heat. Plus, tossing the chicken in cornstarch before air frying gives it a slight crispiness that I absolutely love. It’s fast, easy, and fits right into busy weeknight routines. The finished dish looks vibrant with colorful veggies and has this addictive balance of savory and sweet. I usually serve it over rice or noodles, and it’s always a hit with my family. Honestly, I think this recipe has become my new staple for quick dinners when I want something fresh but fuss-free. If you’re looking for a healthier twist on stir fry that doesn’t sacrifice texture or flavor, you’ll want to try this!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping the chicken. Cut the boneless skinless chicken breasts into bite-sized pieces, about 1-inch chunks. This size ensures they cook quickly and evenly in the air fryer. Toss the chicken pieces with 1 tablespoon of soy sauce and the cornstarch until everything is well-coated. The cornstarch is key here—it helps create a light crispy crust when air fried, locking in moisture and giving the chicken a great texture. Avoid skipping this step or using too much cornstarch, which can lead to a gummy texture. Set the chicken aside while you prep the veggies.",
+            "timing": 10,
+            "doneness_cue": "Chicken pieces feel lightly coated and not clumped together; cornstarch should evenly cover the surface"
+        },
+        {
+            "step": 2,
+            "instruction": "Prepare your vegetables next. Slice the red bell pepper into thin strips, cut the broccoli into small florets, and slice the carrot thinly so it cooks quickly. Mince the garlic and grate the fresh ginger. These aromatics will add depth to the sauce. Having the veggies uniformly sized helps them cook evenly in the air fryer. If you rush this step, you risk uneven cooking with some veggies underdone or others mushy. Set everything aside in a bowl for easy mixing later.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are sliced evenly and aromatics are finely minced and ready to go"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your air fryer to 400°F (200°C). Preheating is important because it ensures the chicken starts cooking immediately on contact, helping to crisp the outside while keeping the inside juicy. If you skip preheating, the chicken might end up steaming instead of frying, leading to a soggy texture. Most air fryers take about 3-5 minutes to preheat, so use this time to mix your sauce ingredients.",
+            "timing": 5,
+            "doneness_cue": "Air fryer display shows 400°F and is ready for cooking"
+        },
+        {
+            "step": 4,
+            "instruction": "While the air fryer preheats, mix the stir fry sauce in a small bowl. Combine the remaining 1 tablespoon soy sauce, honey, sesame oil, minced garlic, and grated ginger. This sauce balances sweet and savory flavors and will coat the chicken and veggies beautifully after cooking. Make sure to whisk it well to blend the honey evenly. If you skip this or don’t mix well, the sauce might separate or taste uneven.",
+            "timing": 5,
+            "doneness_cue": "Sauce is smooth and well combined with no honey clumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the coated chicken pieces in the air fryer basket in a single layer, avoiding overcrowding which can cause steaming instead of crisping. Cook for 10 minutes at 400°F, shaking the basket halfway through to ensure even cooking. The high heat triggers the Maillard reaction, browning the chicken for flavor and texture. Be careful not to overcook, or the chicken will dry out. The internal temperature should reach 165°F for safe eating.",
+            "timing": 10,
+            "doneness_cue": "Chicken is golden brown on the outside, cooked through, and juicy inside"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the chicken and set aside. Add the sliced veggies to the air fryer basket, drizzle with olive oil, and season lightly with salt and pepper. Cook at 400°F for 8-10 minutes, shaking halfway through. The air fryer cooks the veggies quickly, keeping them crisp-tender while slightly caramelizing their edges. Avoid overcooking to prevent mushy veggies. The goal is vibrant color and a slight bite.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are tender but still firm, with lightly browned edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Return the chicken to the air fryer basket with the cooked veggies. Pour the prepared sauce over everything and toss gently to coat. Cook for an additional 2-3 minutes at 400°F. This step warms the sauce and allows it to slightly thicken and glaze the chicken and veggies. Don’t skip this—without this final step, the flavors won’t meld properly. Watch closely to avoid burning the sauce.",
+            "timing": 3,
+            "doneness_cue": "Sauce is glossy and coats all ingredients evenly"
+        },
+        {
+            "step": 8,
+            "instruction": "Transfer the stir fry to a serving dish and garnish with sesame seeds and chopped green onions if desired. These add a nice crunch and fresh flavor contrast. Serve immediately over steamed rice or noodles for a complete meal. The dish should look colorful and inviting with a balance of textures and flavors.",
+            "timing": 5,
+            "doneness_cue": "Dish is vibrant with garnishes and ready to serve hot"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your air fryer basket promptly after use to prevent buildup of oils or food particles. This keeps your appliance working well and ensures great flavor next time. Plus, cleaning while the basket is still warm makes the job easier. Avoid using harsh abrasives to protect the nonstick coating.",
+            "timing": 5,
+            "doneness_cue": "Basket is clean and free of residue"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Air Fryer Stir Fry Delivers Perfect Texture and Flavor Every Time",
+        "content": "<p>This recipe works so well because it leverages the unique cooking environment of the air fryer, which circulates hot air rapidly around the food. This air movement crisps the chicken's surface through the Maillard reaction, a chemical process that browns proteins and sugars, creating complex, savory flavors and a satisfying crust. Unlike traditional stir frying in a pan, the air fryer prevents the chicken from steaming in its own juices, so it stays juicy inside but crispy outside.</p><p>Additionally, coating the chicken in cornstarch before cooking is a simple but crucial step. Cornstarch acts as a drying agent, absorbing surface moisture and creating a barrier that crisps up beautifully when exposed to hot air. This step mimics the effect of deep-frying but with less oil and mess. The cornstarch also helps the sauce adhere better after cooking.</p><p>The vegetable cooking technique is equally important. Air frying the veggies separately with just a light drizzle of oil ensures they retain their vibrant color and crunch. This contrasts nicely with the tender chicken and prevents the sogginess common in skillet stir fries. The short additional cooking after adding the sauce melds all the flavors without overcooking the veggies.</p><p>Finally, the sauce's balance of sweet honey, savory soy, and aromatic sesame oil creates a harmonious glaze that enhances every component. The quick final toss in the air fryer thickens the sauce just enough to cling to the ingredients, maximizing flavor with minimal effort. This combination of techniques results in a quick, easy, and delicious meal that feels fresh and homemade every time.</p>",
+        "ingredient_notes": {
+            "chicken breast": "Choose fresh, boneless skinless chicken breasts that are firm and pink with no off odors. Chicken breast is lean and cooks quickly, making it ideal for air frying. Cutting into uniform bite-sized pieces ensures even cooking. Avoid frozen or previously frozen chicken for best texture. If substituting with thighs, expect slightly richer flavor but longer cook time.",
+            "cornstarch": "Use pure cornstarch as a light coating agent to create a crispy crust on the chicken. Cornstarch absorbs moisture and crisps up under high heat, mimicking frying effects without excess oil. Avoid using flour here as it doesn’t crisp as well and can clump. Store cornstarch in a dry container to prevent caking.",
+            "soy sauce": "Opt for a naturally brewed soy sauce with balanced saltiness and umami. Soy sauce adds depth and savory notes to the marinade and sauce. Low-sodium versions work well if you want to control salt levels. Avoid artificial or overly dark sauces which can overpower the dish.",
+            "honey": "Honey adds a natural sweetness and helps caramelize the sauce during the final air frying step. Use mild, liquid honey for easy mixing. The sugars in honey brown nicely, creating a glossy glaze. Substitute with maple syrup or agave for a different flavor but expect slight texture changes.",
+            "vegetables": "Fresh, crisp vegetables like bell peppers, broccoli, and carrots provide texture and color contrast. Choose firm, brightly colored produce with no soft spots. Cutting veggies uniformly ensures even cooking. Frozen vegetables can be used but may release more moisture, affecting crispness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken dry before coating with cornstarch.",
+            "reason": "Removing excess moisture helps the cornstarch adhere better and promotes crisping. If the chicken is wet, the coating will clump or slide off, resulting in soggy texture instead of a crispy crust."
+        },
+        {
+            "tip": "Don’t overcrowd the air fryer basket.",
+            "reason": "Overcrowding traps moisture and prevents hot air from circulating properly, causing the chicken and veggies to steam instead of crisp. Cooking in batches ensures even browning and better texture."
+        },
+        {
+            "tip": "Shake or toss the basket halfway through cooking.",
+            "reason": "This redistributes the food, exposing all sides to the hot air for even cooking and browning. Neglecting this step can cause uneven color and texture, with some pieces over or undercooked."
+        },
+        {
+            "tip": "Use fresh garlic and ginger for the sauce.",
+            "reason": "Fresh aromatics provide vibrant, sharp flavors that dried powders can’t match. They balance the sweetness and saltiness of the sauce and add a fresh zing that brightens the dish."
+        },
+        {
+            "tip": "Serve immediately after cooking.",
+            "reason": "The crisp texture and fresh flavors are best enjoyed hot. Waiting too long causes the chicken and veggies to soften and the sauce to thicken or separate, losing the intended texture and appeal."
+        },
+        {
+            "tip": "Use a thermometer to check chicken doneness.",
+            "reason": "Ensuring the chicken reaches 165°F prevents undercooking for safety and overcooking for dryness. Visual cues alone can be misleading, so a thermometer guarantees juicy, safe chicken every time."
+        },
+        {
+            "tip": "Add sesame seeds and green onions as garnish.",
+            "reason": "These toppings add texture contrast and fresh flavor notes. Sesame seeds give a slight nuttiness, while green onions add a mild sharpness that lifts the dish visually and taste-wise."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the cornstarch coating on chicken",
+            "why_it_happens": "Many cooks assume marinating alone is enough for crispiness, overlooking the role of cornstarch as a drying and crisping agent.",
+            "fix": "Always toss chicken in cornstarch before air frying. This simple step creates a light crust that keeps the chicken juicy inside and crispy outside, mimicking frying textures without excess oil."
+        },
+        {
+            "mistake": "Overcrowding the air fryer basket",
+            "why_it_happens": "Trying to cook all at once for convenience, ignoring airflow requirements.",
+            "fix": "Cook in batches if needed, ensuring a single layer with space between pieces. Proper airflow crisps the food, preventing sogginess and uneven cooking."
+        },
+        {
+            "mistake": "Skipping the preheat step",
+            "why_it_happens": "Impatience or unfamiliarity with air fryer operation.",
+            "fix": "Always preheat the air fryer. This jumpstarts the Maillard reaction and ensures even cooking from the start, resulting in a crispier, more flavorful dish."
+        },
+        {
+            "mistake": "Using frozen vegetables without thawing",
+            "why_it_happens": "Convenience or oversight.",
+            "fix": "Use fresh veggies or thaw and pat dry frozen ones before cooking. Excess moisture from frozen produce causes steaming and sogginess, ruining the crisp texture."
+        },
+        {
+            "mistake": "Not shaking the basket during cooking",
+            "why_it_happens": "Forgetting or rushing the process.",
+            "fix": "Pause halfway through cooking to shake or toss the basket contents. This ensures even exposure to heat and consistent browning on all sides."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Air Fryer Stir Fry",
+            "description": "Add 1-2 teaspoons of sriracha to the sauce for a spicy kick. You can also toss in sliced jalapeños with the veggies for extra heat. Expect a bolder flavor profile with a nice balance of sweet, savory, and spicy elements.",
+            "technical_note": "Adjust cooking times slightly if adding jalapeños to avoid burning; monitor closely during the final saucing step."
+        },
+        {
+            "name": "Teriyaki Style Air Fryer Stir Fry",
+            "description": "Swap the soy-honey sauce for a homemade teriyaki glaze using soy sauce, brown sugar, mirin, and garlic. This gives a richer, slightly sweet umami flavor. Use pineapple chunks for a tropical twist.",
+            "technical_note": "Teriyaki sauce tends to be thicker; reduce final cook time slightly to prevent burning during glazing."
+        },
+        {
+            "name": "Vegetarian Air Fryer Stir Fry",
+            "description": "Replace chicken with firm tofu, pressed and cubed. Coat tofu in cornstarch and air fry the same way. This keeps a crispy texture and soaks up the flavorful sauce beautifully.",
+            "technical_note": "Tofu needs a slightly shorter cook time; watch carefully to avoid drying it out."
+        },
+        {
+            "name": "Peanut Sauce Air Fryer Stir Fry",
+            "description": "Mix peanut butter, soy sauce, lime juice, and a touch of honey for a creamy, nutty sauce. Toss with chicken and veggies for a Thai-inspired flavor profile. Garnish with chopped peanuts and cilantro.",
+            "technical_note": "Peanut sauce thickens quickly; add a splash of water or broth to thin before final cooking step."
+        },
+        {
+            "name": "Ginger Lime Air Fryer Stir Fry",
+            "description": "Boost freshness by adding extra grated ginger and a squeeze of lime juice to the sauce. This variation brightens the dish with zesty and aromatic notes, perfect for spring and summer meals.",
+            "technical_note": "Add lime juice after cooking to preserve its bright flavor and prevent bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "370 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "12g",
+        "fiber_grams": "4g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry is best eaten fresh but can be kept at room temperature for up to 2 hours if covered loosely. Leaving it out longer risks bacterial growth and sogginess due to moisture buildup.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken and veggies will lose some crispness but still taste great reheated. For best texture, reheat gently to avoid drying out the chicken.",
+        "freezer": "Freeze in a sealed container or heavy-duty freezer bag for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or broth to loosen the sauce, stirring gently until warmed through. Avoid microwaving too long as it can make the chicken rubbery and veggies mushy.",
+        "make_ahead_strategy": "You can prep and marinate the chicken 1 day ahead and chop the veggies. Store separately in the fridge. Assemble and cook everything fresh on the day for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving during cooking. Just cut them into similar bite-sized pieces and watch the cook time closely, as thighs can take a little longer to cook through. The flavor will be richer but still delicious."
+        },
+        {
+            "question": "What if I don't have an air fryer? Can I make this on the stove?",
+            "answer": "You can, but the texture will differ. Pan-fry the chicken in a hot skillet to get some crispiness, then stir fry the veggies separately. The air fryer helps keep everything crisp and less oily, so the stovetop version might be a bit softer and require more oil."
+        },
+        {
+            "question": "How do I keep the veggies from getting soggy?",
+            "answer": "Avoid overcrowding and cook veggies separately from the chicken. Use fresh vegetables and cut them evenly for quick, even cooking. Also, don’t add the sauce too early; add it in the last few minutes to prevent the veggies from steaming and losing their crunch."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! Use gluten-free soy sauce or tamari to replace regular soy sauce. Double-check other ingredients like honey or cornstarch to ensure they’re gluten-free. This swap won’t change the texture or flavor significantly."
+        },
+        {
+            "question": "Is it okay to double the recipe for a bigger batch?",
+            "answer": "You can double the ingredients but avoid crowding the air fryer basket. Cook in batches to maintain crispness and even cooking. Overloading will cause steaming and uneven texture."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Definitely! Snap peas, mushrooms, zucchini, or baby corn work great. Just adjust the cooking time slightly based on the vegetable’s density and water content to preserve crispness."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store in an airtight container in the fridge for up to 3 days. Reheat gently on the stovetop with a splash of water to keep the chicken moist and the sauce saucy. Avoid microwaving for long periods as it can dry out the chicken."
+        },
+        {
+            "question": "How do I prevent the sauce from burning in the air fryer?",
+            "answer": "Add the sauce only in the last few minutes of cooking and keep an eye on it. The sugars in honey can burn quickly at high heat. Toss everything quickly and remove as soon as the sauce thickens and glazes the chicken."
+        }
+    ],
+    "conclusion": "I hope you give this air fryer chicken stir fry a try soon — it’s become a favorite in my house for quick, tasty dinners. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "air fryer chicken stir fry",
+        "secondary_keywords": [
+            "quick chicken stir fry",
+            "healthy air fryer recipes",
+            "how to make air fryer stir fry",
+            "best air fryer chicken recipe",
+            "easy air fryer dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade stir fry sauce",
+                "anchor": "homemade-stir-fry-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_5.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_5.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "30-Minute Air Fryer Stir Fry That’s Perfectly Crispy Every Time"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_7.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_7.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Crispy, Juicy Air Fryer Chicken Stir Fry Ready in Under 30 Minutes"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_6.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_6.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Family-Friendly Air Fryer Chicken Stir Fry You’ll Want to Make Again"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_8.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_8.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Whip Up This Crispy Air Fryer Chicken Stir Fry Tonight!"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_9.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_9.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Whip Up This Crispy Air Fryer Chicken Stir Fry Tonight!"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_4.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_4.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images/easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Whip Up This Crispy Air Fryer Chicken Stir Fry Tonight!"
+        }
+    ],
+    "id": "post_1785107738_109",
+    "slug": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-27T00:25:06+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-27T00:25:06+01:00",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "easy-air-fryer-stir-fry-recipe-for-quick-and-flavorful-weeknight-dinners/images",
+    "has_reel": true
+}
