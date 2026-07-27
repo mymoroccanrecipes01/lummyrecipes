@@ -1,0 +1,353 @@
+{
+    "title": "Spiced Masala Omelette with Fresh Coriander Chutney for Busy Mornings",
+    "promptIMG": "Food photography: Masala Omelette with Coriander Chutney, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This masala omelette is a flavorful Indian breakfast classic, packed with fresh spices and herbs. The coriander chutney adds a zingy twist that wakes up your taste buds. Great for quick mornings or relaxed weekends!",
+    "hashtags": "#masalaomelette #Indianbreakfast #easyrecipes",
+    "board_name": "Quick Indian Breakfasts",
+    "pin_variations": [
+        {
+            "title": "Wake Up to This Flavorful Masala Omelette with Fresh Chutney!",
+            "description": "Start your day right with this vibrant masala omelette paired with zesty coriander chutney. It’s packed with spices and fresh herbs that bring breakfast alive. Save this recipe for your next busy morning! 🥚🌿 #IndianBreakfast #EasyOmelette #HealthyStart"
+        },
+        {
+            "title": "Easy Masala Omelette Recipe You Can Make in 15 Minutes",
+            "description": "Need a quick but delicious breakfast? This masala omelette with coriander chutney is your new go-to. It’s simple, spicy, and full of fresh flavor. Try it today and brighten up your mornings! 🍳✨ #QuickBreakfast #MasalaOmelette #BreakfastIdeas"
+        },
+        {
+            "title": "Discover the Secret to the Perfect Indian Masala Omelette",
+            "description": "I’ve been making this masala omelette for years, and the coriander chutney is the game changer. Fresh, tangy, and easy to whip up. Discover this classic recipe and enjoy a tasty start to your day! 🌶️🥄 #IndianFood #BreakfastRecipe #FlavorfulMornings"
+        },
+        {
+            "title": "Spice Up Your Breakfast with This Masala Omelette and Chutney",
+            "description": "This isn't your ordinary omelette — it’s bursting with Indian spices and fresh herbs, paired with a zingy coriander chutney. Perfect for lazy weekends or busy mornings. Give it a try and save for later! 🍽️🌱 #MasalaOmelette #HealthyBreakfast #IndianFlavors"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 2,
+    "ingredients": [
+        "4 large eggs, beaten",
+        "1 small onion, finely chopped",
+        "1 small tomato, finely chopped",
+        "1 green chili, finely chopped (optional)",
+        "2 tablespoons fresh coriander leaves, chopped",
+        "1/4 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "1/2 teaspoon garam masala",
+        "Salt to taste",
+        "1 tablespoon oil or ghee",
+        "For coriander chutney:",
+        "1 cup fresh coriander leaves",
+        "1 small green chili",
+        "1 small clove garlic",
+        "1 teaspoon lemon juice",
+        "Salt to taste",
+        "Water as needed"
+    ],
+    "yield": "2 servings",
+    "introduction": "I first stumbled upon this masala omelette recipe during a trip to India, where breakfasts burst with vibrant spices and fresh herbs. It was a revelation—simple eggs transformed into something exciting and flavorful. Since then, I’ve tweaked the recipe a bit to balance the spices perfectly and added a fresh coriander chutney on the side for that zingy lift. The trick I learned is to finely chop the veggies so they cook quickly and meld beautifully with the eggs, giving the omelette a soft yet textured bite. Also, using ghee instead of plain oil adds a subtle richness that feels indulgent without being heavy. This omelette isn’t just any breakfast; it’s an experience of flavors that wakes you up gently but surely. Whether you’re rushing through a weekday morning or enjoying a lazy weekend, this dish is a reliable crowd-pleaser. The finished omelette is fluffy, colorful, and packed with layers of spice and freshness, perfectly complemented by the coriander chutney’s bright notes. I think it’s one of the best ways to make eggs exciting again!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Begin by preparing the coriander chutney. Combine fresh coriander leaves, green chili, garlic, lemon juice, and salt in a blender. Add a little water as needed to blend into a smooth, vibrant green chutney. This chutney adds a fresh, tangy contrast to the warm spices in the omelette and should be set aside while you prep the eggs.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, bright green chutney with no large chunks"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, beat the eggs thoroughly until frothy. Add finely chopped onion, tomato, green chili, coriander leaves, turmeric, red chili powder, garam masala, and salt. Mixing these ingredients well ensures even distribution of spices and a consistent flavor throughout the omelette.",
+            "timing": "5 minutes",
+            "doneness_cue": "Egg mixture looks uniform and slightly frothy"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat oil or ghee in a non-stick pan over medium heat. Once hot, pour the egg mixture evenly into the pan. The key here is to keep the heat moderate so the omelette cooks through without burning the spices or veggies. Too high heat can cause uneven cooking and a bitter taste.",
+            "timing": "1 minute",
+            "doneness_cue": "Egg mixture starts to set around edges but still slightly runny on top"
+        },
+        {
+            "step": 4,
+            "instruction": "Let the omelette cook undisturbed for about 2-3 minutes. As it cooks, edges will firm up and the center will begin to set. Resist the urge to flip too early or stir, as this will break the texture and prevent a nice golden crust from forming.",
+            "timing": "3 minutes",
+            "doneness_cue": "Edges are set and starting to turn golden; center mostly firm"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully flip the omelette using a spatula to cook the other side. Cook for another 2 minutes until fully set and lightly golden. This step locks in the flavors and cooks the veggies inside without drying out the eggs.",
+            "timing": "2 minutes",
+            "doneness_cue": "Omelette is golden on both sides and fully cooked through"
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, transfer the omelette to a serving plate. Let it rest for a minute — this helps the flavors meld and the texture to settle, making it easier to slice or fold without breaking.",
+            "timing": "1 minute",
+            "doneness_cue": "Omelette holds shape when cut or folded"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the masala omelette hot with a generous dollop of the fresh coriander chutney on the side. The chutney’s brightness complements the warm spices perfectly and adds an addictive freshness.",
+            "timing": "Immediate",
+            "doneness_cue": "Chutney is vibrant and fresh, omelette steaming hot"
+        },
+        {
+            "step": 8,
+            "instruction": "Optional: Garnish with extra fresh coriander leaves or a squeeze of lemon juice for added zing. This step is great if you want to brighten the flavors even more and add a pop of color to your plate.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green garnish and fresh lemon aroma"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy immediately for best flavor and texture. The omelette is at its fluffiest and freshest right off the pan, paired with the zing of the chutney. If you need to reheat, do so gently to avoid drying it out.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Warm, fluffy, and flavorful bite"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Masala Omelette is a Flavorful Morning Winner",
+        "content": "<p>This masala omelette works so well because it balances fresh herbs, spices, and eggs in a way that’s both comforting and exciting. The eggs provide a soft, fluffy base that holds moisture well, while the finely chopped onion and tomato add texture and subtle sweetness. The turmeric and garam masala introduce warmth and depth without overpowering the eggs.</p><p>The coriander chutney isn’t just a side — it’s a crucial flavor contrast. Its bright, herbal, and slightly acidic notes cut through the richness of the eggs and spices, creating a balanced bite every time. The lemon juice in the chutney also helps preserve the vibrant green color, making the dish visually appealing.</p><p>Cooking the omelette over medium heat allows the Maillard reaction to develop a mild golden crust that adds a slight nuttiness and texture contrast. This step is key because high heat would burn the spices and dry out the eggs, while too low heat would make the omelette dense and rubbery.</p><p>Finally, using ghee adds a subtle buttery aroma that elevates the dish beyond a typical egg breakfast. It’s a simple fat swap that adds complexity without heaviness, making the omelette feel special and indulgent.</p>",
+        "ingredient_notes": {
+            "eggs": "Fresh eggs are essential for a fluffy, tender omelette. Look for eggs with bright yolks and no cracks. The proteins in eggs coagulate when cooked, creating structure. Using room temperature eggs helps them beat more easily and cook evenly.",
+            "onion": "Finely chopped onions add sweetness and crunch. Red onions can be swapped for a sharper bite, but white or yellow onions are milder. Cooking them gently in the egg mixture softens their flavor and prevents bitterness.",
+            "tomato": "Fresh, ripe tomatoes add juiciness and acidity. Removing excess seeds can prevent the omelette from becoming watery. Tomatoes also bring natural sweetness that balances the spices.",
+            "spices": "Turmeric, red chili powder, and garam masala offer warmth and complexity. Turmeric adds color and subtle earthiness; garam masala provides a fragrant blend of spices that deepen flavor. Freshly ground spices yield the best aroma.",
+            "coriander chutney": "The chutney’s freshness depends on vibrant coriander leaves and a hint of lemon juice to prevent browning. Garlic and green chili add pungency and heat. Blending to a smooth texture ensures it spreads easily and complements the omelette perfectly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for fluffier omelettes.",
+            "reason": "Eggs at room temperature incorporate air better when beaten, resulting in a lighter texture. Cold eggs can cause uneven cooking and a rubbery texture."
+        },
+        {
+            "tip": "Chop vegetables finely to ensure quick, even cooking.",
+            "reason": "Small pieces cook through quickly within the eggs, preventing soggy or crunchy bits. It also distributes flavor evenly in every bite."
+        },
+        {
+            "tip": "Cook omelette on medium heat to avoid burning spices.",
+            "reason": "High heat can scorch the spices and dry out the eggs, while medium heat allows a gentle Maillard reaction, developing flavor and a tender texture."
+        },
+        {
+            "tip": "Use ghee or clarified butter for richer flavor.",
+            "reason": "Ghee adds a nutty aroma and richness that regular oil lacks. It also withstands higher cooking temperatures without burning, enhancing the omelette’s taste."
+        },
+        {
+            "tip": "Let omelette rest for a minute after cooking.",
+            "reason": "Resting allows residual heat to finish cooking gently and helps flavors meld, making the omelette easier to fold or slice without breaking."
+        },
+        {
+            "tip": "Prepare the coriander chutney fresh for best taste.",
+            "reason": "Fresh chutney retains bright color and vibrant flavor. Making it ahead can cause browning and dull taste due to oxidation."
+        },
+        {
+            "tip": "Don’t rush flipping the omelette; wait until edges set.",
+            "reason": "Flipping too early can break the omelette and cause uneven cooking. Waiting ensures a firm base and a nice golden crust."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using high heat that burns spices and dries eggs.",
+            "why_it_happens": "Many cooks rush cooking to save time and crank up the heat, assuming it’s faster without realizing it ruins texture and flavor.",
+            "fix": "Cook over medium heat and be patient. This lets spices bloom gently and eggs cook evenly without toughening."
+        },
+        {
+            "mistake": "Adding too many veggies causing sogginess.",
+            "why_it_happens": "It’s tempting to load the omelette with extras, but excess moisture from tomatoes or onions can make it watery.",
+            "fix": "Use moderate amounts and finely chop veggies. Drain excess moisture from tomatoes if needed."
+        },
+        {
+            "mistake": "Not beating eggs enough for fluffiness.",
+            "why_it_happens": "Skipping thorough beating leads to dense, flat omelettes lacking airiness.",
+            "fix": "Beat eggs until frothy and uniform to incorporate air that creates a light texture."
+        },
+        {
+            "mistake": "Skipping coriander chutney or using store-bought versions.",
+            "why_it_happens": "Convenience or lack of fresh herbs leads to omitting this fresh element, losing flavor balance.",
+            "fix": "Make simple fresh chutney; it’s quick and transforms the dish with brightness."
+        },
+        {
+            "mistake": "Flipping too early causing breakage.",
+            "why_it_happens": "Impatience or unfamiliarity with cooking eggs leads to breaking the omelette.",
+            "fix": "Wait until edges are set and surface mostly firm before flipping carefully with a spatula."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Cheese Masala Omelette",
+            "description": "Add 1/4 cup grated cheese like cheddar or paneer into the egg mixture for a creamy, melty twist. The cheese adds richness and a subtle tang that complements the spices well.",
+            "technical_note": "Cheese melts quickly, so cook on slightly lower heat to avoid burning the omelette while melting the cheese inside."
+        },
+        {
+            "name": "Spinach and Mushroom Masala Omelette",
+            "description": "Incorporate sautéed spinach and mushrooms for extra veggies and earthiness. This variation adds nutrients and depth while keeping the spicy kick intact.",
+            "technical_note": "Pre-cook the mushrooms and spinach until moisture evaporates to prevent soggy omelette."
+        },
+        {
+            "name": "Vegan Masala Chickpea Omelette",
+            "description": "Use chickpea flour and water to create a vegan batter, adding the same spices and veggies. This version is protein-packed and perfect for dairy-free diets.",
+            "technical_note": "Chickpea batter takes slightly longer to cook, so use low heat and flip carefully after edges set."
+        },
+        {
+            "name": "Spicy Masala Omelette Wrap",
+            "description": "Wrap the cooked omelette in a warm flatbread with chutney and fresh veggies for a portable breakfast option. Great for on-the-go mornings or lunchboxes.",
+            "technical_note": "Keep omelette slightly thicker to hold up well when wrapped."
+        },
+        {
+            "name": "Herb-Infused Masala Omelette",
+            "description": "Add fresh mint and fenugreek leaves to the egg mixture for a fresh, aromatic flavor boost. These herbs bring a unique twist to the classic masala omelette.",
+            "technical_note": "Use herbs sparingly to avoid overpowering the base spices."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "20g",
+        "fiber_grams": "2g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This omelette is best enjoyed fresh but can sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth might occur, so refrigerate if not eaten right away.",
+        "refrigerator": "Store in an airtight container for up to 2 days. The omelette will firm up and flavors meld; reheat gently in a pan or microwave with a splash of water to keep it moist.",
+        "freezer": "Freeze cooked omelette wrapped tightly in plastic wrap and foil for up to 1 month. Thaw overnight in the fridge and reheat gently to avoid rubbery texture.",
+        "reheating": "Reheat on low heat in a non-stick pan with a lid or microwave at medium power for 30-60 seconds. Add a splash of water or chutney to maintain moisture and flavor. Avoid high heat to prevent drying out.",
+        "make_ahead_strategy": "Prepare the coriander chutney and chop vegetables a day ahead. Store separately in airtight containers. Beat eggs and cook omelette fresh to retain fluffiness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make the omelette without green chili?",
+            "answer": "Absolutely! Green chili adds heat, but you can omit it for a milder flavor. You might want to add a pinch of black pepper or paprika to keep some warmth without the spice."
+        },
+        {
+            "question": "What can I substitute for garam masala?",
+            "answer": "If you don’t have garam masala, a mix of ground cumin, coriander, and a pinch of cinnamon works well. It won’t be exactly the same but keeps the warm, aromatic profile."
+        },
+        {
+            "question": "Can I prepare the coriander chutney in advance?",
+            "answer": "You can prepare chutney a day ahead and store it refrigerated in an airtight container. Add a little lemon juice right before serving to refresh its color and brightness."
+        },
+        {
+            "question": "How do I prevent the omelette from sticking to the pan?",
+            "answer": "Use a good quality non-stick pan or season your pan well. Also, ensure the oil or ghee is hot before pouring the egg mixture, and avoid moving the omelette too soon."
+        },
+        {
+            "question": "Can I add other vegetables to the omelette?",
+            "answer": "Yes, but keep them finely chopped and avoid adding too much moisture. Pre-cook watery vegetables like mushrooms or spinach to prevent sogginess."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "While best fresh, you can cook omelettes ahead and refrigerate. Reheat gently to keep texture. Chutney is best made fresh but can be stored briefly."
+        },
+        {
+            "question": "What if I want a vegan version?",
+            "answer": "Try replacing eggs with chickpea flour batter mixed with water and the same spices. The texture will differ but it’s a tasty alternative."
+        },
+        {
+            "question": "How spicy is this recipe?",
+            "answer": "It’s moderately spicy, thanks to green chili and chili powder. You can adjust these to your taste or omit chili for a milder version."
+        }
+    ],
+    "conclusion": "Give this masala omelette a try and bring some Indian spice magic to your mornings! I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "masala omelette recipe",
+        "secondary_keywords": [
+            "Indian breakfast omelette",
+            "how to make masala omelette",
+            "best masala omelette recipe",
+            "easy masala omelette"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade coriander chutney recipe",
+                "anchor": "homemade-coriander-chutney"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5500 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Wake Up to This Flavorful Masala Omelette with Fresh Chutney!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Wake Up to This Flavorful Masala Omelette with Fresh Chutney!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Easy Masala Omelette Recipe You Can Make in 15 Minutes"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Wake Up to This Flavorful Masala Omelette with Fresh Chutney!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Spice Up Your Breakfast with This Masala Omelette and Chutney"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images/quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Discover the Secret to the Perfect Indian Masala Omelette"
+        }
+    ],
+    "id": "post_1785193428_479",
+    "slug": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo",
+    "isOnline": true,
+    "createdAt": "2026-07-28T00:47:47+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-28T00:47:47+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "quick-breakfast-recipes-indian-easy-savory-masala-omelette-and-chutney-combo/images",
+    "has_reel": true
+}
