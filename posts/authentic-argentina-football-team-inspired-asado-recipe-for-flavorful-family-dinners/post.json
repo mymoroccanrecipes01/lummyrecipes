@@ -1,0 +1,347 @@
+{
+    "title": "Classic Argentine Asado with Smoky Chimichurri Sauce",
+    "promptIMG": "Food photography: Argentine Asado, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This Argentine Asado brings bold smoky flavors from slow charcoal grilling paired with a fresh chimichurri sauce. It’s perfect for family dinners or cheering on the game. Super simple but unforgettable!",
+    "hashtags": "#asado #argentinianfood #grilling",
+    "board_name": "Easy Grilled Meat Recipes",
+    "pin_variations": [
+        {
+            "title": "Master the Art of Argentine Asado at Home Tonight!",
+            "description": "Discover the secret to mouthwatering Argentine Asado with smoky grilled meats and vibrant chimichurri. Perfect for weekend cookouts! Save this recipe and impress your guests 🍖🔥 #asado #grilling #chimichurri #bbqrecipes"
+        },
+        {
+            "title": "Authentic Argentine Asado Recipe for Flavor-Packed Dinners",
+            "description": "Ready to elevate your grilling game? This Argentine Asado is slow-cooked over charcoal for unbeatable flavor. Try it today and savor the taste of Argentina 🇦🇷🍴 #argentinianfood #asado #familydinner #grillmaster"
+        },
+        {
+            "title": "Smoky Argentine Asado with Fresh Chimichurri Sauce You’ll Love",
+            "description": "Juicy grilled meats meet zesty chimichurri in this classic Argentine Asado. A perfect dish for game nights or weekend feasts. Discover now and bring the flavors of Argentina home! 🌿🔥 #asado #chimichurri #bbq #grilledmeat"
+        },
+        {
+            "title": "How to Make Perfect Argentine Asado with Chimichurri Sauce",
+            "description": "This easy Argentine Asado recipe delivers smoky, tender meat and a tangy chimichurri that’s bursting with flavor. Follow along and save this for your next cookout! 🍖🌱 #argentinianfood #asado #easyrecipes #grillingtips"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 90,
+    "servings": 6,
+    "ingredients": [
+        "3 lbs beef short ribs, bone-in, at room temperature",
+        "2 lbs pork sausages (chorizo or similar), room temperature",
+        "1 cup fresh parsley, finely chopped",
+        "4 cloves garlic, minced",
+        "1/4 cup red wine vinegar",
+        "1/2 cup extra virgin olive oil",
+        "1 tsp dried oregano",
+        "1/2 tsp red pepper flakes",
+        "Salt and freshly ground black pepper, to taste",
+        "Charcoal for grilling"
+    ],
+    "yield": "Serves 6 generously",
+    "introduction": "I first fell in love with Argentine Asado during a trip to Buenos Aires where the locals treat grilling like a sacred ritual. The smoky aroma, the rich crust on the meat, and that fresh punch from chimichurri sauce stayed with me. Since then, I've been perfecting my own version at home, focusing on slow charcoal grilling to get that authentic crust. Unlike quick grilling, this method lets the meat develop deep smoky flavors while staying tender inside. The chimichurri is my twist: bright, garlicky, and tangy to cut through the richness. I’ve had my fair share of overcooked or bland attempts, but the trick I learned is patience and good heat control. When done right, the meat is juicy with a caramelized crust, and the chimichurri brings a fresh herbaceous kick. It’s such a crowd-pleaser for family dinners or watching the football game — everyone always asks for seconds!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Prepare your grill by lighting the charcoal and letting it burn until covered with white ash, which usually takes about 30-40 minutes. This slow heating creates steady, even heat perfect for the Asado. Avoid rushing this step because starting with hot, ashy coals is key to developing the signature smoky crust on the meat. If you add the meat too soon, it’ll cook unevenly and won’t get that deep flavor. Arrange the coals to one side for indirect grilling.",
+            "timing": "40 minutes",
+            "doneness_cue": "Charcoal covered with white ash and glowing red underneath"
+        },
+        {
+            "step": 2,
+            "instruction": "While the grill heats, season the beef short ribs generously with salt and pepper on all sides. This simple seasoning helps draw out the meat’s natural flavors and encourages a beautiful crust when grilled. Don’t be shy with salt—it also helps retain moisture. Let the meat sit at room temperature to ensure even cooking. Avoid seasoning too far in advance to prevent drawing out too much moisture.",
+            "timing": "15 minutes",
+            "doneness_cue": "Meat surfaces look evenly coated and slightly moist from the salt"
+        },
+        {
+            "step": 3,
+            "instruction": "For the chimichurri, combine the chopped parsley, minced garlic, red wine vinegar, olive oil, oregano, red pepper flakes, salt, and pepper in a bowl. Mix well and let it sit at room temperature for at least 15 minutes to allow the flavors to meld. This resting period is crucial because it softens the garlic’s sharpness and lets the herbs infuse the vinegar and oil, creating a balanced sauce.",
+            "timing": "15 minutes",
+            "doneness_cue": "Sauce looks vibrant green with evenly mixed ingredients and fragrant aroma"
+        },
+        {
+            "step": 4,
+            "instruction": "Place the beef ribs on the cooler side of the grill for indirect cooking. Close the lid and let them cook slowly for about 60 minutes, flipping halfway through. Slow indirect heat allows the meat to cook evenly and absorb smoky flavors without drying out. Resist the urge to flip too often; flipping once prevents the crust from breaking up and ensures a nice sear.",
+            "timing": "60 minutes",
+            "doneness_cue": "Meat surface develops a deep brown crust and juices start to appear on top"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the sausages to the hotter side of the grill and cook for 15-20 minutes, turning frequently. This direct heat cooks the sausages quickly, giving them a crisp skin while keeping the inside juicy. Watch carefully to avoid flare-ups which can burn the sausages. If flare-ups happen, move them to indirect heat briefly.",
+            "timing": "20 minutes",
+            "doneness_cue": "Sausages are evenly browned and feel firm but springy to the touch"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the beef ribs are tender and the sausages are cooked through, remove all the meat from the grill and let it rest for 10 minutes. Resting allows the juices to redistribute inside the meat, making every bite juicy and flavorful. Cutting in too soon will cause the juices to run out and leave the meat dry.",
+            "timing": "10 minutes",
+            "doneness_cue": "Meat feels warm but not hot, and juices are visible when pressed lightly"
+        },
+        {
+            "step": 7,
+            "instruction": "Slice the beef ribs between the bones and arrange all the grilled meats on a large serving platter. Spoon the chimichurri sauce generously over the meat or serve it on the side for dipping. The fresh herb sauce cuts through the richness perfectly, balancing each bite with acidity and brightness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Meat slices reveal a juicy interior with a caramelized crust"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve your Argentine Asado with simple sides like crusty bread, grilled vegetables, or a fresh salad. The simplicity of the sides lets the meat and chimichurri shine. This meal is all about enjoying bold, natural flavors and good company.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sides complement the meat without overpowering it"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your meal with friends or family, pairing the Asado with a glass of Malbec or your favorite red wine. The smoky, savory flavors of the meat and the tangy chimichurri make it a perfect match for rich reds. Don’t forget to savor each bite slowly and appreciate the time and care put into this traditional dish.",
+            "timing": "No cook time",
+            "doneness_cue": "Everyone is smiling and enjoying the meal"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfect Argentine Asado",
+        "content": "<p>Argentine Asado is all about technique and respecting the ingredients. The slow charcoal grilling is crucial because it allows the Maillard reaction to take place gradually, creating that irresistible crust without burning. This reaction is a chemical process where amino acids and sugars in the meat react under heat, forming complex flavors and a caramelized surface. Rushing this step or using high heat results in a burnt exterior and undercooked interior.</p><p>The chimichurri sauce balances the richness of the meat through its acidity and fresh herbs. The vinegar tenderizes the meat slightly and brightens the palate, while the olive oil emulsifies the sauce, helping it cling to the meat. Garlic and oregano add layers of savory depth, making the sauce more than just a condiment but an essential part of the flavor profile.</p><p>Choosing the right cuts, like bone-in short ribs and quality sausages, impacts the texture and flavor. Bone-in cuts retain moisture better and add subtle depth from the marrow. The sausages provide a contrast in texture and flavor, with their spiced, juicy interior and crisp skin. Resting the meat after grilling allows the muscle fibers to relax, trapping juices inside, which is why cutting too soon leads to dry meat.</p><p>Finally, controlling the fire by using indirect heat prevents flare-ups that would burn the meat. This steady, moderate heat encourages even cooking and smoke absorption, essential for authentic Asado flavor. Understanding these elements helps you recreate the iconic Argentine grilling experience at home.</p>",
+        "ingredient_notes": {
+            "beef short ribs": "Look for well-marbled bone-in short ribs with a good thickness (about 1.5 inches). The marbling ensures tenderness and flavor during slow grilling. Bone-in cuts help retain moisture and impart subtle richness from the marrow. Avoid very lean cuts as they tend to dry out over long cooking.",
+            "pork sausages": "Choose fresh, high-quality pork sausages like chorizo with balanced fat content. Fat keeps the sausages juicy and helps develop a crisp skin when grilled. Avoid overly lean or pre-cooked sausages as they won’t crisp up well or may dry out quickly on the grill.",
+            "fresh parsley": "Use fresh, vibrant green flat-leaf parsley for the chimichurri. It provides a bright herbaceous flavor and fresh color. Avoid curly parsley which is less flavorful and can alter the texture of the sauce.",
+            "extra virgin olive oil": "Select a good quality, fruity extra virgin olive oil. It emulsifies the chimichurri and carries the flavors of garlic and herbs. Lower quality oils may taste bitter or metallic, affecting the sauce’s balance.",
+            "red wine vinegar": "Opt for a medium-bodied red wine vinegar that’s not too sharp or harsh. It adds acidity and brightness to the chimichurri, balancing the richness of the meat. Avoid distilled vinegar which lacks depth of flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Let your charcoal ash over before grilling.",
+            "reason": "Charcoal covered in white ash indicates it’s reached the ideal temperature for grilling. Starting too early means uneven, harsh heat that can burn the meat’s surface before it cooks through."
+        },
+        {
+            "tip": "Season your meat just before grilling.",
+            "reason": "Salting too far in advance draws out moisture, drying the meat. Seasoning right before cooking locks in juices and enhances the crust formation during grilling."
+        },
+        {
+            "tip": "Use indirect heat for slow-cooking larger cuts.",
+            "reason": "Indirect heat prevents flare-ups and allows the meat to cook evenly, absorbing smoky flavors without burning. Direct flame is better reserved for sausages or thinner cuts."
+        },
+        {
+            "tip": "Flip the meat only once during cooking.",
+            "reason": "Frequent flipping breaks up the developing crust and slows the Maillard reaction. One flip ensures a uniform sear and better texture."
+        },
+        {
+            "tip": "Rest the meat after grilling.",
+            "reason": "Resting lets juices redistribute inside the meat fibers. Cutting too soon causes juices to escape, resulting in dry, less flavorful meat."
+        },
+        {
+            "tip": "Let the chimichurri rest before serving.",
+            "reason": "This allows the flavors to marry and mellow sharp garlic notes, producing a balanced, vibrant sauce."
+        },
+        {
+            "tip": "Control flare-ups by moving meat to cooler zones.",
+            "reason": "Flare-ups can burn the meat quickly. Shifting it to indirect heat protects the surface and maintains steady cooking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Grilling over too high heat",
+            "why_it_happens": "Many assume high heat cooks meat faster and better, rushing the process.",
+            "fix": "Use a two-zone fire with indirect heat for larger cuts. This prevents burning the exterior while allowing the inside to cook slowly and develop flavor."
+        },
+        {
+            "mistake": "Not letting the meat rest",
+            "why_it_happens": "Impatience to serve immediately leads to cutting meat right off the grill.",
+            "fix": "Rest meat for 10 minutes tented loosely with foil. This traps heat and allows juices to redistribute, yielding juicier slices."
+        },
+        {
+            "mistake": "Over-seasoning chimichurri",
+            "why_it_happens": "Adding too much salt or vinegar trying to boost flavor.",
+            "fix": "Add seasoning gradually and taste as you go. The sauce should be balanced, not sharp or salty."
+        },
+        {
+            "mistake": "Flipping meat too often",
+            "why_it_happens": "Thinking frequent flipping cooks meat faster or more evenly.",
+            "fix": "Flip only once halfway through cooking to preserve crust formation and even cooking."
+        },
+        {
+            "mistake": "Using lean cuts for Asado",
+            "why_it_happens": "Choosing cuts without enough fat due to health concerns or availability.",
+            "fix": "Opt for well-marbled bone-in ribs or other fatty cuts to keep meat juicy and flavorful during slow grilling."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chicken Asado with Chimichurri",
+            "description": "Swap beef ribs for bone-in chicken thighs or drumsticks. Grill slowly over indirect heat until skin is crispy and meat is juicy. The chimichurri pairs beautifully with chicken’s milder flavor, making a lighter but still authentic option.",
+            "technical_note": "Chicken cooks faster so adjust timing to 35-40 minutes on indirect heat and ensure internal temp reaches 165°F."
+        },
+        {
+            "name": "Vegetarian Grilled Vegetables with Chimichurri",
+            "description": "Use hearty veggies like portobello mushrooms, eggplant, and bell peppers. Grill over medium heat until tender and slightly charred. Toss with chimichurri for a fresh, smoky vegetarian twist that still captures Asado’s spirit.",
+            "technical_note": "Grill veggies on direct heat for shorter times to avoid sogginess and maintain texture."
+        },
+        {
+            "name": "Spicy Chimichurri Asado",
+            "description": "Add extra red pepper flakes or fresh chopped chili peppers to the chimichurri for a spicy kick. This variation adds heat that complements the smoky richness of the meat perfectly.",
+            "technical_note": "Balance heat by adjusting vinegar and oil ratios to keep sauce harmonious."
+        },
+        {
+            "name": "Asado with Mixed Grill",
+            "description": "Include a variety of meats like short ribs, sausages, flank steak, and lamb chops. Grill each according to their ideal times and combine on one platter for an impressive feast with diverse flavors and textures.",
+            "technical_note": "Manage grill zones carefully to cook each meat perfectly without over or undercooking."
+        },
+        {
+            "name": "Herb-Infused Chimichurri",
+            "description": "Add fresh cilantro and mint to the traditional parsley chimichurri for a brighter, more complex herb flavor. This variation adds freshness and a unique twist to the classic sauce.",
+            "technical_note": "Use equal parts parsley and cilantro, and add mint sparingly to avoid overpowering the sauce."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "650 kcal",
+        "protein_grams": "55g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "45g",
+        "fiber_grams": "1g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep leftover Asado at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly to ensure safety.",
+        "refrigerator": "Store leftover meats and chimichurri separately in airtight containers for up to 4 days. Meat may dry slightly but reheats well. Chimichurri can be served cold or at room temp for best flavor.",
+        "freezer": "Freeze cooked meat wrapped tightly in foil and placed in freezer bags for up to 3 months. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat meat gently on the stovetop over low heat or in a 300°F oven with a splash of water or broth to prevent drying. Avoid microwave reheating if possible, as it can toughen the meat.",
+        "make_ahead_strategy": "Prepare chimichurri a day ahead to deepen flavors. Season meat and bring to room temperature before grilling. You can also partially grill meat and finish cooking just before serving for fresher results."
+    },
+    "faq": [
+        {
+            "question": "Can I use a gas grill instead of charcoal?",
+            "answer": "Yes, you can use a gas grill but you’ll miss some smoky flavor. To mimic charcoal, try using a smoker box with wood chips. Also, cook over indirect heat to avoid flare-ups and get even cooking."
+        },
+        {
+            "question": "How do I know when the ribs are done?",
+            "answer": "Look for a deep brown crust and meat that pulls back from the bone slightly. The internal temperature should be around 190°F for tender ribs. The meat should feel tender but not falling apart."
+        },
+        {
+            "question": "Can I make chimichurri without red wine vinegar?",
+            "answer": "You can substitute with apple cider vinegar or lemon juice, but it will slightly change the flavor profile. Red wine vinegar provides a balanced acidity that’s traditional for chimichurri."
+        },
+        {
+            "question": "What sides go best with Asado?",
+            "answer": "Simple sides like grilled vegetables, fresh salad, or crusty bread complement the rich meat and chimichurri without overpowering the flavors."
+        },
+        {
+            "question": "How do I prevent flare-ups on the grill?",
+            "answer": "Trim excess fat from meat to reduce drips. Use a two-zone fire to move meat away from direct flames when flare-ups occur. Keep a spray bottle of water handy to control flames safely."
+        },
+        {
+            "question": "Is it okay to marinate the meat overnight?",
+            "answer": "Traditional Asado is seasoned simply with salt and cooked fresh. Marinating can mask the natural beef flavor and affect crust formation, so it’s best to avoid marinating."
+        },
+        {
+            "question": "How do I store leftover chimichurri?",
+            "answer": "Store chimichurri in an airtight jar in the fridge for up to 5 days. Stir before serving as the oil may separate. It’s best eaten fresh but keeps well refrigerated."
+        },
+        {
+            "question": "Can I make this recipe for a large crowd?",
+            "answer": "Absolutely! Just scale up the meat and sauce quantities and manage your grill space carefully. Cooking in batches and keeping cooked meat warm in a low oven works well."
+        }
+    ],
+    "conclusion": "Give this Argentine Asado a try and bring a taste of Argentina to your table. I can't wait to hear how your family loves it—don’t forget to share your grilling stories!",
+    "seo": {
+        "primary_keyword": "argentine asado recipe",
+        "secondary_keywords": [
+            "authentic asado recipe",
+            "chimichurri sauce recipe",
+            "how to make asado",
+            "best argentine asado",
+            "easy asado recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "chimichurri sauce recipe",
+                "anchor": "chimichurri_sauce_recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_2.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_8.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_8.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Master the Art of Argentine Asado at Home Tonight!"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_6.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_6.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Smoky Argentine Asado with Fresh Chimichurri Sauce You’ll Love"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_5.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_5.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Authentic Argentine Asado Recipe for Flavor-Packed Dinners"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_9.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_9.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Master the Art of Argentine Asado at Home Tonight!"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_7.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_7.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "How to Make Perfect Argentine Asado with Chimichurri Sauce"
+        },
+        {
+            "fileName": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_4.webp",
+            "filePath": "posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_4.webp",
+            "relativePath": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Master the Art of Argentine Asado at Home Tonight!"
+        }
+    ],
+    "id": "post_1785540196_631",
+    "slug": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners",
+    "isOnline": true,
+    "createdAt": "2026-08-01T00:31:11+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-01T00:31:11+01:00",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images",
+    "has_reel": true
+}
