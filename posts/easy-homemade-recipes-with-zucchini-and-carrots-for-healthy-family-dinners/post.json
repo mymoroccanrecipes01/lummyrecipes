@@ -72,7 +72,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Why This Simple Veggie Sauté Is So Delicious",
-        "content": "<p>This zucchini and carrot sauté works because it balances texture, flavor, and aroma through simple techniques. The initial step of gently infusing olive oil with garlic creates a fragrant base that flavors every bite. Garlic’s volatile compounds release quickly with gentle heat, so starting here ensures the oil absorbs that essential aroma without bitterness.</p><p>Cooking the zucchini and carrots together lets their moisture content and cooking times harmonize. Zucchini, high in water, softens quickly, while carrots take a bit longer. Julienning the carrots into thin strips helps them cook evenly alongside the zucchini rounds, ensuring both vegetables reach tender-crisp perfection. This texture contrast keeps the dish lively and prevents it from becoming mushy.</p><p>Seasoning with salt early draws out moisture and concentrates the natural sweetness of the carrots, while the thyme adds herbal complexity that complements the veggies without overpowering them. Finishing with lemon juice adds brightness and a fresh acidity that balances the olive oil’s richness. Adding lemon after cooking preserves its fresh citrus notes and prevents bitterness.</p><p>Finally, the fresh parsley garnish adds visual appeal and a burst of freshness that lifts the entire dish. These simple but thoughtful steps combine to create a sauté that feels light, vibrant, and deeply satisfying.</p>",
+        "content": "<p>This zucchini and carrot sauté works because it balances texture, flavor, and aroma through simple techniques. The initial step of gently infusing olive oil with garlic creates a fragrant base that flavors every bite. Garlic’s volatile compounds release quickly with gentle heat, so starting here ensures the oil absorbs that essential aroma without bitterness.<\/p><p>Cooking the zucchini and carrots together lets their moisture content and cooking times harmonize. Zucchini, high in water, softens quickly, while carrots take a bit longer. Julienning the carrots into thin strips helps them cook evenly alongside the zucchini rounds, ensuring both vegetables reach tender-crisp perfection. This texture contrast keeps the dish lively and prevents it from becoming mushy.<\/p><p>Seasoning with salt early draws out moisture and concentrates the natural sweetness of the carrots, while the thyme adds herbal complexity that complements the veggies without overpowering them. Finishing with lemon juice adds brightness and a fresh acidity that balances the olive oil’s richness. Adding lemon after cooking preserves its fresh citrus notes and prevents bitterness.<\/p><p>Finally, the fresh parsley garnish adds visual appeal and a burst of freshness that lifts the entire dish. These simple but thoughtful steps combine to create a sauté that feels light, vibrant, and deeply satisfying.<\/p>",
         "ingredient_notes": {
             "Zucchini": "Choose firm, medium-sized zucchinis with shiny skin and no soft spots. Fresh zucchini has a mild flavor and high water content, so it cooks quickly and benefits from light seasoning. Avoid overripe zucchini, which can be watery and seedy, affecting texture.",
             "Carrots": "Select bright orange carrots that are firm and smooth. The natural sweetness of fresh carrots balances the mild zucchini, especially when sliced thinly for even cooking. Organic carrots often have a sweeter, earthier flavor that enhances this dish.",
@@ -141,7 +141,7 @@
     "variations": [
         {
             "name": "Add Red Pepper Flakes for a Spicy Kick",
-            "description": "Sprinkle in 1/4 teaspoon of red pepper flakes when adding the thyme for a subtle heat that livens up the sauté. This adds a warming spice without overpowering the veggies, perfect for those who like a little kick.",
+            "description": "Sprinkle in 1\/4 teaspoon of red pepper flakes when adding the thyme for a subtle heat that livens up the sauté. This adds a warming spice without overpowering the veggies, perfect for those who like a little kick.",
             "technical_note": "Add the red pepper flakes early in cooking to infuse the oil and flavor the entire dish evenly."
         },
         {
@@ -238,27 +238,87 @@
     "images": [
         {
             "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
-            "filePath": "posts/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
-            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
-            "filePath": "posts/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
-            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_4.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_4.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic",
+            "title": "Quick & Colorful Zucchini Carrot Sauté You’ll Love Tonight!"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_5.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_5.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic",
+            "title": "Healthy Weeknight Dinner: Zucchini and Carrot Sauté Made Simple"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_6.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_6.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic",
+            "title": "Brighten Your Dinner with This Easy Zucchini & Carrot Sauté"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_7.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_7.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic",
+            "title": "Simple, Tasty Zucchini and Carrot Sauté for Busy Families"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_8.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_8.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Quick & Colorful Zucchini Carrot Sauté You’ll Love Tonight!"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_9.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_9.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/LummyRecipes\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_LummyRecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Quick & Colorful Zucchini Carrot Sauté You’ll Love Tonight!"
         }
     ],
     "id": "post_1785884862_242",
     "slug": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners",
-    "isOnline": false,
-    "createdAt": "2026-08-04T23:07:42+00:00",
+    "isOnline": true,
+    "createdAt": "2026-08-05T11:19:08+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-08-05T00:26:41+01:00",
+    "updatedAt": "2026-08-05T11:19:08+01:00",
     "category_id": "cat_1761230383_494",
-    "image_dir": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images"
+    "image_dir": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images"
 }
