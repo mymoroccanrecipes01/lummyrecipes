@@ -1,0 +1,356 @@
+{
+    "title": "Cozy Pumpkin Spice Muffins to Warm Up Your Fall Evenings",
+    "promptIMG": "Food photography: Cozy Pumpkin Spice Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These pumpkin spice muffins are the ultimate fall comfort food. Made with fresh pumpkin puree and a blend of warming spices, they’re perfect for chilly mornings or a weekend treat with coffee.",
+    "hashtags": "#pumpkinmuffins #fallbaking #comfortfood",
+    "board_name": "Easy Fall Baking",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Fall Mornings with These Pumpkin Spice Muffins",
+            "description": "Nothing says fall like these cozy pumpkin spice muffins 🍂. Soft, moist, and bursting with warm spices, they’re perfect for breakfast or a snack. Save this recipe and try it today! #pumpkinrecipes #fallbaking #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Irresistible Pumpkin Muffins Loaded with Fall Flavors",
+            "description": "These pumpkin spice muffins are packed with cozy spices and fresh pumpkin puree 🎃. They bake up moist and tender every time. Discover this easy recipe and savor fall in every bite! 🍁 #pumpkinmuffins #fallflavors #bakinglove #easybaking"
+        },
+        {
+            "title": "Quick & Cozy Pumpkin Muffins Perfect for Chilly Days",
+            "description": "Need a comforting fall treat? These pumpkin spice muffins come together quickly and fill your kitchen with amazing aromas. Try them warm with butter and save this for your next baking day! 🧡 #fallbaking #pumpkinspice #comfortfoodrecipes #quickbakes"
+        },
+        {
+            "title": "Soft Pumpkin Spice Muffins Everyone Will Love This Fall",
+            "description": "Soft, spiced, and perfectly moist—these pumpkin muffins are fall in every bite! 🍂 Bake a batch for breakfast or a cozy snack. Don’t forget to save this recipe for your seasonal baking list! 🎃 #pumpkinmuffins #fallrecipes #bakingfun #homemade"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "1 3/4 cups all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1/2 teaspoon ground ginger",
+        "1/4 teaspoon ground cloves",
+        "1 cup pumpkin puree, fresh or canned",
+        "1/2 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/4 cup buttermilk or milk"
+    ],
+    "yield": "Approximately 12 muffins, 12 servings",
+    "introduction": "I first made these pumpkin spice muffins a few years ago when I was craving something warm and cozy to enjoy on crisp fall mornings. I’d tried a few recipes before but they often came out dry or overly dense. This version is my favorite because it’s perfectly moist and bursting with warm spices without being overpowering. The secret? Using fresh pumpkin puree and a blend of cinnamon, nutmeg, ginger, and cloves to get that classic fall flavor. I also like to mix in both brown and granulated sugar for a nice balance of sweetness and depth. Plus, a splash of buttermilk keeps the crumb tender and light. These muffins bake up golden brown with a soft, tender crumb and a subtle spice aroma that fills the kitchen. They’re wonderful plain or with a pat of butter, and they hold up well for a few days—though honestly, they rarely last that long at my house! If you want a simple, fuss-free fall treat that feels like a warm hug, this recipe is a keeper.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a muffin tin with paper liners or lightly grease it. This step ensures even baking and helps the muffins release easily once done. It’s important not to skip this because the batter is moist and can stick if the pan isn’t prepared properly. Also, preheating your oven fully before baking allows the muffins to rise properly and develop a tender crumb.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully preheated to 350°F and muffin tin is ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, sugars, baking soda, baking powder, salt, and spices. Mixing the dry ingredients thoroughly ensures the leavening agents and spices are evenly distributed, which prevents uneven rising and flavor pockets. Be gentle but thorough to keep the flour light and avoid overworking the batter later.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk the pumpkin puree, vegetable oil, eggs, vanilla extract, and buttermilk until smooth. This liquid mixture helps hydrate the dry ingredients and adds moisture and richness. The oil keeps the muffins tender, while the eggs provide structure. Be sure the eggs are fully incorporated to avoid streaks in the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Liquid ingredients are smooth and well combined"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the wet ingredients into the dry ingredients and gently fold together using a spatula. Mixing just until combined is key here — overmixing will develop gluten and make the muffins tough. You want a slightly lumpy batter for a tender crumb. Stop mixing as soon as you see no more streaks of flour.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is combined but still a bit lumpy"
+        },
+        {
+            "step": 5,
+            "instruction": "Divide the batter evenly among the muffin cups, filling each about 3/4 full. Filling the cups properly allows the muffins to rise without overflowing and ensures even baking. Using a scoop or spoon helps portion the batter consistently so all muffins bake at the same rate.",
+            "timing": "5 minutes",
+            "doneness_cue": "Muffin cups are evenly filled to 3/4 full"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake for 25-30 minutes, rotating the pan halfway through for even browning. The muffins are done when a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid opening the oven too early or too often, as this can cause the muffins to collapse.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden brown tops and clean toothpick test"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the muffins from the oven and let them cool in the pan for 5 minutes. This resting time allows the structure to set, making them easier to remove without falling apart. Then transfer them to a wire rack to cool completely to prevent sogginess from trapped steam.",
+            "timing": "10 minutes",
+            "doneness_cue": "Muffins release easily from pan and cool on wire rack"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve warm or at room temperature, optionally with a pat of butter or cream cheese spread. These muffins are delicious fresh but also store well. If you want a quick warm-up, pop them in the microwave for 10-15 seconds to revive that fresh-baked softness.",
+            "timing": "0 minutes",
+            "doneness_cue": "Muffins are soft and aromatic, ready to enjoy"
+        },
+        {
+            "step": 9,
+            "instruction": "Store leftovers in an airtight container at room temperature for up to 3 days or freeze for longer storage. Proper storage keeps the muffins moist and flavorful. When freezing, wrap each muffin individually to prevent freezer burn and thaw at room temperature before reheating.",
+            "timing": "0 minutes",
+            "doneness_cue": "Muffins remain moist and fresh after storage"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Muffin Recipe Works So Well",
+        "content": "<p>One key to these pumpkin spice muffins' success is the balance between moisture and structure. Pumpkin puree contributes significant moisture and natural sweetness, but too much can make muffins dense or soggy. That's why this recipe uses just the right amount, paired with oil and eggs, which provide tenderness and binding without heaviness. The oil keeps the crumb soft and moist longer than butter would, which is especially important in pumpkin baking.</p><p>The blend of warming spices—cinnamon, nutmeg, ginger, and cloves—creates a complex flavor profile that feels cozy but not overpowering. These spices also complement the pumpkin's natural earthiness, making every bite layered and satisfying. Using both baking soda and baking powder ensures the muffins rise well, balancing acidity from the pumpkin and buttermilk with leavening to produce a light texture.</p><p>Mixing technique is crucial too. Overmixing activates gluten in the flour, leading to tough muffins. Folding the wet and dry ingredients gently just until combined keeps the crumb tender and light. Finally, baking at 350°F allows the muffins to cook through evenly while developing a golden crust that adds a subtle crunch to contrast the soft interior.</p><p>Each ingredient plays a specific role: the sugars add sweetness and contribute to browning; the spices add depth; the pumpkin and liquids add moisture; and the leaveners provide lift. Together, they create a muffin that’s both comforting and delightfully textured—perfect for fall mornings or anytime you need a little cozy treat.</p>",
+        "ingredient_notes": {
+            "Pumpkin Puree": "Look for fresh or canned pumpkin puree that’s pure pumpkin without added sugars or spices. Fresh puree tends to have a lighter, fresher flavor, but canned is convenient and consistent. Pumpkin adds moisture, natural sweetness, and a lovely orange color. Avoid pumpkin pie filling, which contains added sugar and spices and can throw off the recipe’s balance.",
+            "All-Purpose Flour": "All-purpose flour provides the right amount of protein for a tender crumb. Too much protein (like bread flour) would make the muffins chewy, while cake flour might make them too fragile. Sifting the flour helps aerate it and remove lumps, ensuring even mixing and a lighter texture.",
+            "Vegetable Oil": "Using vegetable oil instead of butter helps keep these muffins moist and tender for longer. Oil coats the flour proteins, limiting gluten formation, which results in a softer texture. It also blends smoothly with the pumpkin puree and eggs, creating a consistent batter.",
+            "Spices (Cinnamon, Nutmeg, Ginger, Cloves)": "Freshly ground spices are ideal for maximum flavor, but pre-ground works well too. The combination of these four spices creates the classic pumpkin pie flavor profile. Each spice adds a unique note—cinnamon is sweet and warm, nutmeg is slightly nutty, ginger adds a bit of heat, and cloves provide depth. Balancing these prevents any one from overpowering the others.",
+            "Baking Soda and Baking Powder": "Baking soda reacts with the acidity in pumpkin and buttermilk to create lift and tenderness, while baking powder provides additional rise and helps the muffins brown evenly. Using both ensures a light, airy texture without being dense or heavy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs and pumpkin puree for better mixing.",
+            "reason": "When ingredients are at room temperature, they combine more easily, creating a uniform batter and preventing lumps. Cold eggs or pumpkin can cause the batter to seize or separate, affecting texture and rise."
+        },
+        {
+            "tip": "Don’t overmix the batter once you combine wet and dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, leading to dense, tough muffins. Mixing just until the ingredients are combined keeps the crumb tender and light."
+        },
+        {
+            "tip": "Rotate the muffin pan halfway through baking.",
+            "reason": "Ovens often have hot spots, so rotating the pan ensures even browning and consistent baking across all muffins."
+        },
+        {
+            "tip": "Line your muffin tin with paper liners or grease well.",
+            "reason": "This prevents sticking and makes removing the muffins easier without damaging their shape or texture."
+        },
+        {
+            "tip": "Use fresh spices or toast them lightly before grinding for extra aroma.",
+            "reason": "Toasting spices releases their essential oils, intensifying their flavor and aroma, which makes the muffins taste more vibrant and fresh."
+        },
+        {
+            "tip": "Add a splash of buttermilk instead of regular milk.",
+            "reason": "Buttermilk’s acidity reacts with baking soda to help the muffins rise better and adds a slight tang that balances the sweetness."
+        },
+        {
+            "tip": "Cool muffins completely on a wire rack before storing.",
+            "reason": "Cooling prevents trapped steam from making the muffins soggy and keeps their texture just right."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "It’s easy to want to mix thoroughly to avoid lumps, but many think more mixing means better results.",
+            "fix": "Mix the batter gently and only until the dry ingredients are just incorporated. Stop as soon as you don’t see flour streaks to keep the muffins tender."
+        },
+        {
+            "mistake": "Using pumpkin pie filling instead of puree",
+            "why_it_happens": "Some confuse canned pumpkin pie filling with pumpkin puree since both come in cans.",
+            "fix": "Always use plain pumpkin puree without added sugar or spices to control sweetness and spice levels accurately."
+        },
+        {
+            "mistake": "Not preheating the oven fully",
+            "why_it_happens": "Rushing the baking process or underestimating oven time leads some to put muffins in before the oven is hot.",
+            "fix": "Allow your oven to fully preheat to 350°F before baking to ensure proper rise and texture."
+        },
+        {
+            "mistake": "Filling muffin cups too full",
+            "why_it_happens": "Wanting larger muffins or misjudging batter volume can cause overfilling.",
+            "fix": "Fill cups about 3/4 full to allow muffins to rise without spilling over or baking unevenly."
+        },
+        {
+            "mistake": "Skipping the cooling step before storing",
+            "why_it_happens": "Impatience to eat or store muffins right away causes this common error.",
+            "fix": "Let muffins cool completely on a wire rack to avoid sogginess from trapped steam when stored."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Chocolate Chips",
+            "description": "Stir in 1/2 cup of semi-sweet chocolate chips to the batter for a sweet surprise in every bite. The chocolate pairs beautifully with the warm spices and pumpkin flavor, adding richness and texture.",
+            "technical_note": "Fold chips gently into the batter at the end to avoid overmixing and distribute evenly."
+        },
+        {
+            "name": "Nuts for Crunch",
+            "description": "Add 1/2 cup chopped walnuts or pecans for a pleasant crunch and nutty flavor that complements the spices. Toast the nuts lightly beforehand for extra depth.",
+            "technical_note": "Fold in nuts with the dry ingredients or at the end to keep them evenly spread."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Swap all-purpose flour with a gluten-free baking blend that includes xanthan gum. This keeps the muffins tender and moist while accommodating gluten sensitivities.",
+            "technical_note": "Check your gluten-free blend’s instructions for best results; you may need to adjust baking time slightly."
+        },
+        {
+            "name": "Maple Syrup Sweetened",
+            "description": "Replace the granulated and brown sugars with 3/4 cup pure maple syrup for a natural, deeper sweetness and a subtle maple flavor that complements pumpkin beautifully.",
+            "technical_note": "Reduce liquid slightly to compensate for the syrup's moisture and watch baking time closely as muffins may brown faster."
+        },
+        {
+            "name": "Cream Cheese Swirl",
+            "description": "Add a dollop of sweetened cream cheese in the center of each muffin before baking for a rich, tangy surprise inside. It adds a lovely contrast to the spiced pumpkin batter.",
+            "technical_note": "Spoon about a tablespoon of cream cheese mixture into each cup after adding batter and swirl gently with a toothpick."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "9g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to prevent drying out. They’re best enjoyed within this timeframe for maximum freshness.",
+        "refrigerator": "Store in an airtight container for up to 5 days. Refrigeration can dry muffins out, so bring them to room temperature or warm slightly before serving to restore moisture and softness.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer-safe bag for up to 3 months. Thaw overnight in the refrigerator or at room temperature for a few hours. Avoid refreezing once thawed.",
+        "reheating": "Reheat muffins in the microwave for 10-15 seconds or in a 325°F oven for about 5-7 minutes. Adding a small pat of butter or a splash of milk before reheating helps restore moisture. Avoid overheating as it can dry the muffins out.",
+        "make_ahead_strategy": "Prepare the batter up to 24 hours ahead and store it covered in the refrigerator. When ready to bake, gently stir the batter and fill muffin tins. Alternatively, bake muffins and freeze them for quick thaw-and-eat treats."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned pumpkin pie filling instead of pumpkin puree?",
+            "answer": "It’s best to avoid canned pumpkin pie filling because it contains added sugars and spices that can throw off the recipe’s balance. Use plain pumpkin puree instead for consistent flavor and texture."
+        },
+        {
+            "question": "What if I don’t have buttermilk? Can I substitute it?",
+            "answer": "Yes! You can make a buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1/4 cup of milk. Let it sit for 5 minutes before using. This acidity helps the muffins rise and adds slight tang."
+        },
+        {
+            "question": "My muffins came out dense and heavy. What went wrong?",
+            "answer": "Dense muffins often result from overmixing the batter or using too much liquid. Mix just until combined and measure your ingredients carefully. Also, ensure your baking soda and powder are fresh to get proper rise."
+        },
+        {
+            "question": "Can I make these muffins vegan?",
+            "answer": "To make them vegan, replace eggs with flax eggs (1 tablespoon ground flaxseed mixed with 3 tablespoons water per egg) and use a plant-based milk and oil. The texture may be slightly different but still delicious."
+        },
+        {
+            "question": "How do I store leftover muffins to keep them fresh?",
+            "answer": "Store muffins in an airtight container at room temperature for up to 3 days. For longer storage, freeze them wrapped individually. Avoid refrigeration unless you plan to eat them within a few days."
+        },
+        {
+            "question": "Can I add mix-ins like nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in 1/2 cup of your favorite mix-ins like chopped nuts or chocolate chips after combining the wet and dry ingredients. This adds texture and flavor variety."
+        },
+        {
+            "question": "Why do my muffins stick to the pan?",
+            "answer": "Sticking usually happens if you don’t grease or line your muffin tin properly. Use paper liners or grease the cups well with butter or oil to prevent sticking."
+        },
+        {
+            "question": "Can I make mini muffins with this recipe?",
+            "answer": "Yes, just reduce the baking time to about 12-15 minutes and fill mini muffin tins about 2/3 full. Keep an eye on them as they bake faster than regular-sized muffins."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these pumpkin spice muffins as much as I do! Let me know how they turn out and what your favorite variation is.",
+    "seo": {
+        "primary_keyword": "pumpkin spice muffins recipe",
+        "secondary_keywords": [
+            "easy pumpkin muffins",
+            "fall baking recipes",
+            "how to make pumpkin muffins",
+            "best pumpkin spice muffins recipe",
+            "moist pumpkin muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "Pumpkin Bread Recipe",
+                "anchor": "pumpkin_bread_recipe"
+            },
+            {
+                "text": "How to Toast Spices",
+                "anchor": "toast_spices_guide"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_1.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_2.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_3.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_6.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_6.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_6.webp",
+            "type": "template",
+            "title": "Quick & Cozy Pumpkin Muffins Perfect for Chilly Days"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_9.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_9.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Warm Up Your Fall Mornings with These Pumpkin Spice Muffins"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_5.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_5.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_5.webp",
+            "type": "template",
+            "title": "Irresistible Pumpkin Muffins Loaded with Fall Flavors"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_8.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_8.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Warm Up Your Fall Mornings with These Pumpkin Spice Muffins"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_4.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_4.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_4.webp",
+            "type": "template",
+            "title": "Warm Up Your Fall Mornings with These Pumpkin Spice Muffins"
+        },
+        {
+            "fileName": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_7.webp",
+            "filePath": "posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_7.webp",
+            "relativePath": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/LummyRecipes/posts/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images/cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings_LummyRecipes_image_7.webp",
+            "type": "template",
+            "title": "Soft Pumpkin Spice Muffins Everyone Will Love This Fall"
+        }
+    ],
+    "id": "post_1786057614_940",
+    "slug": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings",
+    "isOnline": true,
+    "createdAt": "2026-08-07T00:27:15+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-07T00:27:15+01:00",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "cozy-fall-recipes-acnh-to-warm-up-your-autumn-evenings/images",
+    "has_reel": true
+}
